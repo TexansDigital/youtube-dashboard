@@ -1,0 +1,185 @@
+{
+  "generated_at": "2026-01-02T00:00:00-06:00",
+  "channel": {
+    "channel_id": "UCa_FcpOBe8G6VAR18RYS-aA",
+    "title": "Houston Texans",
+    "thumbnail": "https://yt3.googleusercontent.com/ytc/APkrFKZ_VY1bMj0lRwL_pxXbJK7v_tKqU_TNYN5p0Fk=s176-c-k-c0x00ffffff-no-rj",
+    "statistics": {
+      "subscribers": 153000,
+      "total_views": 68200000,
+      "video_count": 512
+    },
+    "fetched_at": "2026-01-02T00:00:00-06:00"
+  },
+  "periods": {
+    "past_7_days": {
+      "label": "Past 7 Days",
+      "start_date": "2025-12-26",
+      "end_date": "2026-01-02",
+      "analytics": {
+        "views": 125430,
+        "watch_time_minutes": 48520,
+        "watch_time_hours": 808.67,
+        "avg_view_duration_seconds": 145,
+        "subscribers_gained": 342,
+        "subscribers_lost": 28,
+        "net_subscribers": 314,
+        "likes": 4521,
+        "comments": 287,
+        "shares": 156,
+        "engagement_total": 4964
+      }
+    },
+    "past_month": {
+      "label": "Past Month",
+      "start_date": "2025-12-03",
+      "end_date": "2026-01-02",
+      "analytics": {
+        "views": 542180,
+        "watch_time_minutes": 198450,
+        "watch_time_hours": 3307.5,
+        "avg_view_duration_seconds": 132,
+        "subscribers_gained": 1245,
+        "subscribers_lost": 187,
+        "net_subscribers": 1058,
+        "likes": 18432,
+        "comments": 1124,
+        "shares": 687,
+        "engagement_total": 20243
+      }
+    },
+    "current_fy": {
+      "label": "FY25",
+      "start_date": "2025-04-01",
+      "end_date": "2026-01-02",
+      "analytics": {
+        "views": 4821500,
+        "watch_time_minutes": 1845200,
+        "watch_time_hours": 30753.33,
+        "avg_view_duration_seconds": 138,
+        "subscribers_gained": 12450,
+        "subscribers_lost": 2180,
+        "net_subscribers": 10270,
+        "likes": 165420,
+        "comments": 9842,
+        "shares": 5621,
+        "engagement_total": 180883
+      }
+    }
+  },
+  "top_videos": {
+    "past_7_days": [
+      {
+        "video_id": "abc123def",
+        "title": "C.J. Stroud's INCREDIBLE 4th Quarter Comeback",
+        "published_at": "2025-12-29T18:00:00Z",
+        "views": 45230,
+        "watch_time_minutes": 18240,
+        "avg_view_duration_seconds": 168,
+        "avg_view_percentage": 52.3,
+        "subscribers_gained": 124,
+        "likes": 1842,
+        "comments": 142,
+        "shares": 87,
+        "engagement_rate": 4.58,
+        "subscriber_conversion_rate": 0.27,
+        "content_status": {
+          "is_blocked": false,
+          "flags": []
+        }
+      },
+      {
+        "video_id": "xyz789ghi",
+        "title": "Texans Defense DOMINATES in Week 17",
+        "published_at": "2025-12-28T20:00:00Z",
+        "views": 32150,
+        "watch_time_minutes": 11280,
+        "avg_view_duration_seconds": 142,
+        "avg_view_percentage": 48.7,
+        "subscribers_gained": 89,
+        "likes": 1245,
+        "comments": 98,
+        "shares": 54,
+        "engagement_rate": 4.35,
+        "subscriber_conversion_rate": 0.28,
+        "content_status": {
+          "is_blocked": false,
+          "flags": []
+        }
+      },
+      {
+        "video_id": "jkl456mno",
+        "title": "DeMeco Ryans Postgame Press Conference",
+        "published_at": "2025-12-29T23:30:00Z",
+        "views": 18420,
+        "watch_time_minutes": 8520,
+        "avg_view_duration_seconds": 185,
+        "avg_view_percentage": 61.2,
+        "subscribers_gained": 45,
+        "likes": 687,
+        "comments": 67,
+        "shares": 23,
+        "engagement_rate": 4.22,
+        "subscriber_conversion_rate": 0.24,
+        "content_status": {
+          "is_blocked": false,
+          "flags": []
+        }
+      },
+      {
+        "video_id": "pqr321stu",
+        "title": "Nico Collins Mic'd Up vs. Ravens",
+        "published_at": "2025-12-30T17:00:00Z",
+        "views": 15840,
+        "watch_time_minutes": 6420,
+        "avg_view_duration_seconds": 156,
+        "avg_view_percentage": 54.8,
+        "subscribers_gained": 52,
+        "likes": 945,
+        "comments": 89,
+        "shares": 67,
+        "engagement_rate": 6.95,
+        "subscriber_conversion_rate": 0.33,
+        "content_status": {
+          "is_blocked": false,
+          "flags": []
+        }
+      },
+      {
+        "video_id": "vwx654yza",
+        "title": "Tank Dell Makes INSANE One-Handed Catch",
+        "published_at": "2025-12-29T19:15:00Z",
+        "views": 12350,
+        "watch_time_minutes": 4120,
+        "avg_view_duration_seconds": 98,
+        "avg_view_percentage": 42.1,
+        "subscribers_gained": 38,
+        "likes": 1124,
+        "comments": 78,
+        "shares": 112,
+        "engagement_rate": 10.64,
+        "subscriber_conversion_rate": 0.31,
+        "content_status": {
+          "is_blocked": false,
+          "flags": []
+        }
+      }
+    ],
+    "past_month": [],
+    "current_fy": []
+  },
+  "traffic_sources": {
+    "past_7_days": [
+      {"source": "SUGGESTED", "views": 48520, "watch_time_minutes": 18420},
+      {"source": "YT_SEARCH", "views": 32140, "watch_time_minutes": 12840},
+      {"source": "BROWSE", "views": 24680, "watch_time_minutes": 9240},
+      {"source": "EXT_URL", "views": 12450, "watch_time_minutes": 4820},
+      {"source": "SHORTS", "views": 5420, "watch_time_minutes": 1240},
+      {"source": "NOTIFICATION", "views": 1840, "watch_time_minutes": 920},
+      {"source": "CHANNEL", "views": 380, "watch_time_minutes": 240}
+    ],
+    "past_month": [],
+    "current_fy": []
+  },
+  "comparisons": {}
+}
