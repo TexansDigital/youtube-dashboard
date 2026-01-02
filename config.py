@@ -39,10 +39,30 @@ FY_START, FY_END = get_fy_date_range(CURRENT_FY)
 # TIME FILTERS
 # =============================================================================
 def get_date_ranges():
-    """Return all date ranges for dashboard filters"""
+    """Return all date ranges for dashboard filters including comparisons"""
     now = datetime.now(TIMEZONE)
     
+    # Calculate days into current fiscal year for YoY comparison
+    days_into_fy = (now - FY_START).days
+    prev_fy_start = get_fy_date_range(CURRENT_FY - 1)[0]
+    prev_fy_same_point = prev_fy_start + timedelta(days=days_into_fy)
+    
+    # Calculate previous month boundaries
+    first_of_current_month = now.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
+    last_of_prev_month = first_of_current_month - timedelta(days=1)
+    first_of_prev_month = last_of_prev_month.replace(day=1)
+    
+    # Same month last year
+    try:
+        same_month_ly_start = first_of_prev_month.replace(year=first_of_prev_month.year - 1)
+        same_month_ly_end = last_of_prev_month.replace(year=last_of_prev_month.year - 1)
+    except ValueError:
+        # Handle Feb 29 edge case
+        same_month_ly_start = first_of_prev_month.replace(year=first_of_prev_month.year - 1)
+        same_month_ly_end = same_month_ly_start + timedelta(days=27)
+    
     return {
+        # Main periods
         "past_7_days": {
             "start": now - timedelta(days=7),
             "end": now,
@@ -58,15 +78,47 @@ def get_date_ranges():
             "end": min(now, FY_END),
             "label": f"FY{CURRENT_FY % 100}"
         },
+        
+        # Comparison periods for Past 7 Days
+        "prev_7_days": {
+            "start": now - timedelta(days=14),
+            "end": now - timedelta(days=7),
+            "label": "Previous 7 Days",
+            "comparison_for": "past_7_days"
+        },
+        "same_7_days_ly": {
+            "start": now - timedelta(days=372),  # ~52 weeks + 7 days
+            "end": now - timedelta(days=365),    # ~52 weeks
+            "label": "Same Week Last Year",
+            "comparison_for": "past_7_days"
+        },
+        
+        # Comparison periods for Past Month
+        "prev_month": {
+            "start": first_of_prev_month,
+            "end": last_of_prev_month,
+            "label": "Previous Month",
+            "comparison_for": "past_month"
+        },
+        "same_month_ly": {
+            "start": same_month_ly_start,
+            "end": same_month_ly_end,
+            "label": "Same Month Last Year",
+            "comparison_for": "past_month"
+        },
+        
+        # Comparison periods for Current FY
         "previous_fy": {
             "start": get_fy_date_range(CURRENT_FY - 1)[0],
             "end": get_fy_date_range(CURRENT_FY - 1)[1],
-            "label": f"FY{(CURRENT_FY - 1) % 100}"
+            "label": f"FY{(CURRENT_FY - 1) % 100} (Full)",
+            "comparison_for": "current_fy"
         },
-        "same_week_last_year": {
-            "start": now - timedelta(days=372),  # ~52 weeks + 7 days
-            "end": now - timedelta(days=365),    # ~52 weeks
-            "label": "Same Week Last Year"
+        "prev_fy_to_date": {
+            "start": prev_fy_start,
+            "end": min(prev_fy_same_point, get_fy_date_range(CURRENT_FY - 1)[1]),
+            "label": f"FY{(CURRENT_FY - 1) % 100} to Date",
+            "comparison_for": "current_fy"
         }
     }
 

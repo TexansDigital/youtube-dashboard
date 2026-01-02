@@ -264,7 +264,27 @@ def get_top_videos(start_date, end_date, max_results=50):
         
         for video in videos:
             if video['video_id'] in details_map:
-                video.update(details_map[video['video_id']])
+                detail = details_map[video['video_id']]
+                video.update(detail)
+                
+                # Calculate VPH
+                video['vph'] = calculate_vph(video['views'], video.get('published_at'))
+                
+                # Calculate days since published
+                if video.get('published_at'):
+                    try:
+                        pub_date = datetime.fromisoformat(video['published_at'].replace('Z', '+00:00'))
+                        days_old = (datetime.now(TIMEZONE) - pub_date).days
+                        video['days_since_published'] = days_old
+                        video['views_per_day'] = round(video['views'] / max(days_old, 1), 1)
+                    except:
+                        video['days_since_published'] = None
+                        video['views_per_day'] = None
+    
+    # Calculate channel averages and performance status
+    channel_averages = calculate_channel_averages(videos)
+    for video in videos:
+        video['performance_status'] = calculate_performance_status(video, channel_averages)
     
     return videos
 
@@ -307,6 +327,84 @@ def calculate_conversion_rate(subscribers_gained, views):
         return 0
     return round(subscribers_gained / views * 100, 3)
 
+def calculate_vph(views, published_at):
+    """Calculate Views Per Hour (lifetime)"""
+    from datetime import datetime
+    
+    if not published_at or views == 0:
+        return 0
+    
+    try:
+        # Parse ISO format datetime
+        if isinstance(published_at, str):
+            pub_date = datetime.fromisoformat(published_at.replace('Z', '+00:00'))
+        else:
+            pub_date = published_at
+        
+        now = datetime.now(TIMEZONE)
+        hours_since_published = (now - pub_date).total_seconds() / 3600
+        
+        if hours_since_published <= 0:
+            return 0
+        
+        return round(views / hours_since_published, 1)
+    except:
+        return 0
+
+def calculate_performance_status(video, channel_averages):
+    """
+    Calculate if video is performing above/below channel average.
+    Returns: 'excellent', 'good', 'average', 'poor'
+    """
+    if not channel_averages:
+        return 'unknown'
+    
+    scores = []
+    
+    # Compare engagement rate
+    if video.get('engagement_rate') and channel_averages.get('avg_engagement_rate'):
+        ratio = video['engagement_rate'] / channel_averages['avg_engagement_rate']
+        scores.append(ratio)
+    
+    # Compare retention
+    if video.get('avg_view_percentage') and channel_averages.get('avg_retention'):
+        ratio = video['avg_view_percentage'] / channel_averages['avg_retention']
+        scores.append(ratio)
+    
+    # Compare subscriber conversion
+    if video.get('subscriber_conversion_rate') and channel_averages.get('avg_sub_conversion'):
+        ratio = video['subscriber_conversion_rate'] / channel_averages['avg_sub_conversion']
+        scores.append(ratio)
+    
+    if not scores:
+        return 'unknown'
+    
+    avg_ratio = sum(scores) / len(scores)
+    
+    if avg_ratio >= 1.5:
+        return 'excellent'
+    elif avg_ratio >= 1.0:
+        return 'good'
+    elif avg_ratio >= 0.7:
+        return 'average'
+    else:
+        return 'poor'
+
+def calculate_channel_averages(videos):
+    """Calculate channel-wide averages for comparison"""
+    if not videos:
+        return {}
+    
+    engagement_rates = [v.get('engagement_rate', 0) for v in videos if v.get('engagement_rate')]
+    retention_rates = [v.get('avg_view_percentage', 0) for v in videos if v.get('avg_view_percentage')]
+    sub_conversions = [v.get('subscriber_conversion_rate', 0) for v in videos if v.get('subscriber_conversion_rate')]
+    
+    return {
+        'avg_engagement_rate': sum(engagement_rates) / len(engagement_rates) if engagement_rates else 0,
+        'avg_retention': sum(retention_rates) / len(retention_rates) if retention_rates else 0,
+        'avg_sub_conversion': sum(sub_conversions) / len(sub_conversions) if sub_conversions else 0,
+    }
+
 def parse_duration(duration_str):
     """Parse ISO 8601 duration (e.g., PT4M13S) to seconds"""
     import re
@@ -348,13 +446,23 @@ def fetch_all_dashboard_data():
         'periods': {},
         'top_videos': {},
         'traffic_sources': {},
+        'comparisons': {},
     }
     
-    # Fetch data for each time period
-    for period_key, period_info in date_ranges.items():
-        if period_key == 'same_week_last_year':
-            continue  # This is for comparison, handled separately
+    # Define main periods and their comparison periods
+    main_periods = ['past_7_days', 'past_month', 'current_fy']
+    comparison_mapping = {
+        'past_7_days': ['prev_7_days', 'same_7_days_ly'],
+        'past_month': ['prev_month', 'same_month_ly'],
+        'current_fy': ['prev_fy_to_date']
+    }
+    
+    # Fetch data for main periods
+    for period_key in main_periods:
+        if period_key not in date_ranges:
+            continue
             
+        period_info = date_ranges[period_key]
         print(f"  Fetching {period_info['label']}...")
         
         start = period_info['start']
@@ -376,35 +484,84 @@ def fetch_all_dashboard_data():
         
         time.sleep(API_CONFIG['rate_limit_delay'])
     
-    # Calculate comparisons
-    print("  Calculating comparisons...")
-    data['comparisons'] = calculate_comparisons(data)
+    # Fetch data for comparison periods
+    print("  Fetching comparison periods...")
+    for main_period, comp_periods in comparison_mapping.items():
+        data['comparisons'][main_period] = {}
+        
+        for comp_key in comp_periods:
+            if comp_key not in date_ranges:
+                continue
+                
+            comp_info = date_ranges[comp_key]
+            print(f"    - {comp_info['label']}...")
+            
+            start = comp_info['start']
+            end = comp_info['end']
+            
+            comp_analytics = get_channel_analytics(start, end)
+            
+            if comp_analytics:
+                data['comparisons'][main_period][comp_key] = {
+                    'label': comp_info['label'],
+                    'start_date': start.strftime('%Y-%m-%d'),
+                    'end_date': end.strftime('%Y-%m-%d'),
+                    'analytics': comp_analytics
+                }
+            
+            time.sleep(API_CONFIG['rate_limit_delay'])
+    
+    # Calculate percentage changes for each comparison
+    print("  Calculating comparison percentages...")
+    for main_period in main_periods:
+        if main_period not in data['periods']:
+            continue
+            
+        current = data['periods'][main_period].get('analytics', {})
+        if not current:
+            continue
+        
+        for comp_key, comp_data in data['comparisons'].get(main_period, {}).items():
+            previous = comp_data.get('analytics', {})
+            if not previous:
+                continue
+            
+            comp_data['changes'] = {
+                'views': calculate_pct_change(current.get('views', 0), previous.get('views', 0)),
+                'watch_time_hours': calculate_pct_change(current.get('watch_time_hours', 0), previous.get('watch_time_hours', 0)),
+                'net_subscribers': calculate_pct_change(current.get('net_subscribers', 0), previous.get('net_subscribers', 0)),
+                'engagement_total': calculate_pct_change(current.get('engagement_total', 0), previous.get('engagement_total', 0)),
+                'avg_view_duration_seconds': calculate_pct_change(current.get('avg_view_duration_seconds', 0), previous.get('avg_view_duration_seconds', 0)),
+                'likes': calculate_pct_change(current.get('likes', 0), previous.get('likes', 0)),
+            }
+    
+    # Apply SEO scoring to all videos
+    print("  Applying SEO scoring...")
+    try:
+        from seo_scoring import calculate_seo_score, analyze_and_update_keywords
+        
+        for period_key in data['top_videos']:
+            for video in data['top_videos'][period_key]:
+                video['seo_score'] = calculate_seo_score(video)
+        
+        # Monthly keyword analysis (only run if we have enough data)
+        all_videos = []
+        for period_key in data['top_videos']:
+            all_videos.extend(data['top_videos'][period_key])
+        
+        if len(all_videos) >= 20:
+            # Check if it's time for monthly analysis (first of month)
+            today = datetime.now(TIMEZONE)
+            if today.day <= 7:  # Run in first week of month
+                print("  Running monthly keyword analysis...")
+                analyze_and_update_keywords(all_videos)
+    except ImportError:
+        print("  SEO scoring module not found, skipping...")
+    except Exception as e:
+        print(f"  SEO scoring error: {e}")
     
     print("✅ Data fetch complete!")
     return data
-
-def calculate_comparisons(data):
-    """Calculate period-over-period comparisons"""
-    comparisons = {}
-    
-    # Current FY vs Previous FY
-    if 'current_fy' in data['periods'] and 'previous_fy' in data['periods']:
-        current = data['periods']['current_fy']['analytics']
-        previous = data['periods']['previous_fy']['analytics']
-        
-        if current and previous:
-            comparisons['fy_yoy'] = {
-                'views_change': calculate_pct_change(current['views'], previous['views']),
-                'watch_time_change': calculate_pct_change(current['watch_time_hours'], previous['watch_time_hours']),
-                'subscribers_change': calculate_pct_change(current['net_subscribers'], previous['net_subscribers']),
-            }
-    
-    # Current month vs previous month (approximation)
-    if 'past_month' in data['periods']:
-        # Note: For true month comparison, would need separate API calls
-        pass
-    
-    return comparisons
 
 def calculate_pct_change(current, previous):
     """Calculate percentage change between two values"""

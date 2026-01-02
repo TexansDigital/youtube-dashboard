@@ -226,36 +226,114 @@ def format_timestamp(seconds):
 
 def generate_title_suggestion(video):
     """Generate a suggested title for the Shorts clip"""
-    original_title = video.get('title', '')
+    import hashlib
     
-    # Check for star players
+    original_title = video.get('title', '')
+    video_id = video.get('video_id', '')
     title_lower = original_title.lower()
     
-    if STAR_PLAYERS['current']['name'].lower() in title_lower:
-        player = STAR_PLAYERS['current']['name']
+    # Use video_id to create consistent but varied selection
+    hash_val = int(hashlib.md5(video_id.encode()).hexdigest(), 16)
+    
+    # Detect content type and players
+    content_type = classify_content_type(video)
+    
+    # Player-specific patterns
+    if STAR_PLAYERS['current']['name'].lower() in title_lower or 'stroud' in title_lower:
+        player = "C.J. Stroud"
         patterns = [
             f"{player} is DIFFERENT 🔥",
-            f"This {player} play is INSANE",
+            f"This {player} throw is INSANE 😱",
             f"{player} doing {player} things 😤",
+            f"QB1 came to PLAY 🔥",
+            f"{player} said WATCH THIS 👀",
+            f"How did {player} make this throw?!",
         ]
-    elif STAR_PLAYERS['historical']['name'].lower() in title_lower:
-        player = STAR_PLAYERS['historical']['name']
+    elif STAR_PLAYERS['historical']['name'].lower() in title_lower or 'watt' in title_lower:
+        player = "J.J. Watt"
         patterns = [
-            f"Prime {player} was a PROBLEM",
+            f"Prime {player} was a PROBLEM 😤",
             f"Never forget this {player} moment",
             f"{player} was BUILT DIFFERENT",
+            f"This is why {player} is a legend 🐐",
+            f"{player} absolutely DOMINATED here",
+        ]
+    elif 'dell' in title_lower or 'tank' in title_lower:
+        patterns = [
+            "Tank Dell is a PROBLEM 🔥",
+            "This Tank Dell catch is UNREAL 😱",
+            "Tank making it look EASY 💪",
+            "How did Tank Dell do this?!",
+        ]
+    elif 'collins' in title_lower or 'nico' in title_lower:
+        patterns = [
+            "Nico Collins can't be stopped 🔥",
+            "This Nico Collins play is CRAZY 😱",
+            "Nico doing Nico things 😤",
+            "WR1 showed up BIG 💪",
+        ]
+    elif 'pitre' in title_lower or 'jalen' in title_lower:
+        patterns = [
+            "Jalen Pitre said NOT TODAY 🚫",
+            "This interception was INSANE 😱",
+            "Pitre with the TAKEAWAY 🔥",
+            "The defense came to PLAY 💪",
+        ]
+    elif 'ryans' in title_lower or 'demeco' in title_lower:
+        patterns = [
+            "Coach DeMeco Ryans is HIM 🔥",
+            "This is why we love DeMeco 💪",
+            "DeMeco Ryans gets it 😤",
+            "Leadership like no other 🐐",
+        ]
+    # Content-type specific patterns
+    elif content_type == 'highlight':
+        patterns = [
+            "This play is UNBELIEVABLE 😱",
+            "How did they pull this off?! 🔥",
+            "H-Town made a STATEMENT 💪",
+            "The Texans came to DOMINATE 😤",
+            "You have to see this play 👀",
+            "REPLAY THIS. Over and over. 🔥",
+        ]
+    elif content_type == 'interview':
+        patterns = [
+            "This interview hits DIFFERENT 💯",
+            "Real talk from the squad 🎙️",
+            "You need to hear this 👀",
+            "H-Town keeps it 💯",
+            "The mentality is ELITE 😤",
+        ]
+    elif content_type == 'behind_the_scenes':
+        patterns = [
+            "Inside look at H-Town 👀",
+            "This is what you DON'T see 🔥",
+            "Behind the scenes access 🎬",
+            "The Texans way 💪",
+        ]
+    elif content_type == 'atmosphere' or 'fan' in title_lower or 'game day' in title_lower:
+        patterns = [
+            "The Swarm showed UP 🐝",
+            "Houston fans are DIFFERENT 🔥",
+            "This atmosphere is ELECTRIC ⚡",
+            "NRG was ROCKING 💪",
         ]
     else:
         patterns = [
-            "This is why Houston is DIFFERENT 🔥",
-            "H-Town Made. 💪",
+            "Houston is BUILT DIFFERENT 🔥",
+            "H-Town Made 💪",
             "The Swarm came to PLAY 🐝",
-            "You have to see this play 😱",
+            "You have to see this 😱",
+            "This is TEXANS football 🏈",
+            "Houston showed UP 🔥",
         ]
     
-    # Return first pattern (in production, could use more sophisticated selection)
+    # Select pattern based on hash (consistent per video, but varied across videos)
+    selected_pattern = patterns[hash_val % len(patterns)]
+    
     return {
-        'suggestion': patterns[0],
+        'suggestion': selected_pattern,
+        'alternatives': [p for p in patterns if p != selected_pattern][:2],
         'confidence': '📊 Performance-based',
         'note': 'Based on title patterns from high-performing Texans content'
     }

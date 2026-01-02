@@ -18,11 +18,7 @@
             --gray-dark: #343a40;
         }
         
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
@@ -31,7 +27,6 @@
             line-height: 1.6;
         }
         
-        /* Header */
         .header {
             background: linear-gradient(135deg, var(--texans-blue) 0%, #041E2B 100%);
             color: var(--texans-white);
@@ -42,16 +37,8 @@
             box-shadow: 0 2px 10px rgba(0,0,0,0.2);
         }
         
-        .header h1 {
-            font-size: 1.5rem;
-            font-weight: 600;
-        }
-        
-        .header-meta {
-            text-align: right;
-            font-size: 0.85rem;
-            opacity: 0.9;
-        }
+        .header h1 { font-size: 1.5rem; font-weight: 600; }
+        .header-meta { text-align: right; font-size: 0.85rem; opacity: 0.9; }
         
         .status-badge {
             display: inline-block;
@@ -61,13 +48,8 @@
             font-weight: 600;
             margin-left: 0.5rem;
         }
+        .status-live { background: var(--success); color: white; }
         
-        .status-live {
-            background: var(--success);
-            color: white;
-        }
-        
-        /* Navigation */
         .nav-tabs {
             background: white;
             padding: 0 2rem;
@@ -90,16 +72,9 @@
             white-space: nowrap;
         }
         
-        .nav-tab:hover {
-            color: var(--texans-blue);
-        }
+        .nav-tab:hover { color: var(--texans-blue); }
+        .nav-tab.active { color: var(--texans-red); border-bottom-color: var(--texans-red); }
         
-        .nav-tab.active {
-            color: var(--texans-red);
-            border-bottom-color: var(--texans-red);
-        }
-        
-        /* Time filter */
         .time-filter {
             background: white;
             padding: 1rem 2rem;
@@ -118,27 +93,14 @@
             transition: all 0.2s;
         }
         
-        .filter-btn:hover {
-            border-color: var(--texans-blue);
-        }
+        .filter-btn:hover { border-color: var(--texans-blue); }
+        .filter-btn.active { background: var(--texans-blue); color: white; border-color: var(--texans-blue); }
         
-        .filter-btn.active {
-            background: var(--texans-blue);
-            color: white;
-            border-color: var(--texans-blue);
-        }
+        .main-content { padding: 2rem; max-width: 1600px; margin: 0 auto; }
         
-        /* Main content */
-        .main-content {
-            padding: 2rem;
-            max-width: 1600px;
-            margin: 0 auto;
-        }
-        
-        /* KPI Grid */
         .kpi-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
             gap: 1rem;
             margin-bottom: 2rem;
         }
@@ -151,46 +113,38 @@
         }
         
         .kpi-label {
-            font-size: 0.8rem;
+            font-size: 0.75rem;
             color: var(--gray-medium);
             text-transform: uppercase;
             letter-spacing: 0.5px;
             margin-bottom: 0.5rem;
         }
         
-        .kpi-value {
-            font-size: 1.75rem;
-            font-weight: 700;
-            color: var(--texans-blue);
+        .kpi-value { font-size: 1.75rem; font-weight: 700; color: var(--texans-blue); }
+        .kpi-change { font-size: 0.85rem; margin-top: 0.25rem; }
+        .kpi-change.positive { color: var(--success); }
+        .kpi-change.negative { color: var(--danger); }
+        
+        .kpi-comparisons {
+            margin-top: 0.5rem;
+            padding-top: 0.5rem;
+            border-top: 1px solid var(--gray-light);
         }
         
-        .kpi-change {
-            font-size: 0.85rem;
-            margin-top: 0.25rem;
+        .kpi-comparison {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.75rem;
+            padding: 0.2rem 0;
         }
         
-        .kpi-change.positive {
-            color: var(--success);
-        }
+        .kpi-comparison.positive .comp-change { color: var(--success); }
+        .kpi-comparison.negative .comp-change { color: var(--danger); }
         
-        .kpi-change.negative {
-            color: var(--danger);
-        }
+        .comp-change { font-weight: 600; }
+        .comp-label { color: var(--gray-medium); font-size: 0.7rem; }
         
-        .kpi-status {
-            display: inline-block;
-            width: 8px;
-            height: 8px;
-            border-radius: 50%;
-            margin-right: 0.5rem;
-        }
-        
-        .status-excellent { background: var(--success); }
-        .status-good { background: #90EE90; }
-        .status-average { background: var(--warning); }
-        .status-poor { background: var(--danger); }
-        
-        /* Section headers */
         .section-header {
             display: flex;
             justify-content: space-between;
@@ -198,13 +152,8 @@
             margin-bottom: 1rem;
         }
         
-        .section-title {
-            font-size: 1.1rem;
-            font-weight: 600;
-            color: var(--texans-blue);
-        }
+        .section-title { font-size: 1.1rem; font-weight: 600; color: var(--texans-blue); }
         
-        /* Video table */
         .video-table-container {
             background: white;
             border-radius: 12px;
@@ -213,22 +162,26 @@
             margin-bottom: 2rem;
         }
         
-        .video-table {
-            width: 100%;
-            border-collapse: collapse;
-        }
+        .video-table { width: 100%; border-collapse: collapse; }
         
         .video-table th {
             background: var(--gray-light);
             padding: 0.75rem 1rem;
             text-align: left;
-            font-size: 0.8rem;
+            font-size: 0.75rem;
             font-weight: 600;
             color: var(--gray-medium);
             text-transform: uppercase;
             letter-spacing: 0.5px;
             border-bottom: 2px solid #e9ecef;
+            cursor: pointer;
+            user-select: none;
+            white-space: nowrap;
         }
+        
+        .video-table th:hover { background: #e9ecef; }
+        .video-table th.sorted-asc::after { content: ' ↑'; }
+        .video-table th.sorted-desc::after { content: ' ↓'; }
         
         .video-table td {
             padding: 0.75rem 1rem;
@@ -236,42 +189,247 @@
             font-size: 0.9rem;
         }
         
-        .video-table tr:hover {
-            background: #f8f9fa;
-        }
+        .video-table tr:hover { background: #f8f9fa; cursor: pointer; }
         
+        .video-title-cell { max-width: 300px; }
         .video-title {
-            max-width: 300px;
             overflow: hidden;
             text-overflow: ellipsis;
             white-space: nowrap;
-        }
-        
-        .video-title a {
             color: var(--texans-blue);
-            text-decoration: none;
+            font-weight: 500;
         }
-        
-        .video-title a:hover {
-            text-decoration: underline;
-        }
+        .video-title:hover { text-decoration: underline; }
         
         .flag-banner {
+            display: inline-block;
             background: var(--warning);
             color: var(--gray-dark);
-            padding: 0.25rem 0.5rem;
+            padding: 0.15rem 0.4rem;
             border-radius: 4px;
-            font-size: 0.75rem;
+            font-size: 0.7rem;
             font-weight: 600;
             margin-left: 0.5rem;
+            vertical-align: middle;
         }
         
-        .blocked-row {
-            opacity: 0.5;
-            background: #ffe6e6 !important;
+        .flag-banner.ad { background: #e0e0e0; }
+        .flag-banner.blocked { background: var(--danger); color: white; }
+        .blocked-row { opacity: 0.5; background: #ffe6e6 !important; }
+        
+        .perf-badge {
+            display: inline-block;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            font-weight: 600;
         }
         
-        /* Shorts candidates */
+        .perf-excellent { background: #d4edda; color: #155724; }
+        .perf-good { background: #d1ecf1; color: #0c5460; }
+        .perf-average { background: #fff3cd; color: #856404; }
+        .perf-poor { background: #f8d7da; color: #721c24; }
+        
+        .seo-grade {
+            font-weight: 700;
+            padding: 0.15rem 0.4rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+        }
+        
+        .grade-a { background: #d4edda; color: #155724; }
+        .grade-b { background: #d1ecf1; color: #0c5460; }
+        .grade-c { background: #fff3cd; color: #856404; }
+        .grade-d { background: #f8d7da; color: #721c24; }
+        .grade-f { background: #dc3545; color: white; }
+        
+        /* Modal */
+        .modal-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+            padding: 2rem;
+        }
+        
+        .modal-overlay.active { display: flex; }
+        
+        .modal {
+            background: white;
+            border-radius: 16px;
+            max-width: 900px;
+            width: 100%;
+            max-height: 90vh;
+            overflow-y: auto;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        
+        .modal-header {
+            padding: 1.5rem;
+            border-bottom: 1px solid var(--gray-light);
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            position: sticky;
+            top: 0;
+            background: white;
+            z-index: 10;
+        }
+        
+        .modal-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--texans-blue);
+            max-width: 700px;
+        }
+        
+        .modal-close {
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            cursor: pointer;
+            color: var(--gray-medium);
+            padding: 0.5rem;
+            line-height: 1;
+        }
+        
+        .modal-close:hover { color: var(--texans-blue); }
+        .modal-body { padding: 1.5rem; }
+        
+        .modal-section { margin-bottom: 2rem; }
+        
+        .modal-section-title {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: var(--texans-blue);
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--gray-light);
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+            gap: 1rem;
+        }
+        
+        .stat-card {
+            background: var(--gray-light);
+            padding: 1rem;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .stat-label {
+            font-size: 0.7rem;
+            color: var(--gray-medium);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .stat-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--texans-blue);
+            margin-top: 0.25rem;
+        }
+        
+        .stat-subtext {
+            font-size: 0.75rem;
+            color: var(--gray-medium);
+            margin-top: 0.25rem;
+        }
+        
+        .seo-panel {
+            background: var(--gray-light);
+            border-radius: 12px;
+            padding: 1.25rem;
+        }
+        
+        .seo-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+        
+        .seo-big-score {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--texans-blue);
+        }
+        
+        .seo-breakdown {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+        }
+        
+        .seo-item { display: flex; justify-content: space-between; font-size: 0.85rem; }
+        .seo-item-label { color: var(--gray-medium); }
+        .seo-item-value { font-weight: 600; }
+        
+        .seo-suggestions {
+            background: white;
+            border-radius: 8px;
+            padding: 1rem;
+        }
+        
+        .seo-suggestion {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.5rem;
+            padding: 0.5rem 0;
+            font-size: 0.85rem;
+            border-bottom: 1px solid var(--gray-light);
+        }
+        
+        .seo-suggestion:last-child { border-bottom: none; }
+        .seo-suggestion::before { content: '💡'; }
+        
+        .keyword-list { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.5rem; }
+        
+        .keyword-tag {
+            background: var(--texans-blue);
+            color: white;
+            padding: 0.25rem 0.6rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+        }
+        
+        .keyword-tag.negative { background: var(--danger); }
+        
+        .action-buttons { display: flex; gap: 0.75rem; margin-top: 1rem; flex-wrap: wrap; }
+        
+        .btn {
+            padding: 0.6rem 1.2rem;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: all 0.2s;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .btn-primary { background: var(--texans-red); color: white; }
+        .btn-primary:hover { background: #8a1528; }
+        .btn-secondary { background: var(--gray-light); color: var(--gray-dark); }
+        .btn-secondary:hover { background: #e9ecef; }
+        .btn-outline { background: transparent; border: 1px solid var(--texans-blue); color: var(--texans-blue); }
+        .btn-outline:hover { background: var(--texans-blue); color: white; }
+        
+        /* Shorts */
         .shorts-card {
             background: white;
             border-radius: 12px;
@@ -281,9 +439,7 @@
             border-left: 4px solid var(--texans-red);
         }
         
-        .shorts-card.flagged {
-            border-left-color: var(--warning);
-        }
+        .shorts-card.flagged { border-left-color: var(--warning); }
         
         .shorts-header {
             display: flex;
@@ -292,10 +448,7 @@
             margin-bottom: 0.75rem;
         }
         
-        .shorts-title {
-            font-weight: 600;
-            color: var(--texans-blue);
-        }
+        .shorts-title { font-weight: 600; color: var(--texans-blue); }
         
         .shorts-score {
             background: var(--texans-blue);
@@ -308,7 +461,8 @@
         
         .shorts-meta {
             display: flex;
-            gap: 1.5rem;
+            flex-wrap: wrap;
+            gap: 1rem;
             font-size: 0.85rem;
             color: var(--gray-medium);
             margin-bottom: 0.75rem;
@@ -322,23 +476,16 @@
         }
         
         .shorts-suggestion-label {
-            font-size: 0.75rem;
+            font-size: 0.7rem;
             color: var(--gray-medium);
             text-transform: uppercase;
             margin-bottom: 0.25rem;
         }
         
-        .shorts-suggestion-title {
-            font-weight: 600;
-            color: var(--texans-blue);
-        }
+        .shorts-suggestion-title { font-weight: 600; color: var(--texans-blue); }
+        .shorts-alternatives { font-size: 0.8rem; color: var(--gray-medium); margin-top: 0.5rem; }
         
-        .shorts-hashtags {
-            display: flex;
-            gap: 0.5rem;
-            flex-wrap: wrap;
-            margin-top: 0.5rem;
-        }
+        .shorts-hashtags { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 0.75rem; }
         
         .hashtag {
             background: var(--texans-blue);
@@ -348,41 +495,7 @@
             font-size: 0.75rem;
         }
         
-        .shorts-actions {
-            display: flex;
-            gap: 0.5rem;
-            margin-top: 1rem;
-        }
-        
-        .btn {
-            padding: 0.5rem 1rem;
-            border: none;
-            border-radius: 6px;
-            cursor: pointer;
-            font-size: 0.85rem;
-            font-weight: 500;
-            transition: all 0.2s;
-        }
-        
-        .btn-primary {
-            background: var(--texans-red);
-            color: white;
-        }
-        
-        .btn-primary:hover {
-            background: #8a1528;
-        }
-        
-        .btn-secondary {
-            background: var(--gray-light);
-            color: var(--gray-dark);
-        }
-        
-        .btn-secondary:hover {
-            background: #e9ecef;
-        }
-        
-        /* Traffic sources chart */
+        /* Traffic chart */
         .chart-container {
             background: white;
             border-radius: 12px;
@@ -391,17 +504,8 @@
             margin-bottom: 2rem;
         }
         
-        .traffic-bar {
-            display: flex;
-            align-items: center;
-            margin-bottom: 0.75rem;
-        }
-        
-        .traffic-label {
-            width: 150px;
-            font-size: 0.85rem;
-            color: var(--gray-medium);
-        }
+        .traffic-bar { display: flex; align-items: center; margin-bottom: 0.75rem; }
+        .traffic-label { width: 140px; font-size: 0.85rem; color: var(--gray-medium); }
         
         .traffic-bar-container {
             flex: 1;
@@ -419,107 +523,91 @@
             transition: width 0.5s ease;
         }
         
-        .traffic-value {
-            width: 80px;
-            text-align: right;
-            font-size: 0.85rem;
+        .traffic-value { width: 70px; text-align: right; font-size: 0.85rem; font-weight: 600; }
+        
+        .empty-state { text-align: center; padding: 3rem; color: var(--gray-medium); }
+        .empty-state-icon { font-size: 3rem; margin-bottom: 1rem; }
+        
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
+        
+        /* Admin */
+        .admin-section {
+            background: white;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        
+        .admin-section-title {
+            font-size: 1rem;
             font-weight: 600;
-        }
-        
-        /* Loading state */
-        .loading {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 200px;
-            color: var(--gray-medium);
-        }
-        
-        .spinner {
-            width: 40px;
-            height: 40px;
-            border: 4px solid var(--gray-light);
-            border-top-color: var(--texans-red);
-            border-radius: 50%;
-            animation: spin 1s linear infinite;
-            margin-right: 1rem;
-        }
-        
-        @keyframes spin {
-            to { transform: rotate(360deg); }
-        }
-        
-        /* Empty state */
-        .empty-state {
-            text-align: center;
-            padding: 3rem;
-            color: var(--gray-medium);
-        }
-        
-        .empty-state-icon {
-            font-size: 3rem;
+            color: var(--texans-blue);
             margin-bottom: 1rem;
         }
         
-        /* Responsive */
+        .admin-list { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+        
+        .admin-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: var(--gray-light);
+            padding: 0.4rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+        }
+        
+        .admin-item-remove {
+            background: none;
+            border: none;
+            cursor: pointer;
+            color: var(--danger);
+            font-size: 1rem;
+            line-height: 1;
+        }
+        
+        .admin-add-form { display: flex; gap: 0.5rem; margin-top: 1rem; }
+        
+        .admin-input {
+            flex: 1;
+            padding: 0.5rem 1rem;
+            border: 1px solid var(--gray-light);
+            border-radius: 8px;
+            font-size: 0.9rem;
+        }
+        
+        .admin-input:focus { outline: none; border-color: var(--texans-blue); }
+        
         @media (max-width: 768px) {
-            .header {
-                flex-direction: column;
-                gap: 1rem;
-                text-align: center;
-            }
-            
-            .header-meta {
-                text-align: center;
-            }
-            
-            .kpi-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
-            
-            .video-table {
-                font-size: 0.8rem;
-            }
-            
-            .video-table th,
-            .video-table td {
-                padding: 0.5rem;
-            }
-            
-            .main-content {
-                padding: 1rem;
-            }
-        }
-        
-        /* Tab content visibility */
-        .tab-content {
-            display: none;
-        }
-        
-        .tab-content.active {
-            display: block;
+            .header { flex-direction: column; gap: 1rem; text-align: center; }
+            .header-meta { text-align: center; }
+            .kpi-grid { grid-template-columns: repeat(2, 1fr); }
+            .video-table { font-size: 0.8rem; }
+            .video-table th, .video-table td { padding: 0.5rem; }
+            .main-content { padding: 1rem; }
+            .modal { margin: 1rem; max-height: calc(100vh - 2rem); }
+            .stats-grid { grid-template-columns: repeat(2, 1fr); }
         }
     </style>
 </head>
 <body>
     <header class="header">
-        <div>
-            <h1>🏈 Houston Texans YouTube Dashboard</h1>
-        </div>
+        <div><h1>🏈 Houston Texans YouTube Dashboard</h1></div>
         <div class="header-meta">
             <div>Last updated: <span id="lastUpdated">Loading...</span></div>
-            <div>
-                <span class="status-badge status-live">● LIVE</span>
-            </div>
+            <div><span class="status-badge status-live">● LIVE</span></div>
         </div>
     </header>
     
     <nav class="nav-tabs">
         <button class="nav-tab active" data-tab="overview">Overview</button>
-        <button class="nav-tab" data-tab="videos">Top Videos</button>
+        <button class="nav-tab" data-tab="videos">All Videos</button>
         <button class="nav-tab" data-tab="shorts">Shorts Candidates</button>
         <button class="nav-tab" data-tab="traffic">Traffic Sources</button>
         <button class="nav-tab" data-tab="guardrails">Guardrails</button>
+        <button class="nav-tab" data-tab="admin">⚙️ Admin</button>
     </nav>
     
     <div class="time-filter">
@@ -531,126 +619,151 @@
     <main class="main-content">
         <!-- Overview Tab -->
         <div id="tab-overview" class="tab-content active">
-            <div class="kpi-grid" id="kpiGrid">
-                <!-- KPI cards will be inserted here -->
-            </div>
-            
+            <div class="kpi-grid" id="kpiGrid"></div>
             <div class="section-header">
                 <h2 class="section-title">Top Performing Videos</h2>
+                <span style="font-size: 0.8rem; color: var(--gray-medium);">Click any row for details</span>
             </div>
             <div class="video-table-container">
                 <table class="video-table">
                     <thead>
                         <tr>
-                            <th>Video</th>
-                            <th>Views</th>
-                            <th>Watch Time</th>
-                            <th>CTR</th>
-                            <th>Engagement</th>
-                            <th>Subs Gained</th>
+                            <th data-sort="title">Video</th>
+                            <th data-sort="views">Views</th>
+                            <th data-sort="vph">VPH</th>
+                            <th data-sort="watch_time">Watch Time</th>
+                            <th data-sort="retention">Retention</th>
+                            <th data-sort="engagement">Engagement</th>
+                            <th data-sort="subs">Subs +</th>
+                            <th data-sort="seo">SEO</th>
+                            <th data-sort="status">Status</th>
                         </tr>
                     </thead>
-                    <tbody id="overviewVideos">
-                        <!-- Videos will be inserted here -->
-                    </tbody>
+                    <tbody id="overviewVideos"></tbody>
                 </table>
             </div>
         </div>
         
-        <!-- Videos Tab -->
+        <!-- All Videos Tab -->
         <div id="tab-videos" class="tab-content">
-            <div class="section-header">
-                <h2 class="section-title">All Videos Performance</h2>
-            </div>
+            <div class="section-header"><h2 class="section-title">All Videos Performance</h2></div>
             <div class="video-table-container">
                 <table class="video-table">
                     <thead>
                         <tr>
-                            <th>Video</th>
-                            <th>Published</th>
-                            <th>Views</th>
-                            <th>Watch Time (hrs)</th>
-                            <th>Avg View %</th>
-                            <th>CTR</th>
-                            <th>Engagement Rate</th>
-                            <th>Subs Gained</th>
-                            <th>Status</th>
+                            <th data-sort="title">Video</th>
+                            <th data-sort="published">Published</th>
+                            <th data-sort="views">Views</th>
+                            <th data-sort="vph">VPH</th>
+                            <th data-sort="vpd">Views/Day</th>
+                            <th data-sort="retention">Retention</th>
+                            <th data-sort="engagement">Engagement</th>
+                            <th data-sort="subs">Subs +</th>
+                            <th data-sort="seo">SEO</th>
                         </tr>
                     </thead>
-                    <tbody id="allVideos">
-                        <!-- Videos will be inserted here -->
-                    </tbody>
+                    <tbody id="allVideos"></tbody>
                 </table>
             </div>
         </div>
         
         <!-- Shorts Tab -->
         <div id="tab-shorts" class="tab-content">
-            <div class="section-header">
-                <h2 class="section-title">🎬 Shorts Clip Candidates</h2>
-            </div>
-            <p style="color: var(--gray-medium); margin-bottom: 1.5rem;">
-                High-retention segments identified from your videos. Priority score combines retention boost and optimal duration.
-            </p>
-            <div id="shortsContainer">
-                <!-- Shorts cards will be inserted here -->
-            </div>
+            <div class="section-header"><h2 class="section-title">🎬 Shorts Clip Candidates</h2></div>
+            <p style="color: var(--gray-medium); margin-bottom: 1.5rem;">High-retention segments identified from your videos. Priority score combines retention boost and optimal duration.</p>
+            <div id="shortsContainer"></div>
         </div>
         
         <!-- Traffic Tab -->
         <div id="tab-traffic" class="tab-content">
-            <div class="section-header">
-                <h2 class="section-title">Traffic Sources</h2>
-            </div>
-            <div class="chart-container">
-                <div id="trafficChart">
-                    <!-- Traffic bars will be inserted here -->
-                </div>
-            </div>
+            <div class="section-header"><h2 class="section-title">Traffic Sources</h2></div>
+            <div class="chart-container"><div id="trafficChart"></div></div>
         </div>
         
         <!-- Guardrails Tab -->
         <div id="tab-guardrails" class="tab-content">
-            <div class="section-header">
-                <h2 class="section-title">⚠️ Performance Guardrails</h2>
+            <div class="section-header"><h2 class="section-title">⚠️ Performance Guardrails</h2></div>
+            <p style="color: var(--gray-medium); margin-bottom: 1.5rem;">Videos flagged for potential issues. Monitor these metrics closely.</p>
+            <div id="guardrailsContainer"></div>
+        </div>
+        
+        <!-- Admin Tab -->
+        <div id="tab-admin" class="tab-content">
+            <div class="section-header"><h2 class="section-title">⚙️ Dashboard Administration</h2></div>
+            
+            <div class="admin-section">
+                <h3 class="admin-section-title">🚫 Excluded Video IDs</h3>
+                <p style="font-size: 0.85rem; color: var(--gray-medium); margin-bottom: 1rem;">These videos are completely hidden from the dashboard.</p>
+                <div class="admin-list" id="excludedVideosList"></div>
+                <div class="admin-add-form">
+                    <input type="text" class="admin-input" id="newExcludedVideo" placeholder="Enter video ID to exclude">
+                    <button class="btn btn-primary" onclick="addExcludedVideo()">Add</button>
+                </div>
             </div>
-            <p style="color: var(--gray-medium); margin-bottom: 1.5rem;">
-                Videos flagged for potential issues. Monitor these metrics closely.
-            </p>
-            <div id="guardrailsContainer">
-                <!-- Guardrail alerts will be inserted here -->
+            
+            <div class="admin-section">
+                <h3 class="admin-section-title">🔒 Blocked Keywords</h3>
+                <p style="font-size: 0.85rem; color: var(--gray-medium); margin-bottom: 1rem;">Videos containing these keywords are blocked from title suggestions.</p>
+                <div class="admin-list" id="blockedKeywordsList"></div>
+                <div class="admin-add-form">
+                    <input type="text" class="admin-input" id="newBlockedKeyword" placeholder="Enter keyword to block">
+                    <button class="btn btn-primary" onclick="addBlockedKeyword()">Add</button>
+                </div>
+            </div>
+            
+            <div class="admin-section">
+                <h3 class="admin-section-title">⚠️ Flagged Players</h3>
+                <p style="font-size: 0.85rem; color: var(--gray-medium); margin-bottom: 1rem;">Videos mentioning these players show a warning banner.</p>
+                <div class="admin-list" id="flaggedPlayersList"></div>
+                <div class="admin-add-form">
+                    <input type="text" class="admin-input" id="newFlaggedPlayer" placeholder="Enter player name to flag">
+                    <button class="btn btn-primary" onclick="addFlaggedPlayer()">Add</button>
+                </div>
+            </div>
+            
+            <div class="admin-section">
+                <h3 class="admin-section-title">📊 SEO Keywords Report</h3>
+                <div id="seoKeywordsReport"></div>
             </div>
         </div>
     </main>
     
+    <!-- Video Detail Modal -->
+    <div class="modal-overlay" id="videoModal">
+        <div class="modal">
+            <div class="modal-header">
+                <h2 class="modal-title" id="modalTitle">Video Title</h2>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body" id="modalBody"></div>
+        </div>
+    </div>
+    
     <script>
-        // Dashboard state
         let dashboardData = null;
         let shortsData = null;
+        let configData = null;
         let currentPeriod = 'past_7_days';
         let currentTab = 'overview';
+        let sortColumn = 'views';
+        let sortDirection = 'desc';
         
-        // Initialize
         document.addEventListener('DOMContentLoaded', () => {
             loadData();
             setupEventListeners();
         });
         
-        // Setup event listeners
         function setupEventListeners() {
-            // Tab navigation
             document.querySelectorAll('.nav-tab').forEach(tab => {
                 tab.addEventListener('click', () => {
                     document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
                     tab.classList.add('active');
                     currentTab = tab.dataset.tab;
-                    
                     document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
                     document.getElementById(`tab-${currentTab}`).classList.add('active');
                 });
             });
             
-            // Time filter
             document.querySelectorAll('.filter-btn').forEach(btn => {
                 btn.addEventListener('click', () => {
                     document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
@@ -659,39 +772,60 @@
                     renderDashboard();
                 });
             });
+            
+            document.querySelectorAll('.video-table th[data-sort]').forEach(th => {
+                th.addEventListener('click', () => {
+                    const col = th.dataset.sort;
+                    if (sortColumn === col) {
+                        sortDirection = sortDirection === 'desc' ? 'asc' : 'desc';
+                    } else {
+                        sortColumn = col;
+                        sortDirection = 'desc';
+                    }
+                    renderVideosTable();
+                });
+            });
+            
+            document.getElementById('videoModal').addEventListener('click', (e) => {
+                if (e.target.classList.contains('modal-overlay')) closeModal();
+            });
+            
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape') closeModal();
+            });
         }
         
-        // Load data from JSON files
         async function loadData() {
             try {
-                const [dataResponse, shortsResponse] = await Promise.all([
+                const [dataRes, shortsRes, configRes] = await Promise.all([
                     fetch('data/dashboard_data.json'),
-                    fetch('data/shorts_candidates.json')
+                    fetch('data/shorts_candidates.json'),
+                    fetch('data/config_overrides.json').catch(() => null)
                 ]);
                 
-                if (dataResponse.ok) {
-                    dashboardData = await dataResponse.json();
-                }
+                if (dataRes.ok) dashboardData = await dataRes.json();
+                if (shortsRes.ok) shortsData = await shortsRes.json();
+                if (configRes && configRes.ok) configData = await configRes.json();
                 
-                if (shortsResponse.ok) {
-                    shortsData = await shortsResponse.json();
+                if (!configData) {
+                    configData = {
+                        excluded_videos: ['3prgmt5euW8'],
+                        blocked_keywords: ['watson', 'deshaun', 'show up and show out'],
+                        flagged_players: ['stefon diggs'],
+                        boost_keywords: [],
+                        avoid_keywords: []
+                    };
                 }
                 
                 renderDashboard();
             } catch (error) {
                 console.error('Error loading data:', error);
-                showError('Failed to load dashboard data. Please refresh.');
             }
         }
         
-        // Render dashboard
         function renderDashboard() {
-            if (!dashboardData) {
-                showLoading();
-                return;
-            }
+            if (!dashboardData) return;
             
-            // Update last updated time
             document.getElementById('lastUpdated').textContent = 
                 new Date(dashboardData.generated_at).toLocaleString('en-US', {
                     timeZone: 'America/Chicago',
@@ -700,289 +834,492 @@
                 }) + ' CT';
             
             renderKPIs();
-            renderOverviewVideos();
-            renderAllVideos();
+            renderVideosTable();
             renderShorts();
             renderTrafficSources();
             renderGuardrails();
+            renderAdmin();
         }
         
-        // Render KPI cards
         function renderKPIs() {
             const period = dashboardData.periods[currentPeriod];
             if (!period || !period.analytics) return;
             
-            const analytics = period.analytics;
+            const a = period.analytics;
+            const comparisons = dashboardData.comparisons?.[currentPeriod] || {};
             const kpiGrid = document.getElementById('kpiGrid');
             
+            // Define KPIs with their comparison keys
             const kpis = [
-                {
-                    label: 'Total Views',
-                    value: formatNumber(analytics.views),
-                    status: 'good'
-                },
-                {
-                    label: 'Watch Time',
-                    value: formatNumber(analytics.watch_time_hours) + ' hrs',
-                    status: 'good'
-                },
-                {
-                    label: 'Subscribers Gained',
-                    value: '+' + formatNumber(analytics.subscribers_gained),
-                    change: analytics.net_subscribers >= 0 ? 
-                        `+${analytics.net_subscribers} net` : 
-                        `${analytics.net_subscribers} net`,
-                    status: analytics.net_subscribers >= 0 ? 'good' : 'poor'
-                },
-                {
-                    label: 'Engagement',
-                    value: formatNumber(analytics.engagement_total),
-                    status: 'good'
-                },
-                {
-                    label: 'Avg View Duration',
-                    value: formatDuration(analytics.avg_view_duration_seconds),
-                    status: getStatus('avg_view_duration', analytics.avg_view_duration_seconds)
-                },
-                {
-                    label: 'Likes',
-                    value: formatNumber(analytics.likes),
-                    status: 'good'
-                }
+                { label: 'Total Views', value: formatNumber(a.views), key: 'views' },
+                { label: 'Watch Time', value: formatNumber(a.watch_time_hours) + ' hrs', key: 'watch_time_hours' },
+                { label: 'Net Subscribers', value: formatNetSubs(a.net_subscribers), key: 'net_subscribers' },
+                { label: 'Engagement', value: formatNumber(a.engagement_total), key: 'engagement_total' },
+                { label: 'Avg Duration', value: formatDuration(a.avg_view_duration_seconds), key: 'avg_view_duration_seconds' },
+                { label: 'Likes', value: formatNumber(a.likes), key: 'likes' }
             ];
             
-            kpiGrid.innerHTML = kpis.map(kpi => `
-                <div class="kpi-card">
-                    <div class="kpi-label">
-                        <span class="kpi-status status-${kpi.status}"></span>
-                        ${kpi.label}
+            kpiGrid.innerHTML = kpis.map(k => {
+                const comparisonHtml = renderComparisons(comparisons, k.key);
+                return `
+                    <div class="kpi-card">
+                        <div class="kpi-label">${k.label}</div>
+                        <div class="kpi-value">${k.value}</div>
+                        ${comparisonHtml}
                     </div>
-                    <div class="kpi-value">${kpi.value}</div>
-                    ${kpi.change ? `<div class="kpi-change ${kpi.status === 'good' ? 'positive' : 'negative'}">${kpi.change}</div>` : ''}
+                `;
+            }).join('');
+        }
+        
+        function formatNetSubs(value) {
+            if (value === undefined || value === null) return '-';
+            const prefix = value >= 0 ? '+' : '';
+            return prefix + formatNumber(value);
+        }
+        
+        function renderComparisons(comparisons, metricKey) {
+            if (!comparisons || Object.keys(comparisons).length === 0) return '';
+            
+            const compItems = [];
+            
+            // Order comparisons: period-over-period first, then year-over-year
+            const orderedKeys = Object.keys(comparisons).sort((a, b) => {
+                // Put "_ly" (last year) comparisons second
+                const aIsLY = a.includes('_ly') || a.includes('prev_fy');
+                const bIsLY = b.includes('_ly') || b.includes('prev_fy');
+                if (aIsLY && !bIsLY) return 1;
+                if (!aIsLY && bIsLY) return -1;
+                return 0;
+            });
+            
+            for (const compKey of orderedKeys) {
+                const comp = comparisons[compKey];
+                if (!comp?.changes) continue;
+                
+                const change = comp.changes[metricKey];
+                if (change === null || change === undefined) continue;
+                
+                const isPositive = change >= 0;
+                const arrow = isPositive ? '↑' : '↓';
+                const colorClass = isPositive ? 'positive' : 'negative';
+                
+                // Shorten labels for display
+                let shortLabel = comp.label
+                    .replace('Previous ', 'vs Prev ')
+                    .replace('Same ', 'vs ')
+                    .replace(' Last Year', ' LY')
+                    .replace(' to Date', ' YTD');
+                
+                compItems.push(`
+                    <div class="kpi-comparison ${colorClass}">
+                        <span class="comp-change">${arrow} ${Math.abs(change).toFixed(1)}%</span>
+                        <span class="comp-label">${shortLabel}</span>
+                    </div>
+                `);
+            }
+            
+            return compItems.length > 0 ? `<div class="kpi-comparisons">${compItems.join('')}</div>` : '';
+        }
+        
+        function renderVideosTable() {
+            const videos = dashboardData.top_videos[currentPeriod];
+            if (!videos) return;
+            
+            const sorted = [...videos].sort((a, b) => {
+                let aVal, bVal;
+                switch(sortColumn) {
+                    case 'views': aVal = a.views || 0; bVal = b.views || 0; break;
+                    case 'vph': aVal = a.vph || 0; bVal = b.vph || 0; break;
+                    case 'vpd': aVal = a.views_per_day || 0; bVal = b.views_per_day || 0; break;
+                    case 'watch_time': aVal = a.watch_time_minutes || 0; bVal = b.watch_time_minutes || 0; break;
+                    case 'retention': aVal = a.avg_view_percentage || 0; bVal = b.avg_view_percentage || 0; break;
+                    case 'engagement': aVal = a.engagement_rate || 0; bVal = b.engagement_rate || 0; break;
+                    case 'subs': aVal = a.subscribers_gained || 0; bVal = b.subscribers_gained || 0; break;
+                    case 'seo': aVal = a.seo_score?.total_score || 50; bVal = b.seo_score?.total_score || 50; break;
+                    default: aVal = a.views || 0; bVal = b.views || 0;
+                }
+                return sortDirection === 'desc' ? bVal - aVal : aVal - bVal;
+            });
+            
+            document.querySelectorAll('.video-table th').forEach(th => {
+                th.classList.remove('sorted-asc', 'sorted-desc');
+                if (th.dataset.sort === sortColumn) {
+                    th.classList.add(sortDirection === 'desc' ? 'sorted-desc' : 'sorted-asc');
+                }
+            });
+            
+            document.getElementById('overviewVideos').innerHTML = sorted.slice(0, 15).map(v => renderVideoRow(v)).join('');
+            document.getElementById('allVideos').innerHTML = sorted.map(v => renderVideoRow(v, true)).join('');
+        }
+        
+        function renderVideoRow(v, showDate = false) {
+            const flags = getVideoFlags(v);
+            const seo = v.seo_score || { total_score: 50, grade: 'C' };
+            const perfStatus = v.performance_status || 'average';
+            
+            const flagBadges = flags.map(f => `<span class="flag-banner ${f.type}">${f.emoji} ${f.label}</span>`).join('');
+            
+            return `
+                <tr onclick="showVideoDetail('${v.video_id}')" class="${flags.some(f => f.type === 'blocked') ? 'blocked-row' : ''}">
+                    <td class="video-title-cell">
+                        <div class="video-title">${escapeHtml(v.title || v.video_id)}</div>
+                        ${flagBadges}
+                    </td>
+                    ${showDate ? `<td>${v.published_at ? formatDate(v.published_at) : '-'}</td>` : ''}
+                    <td>${formatNumber(v.views)}</td>
+                    <td>${v.vph ? v.vph.toFixed(1) : '-'}</td>
+                    ${showDate ? `<td>${v.views_per_day ? formatNumber(v.views_per_day) : '-'}</td>` : `<td>${formatNumber(Math.round((v.watch_time_minutes || 0) / 60))} hrs</td>`}
+                    <td>${v.avg_view_percentage ? v.avg_view_percentage.toFixed(1) + '%' : '-'}</td>
+                    <td>${v.engagement_rate ? v.engagement_rate.toFixed(2) + '%' : '-'}</td>
+                    <td>+${formatNumber(v.subscribers_gained || 0)}</td>
+                    <td><span class="seo-grade grade-${seo.grade?.toLowerCase().replace('+', '') || 'c'}">${seo.grade || 'C'}</span></td>
+                    ${!showDate ? `<td><span class="perf-badge perf-${perfStatus}">${perfStatus}</span></td>` : ''}
+                </tr>
+            `;
+        }
+        
+        function getVideoFlags(video) {
+            const flags = [];
+            const title = (video.title || '').toLowerCase();
+            const desc = (video.description || '').toLowerCase();
+            const text = title + ' ' + desc;
+            
+            const blockedKws = configData?.blocked_keywords || ['watson', 'deshaun'];
+            for (const kw of blockedKws) {
+                if (text.includes(kw.toLowerCase())) {
+                    flags.push({ type: 'blocked', emoji: '🚫', label: 'Blocked' });
+                    break;
+                }
+            }
+            
+            const flaggedPlayers = configData?.flagged_players || ['stefon diggs'];
+            for (const player of flaggedPlayers) {
+                if (text.includes(player.toLowerCase())) {
+                    flags.push({ type: 'flagged', emoji: '⚠️', label: player });
+                }
+            }
+            
+            if (text.includes('sponsored') || text.includes('partner')) {
+                flags.push({ type: 'ad', emoji: '💰', label: 'ad' });
+            }
+            
+            return flags;
+        }
+        
+        function showVideoDetail(videoId) {
+            const videos = dashboardData.top_videos[currentPeriod] || [];
+            const video = videos.find(v => v.video_id === videoId);
+            if (!video) return;
+            
+            document.getElementById('modalTitle').textContent = video.title;
+            
+            const seo = video.seo_score || { total_score: 50, grade: 'C', breakdown: {}, suggestions: [] };
+            const flags = getVideoFlags(video);
+            
+            document.getElementById('modalBody').innerHTML = `
+                <div class="modal-section">
+                    <h3 class="modal-section-title">📊 Performance Metrics</h3>
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <div class="stat-label">Views</div>
+                            <div class="stat-value">${formatNumber(video.views)}</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-label">Views/Hour</div>
+                            <div class="stat-value">${video.vph ? video.vph.toFixed(1) : '-'}</div>
+                            <div class="stat-subtext">Lifetime VPH</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-label">Views/Day</div>
+                            <div class="stat-value">${video.views_per_day ? formatNumber(video.views_per_day) : '-'}</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-label">Watch Time</div>
+                            <div class="stat-value">${formatNumber(Math.round((video.watch_time_minutes || 0) / 60))} hrs</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-label">Retention</div>
+                            <div class="stat-value">${video.avg_view_percentage ? video.avg_view_percentage.toFixed(1) + '%' : '-'}</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-label">Engagement Rate</div>
+                            <div class="stat-value">${video.engagement_rate ? video.engagement_rate.toFixed(2) + '%' : '-'}</div>
+                            <div class="stat-subtext">${video.engagement_rate >= 6 ? '🔥 Above 6%!' : video.engagement_rate >= 3.87 ? '✓ Above avg' : '⚠️ Below avg'}</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-label">Subs Gained</div>
+                            <div class="stat-value">+${formatNumber(video.subscribers_gained || 0)}</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-label">Conversion Rate</div>
+                            <div class="stat-value">${video.subscriber_conversion_rate ? video.subscriber_conversion_rate.toFixed(3) + '%' : '-'}</div>
+                        </div>
+                    </div>
                 </div>
-            `).join('');
-        }
-        
-        // Render overview videos (top 5)
-        function renderOverviewVideos() {
-            const videos = dashboardData.top_videos[currentPeriod];
-            if (!videos) return;
+                
+                <div class="modal-section">
+                    <h3 class="modal-section-title">🎯 SEO Analysis</h3>
+                    <div class="seo-panel">
+                        <div class="seo-header">
+                            <div>
+                                <div class="seo-big-score">${seo.total_score || 50}</div>
+                                <div style="font-size: 0.9rem; color: var(--gray-medium);">/ 100</div>
+                            </div>
+                            <span class="seo-grade grade-${(seo.grade || 'c').toLowerCase().replace('+', '')}" style="font-size: 1.5rem; padding: 0.5rem 1rem;">${seo.grade || 'C'}</span>
+                        </div>
+                        
+                        <div class="seo-breakdown">
+                            <div class="seo-item">
+                                <span class="seo-item-label">Boost Keywords</span>
+                                <span class="seo-item-value">${seo.breakdown?.boost_keywords?.score || 0}/40</span>
+                            </div>
+                            <div class="seo-item">
+                                <span class="seo-item-label">Avoid Keywords</span>
+                                <span class="seo-item-value">${seo.breakdown?.avoid_keywords?.score || 20}/20</span>
+                            </div>
+                            <div class="seo-item">
+                                <span class="seo-item-label">Title</span>
+                                <span class="seo-item-value">${seo.breakdown?.title?.score || 0}/20</span>
+                            </div>
+                            <div class="seo-item">
+                                <span class="seo-item-label">Description</span>
+                                <span class="seo-item-value">${seo.breakdown?.description?.score || 0}/10</span>
+                            </div>
+                        </div>
+                        
+                        ${seo.boost_keywords_found?.length ? `
+                            <div style="margin-bottom: 0.75rem;">
+                                <div style="font-size: 0.8rem; color: var(--gray-medium); margin-bottom: 0.5rem;">✅ Keywords Found:</div>
+                                <div class="keyword-list">
+                                    ${seo.boost_keywords_found.slice(0, 6).map(k => `<span class="keyword-tag">${k}</span>`).join('')}
+                                </div>
+                            </div>
+                        ` : ''}
+                        
+                        ${seo.avoid_keywords_found?.length ? `
+                            <div style="margin-bottom: 0.75rem;">
+                                <div style="font-size: 0.8rem; color: var(--gray-medium); margin-bottom: 0.5rem;">⚠️ Problematic Keywords:</div>
+                                <div class="keyword-list">
+                                    ${seo.avoid_keywords_found.map(k => `<span class="keyword-tag negative">${k}</span>`).join('')}
+                                </div>
+                            </div>
+                        ` : ''}
+                        
+                        ${seo.suggestions?.length ? `
+                            <div class="seo-suggestions">
+                                <div style="font-size: 0.8rem; font-weight: 600; margin-bottom: 0.5rem;">Suggestions:</div>
+                                ${seo.suggestions.map(s => `<div class="seo-suggestion">${s}</div>`).join('')}
+                            </div>
+                        ` : ''}
+                    </div>
+                </div>
+                
+                ${flags.length ? `
+                    <div class="modal-section">
+                        <h3 class="modal-section-title">🚩 Content Flags</h3>
+                        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+                            ${flags.map(f => `<span class="flag-banner ${f.type}" style="font-size: 0.9rem; padding: 0.5rem 1rem;">${f.emoji} ${f.label}</span>`).join('')}
+                        </div>
+                    </div>
+                ` : ''}
+                
+                <div class="action-buttons">
+                    <a href="https://youtube.com/watch?v=${video.video_id}" target="_blank" class="btn btn-primary">▶️ Watch Video</a>
+                    <a href="https://studio.youtube.com/video/${video.video_id}/analytics" target="_blank" class="btn btn-secondary">📊 YouTube Studio</a>
+                    <button class="btn btn-outline" onclick="copyToClipboard('https://youtube.com/watch?v=${video.video_id}')">📋 Copy Link</button>
+                </div>
+            `;
             
-            const tbody = document.getElementById('overviewVideos');
-            tbody.innerHTML = videos.slice(0, 5).map(video => {
-                const flags = video.content_status?.flags || [];
-                const flagBanner = flags.length > 0 ? 
-                    `<span class="flag-banner">${flags[0].emoji} ${flags[0].name}</span>` : '';
-                
-                return `
-                    <tr class="${video.content_status?.is_blocked ? 'blocked-row' : ''}">
-                        <td class="video-title">
-                            <a href="https://youtube.com/watch?v=${video.video_id}" target="_blank">
-                                ${escapeHtml(video.title || video.video_id)}
-                            </a>
-                            ${flagBanner}
-                        </td>
-                        <td>${formatNumber(video.views)}</td>
-                        <td>${formatNumber(Math.round(video.watch_time_minutes / 60))} hrs</td>
-                        <td>${video.avg_view_percentage ? video.avg_view_percentage.toFixed(1) + '%' : '-'}</td>
-                        <td>${video.engagement_rate ? video.engagement_rate.toFixed(2) + '%' : '-'}</td>
-                        <td>+${formatNumber(video.subscribers_gained)}</td>
-                    </tr>
-                `;
-            }).join('');
+            document.getElementById('videoModal').classList.add('active');
         }
         
-        // Render all videos table
-        function renderAllVideos() {
-            const videos = dashboardData.top_videos[currentPeriod];
-            if (!videos) return;
-            
-            const tbody = document.getElementById('allVideos');
-            tbody.innerHTML = videos.map(video => {
-                const flags = video.content_status?.flags || [];
-                const flagBanner = flags.length > 0 ? 
-                    `<span class="flag-banner">${flags[0].emoji} ${flags[0].name}</span>` : '';
-                
-                const statusBadge = video.content_status?.is_blocked ? 
-                    '<span class="flag-banner" style="background: var(--danger); color: white;">BLOCKED</span>' :
-                    (flags.length > 0 ? '<span class="flag-banner">FLAGGED</span>' : '');
-                
-                return `
-                    <tr class="${video.content_status?.is_blocked ? 'blocked-row' : ''}">
-                        <td class="video-title">
-                            <a href="https://youtube.com/watch?v=${video.video_id}" target="_blank">
-                                ${escapeHtml(video.title || video.video_id)}
-                            </a>
-                            ${flagBanner}
-                        </td>
-                        <td>${video.published_at ? new Date(video.published_at).toLocaleDateString() : '-'}</td>
-                        <td>${formatNumber(video.views)}</td>
-                        <td>${formatNumber(Math.round(video.watch_time_minutes / 60))}</td>
-                        <td>${video.avg_view_percentage ? video.avg_view_percentage.toFixed(1) + '%' : '-'}</td>
-                        <td>-</td>
-                        <td>${video.engagement_rate ? video.engagement_rate.toFixed(2) + '%' : '-'}</td>
-                        <td>+${formatNumber(video.subscribers_gained)}</td>
-                        <td>${statusBadge}</td>
-                    </tr>
-                `;
-            }).join('');
+        function closeModal() {
+            document.getElementById('videoModal').classList.remove('active');
         }
         
-        // Render Shorts candidates
         function renderShorts() {
             const container = document.getElementById('shortsContainer');
             
-            if (!shortsData || !shortsData.candidates || shortsData.candidates.length === 0) {
-                container.innerHTML = `
-                    <div class="empty-state">
-                        <div class="empty-state-icon">🎬</div>
-                        <p>No Shorts candidates found yet.</p>
-                        <p>Check back after the next data refresh.</p>
-                    </div>
-                `;
+            if (!shortsData?.candidates?.length) {
+                container.innerHTML = `<div class="empty-state"><div class="empty-state-icon">🎬</div><p>No Shorts candidates found yet.</p></div>`;
                 return;
             }
             
             container.innerHTML = shortsData.candidates.slice(0, 20).map(clip => {
-                const hasFlags = clip.flags && clip.flags.length > 0;
-                const flagBanner = hasFlags ? 
-                    `<span class="flag-banner">${clip.flags[0].emoji} ${clip.flags[0].note}</span>` : '';
+                const hasFlags = clip.flags?.length > 0;
                 
                 return `
                     <div class="shorts-card ${hasFlags ? 'flagged' : ''}">
                         <div class="shorts-header">
-                            <div>
-                                <div class="shorts-title">${escapeHtml(clip.video_title)}</div>
-                                ${flagBanner}
-                            </div>
+                            <div class="shorts-title">${escapeHtml(clip.video_title)}</div>
                             <div class="shorts-score">Score: ${clip.priority_score}</div>
                         </div>
                         <div class="shorts-meta">
                             <span>⏱️ ${clip.start_formatted} → ${clip.end_formatted} (${clip.clip_duration}s)</span>
-                            <span>📈 Retention: ${clip.retention_score}% (avg: ${clip.video_avg_retention}%)</span>
+                            <span>📈 ${clip.retention_score}% retention (avg: ${clip.video_avg_retention}%)</span>
                             <span>🏷️ ${clip.content_type}</span>
                         </div>
                         <div class="shorts-suggestion">
-                            <div class="shorts-suggestion-label">Suggested Title ${clip.suggested_title.confidence}</div>
-                            <div class="shorts-suggestion-title">${escapeHtml(clip.suggested_title.suggestion)}</div>
+                            <div class="shorts-suggestion-label">Suggested Title ${clip.suggested_title?.confidence || ''}</div>
+                            <div class="shorts-suggestion-title">${escapeHtml(clip.suggested_title?.suggestion || '')}</div>
+                            ${clip.suggested_title?.alternatives?.length ? `<div class="shorts-alternatives">Alternatives: ${clip.suggested_title.alternatives.map(a => `"${a}"`).join(', ')}</div>` : ''}
                         </div>
                         <div class="shorts-hashtags">
-                            ${clip.suggested_hashtags.map(tag => `<span class="hashtag">${tag}</span>`).join('')}
+                            ${(clip.suggested_hashtags || []).map(tag => `<span class="hashtag">${tag}</span>`).join('')}
                         </div>
-                        <div class="shorts-actions">
-                            <a href="${clip.timestamped_url}" target="_blank" class="btn btn-primary">Watch Clip ▶️</a>
-                            <button class="btn btn-secondary" onclick="copyToClipboard('${clip.timestamped_url}')">Copy Link</button>
+                        <div class="action-buttons" style="margin-top: 1rem;">
+                            <a href="${clip.timestamped_url}" target="_blank" class="btn btn-primary">▶️ Watch Clip</a>
+                            <button class="btn btn-secondary" onclick="copyToClipboard('${clip.timestamped_url}')">📋 Copy Link</button>
                         </div>
                     </div>
                 `;
             }).join('');
         }
         
-        // Render traffic sources
         function renderTrafficSources() {
             const sources = dashboardData.traffic_sources[currentPeriod];
-            if (!sources || sources.length === 0) return;
+            if (!sources?.length) return;
             
             const container = document.getElementById('trafficChart');
             const maxViews = Math.max(...sources.map(s => s.views));
             
-            container.innerHTML = sources.slice(0, 10).map(source => {
-                const percentage = (source.views / maxViews * 100).toFixed(0);
+            container.innerHTML = sources.slice(0, 10).map(s => {
+                const pct = (s.views / maxViews * 100).toFixed(0);
                 return `
                     <div class="traffic-bar">
-                        <div class="traffic-label">${formatTrafficSource(source.source)}</div>
+                        <div class="traffic-label">${formatTrafficSource(s.source)}</div>
                         <div class="traffic-bar-container">
-                            <div class="traffic-bar-fill" style="width: ${percentage}%"></div>
+                            <div class="traffic-bar-fill" style="width: ${pct}%"></div>
                         </div>
-                        <div class="traffic-value">${formatNumber(source.views)}</div>
+                        <div class="traffic-value">${formatNumber(s.views)}</div>
                     </div>
                 `;
             }).join('');
         }
         
-        // Render guardrails
         function renderGuardrails() {
             const container = document.getElementById('guardrailsContainer');
             const videos = dashboardData.top_videos[currentPeriod];
-            
             if (!videos) return;
             
-            // Find videos with concerning metrics
             const concerns = [];
             
-            videos.forEach(video => {
-                // Check for blocked content
-                if (video.content_status?.is_blocked) {
-                    concerns.push({
-                        video: video,
-                        type: 'blocked',
-                        message: `Contains blocked content: ${video.content_status.block_reason}`,
-                        severity: 'danger'
-                    });
+            videos.forEach(v => {
+                const flags = getVideoFlags(v);
+                if (flags.some(f => f.type === 'blocked')) {
+                    concerns.push({ video: v, type: 'blocked', message: 'Contains blocked content', severity: 'danger' });
                 }
-                
-                // Check for low engagement
-                if (video.engagement_rate && video.engagement_rate < 2) {
-                    concerns.push({
-                        video: video,
-                        type: 'engagement',
-                        message: `Low engagement rate: ${video.engagement_rate.toFixed(2)}% (target: >3.87%)`,
-                        severity: 'warning'
-                    });
+                if (v.engagement_rate && v.engagement_rate < 2) {
+                    concerns.push({ video: v, type: 'engagement', message: `Low engagement: ${v.engagement_rate.toFixed(2)}% (target: >3.87%)`, severity: 'warning' });
                 }
-                
-                // Check for low retention
-                if (video.avg_view_percentage && video.avg_view_percentage < 30) {
-                    concerns.push({
-                        video: video,
-                        type: 'retention',
-                        message: `Low average view percentage: ${video.avg_view_percentage.toFixed(1)}% (target: >40%)`,
-                        severity: 'warning'
-                    });
+                if (v.avg_view_percentage && v.avg_view_percentage < 30) {
+                    concerns.push({ video: v, type: 'retention', message: `Low retention: ${v.avg_view_percentage.toFixed(1)}% (target: >40%)`, severity: 'warning' });
                 }
-                
-                // Check for subscriber loss
-                if (video.subscribers_lost && video.subscribers_lost > video.subscribers_gained) {
-                    concerns.push({
-                        video: video,
-                        type: 'subscribers',
-                        message: `Net subscriber loss on this video`,
-                        severity: 'danger'
-                    });
+                if (v.seo_score && v.seo_score.total_score < 50) {
+                    concerns.push({ video: v, type: 'seo', message: `Low SEO score: ${v.seo_score.total_score}/100`, severity: 'warning' });
                 }
             });
             
-            if (concerns.length === 0) {
-                container.innerHTML = `
-                    <div class="empty-state">
-                        <div class="empty-state-icon">✅</div>
-                        <p>No concerning metrics detected.</p>
-                        <p>All videos are performing within acceptable ranges.</p>
-                    </div>
-                `;
+            if (!concerns.length) {
+                container.innerHTML = `<div class="empty-state"><div class="empty-state-icon">✅</div><p>No concerning metrics detected.</p></div>`;
                 return;
             }
             
-            container.innerHTML = concerns.map(concern => `
-                <div class="shorts-card" style="border-left-color: var(--${concern.severity});">
+            container.innerHTML = concerns.map(c => `
+                <div class="shorts-card" style="border-left-color: var(--${c.severity});">
                     <div class="shorts-header">
-                        <div class="shorts-title">
-                            <a href="https://youtube.com/watch?v=${concern.video.video_id}" target="_blank">
-                                ${escapeHtml(concern.video.title || concern.video.video_id)}
-                            </a>
-                        </div>
-                        <span class="flag-banner" style="background: var(--${concern.severity}); color: white;">
-                            ${concern.type.toUpperCase()}
-                        </span>
+                        <div class="shorts-title" style="cursor: pointer;" onclick="showVideoDetail('${c.video.video_id}')">${escapeHtml(c.video.title || c.video.video_id)}</div>
+                        <span class="flag-banner ${c.severity === 'danger' ? 'blocked' : ''}">${c.type.toUpperCase()}</span>
                     </div>
-                    <p style="color: var(--gray-medium); margin-top: 0.5rem;">
-                        ⚠️ ${concern.message}
-                    </p>
+                    <p style="color: var(--gray-medium); margin-top: 0.5rem;">⚠️ ${c.message}</p>
                 </div>
             `).join('');
         }
         
-        // Utility functions
+        function renderAdmin() {
+            document.getElementById('excludedVideosList').innerHTML = (configData?.excluded_videos || []).map(id => `
+                <div class="admin-item"><span>${id}</span><button class="admin-item-remove" onclick="removeExcludedVideo('${id}')">&times;</button></div>
+            `).join('') || '<span style="color: var(--gray-medium);">No excluded videos</span>';
+            
+            document.getElementById('blockedKeywordsList').innerHTML = (configData?.blocked_keywords || []).map(kw => `
+                <div class="admin-item"><span>${kw}</span><button class="admin-item-remove" onclick="removeBlockedKeyword('${escapeHtml(kw)}')">&times;</button></div>
+            `).join('') || '<span style="color: var(--gray-medium);">No blocked keywords</span>';
+            
+            document.getElementById('flaggedPlayersList').innerHTML = (configData?.flagged_players || []).map(p => `
+                <div class="admin-item"><span>${p}</span><button class="admin-item-remove" onclick="removeFlaggedPlayer('${escapeHtml(p)}')">&times;</button></div>
+            `).join('') || '<span style="color: var(--gray-medium);">No flagged players</span>';
+            
+            document.getElementById('seoKeywordsReport').innerHTML = `
+                <p style="font-size: 0.9rem; color: var(--gray-medium); margin-bottom: 1rem;">SEO keywords are automatically updated monthly based on video performance analysis.</p>
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+                    <div>
+                        <div style="font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem; color: var(--success);">✅ Boost Keywords</div>
+                        <div style="font-size: 0.8rem; color: var(--gray-medium);">Keywords that correlate with high performance</div>
+                    </div>
+                    <div>
+                        <div style="font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem; color: var(--danger);">⚠️ Avoid Keywords</div>
+                        <div style="font-size: 0.8rem; color: var(--gray-medium);">Keywords that correlate with low performance</div>
+                    </div>
+                </div>
+            `;
+        }
+        
+        function addExcludedVideo() {
+            const input = document.getElementById('newExcludedVideo');
+            const id = input.value.trim();
+            if (id && !configData.excluded_videos.includes(id)) {
+                configData.excluded_videos.push(id);
+                input.value = '';
+                renderAdmin();
+                saveConfig();
+            }
+        }
+        
+        function removeExcludedVideo(id) {
+            configData.excluded_videos = configData.excluded_videos.filter(v => v !== id);
+            renderAdmin();
+            saveConfig();
+        }
+        
+        function addBlockedKeyword() {
+            const input = document.getElementById('newBlockedKeyword');
+            const kw = input.value.trim().toLowerCase();
+            if (kw && !configData.blocked_keywords.includes(kw)) {
+                configData.blocked_keywords.push(kw);
+                input.value = '';
+                renderAdmin();
+                saveConfig();
+            }
+        }
+        
+        function removeBlockedKeyword(kw) {
+            configData.blocked_keywords = configData.blocked_keywords.filter(k => k !== kw);
+            renderAdmin();
+            saveConfig();
+        }
+        
+        function addFlaggedPlayer() {
+            const input = document.getElementById('newFlaggedPlayer');
+            const player = input.value.trim().toLowerCase();
+            if (player && !configData.flagged_players.includes(player)) {
+                configData.flagged_players.push(player);
+                input.value = '';
+                renderAdmin();
+                saveConfig();
+            }
+        }
+        
+        function removeFlaggedPlayer(player) {
+            configData.flagged_players = configData.flagged_players.filter(p => p !== player);
+            renderAdmin();
+            saveConfig();
+        }
+        
+        function saveConfig() {
+            localStorage.setItem('texans_dashboard_config', JSON.stringify(configData));
+            alert('Changes saved locally. To persist permanently, update config_overrides.json in GitHub.');
+        }
+        
         function formatNumber(num) {
             if (num === undefined || num === null) return '-';
             if (num >= 1000000) return (num / 1000000).toFixed(1) + 'M';
@@ -995,6 +1332,11 @@
             const mins = Math.floor(seconds / 60);
             const secs = Math.floor(seconds % 60);
             return `${mins}:${secs.toString().padStart(2, '0')}`;
+        }
+        
+        function formatDate(dateStr) {
+            if (!dateStr) return '-';
+            return new Date(dateStr).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
         }
         
         function formatTrafficSource(source) {
@@ -1012,17 +1354,6 @@
             return mapping[source] || source;
         }
         
-        function getStatus(metric, value) {
-            // Simplified status determination
-            if (metric === 'avg_view_duration') {
-                if (value > 180) return 'excellent';
-                if (value > 120) return 'good';
-                if (value > 60) return 'average';
-                return 'poor';
-            }
-            return 'good';
-        }
-        
         function escapeHtml(text) {
             if (!text) return '';
             const div = document.createElement('div');
@@ -1031,17 +1362,7 @@
         }
         
         function copyToClipboard(text) {
-            navigator.clipboard.writeText(text).then(() => {
-                alert('Link copied to clipboard!');
-            });
-        }
-        
-        function showLoading() {
-            // Show loading state in containers
-        }
-        
-        function showError(message) {
-            alert(message);
+            navigator.clipboard.writeText(text).then(() => alert('Copied to clipboard!'));
         }
     </script>
 </body>
