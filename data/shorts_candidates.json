@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-01-02T00:00:00-06:00",
+  "total_candidates": 3,
+  "candidates": [
+    {
+      "video_id": "abc123def",
+      "video_title": "C.J. Stroud's INCREDIBLE 4th Quarter Comeback",
+      "video_url": "https://youtube.com/watch?v=abc123def",
+      "timestamped_url": "https://youtube.com/watch?v=abc123def&t=485",
+      "start_seconds": 485,
+      "end_seconds": 528,
+      "start_formatted": "8:05",
+      "end_formatted": "8:48",
+      "clip_duration": 43,
+      "retention_score": 78.4,
+      "video_avg_retention": 52.3,
+      "retention_boost": 1.50,
+      "priority_score": 180.0,
+      "flags": [],
+      "suggested_title": {
+        "suggestion": "C.J. Stroud is DIFFERENT 🔥",
+        "confidence": "📊 Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": ["#Texans", "#NFL", "#Houston", "#CJStroud", "#QB1", "#NFLHighlights", "#Shorts"],
+      "content_type": "highlight",
+      "source_video_views": 45230,
+      "identified_at": "2026-01-02T00:00:00-06:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "xyz789ghi",
+      "video_title": "Texans Defense DOMINATES in Week 17",
+      "video_url": "https://youtube.com/watch?v=xyz789ghi",
+      "timestamped_url": "https://youtube.com/watch?v=xyz789ghi&t=142",
+      "start_seconds": 142,
+      "end_seconds": 187,
+      "start_formatted": "2:22",
+      "end_formatted": "3:07",
+      "clip_duration": 45,
+      "retention_score": 72.1,
+      "video_avg_retention": 48.7,
+      "retention_boost": 1.48,
+      "priority_score": 177.6,
+      "flags": [],
+      "suggested_title": {
+        "suggestion": "This is why Houston is DIFFERENT 🔥",
+        "confidence": "📊 Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": ["#Texans", "#NFL", "#Houston", "#HoustonTexans", "#NFLHighlights", "#Shorts"],
+      "content_type": "highlight",
+      "source_video_views": 32150,
+      "identified_at": "2026-01-02T00:00:00-06:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "vwx654yza",
+      "video_title": "Tank Dell Makes INSANE One-Handed Catch",
+      "video_url": "https://youtube.com/watch?v=vwx654yza",
+      "timestamped_url": "https://youtube.com/watch?v=vwx654yza&t=28",
+      "start_seconds": 28,
+      "end_seconds": 58,
+      "start_formatted": "0:28",
+      "end_formatted": "0:58",
+      "clip_duration": 30,
+      "retention_score": 68.5,
+      "video_avg_retention": 42.1,
+      "retention_boost": 1.63,
+      "priority_score": 163.0,
+      "flags": [],
+      "suggested_title": {
+        "suggestion": "You have to see this play 😱",
+        "confidence": "📊 Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": ["#Texans", "#NFL", "#Houston", "#TankDell", "#NFLHighlights", "#Shorts"],
+      "content_type": "highlight",
+      "source_video_views": 12350,
+      "identified_at": "2026-01-02T00:00:00-06:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    }
+  ]
+}
