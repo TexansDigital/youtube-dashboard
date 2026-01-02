@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T08:45:47.117094-06:00",
+  "generated_at": "2026-01-02T09:34:18.230357-06:00",
   "channel": {
     "channel_id": "UCa_FcpOBe8G6VAR18RYS-aA",
     "title": "Houston Texans",
@@ -11,7 +11,7 @@
       "total_views": 64990841,
       "video_count": 5489
     },
-    "fetched_at": "2026-01-02T08:45:47.406282-06:00"
+    "fetched_at": "2026-01-02T09:34:18.463817-06:00"
   },
   "periods": {
     "past_7_days": {
@@ -91,7 +91,7 @@
         "duration_formatted": "47s",
         "is_short": true,
         "statistics": {
-          "views": 68104,
+          "views": 68118,
           "likes": 4577,
           "comments": 201
         },
@@ -100,7 +100,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 500.3,
+        "vph": 497.3,
         "days_since_published": 5,
         "views_per_day": 13268.6,
         "performance_status": "good",
@@ -201,7 +201,7 @@
             }
           ]
         },
-        "vph": 467.3,
+        "vph": 464.5,
         "days_since_published": 5,
         "views_per_day": 12398.2,
         "performance_status": "good",
@@ -231,9 +231,10 @@
                 "www",
                 "team",
                 "from",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 60
+              "penalty": 70
             },
             "title": {
               "score": 20,
@@ -253,7 +254,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, from, tex",
+            "Consider removing: houstontexans, com, www, team, from, tex, his",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
           "boost_keywords_found": [
@@ -286,7 +287,8 @@
             "www",
             "team",
             "from",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -310,8 +312,8 @@
         "duration_formatted": "2:08",
         "is_short": false,
         "statistics": {
-          "views": 57734,
-          "likes": 4457,
+          "views": 57750,
+          "likes": 4458,
           "comments": 196
         },
         "content_status": {
@@ -327,7 +329,7 @@
             }
           ]
         },
-        "vph": 430.1,
+        "vph": 427.5,
         "days_since_published": 5,
         "views_per_day": 11411.8,
         "performance_status": "good",
@@ -431,8 +433,8 @@
         "duration_formatted": "1:22",
         "is_short": false,
         "statistics": {
-          "views": 47275,
-          "likes": 3394,
+          "views": 47308,
+          "likes": 3396,
           "comments": 162
         },
         "content_status": {
@@ -448,7 +450,7 @@
             }
           ]
         },
-        "vph": 335.9,
+        "vph": 333.9,
         "days_since_published": 5,
         "views_per_day": 8954.6,
         "performance_status": "good",
@@ -468,7 +470,7 @@
                 "demeco",
                 "highlights"
               ],
-              "count": 33
+              "count": 40
             },
             "avoid_keywords": {
               "score": 0,
@@ -477,9 +479,11 @@
                 "com",
                 "www",
                 "team",
-                "tex"
+                "tex",
+                "his",
+                "down"
               ],
-              "penalty": 50
+              "penalty": 70
             },
             "title": {
               "score": 10,
@@ -499,7 +503,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, tex",
+            "Consider removing: houstontexans, com, www, team, tex, his, down",
             "Title is long (80 chars). Consider shortening to under 70 chars."
           ],
           "boost_keywords_found": [
@@ -535,14 +539,23 @@
             "a playoff",
             "texans defense",
             "straight",
-            "road"
+            "road",
+            "winning",
+            "texans win",
+            "win in",
+            "in la",
+            "defense for",
+            "justin",
+            "herbert"
           ],
           "avoid_keywords_found": [
             "houstontexans",
             "com",
             "www",
             "team",
-            "tex"
+            "tex",
+            "his",
+            "down"
           ]
         }
       },
@@ -566,8 +579,8 @@
         "duration_formatted": "8:07",
         "is_short": false,
         "statistics": {
-          "views": 111138,
-          "likes": 1651,
+          "views": 111377,
+          "likes": 1653,
           "comments": 191
         },
         "content_status": {
@@ -583,7 +596,7 @@
             }
           ]
         },
-        "vph": 168.9,
+        "vph": 168.3,
         "days_since_published": 9,
         "views_per_day": 4385.9,
         "performance_status": "poor",
@@ -603,7 +616,7 @@
                 "play",
                 "win"
               ],
-              "count": 11
+              "count": 13
             },
             "avoid_keywords": {
               "score": 0,
@@ -614,9 +627,12 @@
                 "www",
                 "team",
                 "from",
-                "tex"
+                "tex",
+                "his",
+                "down",
+                "follow"
               ],
-              "penalty": 70
+              "penalty": 100
             },
             "title": {
               "score": 20,
@@ -636,7 +652,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex",
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, down, follow",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
           "boost_keywords_found": [
@@ -650,7 +666,9 @@
             "win",
             "over",
             "win over",
-            "over the"
+            "over the",
+            "texans win",
+            "finish"
           ],
           "avoid_keywords_found": [
             "watch",
@@ -659,7 +677,10 @@
             "www",
             "team",
             "from",
-            "tex"
+            "tex",
+            "his",
+            "down",
+            "follow"
           ]
         }
       },
@@ -683,8 +704,8 @@
         "duration_formatted": "1:17",
         "is_short": false,
         "statistics": {
-          "views": 48677,
-          "likes": 3229,
+          "views": 48712,
+          "likes": 3230,
           "comments": 102
         },
         "content_status": {
@@ -692,7 +713,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 453.1,
+        "vph": 447.9,
         "days_since_published": 2,
         "views_per_day": 15796.5,
         "performance_status": "average",
@@ -781,7 +802,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 236.5,
+        "vph": 235.1,
         "days_since_published": 5,
         "views_per_day": 6280.4,
         "performance_status": "good",
@@ -861,8 +882,8 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 28262,
-          "likes": 1449,
+          "views": 28277,
+          "likes": 1452,
           "comments": 54
         },
         "content_status": {
@@ -870,7 +891,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 205.0,
+        "vph": 203.8,
         "days_since_published": 5,
         "views_per_day": 5446.8,
         "performance_status": "good",
@@ -950,7 +971,7 @@
         "duration_formatted": "16s",
         "is_short": true,
         "statistics": {
-          "views": 25852,
+          "views": 25872,
           "likes": 1902,
           "comments": 90
         },
@@ -959,7 +980,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 182.7,
+        "vph": 181.6,
         "days_since_published": 5,
         "views_per_day": 4874.0,
         "performance_status": "good",
@@ -1045,7 +1066,7 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11326608,
+          "views": 11326760,
           "likes": 162558,
           "comments": 8369
         },
@@ -1088,9 +1109,10 @@
                 "www",
                 "team",
                 "from",
-                "tex"
+                "tex",
+                "follow"
               ],
-              "penalty": 60
+              "penalty": 70
             },
             "title": {
               "score": 10,
@@ -1110,7 +1132,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, from, tex",
+            "Consider removing: houstontexans, com, www, team, from, tex, follow",
             "Title is long (87 chars). Consider shortening to under 70 chars."
           ],
           "boost_keywords_found": [
@@ -1125,7 +1147,8 @@
             "www",
             "team",
             "from",
-            "tex"
+            "tex",
+            "follow"
           ]
         }
       },
@@ -1149,8 +1172,8 @@
         "duration_formatted": "1:11",
         "is_short": false,
         "statistics": {
-          "views": 21865,
-          "likes": 1922,
+          "views": 21868,
+          "likes": 1923,
           "comments": 41
         },
         "content_status": {
@@ -1158,7 +1181,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 226.5,
+        "vph": 224.4,
         "days_since_published": 3,
         "views_per_day": 6587.0,
         "performance_status": "good",
@@ -1183,9 +1206,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 15,
@@ -1205,7 +1229,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, his",
             "Title is short (37 chars). Aim for 40-70 chars.",
             "Description is too short. Add context, links, and keywords."
           ],
@@ -1220,7 +1244,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -1244,8 +1269,8 @@
         "duration_formatted": "2:57",
         "is_short": false,
         "statistics": {
-          "views": 340466,
-          "likes": 5006,
+          "views": 340553,
+          "likes": 5007,
           "comments": 240
         },
         "content_status": {
@@ -1292,9 +1317,11 @@
                 "com",
                 "www",
                 "from",
-                "tex"
+                "tex",
+                "his",
+                "down"
               ],
-              "penalty": 70
+              "penalty": 90
             },
             "title": {
               "score": 10,
@@ -1314,7 +1341,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: video, watch, houstontexans, com, www, from, tex",
+            "Consider removing: video, watch, houstontexans, com, www, from, tex, his, down",
             "Title is long (92 chars). Consider shortening to under 70 chars."
           ],
           "boost_keywords_found": [
@@ -1337,7 +1364,9 @@
             "com",
             "www",
             "from",
-            "tex"
+            "tex",
+            "his",
+            "down"
           ]
         }
       },
@@ -1398,9 +1427,10 @@
                 "com",
                 "www",
                 "from",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 50
+              "penalty": 60
             },
             "title": {
               "score": 20,
@@ -1420,7 +1450,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, from, tex"
+            "Consider removing: houstontexans, com, www, from, tex, his"
           ],
           "boost_keywords_found": [
             "texans",
@@ -1436,7 +1466,8 @@
             "com",
             "www",
             "from",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -1469,7 +1500,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 134.2,
+        "vph": 133.4,
         "days_since_published": 5,
         "views_per_day": 3645.2,
         "performance_status": "average",
@@ -1549,8 +1580,8 @@
         "duration_formatted": "40s",
         "is_short": true,
         "statistics": {
-          "views": 52337,
-          "likes": 2519,
+          "views": 52371,
+          "likes": 2521,
           "comments": 57
         },
         "content_status": {
@@ -1558,7 +1589,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 84.8,
+        "vph": 84.5,
         "days_since_published": 8,
         "views_per_day": 2267.4,
         "performance_status": "average",
@@ -1647,7 +1678,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 126.1,
+        "vph": 125.4,
         "days_since_published": 5,
         "views_per_day": 3423.2,
         "performance_status": "average",
@@ -1727,16 +1758,16 @@
         "duration_formatted": "19s",
         "is_short": true,
         "statistics": {
-          "views": 16185,
+          "views": 16200,
           "likes": 1068,
-          "comments": 49
+          "comments": 50
         },
         "content_status": {
           "is_blocked": false,
           "block_reason": null,
           "flags": []
         },
-        "vph": 109.4,
+        "vph": 108.7,
         "days_since_published": 5,
         "views_per_day": 3001.4,
         "performance_status": "good",
@@ -1818,7 +1849,7 @@
         "duration_formatted": "4:06",
         "is_short": false,
         "statistics": {
-          "views": 15330,
+          "views": 15337,
           "likes": 265,
           "comments": 47
         },
@@ -1827,7 +1858,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 110.3,
+        "vph": 109.7,
         "days_since_published": 5,
         "views_per_day": 2957.4,
         "performance_status": "average",
@@ -1854,9 +1885,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "follow"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 20,
@@ -1876,7 +1908,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, follow",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
           "boost_keywords_found": [
@@ -1892,7 +1924,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "follow"
           ]
         }
       },
@@ -1925,25 +1958,27 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 161.0,
+        "vph": 159.6,
         "days_since_published": 3,
         "views_per_day": 4844.0,
         "performance_status": "good",
         "seo_score": {
-          "total_score": 45,
-          "grade": "F",
+          "total_score": 55,
+          "grade": "D",
           "breakdown": {
             "boost_keywords": {
-              "score": 30,
+              "score": 40,
               "found": [
                 "texans",
                 "houston",
                 "chargers",
                 "angles",
                 "all angles",
-                "the chargers"
+                "the chargers",
+                "justin",
+                "herbert"
               ],
-              "count": 6
+              "count": 8
             },
             "avoid_keywords": {
               "score": 0,
@@ -1984,7 +2019,9 @@
             "chargers",
             "angles",
             "all angles",
-            "the chargers"
+            "the chargers",
+            "justin",
+            "herbert"
           ],
           "avoid_keywords_found": [
             "watch",
@@ -2015,7 +2052,7 @@
         "duration_formatted": "46:45",
         "is_short": false,
         "statistics": {
-          "views": 13862,
+          "views": 13863,
           "likes": 317,
           "comments": 17
         },
@@ -2032,7 +2069,7 @@
             }
           ]
         },
-        "vph": 103.8,
+        "vph": 103.1,
         "days_since_published": 5,
         "views_per_day": 2763.6,
         "performance_status": "good",
@@ -2061,9 +2098,11 @@
                 "com",
                 "www",
                 "team",
-                "tex"
+                "tex",
+                "his",
+                "follow"
               ],
-              "penalty": 50
+              "penalty": 70
             },
             "title": {
               "score": 10,
@@ -2083,7 +2122,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, tex",
+            "Consider removing: houstontexans, com, www, team, tex, his, follow",
             "Title is long (74 chars). Consider shortening to under 70 chars."
           ],
           "boost_keywords_found": [
@@ -2105,7 +2144,9 @@
             "com",
             "www",
             "team",
-            "tex"
+            "tex",
+            "his",
+            "follow"
           ]
         }
       },
@@ -2129,7 +2170,7 @@
         "duration_formatted": "59s",
         "is_short": true,
         "statistics": {
-          "views": 23481,
+          "views": 23493,
           "likes": 1878,
           "comments": 51
         },
@@ -2146,7 +2187,7 @@
             }
           ]
         },
-        "vph": 65.8,
+        "vph": 65.5,
         "days_since_published": 8,
         "views_per_day": 1725.1,
         "performance_status": "good",
@@ -2169,9 +2210,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 10,
@@ -2191,7 +2233,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, his",
             "Title is short (21 chars). Aim for 40-70 chars.",
             "Add more description text (aim for 200+ characters)"
           ],
@@ -2204,7 +2246,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -2228,7 +2271,7 @@
         "duration_formatted": "19s",
         "is_short": true,
         "statistics": {
-          "views": 12885,
+          "views": 12887,
           "likes": 713,
           "comments": 43
         },
@@ -2237,7 +2280,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 91.6,
+        "vph": 91.0,
         "days_since_published": 5,
         "views_per_day": 2505.6,
         "performance_status": "good",
@@ -2336,7 +2379,7 @@
             }
           ]
         },
-        "vph": 140.0,
+        "vph": 138.7,
         "days_since_published": 3,
         "views_per_day": 4049.7,
         "performance_status": "average",
@@ -2356,7 +2399,7 @@
                 "win",
                 "clutch"
               ],
-              "count": 21
+              "count": 22
             },
             "avoid_keywords": {
               "score": 0,
@@ -2367,9 +2410,11 @@
                 "www",
                 "team",
                 "from",
-                "tex"
+                "tex",
+                "down",
+                "follow"
               ],
-              "penalty": 70
+              "penalty": 90
             },
             "title": {
               "score": 10,
@@ -2389,7 +2434,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: new, houstontexans, com, www, team, from, tex",
+            "Consider removing: new, houstontexans, com, www, team, from, tex, down, follow",
             "Title is long (71 chars). Consider shortening to under 70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -2414,7 +2459,8 @@
             "over the",
             "a playoff",
             "the chargers",
-            "road"
+            "road",
+            "winning"
           ],
           "avoid_keywords_found": [
             "new",
@@ -2423,7 +2469,9 @@
             "www",
             "team",
             "from",
-            "tex"
+            "tex",
+            "down",
+            "follow"
           ]
         }
       },
@@ -2456,7 +2504,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 88.4,
+        "vph": 87.8,
         "days_since_published": 5,
         "views_per_day": 2335.6,
         "performance_status": "average",
@@ -2555,7 +2603,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 79.1,
+        "vph": 78.7,
         "days_since_published": 5,
         "views_per_day": 2191.8,
         "performance_status": "good",
@@ -2635,7 +2683,7 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 3535091,
+          "views": 3535101,
           "likes": 88853,
           "comments": 2131
         },
@@ -2668,9 +2716,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "follow"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 15,
@@ -2690,7 +2739,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, follow",
             "Title is short (18 chars). Aim for 40-70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -2704,7 +2753,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "follow"
           ]
         }
       },
@@ -2737,7 +2787,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 72.6,
+        "vph": 72.1,
         "days_since_published": 5,
         "views_per_day": 1987.6,
         "performance_status": "good",
@@ -2828,7 +2878,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 65.5,
+        "vph": 65.1,
         "days_since_published": 5,
         "views_per_day": 1731.4,
         "performance_status": "average",
@@ -2918,8 +2968,8 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 198429,
-          "likes": 1943,
+          "views": 198473,
+          "likes": 1944,
           "comments": 155
         },
         "content_status": {
@@ -2952,9 +3002,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "down"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 20,
@@ -2974,7 +3025,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex"
+            "Consider removing: houstontexans, com, www, tex, down"
           ],
           "boost_keywords_found": [
             "texans",
@@ -2987,7 +3038,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "down"
           ]
         }
       },
@@ -3011,8 +3063,8 @@
         "duration_formatted": "33s",
         "is_short": true,
         "statistics": {
-          "views": 11821,
-          "likes": 822,
+          "views": 11851,
+          "likes": 825,
           "comments": 31
         },
         "content_status": {
@@ -3020,7 +3072,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 102.7,
+        "vph": 101.6,
         "days_since_published": 2,
         "views_per_day": 3599.5,
         "performance_status": "average",
@@ -3106,7 +3158,7 @@
         "duration_formatted": "14:25",
         "is_short": false,
         "statistics": {
-          "views": 8014,
+          "views": 8017,
           "likes": 410,
           "comments": 42
         },
@@ -3123,7 +3175,7 @@
             }
           ]
         },
-        "vph": 44.3,
+        "vph": 44.1,
         "days_since_published": 6,
         "views_per_day": 1187.3,
         "performance_status": "good",
@@ -3152,9 +3204,12 @@
                 "com",
                 "www",
                 "from",
-                "tex"
+                "tex",
+                "his",
+                "down",
+                "follow"
               ],
-              "penalty": 60
+              "penalty": 90
             },
             "title": {
               "score": 10,
@@ -3174,7 +3229,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, from, tex",
+            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow",
             "Title is long (76 chars). Consider shortening to under 70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -3193,7 +3248,10 @@
             "com",
             "www",
             "from",
-            "tex"
+            "tex",
+            "his",
+            "down",
+            "follow"
           ]
         }
       },
@@ -3234,7 +3292,7 @@
             }
           ]
         },
-        "vph": 48.8,
+        "vph": 48.5,
         "days_since_published": 5,
         "views_per_day": 1352.4,
         "performance_status": "good",
@@ -3323,7 +3381,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 36.8,
+        "vph": 36.6,
         "days_since_published": 6,
         "views_per_day": 1017.8,
         "performance_status": "average",
@@ -3410,8 +3468,8 @@
         "duration_formatted": "39s",
         "is_short": true,
         "statistics": {
-          "views": 18807,
-          "likes": 904,
+          "views": 18804,
+          "likes": 905,
           "comments": 14
         },
         "content_status": {
@@ -3419,7 +3477,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 28.9,
+        "vph": 28.8,
         "days_since_published": 8,
         "views_per_day": 748.4,
         "performance_status": "poor",
@@ -3609,25 +3667,26 @@
             }
           ]
         },
-        "vph": 17.3,
+        "vph": 17.2,
         "days_since_published": 13,
         "views_per_day": 441.2,
         "performance_status": "poor",
         "seo_score": {
-          "total_score": 50,
+          "total_score": 55,
           "grade": "D",
           "breakdown": {
             "boost_keywords": {
-              "score": 30,
+              "score": 35,
               "found": [
                 "texans",
                 "houston",
                 "highlights",
                 "play",
                 "win",
-                "over"
+                "over",
+                "winning"
               ],
-              "count": 6
+              "count": 7
             },
             "avoid_keywords": {
               "score": 0,
@@ -3637,9 +3696,10 @@
                 "www",
                 "team",
                 "from",
-                "tex"
+                "tex",
+                "down"
               ],
-              "penalty": 60
+              "penalty": 70
             },
             "title": {
               "score": 10,
@@ -3659,7 +3719,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, from, tex",
+            "Consider removing: houstontexans, com, www, team, from, tex, down",
             "Title is long (91 chars). Consider shortening to under 70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -3669,7 +3729,8 @@
             "highlights",
             "play",
             "win",
-            "over"
+            "over",
+            "winning"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -3677,7 +3738,8 @@
             "www",
             "team",
             "from",
-            "tex"
+            "tex",
+            "down"
           ]
         }
       },
@@ -3710,7 +3772,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 41.4,
+        "vph": 41.2,
         "days_since_published": 5,
         "views_per_day": 1107.8,
         "performance_status": "excellent",
@@ -3809,7 +3871,7 @@
             }
           ]
         },
-        "vph": 33.4,
+        "vph": 33.2,
         "days_since_published": 6,
         "views_per_day": 889.5,
         "performance_status": "poor",
@@ -3829,7 +3891,7 @@
                 "int",
                 "run"
               ],
-              "count": 13
+              "count": 14
             },
             "avoid_keywords": {
               "score": 0,
@@ -3837,9 +3899,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 10,
@@ -3859,7 +3922,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, his",
             "Title is long (84 chars). Consider shortening to under 70 chars."
           ],
           "boost_keywords_found": [
@@ -3875,13 +3938,15 @@
             "win",
             "nfl",
             "over",
-            "straight"
+            "straight",
+            "finish"
           ],
           "avoid_keywords_found": [
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -3905,7 +3970,7 @@
         "duration_formatted": "17s",
         "is_short": true,
         "statistics": {
-          "views": 9712,
+          "views": 9721,
           "likes": 214,
           "comments": 4
         },
@@ -3914,7 +3979,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 73.8,
+        "vph": 73.0,
         "days_since_published": 2,
         "views_per_day": 2491.5,
         "performance_status": "poor",
@@ -4005,7 +4070,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 29.0,
+        "vph": 28.9,
         "days_since_published": 6,
         "views_per_day": 801.8,
         "performance_status": "poor",
@@ -4028,9 +4093,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "down"
               ],
-              "penalty": 50
+              "penalty": 60
             },
             "title": {
               "score": 20,
@@ -4051,7 +4117,7 @@
           },
           "suggestions": [
             "Add more high-performing keywords like: texans, houston, h-town, htx, nrg",
-            "Consider removing: new, houstontexans, com, www, tex",
+            "Consider removing: new, houstontexans, com, www, tex, down",
             "Add more description text (aim for 200+ characters)"
           ],
           "boost_keywords_found": [
@@ -4063,7 +4129,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "down"
           ]
         }
       },
@@ -4087,8 +4154,8 @@
         "duration_formatted": "5s",
         "is_short": true,
         "statistics": {
-          "views": 102510,
-          "likes": 2538,
+          "views": 102527,
+          "likes": 2539,
           "comments": 48
         },
         "content_status": {
@@ -4178,7 +4245,7 @@
         "duration_formatted": "10s",
         "is_short": true,
         "statistics": {
-          "views": 851317,
+          "views": 851349,
           "likes": 19707,
           "comments": 432
         },
@@ -4211,9 +4278,11 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "his",
+                "follow"
               ],
-              "penalty": 40
+              "penalty": 60
             },
             "title": {
               "score": 15,
@@ -4233,7 +4302,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, his, follow",
             "Title is short (28 chars). Aim for 40-70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -4247,7 +4316,9 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "his",
+            "follow"
           ]
         }
       },
@@ -4271,7 +4342,7 @@
         "duration_formatted": "10s",
         "is_short": true,
         "statistics": {
-          "views": 14761,
+          "views": 14763,
           "likes": 564,
           "comments": 24
         },
@@ -4280,7 +4351,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 20.2,
+        "vph": 20.1,
         "days_since_published": 8,
         "views_per_day": 526.9,
         "performance_status": "average",
@@ -4353,7 +4424,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 31.0,
+        "vph": 30.8,
         "days_since_published": 5,
         "views_per_day": 831.0,
         "performance_status": "poor",
@@ -4382,9 +4453,11 @@
                 "com",
                 "www",
                 "from",
-                "tex"
+                "tex",
+                "down",
+                "follow"
               ],
-              "penalty": 50
+              "penalty": 70
             },
             "title": {
               "score": 20,
@@ -4404,7 +4477,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, from, tex",
+            "Consider removing: houstontexans, com, www, from, tex, down, follow",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
           "boost_keywords_found": [
@@ -4427,7 +4500,9 @@
             "com",
             "www",
             "from",
-            "tex"
+            "tex",
+            "down",
+            "follow"
           ]
         }
       },
@@ -4451,7 +4526,7 @@
         "duration_formatted": "21s",
         "is_short": true,
         "statistics": {
-          "views": 45665,
+          "views": 45690,
           "likes": 1835,
           "comments": 84
         },
@@ -4551,7 +4626,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 18.2,
+        "vph": 18.1,
         "days_since_published": 8,
         "views_per_day": 468.9,
         "performance_status": "average",
@@ -4624,7 +4699,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 13.1,
+        "vph": 13.0,
         "days_since_published": 11,
         "views_per_day": 329.1,
         "performance_status": "excellent",
@@ -4644,7 +4719,7 @@
                 "postgame",
                 "after"
               ],
-              "count": 11
+              "count": 12
             },
             "avoid_keywords": {
               "score": 0,
@@ -4689,7 +4764,8 @@
             "after",
             "locker",
             "room",
-            "after the"
+            "after the",
+            "finish"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -4719,7 +4795,7 @@
         "duration_formatted": "1:11",
         "is_short": false,
         "statistics": {
-          "views": 324841,
+          "views": 324843,
           "likes": 11567,
           "comments": 529
         },
@@ -4728,7 +4804,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 6.6,
+        "vph": 6.5,
         "days_since_published": 22,
         "views_per_day": 160.9,
         "performance_status": "poor",
@@ -4827,7 +4903,7 @@
             }
           ]
         },
-        "vph": 10.8,
+        "vph": 10.7,
         "days_since_published": 13,
         "views_per_day": 271.6,
         "performance_status": "excellent",
@@ -4857,9 +4933,10 @@
                 "com",
                 "www",
                 "from",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 60
+              "penalty": 70
             },
             "title": {
               "score": 20,
@@ -4879,7 +4956,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, from, tex",
+            "Consider removing: watch, houstontexans, com, www, from, tex, his",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
           "boost_keywords_found": [
@@ -4900,7 +4977,8 @@
             "com",
             "www",
             "from",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -4933,7 +5011,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 10.7,
+        "vph": 10.6,
         "days_since_published": 13,
         "views_per_day": 267.6,
         "performance_status": "good",
@@ -5015,7 +5093,7 @@
         "duration_formatted": "1:11",
         "is_short": false,
         "statistics": {
-          "views": 324841,
+          "views": 324843,
           "likes": 11567,
           "comments": 529
         },
@@ -5024,7 +5102,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 599.5,
+        "vph": 598.6,
         "days_since_published": 22,
         "views_per_day": 14723.9,
         "performance_status": "average",
@@ -5106,8 +5184,8 @@
         "duration_formatted": "16s",
         "is_short": true,
         "statistics": {
-          "views": 181386,
-          "likes": 3487,
+          "views": 181398,
+          "likes": 3488,
           "comments": 218
         },
         "content_status": {
@@ -5115,7 +5193,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 314.2,
+        "vph": 313.7,
         "days_since_published": 23,
         "views_per_day": 7836.6,
         "performance_status": "poor",
@@ -5195,7 +5273,7 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11326608,
+          "views": 11326760,
           "likes": 162558,
           "comments": 8369
         },
@@ -5238,9 +5316,10 @@
                 "www",
                 "team",
                 "from",
-                "tex"
+                "tex",
+                "follow"
               ],
-              "penalty": 60
+              "penalty": 70
             },
             "title": {
               "score": 10,
@@ -5260,7 +5339,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, from, tex",
+            "Consider removing: houstontexans, com, www, team, from, tex, follow",
             "Title is long (87 chars). Consider shortening to under 70 chars."
           ],
           "boost_keywords_found": [
@@ -5275,7 +5354,8 @@
             "www",
             "team",
             "from",
-            "tex"
+            "tex",
+            "follow"
           ]
         }
       },
@@ -5308,7 +5388,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 222.3,
+        "vph": 222.1,
         "days_since_published": 30,
         "views_per_day": 5475.6,
         "performance_status": "average",
@@ -5336,9 +5416,10 @@
                 "com",
                 "www",
                 "from",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 50
+              "penalty": 60
             },
             "title": {
               "score": 20,
@@ -5358,7 +5439,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, from, tex"
+            "Consider removing: houstontexans, com, www, from, tex, his"
           ],
           "boost_keywords_found": [
             "texans",
@@ -5374,7 +5455,8 @@
             "com",
             "www",
             "from",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -5398,8 +5480,8 @@
         "duration_formatted": "5s",
         "is_short": true,
         "statistics": {
-          "views": 102510,
-          "likes": 2538,
+          "views": 102527,
+          "likes": 2539,
           "comments": 48
         },
         "content_status": {
@@ -5407,7 +5489,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 170.3,
+        "vph": 170.1,
         "days_since_published": 24,
         "views_per_day": 4208.4,
         "performance_status": "average",
@@ -5498,7 +5580,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 144.3,
+        "vph": 144.2,
         "days_since_published": 25,
         "views_per_day": 3524.0,
         "performance_status": "average",
@@ -5587,7 +5669,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 138.4,
+        "vph": 138.2,
         "days_since_published": 25,
         "views_per_day": 3370.4,
         "performance_status": "good",
@@ -5667,8 +5749,8 @@
         "duration_formatted": "8:07",
         "is_short": false,
         "statistics": {
-          "views": 111138,
-          "likes": 1651,
+          "views": 111377,
+          "likes": 1653,
           "comments": 191
         },
         "content_status": {
@@ -5684,7 +5766,7 @@
             }
           ]
         },
-        "vph": 359.3,
+        "vph": 358.1,
         "days_since_published": 9,
         "views_per_day": 9333.1,
         "performance_status": "good",
@@ -5704,7 +5786,7 @@
                 "play",
                 "win"
               ],
-              "count": 11
+              "count": 13
             },
             "avoid_keywords": {
               "score": 0,
@@ -5715,9 +5797,12 @@
                 "www",
                 "team",
                 "from",
-                "tex"
+                "tex",
+                "his",
+                "down",
+                "follow"
               ],
-              "penalty": 70
+              "penalty": 100
             },
             "title": {
               "score": 20,
@@ -5737,7 +5822,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex",
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, down, follow",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
           "boost_keywords_found": [
@@ -5751,7 +5836,9 @@
             "win",
             "over",
             "win over",
-            "over the"
+            "over the",
+            "texans win",
+            "finish"
           ],
           "avoid_keywords_found": [
             "watch",
@@ -5760,7 +5847,10 @@
             "www",
             "team",
             "from",
-            "tex"
+            "tex",
+            "his",
+            "down",
+            "follow"
           ]
         }
       },
@@ -5784,8 +5874,8 @@
         "duration_formatted": "2:57",
         "is_short": false,
         "statistics": {
-          "views": 340466,
-          "likes": 5006,
+          "views": 340553,
+          "likes": 5007,
           "comments": 240
         },
         "content_status": {
@@ -5801,7 +5891,7 @@
             }
           ]
         },
-        "vph": 82.3,
+        "vph": 82.2,
         "days_since_published": 40,
         "views_per_day": 2006.7,
         "performance_status": "poor",
@@ -5832,9 +5922,11 @@
                 "com",
                 "www",
                 "from",
-                "tex"
+                "tex",
+                "his",
+                "down"
               ],
-              "penalty": 70
+              "penalty": 90
             },
             "title": {
               "score": 10,
@@ -5854,7 +5946,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: video, watch, houstontexans, com, www, from, tex",
+            "Consider removing: video, watch, houstontexans, com, www, from, tex, his, down",
             "Title is long (92 chars). Consider shortening to under 70 chars."
           ],
           "boost_keywords_found": [
@@ -5877,7 +5969,9 @@
             "com",
             "www",
             "from",
-            "tex"
+            "tex",
+            "his",
+            "down"
           ]
         }
       },
@@ -5910,7 +6004,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 161.9,
+        "vph": 161.6,
         "days_since_published": 18,
         "views_per_day": 4029.7,
         "performance_status": "good",
@@ -5935,9 +6029,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 15,
@@ -5957,7 +6052,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, his",
             "Title is short (35 chars). Aim for 40-70 chars.",
             "Add more description text (aim for 200+ characters)"
           ],
@@ -5972,7 +6067,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -5996,7 +6092,7 @@
         "duration_formatted": "47s",
         "is_short": true,
         "statistics": {
-          "views": 68104,
+          "views": 68118,
           "likes": 4577,
           "comments": 201
         },
@@ -6005,7 +6101,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 500.3,
+        "vph": 497.3,
         "days_since_published": 5,
         "views_per_day": 13268.6,
         "performance_status": "good",
@@ -6106,7 +6202,7 @@
             }
           ]
         },
-        "vph": 104.1,
+        "vph": 103.9,
         "days_since_published": 25,
         "views_per_day": 2534.8,
         "performance_status": "good",
@@ -6126,7 +6222,7 @@
                 "clutch",
                 "locker room"
               ],
-              "count": 14
+              "count": 17
             },
             "avoid_keywords": {
               "score": 0,
@@ -6136,9 +6232,10 @@
                 "www",
                 "team",
                 "from",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 60
+              "penalty": 70
             },
             "title": {
               "score": 20,
@@ -6158,7 +6255,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, from, tex",
+            "Consider removing: houstontexans, com, www, team, from, tex, his",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
           "boost_keywords_found": [
@@ -6175,7 +6272,10 @@
             "room",
             "after the",
             "chiefs",
-            "road"
+            "road",
+            "winning",
+            "defense for",
+            "finish"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -6183,7 +6283,8 @@
             "www",
             "team",
             "from",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -6224,7 +6325,7 @@
             }
           ]
         },
-        "vph": 467.3,
+        "vph": 464.5,
         "days_since_published": 5,
         "views_per_day": 12398.2,
         "performance_status": "good",
@@ -6254,9 +6355,10 @@
                 "www",
                 "team",
                 "from",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 60
+              "penalty": 70
             },
             "title": {
               "score": 20,
@@ -6276,7 +6378,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, from, tex",
+            "Consider removing: houstontexans, com, www, team, from, tex, his",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
           "boost_keywords_found": [
@@ -6309,7 +6411,8 @@
             "www",
             "team",
             "from",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -6342,7 +6445,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 217.3,
+        "vph": 216.6,
         "days_since_published": 11,
         "views_per_day": 5478.8,
         "performance_status": "good",
@@ -6362,7 +6465,7 @@
                 "postgame",
                 "after"
               ],
-              "count": 11
+              "count": 12
             },
             "avoid_keywords": {
               "score": 0,
@@ -6407,7 +6510,8 @@
             "after",
             "locker",
             "room",
-            "after the"
+            "after the",
+            "finish"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -6446,7 +6550,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 95.2,
+        "vph": 95.1,
         "days_since_published": 25,
         "views_per_day": 2321.0,
         "performance_status": "average",
@@ -6530,8 +6634,8 @@
         "duration_formatted": "2:08",
         "is_short": false,
         "statistics": {
-          "views": 57734,
-          "likes": 4457,
+          "views": 57750,
+          "likes": 4458,
           "comments": 196
         },
         "content_status": {
@@ -6547,7 +6651,7 @@
             }
           ]
         },
-        "vph": 430.1,
+        "vph": 427.5,
         "days_since_published": 5,
         "views_per_day": 11411.8,
         "performance_status": "good",
@@ -6660,7 +6764,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 84.4,
+        "vph": 84.3,
         "days_since_published": 25,
         "views_per_day": 2060.0,
         "performance_status": "average",
@@ -6751,7 +6855,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 128.1,
+        "vph": 127.9,
         "days_since_published": 16,
         "views_per_day": 3175.3,
         "performance_status": "average",
@@ -6819,8 +6923,8 @@
         "duration_formatted": "13s",
         "is_short": true,
         "statistics": {
-          "views": 51729,
-          "likes": 1493,
+          "views": 51748,
+          "likes": 1494,
           "comments": 40
         },
         "content_status": {
@@ -6828,7 +6932,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 82.3,
+        "vph": 82.2,
         "days_since_published": 25,
         "views_per_day": 2016.4,
         "performance_status": "average",
@@ -6850,9 +6954,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "down"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 15,
@@ -6873,7 +6978,7 @@
           },
           "suggestions": [
             "Add more high-performing keywords like: texans, houston, h-town, htx, nrg",
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, down",
             "Title is short (25 chars). Aim for 40-70 chars."
           ],
           "boost_keywords_found": [
@@ -6884,7 +6989,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "down"
           ]
         }
       },
@@ -6908,8 +7014,8 @@
         "duration_formatted": "40s",
         "is_short": true,
         "statistics": {
-          "views": 52337,
-          "likes": 2519,
+          "views": 52371,
+          "likes": 2521,
           "comments": 57
         },
         "content_status": {
@@ -6917,7 +7023,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 229.8,
+        "vph": 228.9,
         "days_since_published": 8,
         "views_per_day": 6142.6,
         "performance_status": "average",
@@ -6997,8 +7103,8 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 198429,
-          "likes": 1943,
+          "views": 198473,
+          "likes": 1944,
           "comments": 155
         },
         "content_status": {
@@ -7031,9 +7137,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "down"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 20,
@@ -7053,7 +7160,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex"
+            "Consider removing: houstontexans, com, www, tex, down"
           ],
           "boost_keywords_found": [
             "texans",
@@ -7066,7 +7173,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "down"
           ]
         }
       },
@@ -7090,8 +7198,8 @@
         "duration_formatted": "1:22",
         "is_short": false,
         "statistics": {
-          "views": 47275,
-          "likes": 3394,
+          "views": 47308,
+          "likes": 3396,
           "comments": 162
         },
         "content_status": {
@@ -7107,7 +7215,7 @@
             }
           ]
         },
-        "vph": 335.9,
+        "vph": 333.9,
         "days_since_published": 5,
         "views_per_day": 8954.6,
         "performance_status": "good",
@@ -7127,7 +7235,7 @@
                 "demeco",
                 "highlights"
               ],
-              "count": 33
+              "count": 40
             },
             "avoid_keywords": {
               "score": 0,
@@ -7136,9 +7244,11 @@
                 "com",
                 "www",
                 "team",
-                "tex"
+                "tex",
+                "his",
+                "down"
               ],
-              "penalty": 50
+              "penalty": 70
             },
             "title": {
               "score": 10,
@@ -7158,7 +7268,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, tex",
+            "Consider removing: houstontexans, com, www, team, tex, his, down",
             "Title is long (80 chars). Consider shortening to under 70 chars."
           ],
           "boost_keywords_found": [
@@ -7194,14 +7304,23 @@
             "a playoff",
             "texans defense",
             "straight",
-            "road"
+            "road",
+            "winning",
+            "texans win",
+            "win in",
+            "in la",
+            "defense for",
+            "justin",
+            "herbert"
           ],
           "avoid_keywords_found": [
             "houstontexans",
             "com",
             "www",
             "team",
-            "tex"
+            "tex",
+            "his",
+            "down"
           ]
         }
       },
@@ -7225,7 +7344,7 @@
         "duration_formatted": "21s",
         "is_short": true,
         "statistics": {
-          "views": 45665,
+          "views": 45693,
           "likes": 1835,
           "comments": 84
         },
@@ -7234,7 +7353,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 71.7,
+        "vph": 71.6,
         "days_since_published": 25,
         "views_per_day": 1756.6,
         "performance_status": "average",
@@ -7325,7 +7444,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 108.0,
+        "vph": 107.8,
         "days_since_published": 16,
         "views_per_day": 2697.2,
         "performance_status": "average",
@@ -7414,7 +7533,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 95.5,
+        "vph": 95.3,
         "days_since_published": 18,
         "views_per_day": 2382.0,
         "performance_status": "good",
@@ -7496,7 +7615,7 @@
         "duration_formatted": "1:44",
         "is_short": false,
         "statistics": {
-          "views": 41925,
+          "views": 41931,
           "likes": 3121,
           "comments": 106
         },
@@ -7505,7 +7624,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 76.2,
+        "vph": 76.1,
         "days_since_published": 22,
         "views_per_day": 1894.9,
         "performance_status": "good",
@@ -7602,7 +7721,7 @@
             }
           ]
         },
-        "vph": 72.8,
+        "vph": 72.7,
         "days_since_published": 21,
         "views_per_day": 1809.6,
         "performance_status": "excellent",
@@ -7622,7 +7741,7 @@
                 "win",
                 "after"
               ],
-              "count": 12
+              "count": 13
             },
             "avoid_keywords": {
               "score": 0,
@@ -7631,9 +7750,11 @@
                 "com",
                 "www",
                 "team",
-                "tex"
+                "tex",
+                "his",
+                "down"
               ],
-              "penalty": 50
+              "penalty": 70
             },
             "title": {
               "score": 15,
@@ -7653,7 +7774,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, tex",
+            "Consider removing: houstontexans, com, www, team, tex, his, down",
             "Title is long (88 chars). Consider shortening to under 70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -7669,14 +7790,17 @@
             "over",
             "win over",
             "over the",
-            "chiefs"
+            "chiefs",
+            "finish"
           ],
           "avoid_keywords_found": [
             "houstontexans",
             "com",
             "www",
             "team",
-            "tex"
+            "tex",
+            "his",
+            "down"
           ]
         }
       },
@@ -7700,7 +7824,7 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 3535091,
+          "views": 3535101,
           "likes": 88853,
           "comments": 2131
         },
@@ -7733,9 +7857,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "follow"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 15,
@@ -7755,7 +7880,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, follow",
             "Title is short (18 chars). Aim for 40-70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -7769,7 +7894,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "follow"
           ]
         }
       },
@@ -7810,7 +7936,7 @@
             }
           ]
         },
-        "vph": 68.6,
+        "vph": 68.5,
         "days_since_published": 21,
         "views_per_day": 1721.0,
         "performance_status": "good",
@@ -7830,7 +7956,7 @@
                 "over the",
                 "chiefs"
               ],
-              "count": 8
+              "count": 9
             },
             "avoid_keywords": {
               "score": 0,
@@ -7839,9 +7965,10 @@
                 "com",
                 "www",
                 "from",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 50
+              "penalty": 60
             },
             "title": {
               "score": 15,
@@ -7861,7 +7988,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, from, tex",
+            "Consider removing: houstontexans, com, www, from, tex, his",
             "Title is long (76 chars). Consider shortening to under 70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -7873,14 +8000,16 @@
             "over",
             "win over",
             "over the",
-            "chiefs"
+            "chiefs",
+            "texans win"
           ],
           "avoid_keywords_found": [
             "houstontexans",
             "com",
             "www",
             "from",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -7921,7 +8050,7 @@
             }
           ]
         },
-        "vph": 120.9,
+        "vph": 120.5,
         "days_since_published": 11,
         "views_per_day": 3049.5,
         "performance_status": "average",
@@ -8016,7 +8145,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 101.9,
+        "vph": 101.6,
         "days_since_published": 13,
         "views_per_day": 2557.2,
         "performance_status": "average",
@@ -8096,8 +8225,8 @@
         "duration_formatted": "1:17",
         "is_short": false,
         "statistics": {
-          "views": 48677,
-          "likes": 3229,
+          "views": 48712,
+          "likes": 3230,
           "comments": 102
         },
         "content_status": {
@@ -8105,7 +8234,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 453.1,
+        "vph": 447.9,
         "days_since_published": 2,
         "views_per_day": 15796.5,
         "performance_status": "average",
@@ -8194,7 +8323,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 236.5,
+        "vph": 235.1,
         "days_since_published": 5,
         "views_per_day": 6280.4,
         "performance_status": "good",
@@ -8308,9 +8437,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "follow"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 10,
@@ -8330,7 +8460,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, follow",
             "Title is short (38 chars). Aim for 40-70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -8345,7 +8475,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "follow"
           ]
         }
       },
@@ -8378,7 +8509,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 48.7,
+        "vph": 48.6,
         "days_since_published": 25,
         "views_per_day": 1185.4,
         "performance_status": "good",
@@ -8468,7 +8599,7 @@
         "duration_formatted": "43s",
         "is_short": true,
         "statistics": {
-          "views": 28913,
+          "views": 28911,
           "likes": 1766,
           "comments": 54
         },
@@ -8477,7 +8608,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 50.9,
+        "vph": 50.8,
         "days_since_published": 23,
         "views_per_day": 1248.6,
         "performance_status": "average",
@@ -8563,7 +8694,7 @@
         "duration_formatted": "7s",
         "is_short": true,
         "statistics": {
-          "views": 29034,
+          "views": 29042,
           "likes": 987,
           "comments": 24
         },
@@ -8572,7 +8703,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 47.0,
+        "vph": 46.9,
         "days_since_published": 25,
         "views_per_day": 1147.9,
         "performance_status": "average",
@@ -8652,7 +8783,7 @@
         "duration_formatted": "21s",
         "is_short": true,
         "statistics": {
-          "views": 28796,
+          "views": 28795,
           "likes": 1615,
           "comments": 48
         },
@@ -8661,7 +8792,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 46.6,
+        "vph": 46.5,
         "days_since_published": 25,
         "views_per_day": 1142.6,
         "performance_status": "average",
@@ -8778,9 +8909,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 20,
@@ -8800,7 +8932,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, his",
             "Add more description text (aim for 200+ characters)",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -8820,7 +8952,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -8853,7 +8986,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 63.4,
+        "vph": 63.3,
         "days_since_published": 18,
         "views_per_day": 1574.9,
         "performance_status": "poor",
@@ -8935,8 +9068,8 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 28262,
-          "likes": 1449,
+          "views": 28277,
+          "likes": 1452,
           "comments": 54
         },
         "content_status": {
@@ -8944,7 +9077,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 205.0,
+        "vph": 203.8,
         "days_since_published": 5,
         "views_per_day": 5446.8,
         "performance_status": "good",
@@ -9033,7 +9166,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 47.9,
+        "vph": 47.8,
         "days_since_published": 23,
         "views_per_day": 1179.8,
         "performance_status": "average",
@@ -9057,9 +9190,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "down"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 15,
@@ -9079,7 +9213,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, down",
             "Title is short (28 chars). Aim for 40-70 chars.",
             "Add more description text (aim for 200+ characters)"
           ],
@@ -9093,7 +9227,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "down"
           ]
         }
       },
@@ -9126,7 +9261,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 57.2,
+        "vph": 57.1,
         "days_since_published": 18,
         "views_per_day": 1426.3,
         "performance_status": "good",
@@ -9215,7 +9350,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 41.7,
+        "vph": 41.6,
         "days_since_published": 25,
         "views_per_day": 1017.9,
         "performance_status": "average",
@@ -9327,9 +9462,11 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "down",
+                "follow"
               ],
-              "penalty": 40
+              "penalty": 60
             },
             "title": {
               "score": 10,
@@ -9349,7 +9486,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, down, follow",
             "Title is short (35 chars). Aim for 40-70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -9362,7 +9499,9 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "down",
+            "follow"
           ]
         }
       },
@@ -9386,7 +9525,7 @@
         "duration_formatted": "16s",
         "is_short": true,
         "statistics": {
-          "views": 25852,
+          "views": 25871,
           "likes": 1902,
           "comments": 90
         },
@@ -9395,7 +9534,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 182.7,
+        "vph": 181.6,
         "days_since_published": 5,
         "views_per_day": 4874.0,
         "performance_status": "good",
@@ -9490,7 +9629,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 57.1,
+        "vph": 57.0,
         "days_since_published": 17,
         "views_per_day": 1418.5,
         "performance_status": "good",
@@ -9577,7 +9716,7 @@
         "is_short": true,
         "statistics": {
           "views": 23910,
-          "likes": 1149,
+          "likes": 1150,
           "comments": 32
         },
         "content_status": {
@@ -9585,7 +9724,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 43.4,
+        "vph": 43.3,
         "days_since_published": 22,
         "views_per_day": 1083.0,
         "performance_status": "average",
@@ -9614,9 +9753,10 @@
                 "com",
                 "www",
                 "from",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 50
+              "penalty": 60
             },
             "title": {
               "score": 15,
@@ -9636,7 +9776,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, from, tex",
+            "Consider removing: houstontexans, com, www, from, tex, his",
             "Title is short (22 chars). Aim for 40-70 chars.",
             "Add more description text (aim for 200+ characters)"
           ],
@@ -9655,7 +9795,8 @@
             "com",
             "www",
             "from",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -9679,7 +9820,7 @@
         "duration_formatted": "8:04",
         "is_short": false,
         "statistics": {
-          "views": 23587,
+          "views": 23588,
           "likes": 703,
           "comments": 40
         },
@@ -9696,24 +9837,25 @@
             }
           ]
         },
-        "vph": 58.1,
+        "vph": 58.0,
         "days_since_published": 16,
         "views_per_day": 1459.6,
         "performance_status": "good",
         "seo_score": {
-          "total_score": 55,
-          "grade": "D",
+          "total_score": 60,
+          "grade": "C",
           "breakdown": {
             "boost_keywords": {
-              "score": 25,
+              "score": 30,
               "found": [
                 "texans",
                 "houston",
                 "anderson",
                 "highlights",
-                "play"
+                "play",
+                "finish"
               ],
-              "count": 5
+              "count": 6
             },
             "avoid_keywords": {
               "score": 0,
@@ -9722,9 +9864,10 @@
                 "com",
                 "www",
                 "from",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 50
+              "penalty": 60
             },
             "title": {
               "score": 20,
@@ -9744,7 +9887,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, from, tex",
+            "Consider removing: houstontexans, com, www, from, tex, his",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
           "boost_keywords_found": [
@@ -9752,14 +9895,16 @@
             "houston",
             "anderson",
             "highlights",
-            "play"
+            "play",
+            "finish"
           ],
           "avoid_keywords_found": [
             "houstontexans",
             "com",
             "www",
             "from",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -9783,7 +9928,7 @@
         "duration_formatted": "4:59",
         "is_short": false,
         "statistics": {
-          "views": 22760,
+          "views": 22759,
           "likes": 473,
           "comments": 65
         },
@@ -9792,7 +9937,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 50.5,
+        "vph": 50.4,
         "days_since_published": 18,
         "views_per_day": 1260.8,
         "performance_status": "good",
@@ -9816,9 +9961,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "follow"
               ],
-              "penalty": 50
+              "penalty": 60
             },
             "title": {
               "score": 10,
@@ -9838,7 +9984,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: full game, houstontexans, com, www, tex",
+            "Consider removing: full game, houstontexans, com, www, tex, follow",
             "Title is long (87 chars). Consider shortening to under 70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -9852,7 +9998,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "follow"
           ]
         }
       }
@@ -9878,7 +10025,7 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11326608,
+          "views": 11326760,
           "likes": 162558,
           "comments": 8369
         },
@@ -9921,9 +10068,10 @@
                 "www",
                 "team",
                 "from",
-                "tex"
+                "tex",
+                "follow"
               ],
-              "penalty": 60
+              "penalty": 70
             },
             "title": {
               "score": 10,
@@ -9943,7 +10091,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, from, tex",
+            "Consider removing: houstontexans, com, www, team, from, tex, follow",
             "Title is long (87 chars). Consider shortening to under 70 chars."
           ],
           "boost_keywords_found": [
@@ -9958,7 +10106,8 @@
             "www",
             "team",
             "from",
-            "tex"
+            "tex",
+            "follow"
           ]
         }
       },
@@ -10019,7 +10168,7 @@
                 "play",
                 "win"
               ],
-              "count": 10
+              "count": 12
             },
             "avoid_keywords": {
               "score": 0,
@@ -10028,9 +10177,11 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "his",
+                "down"
               ],
-              "penalty": 50
+              "penalty": 70
             },
             "title": {
               "score": 10,
@@ -10050,7 +10201,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, tex",
+            "Consider removing: watch, houstontexans, com, www, tex, his, down",
             "Title is long (73 chars). Consider shortening to under 70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -10064,14 +10215,18 @@
             "play",
             "win",
             "insane",
-            "clutch"
+            "clutch",
+            "winning",
+            "texans win"
           ],
           "avoid_keywords_found": [
             "watch",
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "his",
+            "down"
           ]
         }
       },
@@ -10142,9 +10297,11 @@
                 "com",
                 "www",
                 "from",
-                "tex"
+                "tex",
+                "his",
+                "j stroud"
               ],
-              "penalty": 70
+              "penalty": 90
             },
             "title": {
               "score": 20,
@@ -10164,7 +10321,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: video, watch, houstontexans, com, www, from, tex",
+            "Consider removing: video, watch, houstontexans, com, www, from, tex, his, j stroud",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
           "boost_keywords_found": [
@@ -10183,7 +10340,9 @@
             "com",
             "www",
             "from",
-            "tex"
+            "tex",
+            "his",
+            "j stroud"
           ]
         }
       },
@@ -10207,8 +10366,8 @@
         "duration_formatted": "2:57",
         "is_short": false,
         "statistics": {
-          "views": 340466,
-          "likes": 5006,
+          "views": 340553,
+          "likes": 5007,
           "comments": 240
         },
         "content_status": {
@@ -10224,7 +10383,7 @@
             }
           ]
         },
-        "vph": 341.2,
+        "vph": 340.9,
         "days_since_published": 40,
         "views_per_day": 8322.4,
         "performance_status": "poor",
@@ -10255,9 +10414,11 @@
                 "com",
                 "www",
                 "from",
-                "tex"
+                "tex",
+                "his",
+                "down"
               ],
-              "penalty": 70
+              "penalty": 90
             },
             "title": {
               "score": 10,
@@ -10277,7 +10438,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: video, watch, houstontexans, com, www, from, tex",
+            "Consider removing: video, watch, houstontexans, com, www, from, tex, his, down",
             "Title is long (92 chars). Consider shortening to under 70 chars."
           ],
           "boost_keywords_found": [
@@ -10300,7 +10461,9 @@
             "com",
             "www",
             "from",
-            "tex"
+            "tex",
+            "his",
+            "down"
           ]
         }
       },
@@ -10324,7 +10487,7 @@
         "duration_formatted": "1:11",
         "is_short": false,
         "statistics": {
-          "views": 324841,
+          "views": 324843,
           "likes": 11567,
           "comments": 529
         },
@@ -10333,7 +10496,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 599.5,
+        "vph": 598.6,
         "days_since_published": 22,
         "views_per_day": 14723.9,
         "performance_status": "good",
@@ -10424,7 +10587,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 196.3,
+        "vph": 196.2,
         "days_since_published": 67,
         "views_per_day": 4756.5,
         "performance_status": "average",
@@ -10513,7 +10676,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 168.0,
+        "vph": 167.9,
         "days_since_published": 51,
         "views_per_day": 4083.9,
         "performance_status": "poor",
@@ -10540,9 +10703,10 @@
               "found": [
                 "houstontexans",
                 "com",
-                "tex"
+                "tex",
+                "down"
               ],
-              "penalty": 30
+              "penalty": 40
             },
             "title": {
               "score": 20,
@@ -10562,7 +10726,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, tex"
+            "Consider removing: houstontexans, com, tex, down"
           ],
           "boost_keywords_found": [
             "texans",
@@ -10577,7 +10741,8 @@
           "avoid_keywords_found": [
             "houstontexans",
             "com",
-            "tex"
+            "tex",
+            "down"
           ]
         }
       },
@@ -10601,8 +10766,8 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 198429,
-          "likes": 1943,
+          "views": 198473,
+          "likes": 1944,
           "comments": 155
         },
         "content_status": {
@@ -10610,7 +10775,7 @@
           "block_reason": "Contains blocked hashtag: #WeAreTexans",
           "flags": []
         },
-        "vph": 158.0,
+        "vph": 157.9,
         "days_since_published": 50,
         "views_per_day": 3844.0,
         "performance_status": "average",
@@ -10635,9 +10800,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "down"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 20,
@@ -10657,7 +10823,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex"
+            "Consider removing: houstontexans, com, www, tex, down"
           ],
           "boost_keywords_found": [
             "texans",
@@ -10670,7 +10836,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "down"
           ]
         }
       },
@@ -10694,8 +10861,8 @@
         "duration_formatted": "16s",
         "is_short": true,
         "statistics": {
-          "views": 181386,
-          "likes": 3487,
+          "views": 181398,
+          "likes": 3488,
           "comments": 218
         },
         "content_status": {
@@ -10703,7 +10870,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 314.2,
+        "vph": 313.7,
         "days_since_published": 23,
         "views_per_day": 7836.6,
         "performance_status": "average",
@@ -10792,7 +10959,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 241.4,
+        "vph": 241.1,
         "days_since_published": 30,
         "views_per_day": 5945.4,
         "performance_status": "average",
@@ -10820,9 +10987,10 @@
                 "com",
                 "www",
                 "from",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 50
+              "penalty": 60
             },
             "title": {
               "score": 20,
@@ -10842,7 +11010,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, from, tex"
+            "Consider removing: houstontexans, com, www, from, tex, his"
           ],
           "boost_keywords_found": [
             "texans",
@@ -10858,7 +11026,8 @@
             "com",
             "www",
             "from",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -10899,7 +11068,7 @@
             }
           ]
         },
-        "vph": 142.7,
+        "vph": 142.6,
         "days_since_published": 49,
         "views_per_day": 3481.9,
         "performance_status": "poor",
@@ -10999,7 +11168,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 165.5,
+        "vph": 165.4,
         "days_since_published": 42,
         "views_per_day": 4010.6,
         "performance_status": "average",
@@ -11090,7 +11259,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 126.7,
+        "vph": 126.6,
         "days_since_published": 41,
         "views_per_day": 3098.1,
         "performance_status": "poor",
@@ -11117,9 +11286,11 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "his",
+                "down"
               ],
-              "penalty": 40
+              "penalty": 60
             },
             "title": {
               "score": 15,
@@ -11139,7 +11310,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, his, down",
             "Title is long (76 chars). Consider shortening to under 70 chars."
           ],
           "boost_keywords_found": [
@@ -11155,7 +11326,9 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "his",
+            "down"
           ]
         }
       },
@@ -11188,7 +11361,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 123.2,
+        "vph": 123.1,
         "days_since_published": 41,
         "views_per_day": 3005.6,
         "performance_status": "poor",
@@ -11274,7 +11447,7 @@
         "duration_formatted": "25s",
         "is_short": true,
         "statistics": {
-          "views": 122042,
+          "views": 122043,
           "likes": 3135,
           "comments": 115
         },
@@ -11283,7 +11456,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 121.7,
+        "vph": 121.6,
         "days_since_published": 41,
         "views_per_day": 2966.2,
         "performance_status": "average",
@@ -11363,7 +11536,7 @@
         "duration_formatted": "4:47",
         "is_short": false,
         "statistics": {
-          "views": 112036,
+          "views": 112037,
           "likes": 1262,
           "comments": 92
         },
@@ -11408,9 +11581,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 20,
@@ -11430,7 +11604,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, his",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
           "boost_keywords_found": [
@@ -11447,7 +11621,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -11471,7 +11646,7 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 3535091,
+          "views": 3535101,
           "likes": 88853,
           "comments": 2131
         },
@@ -11504,9 +11679,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "follow"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 15,
@@ -11526,7 +11702,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, follow",
             "Title is short (18 chars). Aim for 40-70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -11540,7 +11716,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "follow"
           ]
         }
       },
@@ -11564,9 +11741,9 @@
         "duration_formatted": "16:15",
         "is_short": false,
         "statistics": {
-          "views": 105230,
-          "likes": 1612,
-          "comments": 81
+          "views": 105231,
+          "likes": 1613,
+          "comments": 82
         },
         "content_status": {
           "is_blocked": false,
@@ -11601,9 +11778,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "follow"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 20,
@@ -11623,7 +11801,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex"
+            "Consider removing: houstontexans, com, www, tex, follow"
           ],
           "boost_keywords_found": [
             "texans",
@@ -11639,7 +11817,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "follow"
           ]
         }
       },
@@ -11663,8 +11842,8 @@
         "duration_formatted": "5s",
         "is_short": true,
         "statistics": {
-          "views": 102510,
-          "likes": 2538,
+          "views": 102527,
+          "likes": 2539,
           "comments": 48
         },
         "content_status": {
@@ -11672,7 +11851,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 170.3,
+        "vph": 170.1,
         "days_since_published": 24,
         "views_per_day": 4208.4,
         "performance_status": "good",
@@ -11873,7 +12052,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 144.3,
+        "vph": 144.2,
         "days_since_published": 25,
         "views_per_day": 3524.0,
         "performance_status": "average",
@@ -11962,7 +12141,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 138.4,
+        "vph": 138.2,
         "days_since_published": 25,
         "views_per_day": 3370.4,
         "performance_status": "good",
@@ -12042,8 +12221,8 @@
         "duration_formatted": "8:07",
         "is_short": false,
         "statistics": {
-          "views": 111138,
-          "likes": 1651,
+          "views": 111377,
+          "likes": 1653,
           "comments": 191
         },
         "content_status": {
@@ -12059,7 +12238,7 @@
             }
           ]
         },
-        "vph": 359.3,
+        "vph": 358.1,
         "days_since_published": 9,
         "views_per_day": 9333.1,
         "performance_status": "good",
@@ -12079,7 +12258,7 @@
                 "play",
                 "win"
               ],
-              "count": 11
+              "count": 13
             },
             "avoid_keywords": {
               "score": 0,
@@ -12090,9 +12269,12 @@
                 "www",
                 "team",
                 "from",
-                "tex"
+                "tex",
+                "his",
+                "down",
+                "follow"
               ],
-              "penalty": 70
+              "penalty": 100
             },
             "title": {
               "score": 20,
@@ -12112,7 +12294,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex",
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, down, follow",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
           "boost_keywords_found": [
@@ -12126,7 +12308,9 @@
             "win",
             "over",
             "win over",
-            "over the"
+            "over the",
+            "texans win",
+            "finish"
           ],
           "avoid_keywords_found": [
             "watch",
@@ -12135,7 +12319,10 @@
             "www",
             "team",
             "from",
-            "tex"
+            "tex",
+            "his",
+            "down",
+            "follow"
           ]
         }
       },
@@ -12204,9 +12391,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 15,
@@ -12226,7 +12414,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, his",
             "Title is long (87 chars). Consider shortening to under 70 chars."
           ],
           "boost_keywords_found": [
@@ -12244,7 +12432,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -12300,9 +12489,11 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "down",
+                "follow"
               ],
-              "penalty": 40
+              "penalty": 60
             },
             "title": {
               "score": 10,
@@ -12322,7 +12513,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, down, follow",
             "Title is short (35 chars). Aim for 40-70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -12335,7 +12526,9 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "down",
+            "follow"
           ]
         }
       },
@@ -12368,7 +12561,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 161.9,
+        "vph": 161.6,
         "days_since_published": 18,
         "views_per_day": 4029.7,
         "performance_status": "excellent",
@@ -12393,9 +12586,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 15,
@@ -12415,7 +12609,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, his",
             "Title is short (35 chars). Aim for 40-70 chars.",
             "Add more description text (aim for 200+ characters)"
           ],
@@ -12430,7 +12624,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -12471,7 +12666,7 @@
             }
           ]
         },
-        "vph": 88.0,
+        "vph": 87.9,
         "days_since_published": 32,
         "views_per_day": 2158.9,
         "performance_status": "good",
@@ -12563,7 +12758,7 @@
         "duration_formatted": "47s",
         "is_short": true,
         "statistics": {
-          "views": 68104,
+          "views": 68118,
           "likes": 4577,
           "comments": 201
         },
@@ -12572,7 +12767,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 500.3,
+        "vph": 497.3,
         "days_since_published": 5,
         "views_per_day": 13268.6,
         "performance_status": "good",
@@ -12690,9 +12885,12 @@
                 "com",
                 "www",
                 "team",
-                "tex"
+                "tex",
+                "his",
+                "down",
+                "follow"
               ],
-              "penalty": 50
+              "penalty": 80
             },
             "title": {
               "score": 20,
@@ -12712,7 +12910,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, tex"
+            "Consider removing: houstontexans, com, www, team, tex, his, down, follow"
           ],
           "boost_keywords_found": [
             "texans",
@@ -12725,7 +12923,10 @@
             "com",
             "www",
             "team",
-            "tex"
+            "tex",
+            "his",
+            "down",
+            "follow"
           ]
         }
       },
@@ -12840,7 +13041,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 64592,
+          "views": 64590,
           "likes": 2171,
           "comments": 43
         },
@@ -12946,7 +13147,7 @@
             }
           ]
         },
-        "vph": 104.1,
+        "vph": 103.9,
         "days_since_published": 25,
         "views_per_day": 2534.8,
         "performance_status": "excellent",
@@ -12966,7 +13167,7 @@
                 "clutch",
                 "locker room"
               ],
-              "count": 14
+              "count": 17
             },
             "avoid_keywords": {
               "score": 0,
@@ -12976,9 +13177,10 @@
                 "www",
                 "team",
                 "from",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 60
+              "penalty": 70
             },
             "title": {
               "score": 20,
@@ -12998,7 +13200,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, from, tex",
+            "Consider removing: houstontexans, com, www, team, from, tex, his",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
           "boost_keywords_found": [
@@ -13015,7 +13217,10 @@
             "room",
             "after the",
             "chiefs",
-            "road"
+            "road",
+            "winning",
+            "defense for",
+            "finish"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -13023,7 +13228,8 @@
             "www",
             "team",
             "from",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -13047,7 +13253,7 @@
         "duration_formatted": "6:17",
         "is_short": false,
         "statistics": {
-          "views": 460882,
+          "views": 460884,
           "likes": 8758,
           "comments": 874
         },
@@ -13081,9 +13287,10 @@
                 "com",
                 "www",
                 "from",
-                "tex"
+                "tex",
+                "follow"
               ],
-              "penalty": 60
+              "penalty": 70
             },
             "title": {
               "score": 20,
@@ -13103,7 +13310,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, from, tex",
+            "Consider removing: watch, houstontexans, com, www, from, tex, follow",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
           "boost_keywords_found": [
@@ -13117,7 +13324,8 @@
             "com",
             "www",
             "from",
-            "tex"
+            "tex",
+            "follow"
           ]
         }
       },
@@ -13158,7 +13366,7 @@
             }
           ]
         },
-        "vph": 467.3,
+        "vph": 464.5,
         "days_since_published": 5,
         "views_per_day": 12398.2,
         "performance_status": "good",
@@ -13188,9 +13396,10 @@
                 "www",
                 "team",
                 "from",
-                "tex"
+                "tex",
+                "his"
               ],
-              "penalty": 60
+              "penalty": 70
             },
             "title": {
               "score": 20,
@@ -13210,7 +13419,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, from, tex",
+            "Consider removing: houstontexans, com, www, team, from, tex, his",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
           "boost_keywords_found": [
@@ -13243,7 +13452,8 @@
             "www",
             "team",
             "from",
-            "tex"
+            "tex",
+            "his"
           ]
         }
       },
@@ -13380,7 +13590,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 217.3,
+        "vph": 216.6,
         "days_since_published": 11,
         "views_per_day": 5478.8,
         "performance_status": "good",
@@ -13400,7 +13610,7 @@
                 "postgame",
                 "after"
               ],
-              "count": 11
+              "count": 12
             },
             "avoid_keywords": {
               "score": 0,
@@ -13445,7 +13655,8 @@
             "after",
             "locker",
             "room",
-            "after the"
+            "after the",
+            "finish"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -13484,7 +13695,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 95.2,
+        "vph": 95.1,
         "days_since_published": 25,
         "views_per_day": 2321.0,
         "performance_status": "good",
@@ -13657,8 +13868,8 @@
         "duration_formatted": "2:08",
         "is_short": false,
         "statistics": {
-          "views": 57734,
-          "likes": 4457,
+          "views": 57750,
+          "likes": 4458,
           "comments": 196
         },
         "content_status": {
@@ -13674,7 +13885,7 @@
             }
           ]
         },
-        "vph": 430.1,
+        "vph": 427.5,
         "days_since_published": 5,
         "views_per_day": 11411.8,
         "performance_status": "excellent",
@@ -13778,7 +13989,7 @@
         "duration_formatted": "8s",
         "is_short": true,
         "statistics": {
-          "views": 56929,
+          "views": 56931,
           "likes": 1355,
           "comments": 27
         },
@@ -13795,7 +14006,7 @@
             }
           ]
         },
-        "vph": 44.2,
+        "vph": 44.1,
         "days_since_published": 53,
         "views_per_day": 1072.9,
         "performance_status": "average",
@@ -13972,7 +14183,7 @@
         "duration_formatted": "11:52",
         "is_short": false,
         "statistics": {
-          "views": 56022,
+          "views": 56032,
           "likes": 1206,
           "comments": 95
         },
@@ -14009,7 +14220,7 @@
                 "int",
                 "catch"
               ],
-              "count": 23
+              "count": 24
             },
             "avoid_keywords": {
               "score": 0,
@@ -14019,9 +14230,11 @@
                 "www",
                 "team",
                 "from",
-                "tex"
+                "tex",
+                "his",
+                "down"
               ],
-              "penalty": 60
+              "penalty": 80
             },
             "title": {
               "score": 20,
@@ -14041,7 +14254,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, from, tex"
+            "Consider removing: houstontexans, com, www, team, from, tex, his, down"
           ],
           "boost_keywords_found": [
             "texans",
@@ -14066,7 +14279,8 @@
             "over",
             "win over",
             "over the",
-            "speech"
+            "speech",
+            "finish"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -14074,7 +14288,9 @@
             "www",
             "team",
             "from",
-            "tex"
+            "tex",
+            "his",
+            "down"
           ]
         }
       },
@@ -14098,7 +14314,7 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 52548,
+          "views": 52554,
           "likes": 1638,
           "comments": 65
         },
@@ -14196,7 +14412,7 @@
           "block_reason": "Contains blocked hashtag: #WeAreTexans",
           "flags": []
         },
-        "vph": 24.6,
+        "vph": 24.5,
         "days_since_published": 87,
         "views_per_day": 594.6,
         "performance_status": "poor",
@@ -14291,7 +14507,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 84.4,
+        "vph": 84.3,
         "days_since_published": 25,
         "views_per_day": 2060.0,
         "performance_status": "average",
@@ -14568,7 +14784,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 128.1,
+        "vph": 127.9,
         "days_since_published": 16,
         "views_per_day": 3175.3,
         "performance_status": "good",
@@ -14636,8 +14852,8 @@
         "duration_formatted": "13s",
         "is_short": true,
         "statistics": {
-          "views": 51729,
-          "likes": 1493,
+          "views": 51748,
+          "likes": 1494,
           "comments": 40
         },
         "content_status": {
@@ -14645,7 +14861,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 82.3,
+        "vph": 82.2,
         "days_since_published": 25,
         "views_per_day": 2016.4,
         "performance_status": "average",
@@ -14667,9 +14883,10 @@
                 "houstontexans",
                 "com",
                 "www",
-                "tex"
+                "tex",
+                "down"
               ],
-              "penalty": 40
+              "penalty": 50
             },
             "title": {
               "score": 15,
@@ -14690,7 +14907,7 @@
           },
           "suggestions": [
             "Add more high-performing keywords like: texans, houston, h-town, htx, nrg",
-            "Consider removing: houstontexans, com, www, tex",
+            "Consider removing: houstontexans, com, www, tex, down",
             "Title is short (25 chars). Aim for 40-70 chars."
           ],
           "boost_keywords_found": [
@@ -14701,7 +14918,8 @@
             "houstontexans",
             "com",
             "www",
-            "tex"
+            "tex",
+            "down"
           ]
         }
       },
@@ -14725,7 +14943,7 @@
         "duration_formatted": "2:17",
         "is_short": false,
         "statistics": {
-          "views": 50404,
+          "views": 50408,
           "likes": 4732,
           "comments": 167
         },
