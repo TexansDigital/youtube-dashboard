@@ -791,21 +791,26 @@
     "dialogue",
     "teammates",
     "sideline",
-    "in-game"
+    "in-game",
+    "adjustments",
+    "emotion",
+    "highest",
+    "level",
+    "third-down"
   ],
-  "last_updated": "2026-01-05T07:08:47.355487-06:00",
+  "last_updated": "2026-01-05T07:51:19.085669-06:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
     "new_boost_keywords": [],
     "new_avoid_keywords": [
-      "on-field",
-      "dialogue",
-      "teammates",
-      "sideline",
-      "in-game"
+      "adjustments",
+      "emotion",
+      "highest",
+      "level",
+      "third-down"
     ],
-    "analysis_date": "2026-01-05T07:08:47.355449-06:00"
+    "analysis_date": "2026-01-05T07:51:19.085635-06:00"
   }
 }
