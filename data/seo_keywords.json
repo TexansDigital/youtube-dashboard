@@ -771,21 +771,26 @@
     "step",
     "battle",
     "pregame",
-    "late-game"
+    "late-game",
+    "execution",
+    "voice",
+    "leads",
+    "communication",
+    "confidence"
   ],
-  "last_updated": "2026-01-05T02:49:59.578078-06:00",
+  "last_updated": "2026-01-05T03:47:02.865425-06:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
     "new_boost_keywords": [],
     "new_avoid_keywords": [
-      "wild",
-      "step",
-      "battle",
-      "pregame",
-      "late-game"
+      "execution",
+      "voice",
+      "leads",
+      "communication",
+      "confidence"
     ],
-    "analysis_date": "2026-01-05T02:49:59.578048-06:00"
+    "analysis_date": "2026-01-05T03:47:02.865386-06:00"
   }
 }
