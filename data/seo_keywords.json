@@ -488,7 +488,11 @@
     "way postgame",
     "postgame locker",
     "raiders win",
-    "win subscribe"
+    "win subscribe",
+    "like",
+    "building",
+    "media",
+    "plus"
   ],
   "avoid": [
     "watson",
@@ -906,21 +910,31 @@
     "game the",
     "way this",
     "this mic",
-    "up features"
+    "up features",
+    "off",
+    "features on-field",
+    "on-field dialogue",
+    "dialogue with",
+    "with teammates"
   ],
-  "last_updated": "2026-01-05T23:41:24.767106-06:00",
+  "last_updated": "2026-01-06T00:51:47.403671-06:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
-    "new_boost_keywords": [],
-    "new_avoid_keywords": [
-      "close the",
-      "game the",
-      "way this",
-      "this mic",
-      "up features"
+    "new_boost_keywords": [
+      "like",
+      "building",
+      "media",
+      "plus"
     ],
-    "analysis_date": "2026-01-05T23:41:24.767062-06:00"
+    "new_avoid_keywords": [
+      "off",
+      "features on-field",
+      "on-field dialogue",
+      "dialogue with",
+      "with teammates"
+    ],
+    "analysis_date": "2026-01-06T00:51:47.403627-06:00"
   }
 }
