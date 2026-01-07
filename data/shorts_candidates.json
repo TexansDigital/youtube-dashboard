@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-01-07T14:48:08.982755-06:00",
-  "total_candidates": 10,
+  "generated_at": "2026-01-07T15:41:16.511574-06:00",
+  "total_candidates": 11,
   "candidates": [
+    {
+      "video_id": "BfXh2WSteEQ",
+      "video_title": "Annual Houston Texans Wiener Dog Races",
+      "video_url": "https://youtube.com/watch?v=BfXh2WSteEQ",
+      "timestamped_url": "https://youtube.com/watch?v=BfXh2WSteEQ&t=18",
+      "start_seconds": 18,
+      "end_seconds": 56,
+      "start_formatted": "0:18",
+      "end_formatted": "0:56",
+      "clip_duration": 38,
+      "retention_score": 79.4,
+      "video_avg_retention": 52.6,
+      "retention_boost": 1.51,
+      "priority_score": 181.1,
+      "flags": [],
+      "suggested_title": {
+        "suggestion": "H-Town Made \ud83d\udcaa",
+        "alternatives": [
+          "Houston is BUILT DIFFERENT \ud83d\udd25",
+          "The Swarm came to PLAY \ud83d\udc1d"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#Shorts"
+      ],
+      "content_type": "general",
+      "source_video_views": 136748,
+      "identified_at": "2026-01-07T15:39:52.181407-06:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
     {
       "video_id": "f7SIY6hT_p0",
       "video_title": "C.J. Stroud mic'd up | Listen in as the Houston Texans QB helps his team to a big home win",
@@ -45,7 +82,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 258981,
-      "identified_at": "2026-01-07T14:46:15.883355-06:00",
+      "identified_at": "2026-01-07T15:39:25.372813-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -82,7 +119,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 28939,
-      "identified_at": "2026-01-07T14:44:49.213068-06:00",
+      "identified_at": "2026-01-07T15:37:55.174137-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -128,7 +165,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 354818,
-      "identified_at": "2026-01-07T14:39:00.524792-06:00",
+      "identified_at": "2026-01-07T15:33:14.582599-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -173,7 +210,7 @@
       ],
       "content_type": "general",
       "source_video_views": 170680,
-      "identified_at": "2026-01-07T14:39:33.033775-06:00",
+      "identified_at": "2026-01-07T15:33:36.983715-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -220,7 +257,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 112939,
-      "identified_at": "2026-01-07T14:47:02.214843-06:00",
+      "identified_at": "2026-01-07T15:40:20.423461-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -258,7 +295,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 193275,
-      "identified_at": "2026-01-07T14:39:24.546771-06:00",
+      "identified_at": "2026-01-07T15:33:28.100104-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -295,7 +332,7 @@
       ],
       "content_type": "general",
       "source_video_views": 461548,
-      "identified_at": "2026-01-07T14:45:48.710616-06:00",
+      "identified_at": "2026-01-07T15:38:54.604988-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -342,7 +379,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 101379,
-      "identified_at": "2026-01-07T14:47:33.764228-06:00",
+      "identified_at": "2026-01-07T15:40:43.586440-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -379,7 +416,7 @@
       ],
       "content_type": "interview",
       "source_video_views": 105318,
-      "identified_at": "2026-01-07T14:47:20.248749-06:00",
+      "identified_at": "2026-01-07T15:40:40.762979-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -417,7 +454,7 @@
       ],
       "content_type": "general",
       "source_video_views": 36545,
-      "identified_at": "2026-01-07T14:43:06.490643-06:00",
+      "identified_at": "2026-01-07T15:36:35.378619-06:00",
       "clip_created": false,
       "shorts_video_id": null
     }
