@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-13T13:37:44.365809-06:00",
+  "generated_at": "2026-01-13T14:45:29.059181-06:00",
   "total_candidates": 11,
   "candidates": [
     {
@@ -34,8 +34,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 137241,
-      "identified_at": "2026-01-13T13:36:29.062269-06:00",
+      "source_video_views": 137348,
+      "identified_at": "2026-01-13T14:44:43.134987-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -81,8 +81,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 259065,
-      "identified_at": "2026-01-13T13:36:04.342211-06:00",
+      "source_video_views": 259078,
+      "identified_at": "2026-01-13T14:44:22.038095-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -96,7 +96,7 @@
       "start_formatted": "0:06",
       "end_formatted": "0:22",
       "clip_duration": 16,
-      "retention_score": 92.6,
+      "retention_score": 92.5,
       "video_avg_retention": 62.9,
       "retention_boost": 1.47,
       "priority_score": 147.1,
@@ -118,8 +118,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 29067,
-      "identified_at": "2026-01-13T13:34:57.638232-06:00",
+      "source_video_views": 29086,
+      "identified_at": "2026-01-13T14:43:35.555316-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -164,8 +164,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 380439,
-      "identified_at": "2026-01-13T13:30:52.342329-06:00",
+      "source_video_views": 384545,
+      "identified_at": "2026-01-13T14:38:39.595551-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -209,46 +209,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 170740,
-      "identified_at": "2026-01-13T13:31:23.300262-06:00",
-      "clip_created": false,
-      "shorts_video_id": null
-    },
-    {
-      "video_id": "ImyI9AMRX9c",
-      "video_title": "DeMeco Ryans Reacts to Players Reacting to His Old Highlights \ud83d\ude02",
-      "video_url": "https://youtube.com/watch?v=ImyI9AMRX9c",
-      "timestamped_url": "https://youtube.com/watch?v=ImyI9AMRX9c&t=18",
-      "start_seconds": 18,
-      "end_seconds": 38,
-      "start_formatted": "0:18",
-      "end_formatted": "0:38",
-      "clip_duration": 20,
-      "retention_score": 79.2,
-      "video_avg_retention": 59.1,
-      "retention_boost": 1.34,
-      "priority_score": 134.2,
-      "flags": [],
-      "suggested_title": {
-        "suggestion": "DeMeco Ryans gets it \ud83d\ude24",
-        "alternatives": [
-          "Coach DeMeco Ryans is HIM \ud83d\udd25",
-          "This is why we love DeMeco \ud83d\udcaa"
-        ],
-        "confidence": "\ud83d\udcca Performance-based",
-        "note": "Based on title patterns from high-performing Texans content"
-      },
-      "suggested_hashtags": [
-        "#Texans",
-        "#NFL",
-        "#Houston",
-        "#HoustonTexans",
-        "#NFLHighlights",
-        "#Shorts"
-      ],
-      "content_type": "highlight",
-      "source_video_views": 204442,
-      "identified_at": "2026-01-13T13:31:11.645928-06:00",
+      "source_video_views": 170743,
+      "identified_at": "2026-01-13T14:39:13.405365-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -294,8 +256,46 @@
         "#Shorts"
       ],
       "content_type": "behind_the_scenes",
-      "source_video_views": 113135,
-      "identified_at": "2026-01-13T13:36:50.632883-06:00",
+      "source_video_views": 113170,
+      "identified_at": "2026-01-13T14:44:52.577590-06:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "ImyI9AMRX9c",
+      "video_title": "DeMeco Ryans Reacts to Players Reacting to His Old Highlights \ud83d\ude02",
+      "video_url": "https://youtube.com/watch?v=ImyI9AMRX9c",
+      "timestamped_url": "https://youtube.com/watch?v=ImyI9AMRX9c&t=18",
+      "start_seconds": 18,
+      "end_seconds": 38,
+      "start_formatted": "0:18",
+      "end_formatted": "0:38",
+      "clip_duration": 20,
+      "retention_score": 79.3,
+      "video_avg_retention": 59.1,
+      "retention_boost": 1.34,
+      "priority_score": 134.1,
+      "flags": [],
+      "suggested_title": {
+        "suggestion": "DeMeco Ryans gets it \ud83d\ude24",
+        "alternatives": [
+          "Coach DeMeco Ryans is HIM \ud83d\udd25",
+          "This is why we love DeMeco \ud83d\udcaa"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#NFLHighlights",
+        "#Shorts"
+      ],
+      "content_type": "highlight",
+      "source_video_views": 205869,
+      "identified_at": "2026-01-13T14:38:55.492812-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -331,8 +331,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 462527,
-      "identified_at": "2026-01-13T13:35:36.482909-06:00",
+      "source_video_views": 462769,
+      "identified_at": "2026-01-13T14:44:01.131133-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -378,8 +378,8 @@
         "#Shorts"
       ],
       "content_type": "behind_the_scenes",
-      "source_video_views": 101638,
-      "identified_at": "2026-01-13T13:37:16.103302-06:00",
+      "source_video_views": 101665,
+      "identified_at": "2026-01-13T14:45:06.142877-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -415,8 +415,8 @@
         "#Shorts"
       ],
       "content_type": "interview",
-      "source_video_views": 105397,
-      "identified_at": "2026-01-13T13:37:05.345902-06:00",
+      "source_video_views": 105410,
+      "identified_at": "2026-01-13T14:45:04.984917-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -430,10 +430,10 @@
       "start_formatted": "3:30",
       "end_formatted": "4:30",
       "clip_duration": 60,
-      "retention_score": 50.8,
-      "video_avg_retention": 38.6,
+      "retention_score": 50.9,
+      "video_avg_retention": 38.7,
       "retention_boost": 1.32,
-      "priority_score": 118.5,
+      "priority_score": 118.4,
       "flags": [],
       "suggested_title": {
         "suggestion": "Houston is BUILT DIFFERENT \ud83d\udd25",
@@ -453,8 +453,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 48290,
-      "identified_at": "2026-01-13T13:32:49.055911-06:00",
+      "source_video_views": 48718,
+      "identified_at": "2026-01-13T14:41:27.674950-06:00",
       "clip_created": false,
       "shorts_video_id": null
     }
