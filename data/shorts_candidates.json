@@ -1,7 +1,52 @@
 {
-  "generated_at": "2026-01-29T00:05:39.091571-06:00",
-  "total_candidates": 8,
+  "generated_at": "2026-01-29T01:13:57.021309-06:00",
+  "total_candidates": 9,
   "candidates": [
+    {
+      "video_id": "-GKhJzzrzAw",
+      "video_title": "LIVE: The Houston Texans address the media",
+      "video_url": "https://youtube.com/watch?v=-GKhJzzrzAw",
+      "timestamped_url": "https://youtube.com/watch?v=-GKhJzzrzAw&t=1741",
+      "start_seconds": 1741,
+      "end_seconds": 1801,
+      "start_formatted": "29:01",
+      "end_formatted": "30:01",
+      "clip_duration": 60,
+      "retention_score": 24.1,
+      "video_avg_retention": 10.6,
+      "retention_boost": 2.28,
+      "priority_score": 204.9,
+      "flags": [
+        {
+          "type": "content",
+          "name": "ad",
+          "emoji": "\ud83d\udcb0",
+          "note": "Sponsored content - use conservative titling",
+          "show_banner": false
+        }
+      ],
+      "suggested_title": {
+        "suggestion": "H-Town Made \ud83d\udcaa",
+        "alternatives": [
+          "Houston is BUILT DIFFERENT \ud83d\udd25",
+          "The Swarm came to PLAY \ud83d\udc1d"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#Shorts"
+      ],
+      "content_type": "historical",
+      "source_video_views": 30832,
+      "identified_at": "2026-01-29T01:12:23.881376-06:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
     {
       "video_id": "BfXh2WSteEQ",
       "video_title": "Annual Houston Texans Wiener Dog Races",
@@ -35,7 +80,7 @@
       ],
       "content_type": "general",
       "source_video_views": 138638,
-      "identified_at": "2026-01-29T00:05:23.393346-06:00",
+      "identified_at": "2026-01-29T01:13:31.684271-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -82,7 +127,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 259353,
-      "identified_at": "2026-01-29T00:04:58.223436-06:00",
+      "identified_at": "2026-01-29T01:13:01.179223-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -128,7 +173,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 459609,
-      "identified_at": "2026-01-28T23:59:05.435042-06:00",
+      "identified_at": "2026-01-29T01:06:18.144780-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -173,7 +218,7 @@
       ],
       "content_type": "general",
       "source_video_views": 170929,
-      "identified_at": "2026-01-28T23:59:44.878660-06:00",
+      "identified_at": "2026-01-29T01:07:08.241642-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -220,7 +265,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 113588,
-      "identified_at": "2026-01-29T00:05:38.135230-06:00",
+      "identified_at": "2026-01-29T01:13:50.837343-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -258,7 +303,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 244637,
-      "identified_at": "2026-01-28T23:59:19.044260-06:00",
+      "identified_at": "2026-01-29T01:06:36.059920-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -295,7 +340,7 @@
       ],
       "content_type": "general",
       "source_video_views": 477475,
-      "identified_at": "2026-01-29T00:04:36.128043-06:00",
+      "identified_at": "2026-01-29T01:12:41.253848-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -333,7 +378,7 @@
       ],
       "content_type": "general",
       "source_video_views": 53850,
-      "identified_at": "2026-01-29T00:01:59.301039-06:00",
+      "identified_at": "2026-01-29T01:09:33.559247-06:00",
       "clip_created": false,
       "shorts_video_id": null
     }
