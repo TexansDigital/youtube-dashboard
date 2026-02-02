@@ -612,7 +612,14 @@
     "rankins",
     "mic'd",
     "patriots",
-    "up subscribe"
+    "up subscribe",
+    "knew",
+    "coming",
+    "like he",
+    "he knew",
+    "knew it",
+    "was coming",
+    "coming mic'd"
   ],
   "avoid": [
     "watson",
@@ -1295,15 +1302,26 @@
     "as they",
     "jdub",
     "requires",
-    "episode 10"
+    "episode 10",
+    "if you"
   ],
-  "last_updated": "2026-02-02T11:57:51.153729-06:00",
+  "last_updated": "2026-02-02T17:43:30.672543-06:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
-    "new_boost_keywords": [],
-    "new_avoid_keywords": [],
-    "analysis_date": "2026-02-02T11:57:51.153691-06:00"
+    "new_boost_keywords": [
+      "knew",
+      "coming",
+      "like he",
+      "he knew",
+      "knew it",
+      "was coming",
+      "coming mic'd"
+    ],
+    "new_avoid_keywords": [
+      "if you"
+    ],
+    "analysis_date": "2026-02-02T17:43:30.672509-06:00"
   }
 }
