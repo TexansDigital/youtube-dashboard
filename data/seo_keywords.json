@@ -1313,15 +1313,18 @@
     "academy silent",
     "drill team",
     "the jolly",
-    "jolly rogers"
+    "jolly rogers",
+    "kirk"
   ],
-  "last_updated": "2026-02-03T13:52:35.684549-06:00",
+  "last_updated": "2026-02-03T14:54:59.600736-06:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
     "new_boost_keywords": [],
-    "new_avoid_keywords": [],
-    "analysis_date": "2026-02-03T13:52:35.684505-06:00"
+    "new_avoid_keywords": [
+      "kirk"
+    ],
+    "analysis_date": "2026-02-03T14:54:59.600691-06:00"
   }
 }
