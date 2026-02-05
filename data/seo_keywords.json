@@ -1316,15 +1316,20 @@
     "drill team",
     "the jolly",
     "jolly rogers",
-    "kirk"
+    "kirk",
+    "brian",
+    "brian cushing"
   ],
-  "last_updated": "2026-02-05T13:50:01.736688-06:00",
+  "last_updated": "2026-02-05T14:50:54.700512-06:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
     "new_boost_keywords": [],
-    "new_avoid_keywords": [],
-    "analysis_date": "2026-02-05T13:50:01.736641-06:00"
+    "new_avoid_keywords": [
+      "brian",
+      "brian cushing"
+    ],
+    "analysis_date": "2026-02-05T14:50:54.700465-06:00"
   }
 }
