@@ -1318,15 +1318,22 @@
     "jolly rogers",
     "kirk",
     "brian",
-    "brian cushing"
+    "brian cushing",
+    "hits",
+    "steelers",
+    "pitre mic"
   ],
-  "last_updated": "2026-02-05T22:57:47.631993-06:00",
+  "last_updated": "2026-02-06T00:07:17.579368-06:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
     "new_boost_keywords": [],
-    "new_avoid_keywords": [],
-    "analysis_date": "2026-02-05T22:57:47.631952-06:00"
+    "new_avoid_keywords": [
+      "hits",
+      "steelers",
+      "pitre mic"
+    ],
+    "analysis_date": "2026-02-06T00:07:17.579330-06:00"
   }
 }
