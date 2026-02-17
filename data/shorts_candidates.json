@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T03:12:44.058193-06:00",
-  "total_candidates": 8,
+  "generated_at": "2026-02-17T04:14:04.082734-06:00",
+  "total_candidates": 9,
   "candidates": [
     {
       "video_id": "-GKhJzzrzAw",
@@ -43,7 +43,44 @@
       ],
       "content_type": "historical",
       "source_video_views": 30907,
-      "identified_at": "2026-02-17T03:11:23.706021-06:00",
+      "identified_at": "2026-02-17T04:12:46.770382-06:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "BfXh2WSteEQ",
+      "video_title": "Annual Houston Texans Wiener Dog Races",
+      "video_url": "https://youtube.com/watch?v=BfXh2WSteEQ",
+      "timestamped_url": "https://youtube.com/watch?v=BfXh2WSteEQ&t=18",
+      "start_seconds": 18,
+      "end_seconds": 56,
+      "start_formatted": "0:18",
+      "end_formatted": "0:56",
+      "clip_duration": 38,
+      "retention_score": 79.4,
+      "video_avg_retention": 52.6,
+      "retention_boost": 1.51,
+      "priority_score": 181.1,
+      "flags": [],
+      "suggested_title": {
+        "suggestion": "H-Town Made \ud83d\udcaa",
+        "alternatives": [
+          "Houston is BUILT DIFFERENT \ud83d\udd25",
+          "The Swarm came to PLAY \ud83d\udc1d"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#Shorts"
+      ],
+      "content_type": "general",
+      "source_video_views": 141209,
+      "identified_at": "2026-02-17T04:13:41.217177-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -90,7 +127,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 259502,
-      "identified_at": "2026-02-17T03:11:53.738858-06:00",
+      "identified_at": "2026-02-17T04:13:11.616228-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -136,7 +173,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 480414,
-      "identified_at": "2026-02-17T03:04:48.767364-06:00",
+      "identified_at": "2026-02-17T04:06:26.538324-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -181,7 +218,7 @@
       ],
       "content_type": "general",
       "source_video_views": 164823,
-      "identified_at": "2026-02-17T03:05:47.305222-06:00",
+      "identified_at": "2026-02-17T04:07:22.827447-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -228,7 +265,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 113701,
-      "identified_at": "2026-02-17T03:12:33.257326-06:00",
+      "identified_at": "2026-02-17T04:13:51.913363-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -266,7 +303,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 247972,
-      "identified_at": "2026-02-17T03:05:09.964068-06:00",
+      "identified_at": "2026-02-17T04:06:41.445697-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -303,7 +340,7 @@
       ],
       "content_type": "general",
       "source_video_views": 33250,
-      "identified_at": "2026-02-17T03:10:01.017443-06:00",
+      "identified_at": "2026-02-17T04:11:50.846947-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -341,7 +378,7 @@
       ],
       "content_type": "general",
       "source_video_views": 54270,
-      "identified_at": "2026-02-17T03:08:11.117446-06:00",
+      "identified_at": "2026-02-17T04:09:52.151572-06:00",
       "clip_created": false,
       "shorts_video_id": null
     }
