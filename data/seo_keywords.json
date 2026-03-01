@@ -642,7 +642,17 @@
     "every houston",
     "texans touchdown",
     "td compilation",
-    "goals"
+    "goals",
+    "place",
+    "in one",
+    "one place",
+    "this full",
+    "there",
+    "into",
+    "global",
+    "headquarters",
+    "county",
+    "sports"
   ],
   "avoid": [
     "watson",
@@ -1353,32 +1363,37 @@
     "standings",
     "team players-roster",
     "players-roster https",
-    "team stats"
+    "team stats",
+    "stats https",
+    "team team-history",
+    "team-history https",
+    "team standings",
+    "standings https"
   ],
-  "last_updated": "2026-03-01T01:46:27.158330-06:00",
+  "last_updated": "2026-03-01T02:47:35.669990-06:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
     "new_boost_keywords": [
-      "in 2025",
-      "the 2025",
-      "field",
-      "goal",
-      "harris",
-      "best of",
-      "every houston",
-      "texans touchdown",
-      "td compilation",
-      "goals"
+      "place",
+      "in one",
+      "one place",
+      "this full",
+      "there",
+      "into",
+      "global",
+      "headquarters",
+      "county",
+      "sports"
     ],
     "new_avoid_keywords": [
-      "team-history",
-      "standings",
-      "team players-roster",
-      "players-roster https",
-      "team stats"
+      "stats https",
+      "team team-history",
+      "team-history https",
+      "team standings",
+      "standings https"
     ],
-    "analysis_date": "2026-03-01T01:46:27.158292-06:00"
+    "analysis_date": "2026-03-01T02:47:35.669960-06:00"
   }
 }
