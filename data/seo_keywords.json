@@ -652,7 +652,17 @@
     "global",
     "headquarters",
     "county",
-    "sports"
+    "sports",
+    "harris county",
+    "ka'imi",
+    "fairbairn",
+    "record",
+    "mark",
+    "ka'imi fairbairn",
+    "field goal",
+    "all 44",
+    "44 field",
+    "field goals"
   ],
   "avoid": [
     "watson",
@@ -1368,32 +1378,37 @@
     "team team-history",
     "team-history https",
     "team standings",
-    "standings https"
+    "standings https",
+    "naval",
+    "commanders",
+    "strike",
+    "fighter",
+    "squadron"
   ],
-  "last_updated": "2026-03-01T02:47:35.669990-06:00",
+  "last_updated": "2026-03-01T03:43:46.823925-06:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
     "new_boost_keywords": [
-      "place",
-      "in one",
-      "one place",
-      "this full",
-      "there",
-      "into",
-      "global",
-      "headquarters",
-      "county",
-      "sports"
+      "harris county",
+      "ka'imi",
+      "fairbairn",
+      "record",
+      "mark",
+      "ka'imi fairbairn",
+      "field goal",
+      "all 44",
+      "44 field",
+      "field goals"
     ],
     "new_avoid_keywords": [
-      "stats https",
-      "team team-history",
-      "team-history https",
-      "team standings",
-      "standings https"
+      "naval",
+      "commanders",
+      "strike",
+      "fighter",
+      "squadron"
     ],
-    "analysis_date": "2026-03-01T02:47:35.669960-06:00"
+    "analysis_date": "2026-03-01T03:43:46.823894-06:00"
   }
 }
