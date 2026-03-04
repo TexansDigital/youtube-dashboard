@@ -1643,15 +1643,18 @@
     "nick caserio",
     "press conference",
     "the afc",
-    "afc south"
+    "afc south",
+    "can you"
   ],
-  "last_updated": "2026-03-04T16:49:27.835292-06:00",
+  "last_updated": "2026-03-04T17:43:54.034841-06:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
     "new_boost_keywords": [],
-    "new_avoid_keywords": [],
-    "analysis_date": "2026-03-04T16:49:27.835250-06:00"
+    "new_avoid_keywords": [
+      "can you"
+    ],
+    "analysis_date": "2026-03-04T17:43:54.034795-06:00"
   }
 }
