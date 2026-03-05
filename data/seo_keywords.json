@@ -1644,15 +1644,18 @@
     "press conference",
     "the afc",
     "afc south",
-    "can you"
+    "can you",
+    "career"
   ],
-  "last_updated": "2026-03-04T22:54:29.464663-06:00",
+  "last_updated": "2026-03-05T00:02:32.427690-06:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
     "new_boost_keywords": [],
-    "new_avoid_keywords": [],
-    "analysis_date": "2026-03-04T22:54:29.464629-06:00"
+    "new_avoid_keywords": [
+      "career"
+    ],
+    "analysis_date": "2026-03-05T00:02:32.427621-06:00"
   }
 }
