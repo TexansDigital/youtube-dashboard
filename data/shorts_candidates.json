@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T14:46:30.913950-06:00",
+  "generated_at": "2026-03-07T15:40:45.159869-06:00",
   "total_candidates": 13,
   "candidates": [
     {
@@ -43,13 +43,13 @@
       ],
       "content_type": "press_conference",
       "source_video_views": 30937,
-      "identified_at": "2026-03-07T14:43:46.096952-06:00",
+      "identified_at": "2026-03-07T15:38:25.545930-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
     {
       "video_id": "BfXh2WSteEQ",
-      "video_title": "Annual Houston Texans Wiener Dog Races",
+      "video_title": "Wiener Dogs RACE at NRG Stadium \ud83d\udc15\ud83c\udfc8",
       "video_url": "https://youtube.com/watch?v=BfXh2WSteEQ",
       "timestamped_url": "https://youtube.com/watch?v=BfXh2WSteEQ&t=18",
       "start_seconds": 18,
@@ -61,7 +61,15 @@
       "video_avg_retention": 52.6,
       "retention_boost": 1.51,
       "priority_score": 181.0,
-      "flags": [],
+      "flags": [
+        {
+          "type": "content",
+          "name": "ad",
+          "emoji": "\ud83d\udcb0",
+          "note": "Sponsored content - use conservative titling",
+          "show_banner": false
+        }
+      ],
       "suggested_title": {
         "suggestion": "H-Town Made \ud83d\udcaa",
         "alternatives": [
@@ -80,13 +88,13 @@
       ],
       "content_type": "general",
       "source_video_views": 143729,
-      "identified_at": "2026-03-07T14:45:52.551267-06:00",
+      "identified_at": "2026-03-07T15:40:08.280430-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
     {
       "video_id": "f7SIY6hT_p0",
-      "video_title": "C.J. Stroud mic'd up | Listen in as the Houston Texans QB helps his team to a big home win",
+      "video_title": "Rookie C.J. Stroud leads CLUTCH comeback | Mic'd Up",
       "video_url": "https://youtube.com/watch?v=f7SIY6hT_p0",
       "timestamped_url": "https://youtube.com/watch?v=f7SIY6hT_p0&t=45",
       "start_seconds": 45,
@@ -127,13 +135,13 @@
       ],
       "content_type": "highlight",
       "source_video_views": 259604,
-      "identified_at": "2026-03-07T14:45:24.179128-06:00",
+      "identified_at": "2026-03-07T15:39:32.863448-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
     {
       "video_id": "fNgNkYrm0dU",
-      "video_title": "Jalen Pitre Makes the Craziest INT You\u2019ll See This Season | All Angles",
+      "video_title": "Jalen Pitre's INSANE Self-Tip INT \ud83e\udd2f | All Angles",
       "video_url": "https://youtube.com/watch?v=fNgNkYrm0dU",
       "timestamped_url": "https://youtube.com/watch?v=fNgNkYrm0dU&t=6",
       "start_seconds": 6,
@@ -164,13 +172,13 @@
       ],
       "content_type": "highlight",
       "source_video_views": 30276,
-      "identified_at": "2026-03-07T14:43:54.955760-06:00",
+      "identified_at": "2026-03-07T15:38:41.936351-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
     {
       "video_id": "Gquuc6xzln4",
-      "video_title": "C.J. Launched this one \ud83d\ude80 | All Angles",
+      "video_title": "How did C.J. Stroud make THIS throw? \ud83e\udd2f | All Angles",
       "video_url": "https://youtube.com/watch?v=Gquuc6xzln4",
       "timestamped_url": "https://youtube.com/watch?v=Gquuc6xzln4&t=7",
       "start_seconds": 7,
@@ -184,10 +192,10 @@
       "priority_score": 140.7,
       "flags": [],
       "suggested_title": {
-        "suggestion": "Houston is BUILT DIFFERENT \ud83d\udd25",
+        "suggestion": "C.J. Stroud is DIFFERENT \ud83d\udd25",
         "alternatives": [
-          "H-Town Made \ud83d\udcaa",
-          "The Swarm came to PLAY \ud83d\udc1d"
+          "This C.J. Stroud throw is INSANE \ud83d\ude31",
+          "C.J. Stroud doing C.J. Stroud things \ud83d\ude24"
         ],
         "confidence": "\ud83d\udcca Performance-based",
         "note": "Based on title patterns from high-performing Texans content"
@@ -203,13 +211,13 @@
       ],
       "content_type": "general",
       "source_video_views": 24424,
-      "identified_at": "2026-03-07T14:44:52.059238-06:00",
+      "identified_at": "2026-03-07T15:39:10.228743-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
     {
       "video_id": "bBXYE6vtSYg",
-      "video_title": "Texans Playbook | SWARM City Rises | J.J. Watt Returns | Divisional Round Preview",
+      "video_title": "SWARM City RISES | J.J. Watt's Epic Return | Divisional Preview",
       "video_url": "https://youtube.com/watch?v=bBXYE6vtSYg",
       "timestamped_url": "https://youtube.com/watch?v=bBXYE6vtSYg&t=264",
       "start_seconds": 264,
@@ -238,12 +246,11 @@
         "#HoustonTexans",
         "#JJWatt",
         "#99",
-        "#NFLHighlights",
         "#Shorts"
       ],
       "content_type": "practice",
       "source_video_views": 28332,
-      "identified_at": "2026-03-07T14:44:29.238053-06:00",
+      "identified_at": "2026-03-07T15:38:58.639877-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -289,7 +296,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 216033,
-      "identified_at": "2026-03-07T14:38:55.842156-06:00",
+      "identified_at": "2026-03-07T15:34:32.596694-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -334,7 +341,7 @@
       ],
       "content_type": "general",
       "source_video_views": 171239,
-      "identified_at": "2026-03-07T14:45:37.657404-06:00",
+      "identified_at": "2026-03-07T15:39:51.662890-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -373,13 +380,13 @@
       ],
       "content_type": "press_conference",
       "source_video_views": 29934,
-      "identified_at": "2026-03-07T14:44:13.301620-06:00",
+      "identified_at": "2026-03-07T15:38:50.280899-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
     {
       "video_id": "Ln1eDCMPcGY",
-      "video_title": "EXCLUSIVE: Behind The Scenes as the Texans draft C.J. Stroud and Will Anderson Jr.",
+      "video_title": "How the Texans landed C.J. Stroud & Will Anderson Jr.",
       "video_url": "https://youtube.com/watch?v=Ln1eDCMPcGY",
       "timestamped_url": "https://youtube.com/watch?v=Ln1eDCMPcGY&t=132",
       "start_seconds": 132,
@@ -420,7 +427,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 113792,
-      "identified_at": "2026-03-07T14:46:22.553625-06:00",
+      "identified_at": "2026-03-07T15:40:35.417546-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -458,7 +465,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 154323,
-      "identified_at": "2026-03-07T14:39:13.159723-06:00",
+      "identified_at": "2026-03-07T15:34:53.055373-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -495,13 +502,13 @@
       ],
       "content_type": "general",
       "source_video_views": 33585,
-      "identified_at": "2026-03-07T14:43:09.935385-06:00",
+      "identified_at": "2026-03-07T15:38:06.158646-06:00",
       "clip_created": false,
       "shorts_video_id": null
     },
     {
       "video_id": "B4S6YnagVns",
-      "video_title": "3 straight wins with eyes on the playoffs | Iron Sharpens Iron Ep. 10",
+      "video_title": "How the Texans built UNSTOPPABLE December momentum \ud83d\udc40",
       "video_url": "https://youtube.com/watch?v=B4S6YnagVns",
       "timestamped_url": "https://youtube.com/watch?v=B4S6YnagVns&t=210",
       "start_seconds": 210,
@@ -528,12 +535,11 @@
         "#NFL",
         "#Houston",
         "#HoustonTexans",
-        "#NFLHighlights",
         "#Shorts"
       ],
       "content_type": "general",
       "source_video_views": 54611,
-      "identified_at": "2026-03-07T14:42:14.884752-06:00",
+      "identified_at": "2026-03-07T15:37:00.863768-06:00",
       "clip_created": false,
       "shorts_video_id": null
     }
