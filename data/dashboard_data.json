@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T02:13:17.451679-05:00",
+  "generated_at": "2026-03-19T02:56:10.697714-05:00",
   "channel": {
     "channel_id": "UCa_FcpOBe8G6VAR18RYS-aA",
     "title": "Houston Texans",
@@ -11,7 +11,7 @@
       "total_views": 71597520,
       "video_count": 5709
     },
-    "fetched_at": "2026-03-19T02:13:17.659533-05:00"
+    "fetched_at": "2026-03-19T02:56:10.947569-05:00"
   },
   "periods": {
     "past_7_days": {
@@ -91,7 +91,7 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11793642,
+          "views": 11793705,
           "likes": 165434,
           "comments": 8541
         },
@@ -364,7 +364,7 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 22706,
+          "views": 22719,
           "likes": 1107,
           "comments": 71
         },
@@ -373,7 +373,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 159.7,
+        "vph": 158.8,
         "days_since_published": 5,
         "views_per_day": 4143.4,
         "performance_status": "good",
@@ -478,7 +478,7 @@
             }
           ]
         },
-        "vph": 48.1,
+        "vph": 47.9,
         "days_since_published": 7,
         "views_per_day": 1223.4,
         "performance_status": "good",
@@ -587,7 +587,7 @@
             }
           ]
         },
-        "vph": 28.7,
+        "vph": 28.5,
         "days_since_published": 5,
         "views_per_day": 738.4,
         "performance_status": "average",
@@ -882,7 +882,7 @@
         "duration_formatted": "14s",
         "is_short": true,
         "statistics": {
-          "views": 3019,
+          "views": 3014,
           "likes": 111,
           "comments": 6
         },
@@ -891,7 +891,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 32.0,
+        "vph": 31.6,
         "days_since_published": 2,
         "views_per_day": 969.5,
         "performance_status": "good",
@@ -1244,7 +1244,7 @@
         "duration_formatted": "2:08",
         "is_short": false,
         "statistics": {
-          "views": 10872,
+          "views": 10880,
           "likes": 179,
           "comments": 43
         },
@@ -1679,7 +1679,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 8.2,
+        "vph": 8.1,
         "days_since_published": 6,
         "views_per_day": 217.7,
         "performance_status": "excellent",
@@ -1907,7 +1907,7 @@
         "duration_formatted": "3:13",
         "is_short": false,
         "statistics": {
-          "views": 1173,
+          "views": 1177,
           "likes": 74,
           "comments": 9
         },
@@ -1924,7 +1924,7 @@
             }
           ]
         },
-        "vph": 8.0,
+        "vph": 7.9,
         "days_since_published": 5,
         "views_per_day": 217.4,
         "performance_status": "excellent",
@@ -2170,7 +2170,7 @@
         "duration_formatted": "1:01",
         "is_short": false,
         "statistics": {
-          "views": 7394,
+          "views": 7413,
           "likes": 329,
           "comments": 10
         },
@@ -2284,7 +2284,7 @@
             }
           ]
         },
-        "vph": 13.0,
+        "vph": 12.9,
         "days_since_published": 2,
         "views_per_day": 382.5,
         "performance_status": "excellent",
@@ -2913,7 +2913,7 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 220023,
+          "views": 220035,
           "likes": 2202,
           "comments": 175
         },
@@ -3114,6 +3114,105 @@
         }
       },
       {
+        "video_id": "T5HuAx-tku8",
+        "views": 525,
+        "watch_time_minutes": 35,
+        "avg_view_duration_seconds": 10,
+        "avg_view_percentage": 178.51,
+        "subscribers_gained": 0,
+        "likes": 15,
+        "comments": 0,
+        "shares": 0,
+        "engagement_rate": 2.86,
+        "subscriber_conversion_rate": 0.0,
+        "title": "How many tries did it take you? \ud83e\udd14",
+        "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
+        "published_at": "2026-02-05T16:35:40Z",
+        "thumbnail": "https://i.ytimg.com/vi/T5HuAx-tku8/hqdefault.jpg",
+        "duration_seconds": 6,
+        "duration_formatted": "6s",
+        "is_short": true,
+        "statistics": {
+          "views": 14157,
+          "likes": 563,
+          "comments": 52
+        },
+        "content_status": {
+          "is_blocked": false,
+          "block_reason": null,
+          "flags": []
+        },
+        "vph": 0.5,
+        "days_since_published": 41,
+        "views_per_day": 12.8,
+        "performance_status": "good",
+        "seo_score": {
+          "total_score": 40,
+          "grade": "F",
+          "breakdown": {
+            "boost_keywords": {
+              "score": 25,
+              "found": [
+                "texans",
+                "houston",
+                "man",
+                "bit",
+                "3uh7n0e"
+              ],
+              "count": 5
+            },
+            "avoid_keywords": {
+              "score": 0,
+              "found": [
+                "houstontexans",
+                "com",
+                "www",
+                "tex",
+                "take",
+                "https"
+              ],
+              "penalty": 60
+            },
+            "title": {
+              "score": 15,
+              "length": 33,
+              "optimal_range": [
+                40,
+                70
+              ]
+            },
+            "description": {
+              "score": 0,
+              "length": 82
+            },
+            "hashtags": {
+              "score": 0,
+              "count": 0
+            }
+          },
+          "suggestions": [
+            "Consider removing: houstontexans, com, www, tex, take, https",
+            "Title is short (33 chars). Aim for 40-70 chars.",
+            "Description is too short. Add context, links, and keywords."
+          ],
+          "boost_keywords_found": [
+            "texans",
+            "houston",
+            "man",
+            "bit",
+            "3uh7n0e"
+          ],
+          "avoid_keywords_found": [
+            "houstontexans",
+            "com",
+            "www",
+            "tex",
+            "take",
+            "https"
+          ]
+        }
+      },
+      {
         "video_id": "lVVOYDHuw5Y",
         "views": 525,
         "watch_time_minutes": 109,
@@ -3227,105 +3326,6 @@
             "tex",
             "out",
             "here",
-            "https"
-          ]
-        }
-      },
-      {
-        "video_id": "T5HuAx-tku8",
-        "views": 525,
-        "watch_time_minutes": 35,
-        "avg_view_duration_seconds": 10,
-        "avg_view_percentage": 178.51,
-        "subscribers_gained": 0,
-        "likes": 15,
-        "comments": 0,
-        "shares": 0,
-        "engagement_rate": 2.86,
-        "subscriber_conversion_rate": 0.0,
-        "title": "How many tries did it take you? \ud83e\udd14",
-        "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
-        "published_at": "2026-02-05T16:35:40Z",
-        "thumbnail": "https://i.ytimg.com/vi/T5HuAx-tku8/hqdefault.jpg",
-        "duration_seconds": 6,
-        "duration_formatted": "6s",
-        "is_short": true,
-        "statistics": {
-          "views": 14157,
-          "likes": 563,
-          "comments": 52
-        },
-        "content_status": {
-          "is_blocked": false,
-          "block_reason": null,
-          "flags": []
-        },
-        "vph": 0.5,
-        "days_since_published": 41,
-        "views_per_day": 12.8,
-        "performance_status": "good",
-        "seo_score": {
-          "total_score": 40,
-          "grade": "F",
-          "breakdown": {
-            "boost_keywords": {
-              "score": 25,
-              "found": [
-                "texans",
-                "houston",
-                "man",
-                "bit",
-                "3uh7n0e"
-              ],
-              "count": 5
-            },
-            "avoid_keywords": {
-              "score": 0,
-              "found": [
-                "houstontexans",
-                "com",
-                "www",
-                "tex",
-                "take",
-                "https"
-              ],
-              "penalty": 60
-            },
-            "title": {
-              "score": 15,
-              "length": 33,
-              "optimal_range": [
-                40,
-                70
-              ]
-            },
-            "description": {
-              "score": 0,
-              "length": 82
-            },
-            "hashtags": {
-              "score": 0,
-              "count": 0
-            }
-          },
-          "suggestions": [
-            "Consider removing: houstontexans, com, www, tex, take, https",
-            "Title is short (33 chars). Aim for 40-70 chars.",
-            "Description is too short. Add context, links, and keywords."
-          ],
-          "boost_keywords_found": [
-            "texans",
-            "houston",
-            "man",
-            "bit",
-            "3uh7n0e"
-          ],
-          "avoid_keywords_found": [
-            "houstontexans",
-            "com",
-            "www",
-            "tex",
-            "take",
             "https"
           ]
         }
@@ -3613,7 +3613,7 @@
         "duration_formatted": "3:03",
         "is_short": false,
         "statistics": {
-          "views": 145029,
+          "views": 145031,
           "likes": 1420,
           "comments": 75
         },
@@ -4008,7 +4008,7 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 24034,
+          "views": 24033,
           "likes": 936,
           "comments": 53
         },
@@ -4101,7 +4101,7 @@
         "duration_formatted": "7s",
         "is_short": true,
         "statistics": {
-          "views": 12152,
+          "views": 12162,
           "likes": 219,
           "comments": 21
         },
@@ -4349,7 +4349,7 @@
         "duration_formatted": "51s",
         "is_short": true,
         "statistics": {
-          "views": 11462,
+          "views": 11474,
           "likes": 768,
           "comments": 26
         },
@@ -4449,120 +4449,6 @@
             "andre",
             "johnson",
             "andre johnson",
-            "https"
-          ]
-        }
-      },
-      {
-        "video_id": "9Rqu9om_bDE",
-        "views": 397,
-        "watch_time_minutes": 128,
-        "avg_view_duration_seconds": 30,
-        "avg_view_percentage": 75.05,
-        "subscribers_gained": 1,
-        "likes": 15,
-        "comments": 0,
-        "shares": 0,
-        "engagement_rate": 3.78,
-        "subscriber_conversion_rate": 0.252,
-        "title": "Pitre is really like that \ud83d\ude24 | Mic'd Up",
-        "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
-        "published_at": "2026-01-16T16:17:56Z",
-        "thumbnail": "https://i.ytimg.com/vi/9Rqu9om_bDE/hqdefault.jpg",
-        "duration_seconds": 40,
-        "duration_formatted": "40s",
-        "is_short": true,
-        "statistics": {
-          "views": 49123,
-          "likes": 2107,
-          "comments": 53
-        },
-        "content_status": {
-          "is_blocked": false,
-          "block_reason": null,
-          "flags": []
-        },
-        "vph": 0.3,
-        "days_since_published": 61,
-        "views_per_day": 6.5,
-        "performance_status": "good",
-        "seo_score": {
-          "total_score": 55,
-          "grade": "D",
-          "breakdown": {
-            "boost_keywords": {
-              "score": 40,
-              "found": [
-                "texans",
-                "houston",
-                "pitre",
-                "mic'd up",
-                "real",
-                "like",
-                "really",
-                "really like"
-              ],
-              "count": 15
-            },
-            "avoid_keywords": {
-              "score": 0,
-              "found": [
-                "houstontexans",
-                "com",
-                "www",
-                "tex",
-                "mic",
-                "d up",
-                "https"
-              ],
-              "penalty": 70
-            },
-            "title": {
-              "score": 15,
-              "length": 38,
-              "optimal_range": [
-                40,
-                70
-              ]
-            },
-            "description": {
-              "score": 0,
-              "length": 82
-            },
-            "hashtags": {
-              "score": 0,
-              "count": 0
-            }
-          },
-          "suggestions": [
-            "Consider removing: houstontexans, com, www, tex, mic, d up, https",
-            "Title is short (38 chars). Aim for 40-70 chars.",
-            "Description is too short. Add context, links, and keywords."
-          ],
-          "boost_keywords_found": [
-            "texans",
-            "houston",
-            "pitre",
-            "mic'd up",
-            "real",
-            "like",
-            "really",
-            "really like",
-            "like that",
-            "mic'd",
-            "up subscribe",
-            "bit",
-            "3uh7n0e",
-            "pitre is",
-            "is really"
-          ],
-          "avoid_keywords_found": [
-            "houstontexans",
-            "com",
-            "www",
-            "tex",
-            "mic",
-            "d up",
             "https"
           ]
         }
@@ -4816,6 +4702,120 @@
         }
       },
       {
+        "video_id": "9Rqu9om_bDE",
+        "views": 397,
+        "watch_time_minutes": 128,
+        "avg_view_duration_seconds": 30,
+        "avg_view_percentage": 75.05,
+        "subscribers_gained": 1,
+        "likes": 15,
+        "comments": 0,
+        "shares": 0,
+        "engagement_rate": 3.78,
+        "subscriber_conversion_rate": 0.252,
+        "title": "Pitre is really like that \ud83d\ude24 | Mic'd Up",
+        "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
+        "published_at": "2026-01-16T16:17:56Z",
+        "thumbnail": "https://i.ytimg.com/vi/9Rqu9om_bDE/hqdefault.jpg",
+        "duration_seconds": 40,
+        "duration_formatted": "40s",
+        "is_short": true,
+        "statistics": {
+          "views": 49124,
+          "likes": 2107,
+          "comments": 53
+        },
+        "content_status": {
+          "is_blocked": false,
+          "block_reason": null,
+          "flags": []
+        },
+        "vph": 0.3,
+        "days_since_published": 61,
+        "views_per_day": 6.5,
+        "performance_status": "good",
+        "seo_score": {
+          "total_score": 55,
+          "grade": "D",
+          "breakdown": {
+            "boost_keywords": {
+              "score": 40,
+              "found": [
+                "texans",
+                "houston",
+                "pitre",
+                "mic'd up",
+                "real",
+                "like",
+                "really",
+                "really like"
+              ],
+              "count": 15
+            },
+            "avoid_keywords": {
+              "score": 0,
+              "found": [
+                "houstontexans",
+                "com",
+                "www",
+                "tex",
+                "mic",
+                "d up",
+                "https"
+              ],
+              "penalty": 70
+            },
+            "title": {
+              "score": 15,
+              "length": 38,
+              "optimal_range": [
+                40,
+                70
+              ]
+            },
+            "description": {
+              "score": 0,
+              "length": 82
+            },
+            "hashtags": {
+              "score": 0,
+              "count": 0
+            }
+          },
+          "suggestions": [
+            "Consider removing: houstontexans, com, www, tex, mic, d up, https",
+            "Title is short (38 chars). Aim for 40-70 chars.",
+            "Description is too short. Add context, links, and keywords."
+          ],
+          "boost_keywords_found": [
+            "texans",
+            "houston",
+            "pitre",
+            "mic'd up",
+            "real",
+            "like",
+            "really",
+            "really like",
+            "like that",
+            "mic'd",
+            "up subscribe",
+            "bit",
+            "3uh7n0e",
+            "pitre is",
+            "is really"
+          ],
+          "avoid_keywords_found": [
+            "houstontexans",
+            "com",
+            "www",
+            "tex",
+            "mic",
+            "d up",
+            "https"
+          ]
+        }
+      },
+      {
         "video_id": "tEuXkNu0nD8",
         "views": 391,
         "watch_time_minutes": 156,
@@ -4949,7 +4949,7 @@
         "duration_formatted": "1:37",
         "is_short": false,
         "statistics": {
-          "views": 5269,
+          "views": 5276,
           "likes": 297,
           "comments": 11
         },
@@ -5173,7 +5173,7 @@
         "duration_formatted": "44s",
         "is_short": true,
         "statistics": {
-          "views": 489695,
+          "views": 489691,
           "likes": 20495,
           "comments": 184
         },
@@ -5413,7 +5413,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 72905,
+          "views": 72902,
           "likes": 2293,
           "comments": 42
         },
@@ -5542,7 +5542,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 24401,
+          "views": 24398,
           "likes": 1176,
           "comments": 42
         },
@@ -5809,7 +5809,7 @@
         "duration_formatted": "29s",
         "is_short": true,
         "statistics": {
-          "views": 10791,
+          "views": 10804,
           "likes": 553,
           "comments": 27
         },
@@ -5912,7 +5912,7 @@
         "duration_formatted": "8:26",
         "is_short": false,
         "statistics": {
-          "views": 2285128,
+          "views": 2285126,
           "likes": 17237,
           "comments": 1472
         },
@@ -6347,7 +6347,7 @@
         "duration_formatted": "26:32",
         "is_short": false,
         "statistics": {
-          "views": 310849,
+          "views": 310867,
           "likes": 5532,
           "comments": 225
         },
@@ -6784,7 +6784,7 @@
         "duration_formatted": "9:13",
         "is_short": false,
         "statistics": {
-          "views": 67723,
+          "views": 67732,
           "likes": 648,
           "comments": 47
         },
@@ -7106,7 +7106,7 @@
         "duration_formatted": "4:40",
         "is_short": false,
         "statistics": {
-          "views": 66704,
+          "views": 66700,
           "likes": 1025,
           "comments": 79
         },
@@ -7374,7 +7374,7 @@
         "duration_formatted": "1:34",
         "is_short": false,
         "statistics": {
-          "views": 5331,
+          "views": 5337,
           "likes": 337,
           "comments": 26
         },
@@ -7582,7 +7582,7 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11793642,
+          "views": 11793705,
           "likes": 165434,
           "comments": 8541
         },
@@ -8120,7 +8120,7 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 22706,
+          "views": 22719,
           "likes": 1107,
           "comments": 71
         },
@@ -8129,7 +8129,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 159.7,
+        "vph": 158.8,
         "days_since_published": 5,
         "views_per_day": 4143.4,
         "performance_status": "good",
@@ -8226,7 +8226,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 50.4,
+        "vph": 50.3,
         "days_since_published": 16,
         "views_per_day": 1253.2,
         "performance_status": "average",
@@ -8355,7 +8355,7 @@
             }
           ]
         },
-        "vph": 90.6,
+        "vph": 90.3,
         "days_since_published": 7,
         "views_per_day": 2305.1,
         "performance_status": "good",
@@ -8456,7 +8456,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 34.1,
+        "vph": 34.0,
         "days_since_published": 19,
         "views_per_day": 832.7,
         "performance_status": "average",
@@ -8524,7 +8524,7 @@
         "duration_formatted": "10s",
         "is_short": true,
         "statistics": {
-          "views": 13137,
+          "views": 13149,
           "likes": 307,
           "comments": 10
         },
@@ -8616,7 +8616,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 12.1,
+        "vph": 12.0,
         "days_since_published": 31,
         "views_per_day": 295.3,
         "performance_status": "good",
@@ -8704,7 +8704,7 @@
         "duration_formatted": "1:01",
         "is_short": false,
         "statistics": {
-          "views": 7394,
+          "views": 7413,
           "likes": 329,
           "comments": 10
         },
@@ -8801,7 +8801,7 @@
         "duration_formatted": "20:26",
         "is_short": false,
         "statistics": {
-          "views": 7021,
+          "views": 7022,
           "likes": 143,
           "comments": 48
         },
@@ -9000,7 +9000,7 @@
         "duration_formatted": "4:28",
         "is_short": false,
         "statistics": {
-          "views": 5752,
+          "views": 5754,
           "likes": 272,
           "comments": 24
         },
@@ -9151,7 +9151,7 @@
         "duration_formatted": "24s",
         "is_short": true,
         "statistics": {
-          "views": 5986,
+          "views": 5976,
           "likes": 219,
           "comments": 6
         },
@@ -9168,7 +9168,7 @@
             }
           ]
         },
-        "vph": 20.0,
+        "vph": 19.9,
         "days_since_published": 11,
         "views_per_day": 504.8,
         "performance_status": "average",
@@ -9720,7 +9720,7 @@
         "duration_formatted": "37s",
         "is_short": true,
         "statistics": {
-          "views": 4974,
+          "views": 4986,
           "likes": 298,
           "comments": 15
         },
@@ -10197,7 +10197,7 @@
         "duration_formatted": "50s",
         "is_short": true,
         "statistics": {
-          "views": 135925,
+          "views": 135936,
           "likes": 5157,
           "comments": 182
         },
@@ -10315,7 +10315,7 @@
             }
           ]
         },
-        "vph": 28.7,
+        "vph": 28.5,
         "days_since_published": 5,
         "views_per_day": 738.4,
         "performance_status": "average",
@@ -10489,7 +10489,7 @@
         "duration_formatted": "6:17",
         "is_short": false,
         "statistics": {
-          "views": 491115,
+          "views": 491127,
           "likes": 9105,
           "comments": 890
         },
@@ -10863,7 +10863,7 @@
         "duration_formatted": "3:03",
         "is_short": false,
         "statistics": {
-          "views": 145029,
+          "views": 145032,
           "likes": 1420,
           "comments": 75
         },
@@ -11077,7 +11077,7 @@
         "duration_formatted": "51s",
         "is_short": true,
         "statistics": {
-          "views": 11462,
+          "views": 11475,
           "likes": 768,
           "comments": 26
         },
@@ -11878,7 +11878,7 @@
         "duration_formatted": "56s",
         "is_short": true,
         "statistics": {
-          "views": 286712,
+          "views": 286710,
           "likes": 11689,
           "comments": 705
         },
@@ -12171,7 +12171,7 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 24034,
+          "views": 24035,
           "likes": 936,
           "comments": 53
         },
@@ -12441,7 +12441,7 @@
         "duration_formatted": "7s",
         "is_short": true,
         "statistics": {
-          "views": 12152,
+          "views": 12162,
           "likes": 219,
           "comments": 21
         },
@@ -12547,7 +12547,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 32.0,
+        "vph": 31.6,
         "days_since_published": 2,
         "views_per_day": 969.5,
         "performance_status": "good",
@@ -12635,7 +12635,7 @@
         "duration_formatted": "2:08",
         "is_short": false,
         "statistics": {
-          "views": 10872,
+          "views": 10880,
           "likes": 179,
           "comments": 43
         },
@@ -12768,7 +12768,7 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 220023,
+          "views": 220025,
           "likes": 2202,
           "comments": 175
         },
@@ -12988,7 +12988,7 @@
         "duration_formatted": "1:37",
         "is_short": false,
         "statistics": {
-          "views": 5269,
+          "views": 5276,
           "likes": 297,
           "comments": 11
         },
@@ -13480,7 +13480,7 @@
             }
           ]
         },
-        "vph": 3.7,
+        "vph": 3.6,
         "days_since_published": 19,
         "views_per_day": 89.2,
         "performance_status": "average",
@@ -13615,7 +13615,7 @@
         "duration_formatted": "3:59",
         "is_short": false,
         "statistics": {
-          "views": 1656,
+          "views": 1657,
           "likes": 104,
           "comments": 9
         },
@@ -13806,7 +13806,7 @@
         "duration_formatted": "12:06",
         "is_short": false,
         "statistics": {
-          "views": 218252,
+          "views": 218246,
           "likes": 3401,
           "comments": 313
         },
@@ -14123,7 +14123,7 @@
         "duration_formatted": "8:26",
         "is_short": false,
         "statistics": {
-          "views": 2285128,
+          "views": 2285129,
           "likes": 17237,
           "comments": 1472
         },
@@ -14310,7 +14310,7 @@
         "duration_formatted": "8s",
         "is_short": true,
         "statistics": {
-          "views": 102786,
+          "views": 102794,
           "likes": 4464,
           "comments": 87
         },
@@ -14395,7 +14395,7 @@
         "duration_formatted": "1:14",
         "is_short": false,
         "statistics": {
-          "views": 22015,
+          "views": 22021,
           "likes": 1043,
           "comments": 37
         },
@@ -14635,7 +14635,7 @@
         "duration_formatted": "40s",
         "is_short": true,
         "statistics": {
-          "views": 49123,
+          "views": 49126,
           "likes": 2107,
           "comments": 53
         },
@@ -14878,7 +14878,7 @@
         "duration_formatted": "9:13",
         "is_short": false,
         "statistics": {
-          "views": 67723,
+          "views": 67726,
           "likes": 648,
           "comments": 47
         },
@@ -15220,7 +15220,7 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11793642,
+          "views": 11793705,
           "likes": 165434,
           "comments": 8541
         },
@@ -16227,7 +16227,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 140.3,
+        "vph": 140.2,
         "days_since_published": 98,
         "views_per_day": 3373.1,
         "performance_status": "average",
@@ -16423,7 +16423,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 185.2,
+        "vph": 185.1,
         "days_since_published": 64,
         "views_per_day": 4477.7,
         "performance_status": "good",
@@ -16535,7 +16535,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 97.5,
+        "vph": 97.4,
         "days_since_published": 106,
         "views_per_day": 2349.8,
         "performance_status": "average",
@@ -16711,7 +16711,7 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 220022,
+          "views": 220035,
           "likes": 2202,
           "comments": 175
         },
@@ -16940,7 +16940,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 145.7,
+        "vph": 145.6,
         "days_since_published": 62,
         "views_per_day": 3517.5,
         "performance_status": "average",
@@ -17232,7 +17232,7 @@
             }
           ]
         },
-        "vph": 97.3,
+        "vph": 97.2,
         "days_since_published": 85,
         "views_per_day": 2346.2,
         "performance_status": "poor",
@@ -18432,7 +18432,7 @@
         "duration_formatted": "2:13",
         "is_short": false,
         "statistics": {
-          "views": 144760,
+          "views": 144762,
           "likes": 7826,
           "comments": 457
         },
@@ -18449,7 +18449,7 @@
             }
           ]
         },
-        "vph": 92.7,
+        "vph": 92.6,
         "days_since_published": 65,
         "views_per_day": 2226.8,
         "performance_status": "good",
@@ -18865,7 +18865,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 71.9,
+        "vph": 71.8,
         "days_since_published": 73,
         "views_per_day": 1734.5,
         "performance_status": "average",
@@ -19089,7 +19089,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 43.8,
+        "vph": 43.7,
         "days_since_published": 117,
         "views_per_day": 1052.9,
         "performance_status": "average",
@@ -19186,7 +19186,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 79.0,
+        "vph": 78.9,
         "days_since_published": 62,
         "views_per_day": 1907.3,
         "performance_status": "good",
@@ -19430,7 +19430,7 @@
         "duration_formatted": "5s",
         "is_short": true,
         "statistics": {
-          "views": 108693,
+          "views": 108695,
           "likes": 2621,
           "comments": 45
         },
@@ -19538,7 +19538,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 69.1,
+        "vph": 69.0,
         "days_since_published": 65,
         "views_per_day": 1659.8,
         "performance_status": "good",
@@ -19959,7 +19959,7 @@
         "duration_formatted": "6:17",
         "is_short": false,
         "statistics": {
-          "views": 491115,
+          "views": 491128,
           "likes": 9105,
           "comments": 890
         },
@@ -22052,7 +22052,7 @@
         "duration_formatted": "40s",
         "is_short": true,
         "statistics": {
-          "views": 70629,
+          "views": 70632,
           "likes": 3062,
           "comments": 66
         },
@@ -22283,7 +22283,7 @@
         "duration_formatted": "1:17",
         "is_short": false,
         "statistics": {
-          "views": 69536,
+          "views": 69539,
           "likes": 4082,
           "comments": 126
         },
