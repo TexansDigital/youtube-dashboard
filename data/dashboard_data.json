@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T14:58:54.047943-05:00",
+  "generated_at": "2026-04-02T15:53:21.258233-05:00",
   "channel": {
     "channel_id": "UCa_FcpOBe8G6VAR18RYS-aA",
     "title": "Houston Texans",
@@ -11,7 +11,7 @@
       "total_views": 71882387,
       "video_count": 5718
     },
-    "fetched_at": "2026-04-02T14:58:54.277812-05:00"
+    "fetched_at": "2026-04-02T15:53:21.464990-05:00"
   },
   "periods": {
     "past_7_days": {
@@ -79,8 +79,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11846305,
-          "likes": 165829,
+          "views": 11846490,
+          "likes": 165832,
           "comments": 8561
         },
         "content_status": {
@@ -522,7 +522,7 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 25465,
+          "views": 25469,
           "likes": 1128,
           "comments": 65
         },
@@ -531,7 +531,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 26.7,
+        "vph": 26.5,
         "days_since_published": 9,
         "views_per_day": 650.1,
         "performance_status": "good",
@@ -625,8 +625,8 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 28208,
-          "likes": 1326,
+          "views": 28221,
+          "likes": 1327,
           "comments": 40
         },
         "content_status": {
@@ -784,7 +784,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 54.2,
+        "vph": 53.6,
         "days_since_published": 3,
         "views_per_day": 1433.0,
         "performance_status": "excellent",
@@ -904,7 +904,7 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 9185,
+          "views": 9207,
           "likes": 469,
           "comments": 15
         },
@@ -1001,7 +1001,7 @@
         "duration_formatted": "1:01",
         "is_short": false,
         "statistics": {
-          "views": 9319,
+          "views": 9323,
           "likes": 826,
           "comments": 60
         },
@@ -1107,7 +1107,7 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 2138,
+          "views": 2140,
           "likes": 184,
           "comments": 10
         },
@@ -1116,7 +1116,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 23.9,
+        "vph": 23.7,
         "days_since_published": 3,
         "views_per_day": 629.3,
         "performance_status": "excellent",
@@ -1203,7 +1203,7 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 26098,
+          "views": 26100,
           "likes": 1226,
           "comments": 74
         },
@@ -1304,7 +1304,7 @@
         "duration_formatted": "35s",
         "is_short": true,
         "statistics": {
-          "views": 15744,
+          "views": 15750,
           "likes": 1020,
           "comments": 37
         },
@@ -1347,9 +1347,10 @@
                 "his",
                 "the texans",
                 "watch the",
-                "https"
+                "https",
+                "action"
               ],
-              "penalty": 100
+              "penalty": 110
             },
             "title": {
               "score": 10,
@@ -1369,7 +1370,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, new, houstontexans, com, www, tex, his, the texans, watch the, https",
+            "Consider removing: watch, new, houstontexans, com, www, tex, his, the texans, watch the, https, action",
             "Title is short (24 chars). Aim for 40-70 chars.",
             "Add more description text (aim for 200+ characters)"
           ],
@@ -1406,7 +1407,8 @@
             "his",
             "the texans",
             "watch the",
-            "https"
+            "https",
+            "action"
           ]
         }
       },
@@ -1847,7 +1849,7 @@
         "duration_formatted": "50s",
         "is_short": true,
         "statistics": {
-          "views": 137254,
+          "views": 137260,
           "likes": 5182,
           "comments": 185
         },
@@ -2064,7 +2066,7 @@
         "duration_formatted": "53s",
         "is_short": true,
         "statistics": {
-          "views": 62286,
+          "views": 62293,
           "likes": 4551,
           "comments": 123
         },
@@ -2074,8 +2076,8 @@
           "flags": []
         },
         "vph": 0.3,
-        "days_since_published": 89,
-        "views_per_day": 6.3,
+        "days_since_published": 90,
+        "views_per_day": 6.2,
         "performance_status": "excellent",
         "seo_score": {
           "total_score": 60,
@@ -2211,7 +2213,7 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 221400,
+          "views": 221410,
           "likes": 2226,
           "comments": 176
         },
@@ -2436,7 +2438,7 @@
         "duration_formatted": "3:03",
         "is_short": false,
         "statistics": {
-          "views": 146252,
+          "views": 146254,
           "likes": 1434,
           "comments": 77
         },
@@ -2541,9 +2543,10 @@
                 "show",
                 "of our",
                 "fan",
-                "whether"
+                "whether",
+                "action"
               ],
-              "penalty": 640
+              "penalty": 650
             },
             "title": {
               "score": 15,
@@ -2563,7 +2566,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, full, houston texans, instagram, facebook, twitter, out, the houston, from the, get, their, energy, day, ever, break, moment, season, the swarm, as the, time, moments, stadium, hear, game, nrg stadium, at nrg, battle, start, texans battle, content, youtube, follow the, halftime, down the, ready, texans game, here, fans, https, come, halftime of, tiktok, during, sub_confirmation, website, red, showcases, halftime show, in houston, miss, showcases the, texans fans, show, of our, fan, whether",
+            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, full, houston texans, instagram, facebook, twitter, out, the houston, from the, get, their, energy, day, ever, break, moment, season, the swarm, as the, time, moments, stadium, hear, game, nrg stadium, at nrg, battle, start, texans battle, content, youtube, follow the, halftime, down the, ready, texans game, here, fans, https, come, halftime of, tiktok, during, sub_confirmation, website, red, showcases, halftime show, in houston, miss, showcases the, texans fans, show, of our, fan, whether, action",
             "Title is short (34 chars). Aim for 40-70 chars."
           ],
           "boost_keywords_found": [
@@ -2659,7 +2662,8 @@
             "show",
             "of our",
             "fan",
-            "whether"
+            "whether",
+            "action"
           ]
         }
       },
@@ -2683,8 +2687,8 @@
         "duration_formatted": "8:23",
         "is_short": false,
         "statistics": {
-          "views": 341178,
-          "likes": 4253,
+          "views": 341181,
+          "likes": 4254,
           "comments": 342
         },
         "content_status": {
@@ -3007,8 +3011,8 @@
           "flags": []
         },
         "vph": 1.2,
-        "days_since_published": 15,
-        "views_per_day": 30.1,
+        "days_since_published": 16,
+        "views_per_day": 28.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 65,
@@ -3127,7 +3131,7 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 144785,
+          "views": 144784,
           "likes": 1529,
           "comments": 109
         },
@@ -3585,9 +3589,10 @@
                 "to our",
                 "skill and",
                 "and teamwork",
-                "whether"
+                "whether",
+                "represents"
               ],
-              "penalty": 1090
+              "penalty": 1100
             },
             "title": {
               "score": 20,
@@ -3607,7 +3612,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, from, tex, his, follow, full, houston texans, instagram, facebook, twitter, out, the houston, get, their, energy, plays, texans vs, drill, one, hit, moment, its, the texans, time, moments, stadium, game, nrg stadium, at nrg, the game, display, on full, full display, presents, precision, performance, youtube, follow the, halftime, card, old, left, can, pro, class, fans, drill team, https, one who, army, cardinals, minutes, the us, us army, army drill, halftime of, tiktok, during, elite, sub_confirmation, website, red, military, performance that, excellence, halftime show, absolutely, feet, crowd, dedication, in h-town, had nrg, their feet, an incredible, precision and, show, honor, of our, discipline, powerful, stadium on, women, skill, teamwork, an absolutely, halftime performance, on their, and women, stadium was, incredible halftime, our military, showcased, electric, fan, moments from, mesmerizing, perform, tribute, absolutely mesmerizing, crowd in, a powerful, tribute to, to our, skill and, and teamwork, whether"
+            "Consider removing: houstontexans, com, www, team, from, tex, his, follow, full, houston texans, instagram, facebook, twitter, out, the houston, get, their, energy, plays, texans vs, drill, one, hit, moment, its, the texans, time, moments, stadium, game, nrg stadium, at nrg, the game, display, on full, full display, presents, precision, performance, youtube, follow the, halftime, card, old, left, can, pro, class, fans, drill team, https, one who, army, cardinals, minutes, the us, us army, army drill, halftime of, tiktok, during, elite, sub_confirmation, website, red, military, performance that, excellence, halftime show, absolutely, feet, crowd, dedication, in h-town, had nrg, their feet, an incredible, precision and, show, honor, of our, discipline, powerful, stadium on, women, skill, teamwork, an absolutely, halftime performance, on their, and women, stadium was, incredible halftime, our military, showcased, electric, fan, moments from, mesmerizing, perform, tribute, absolutely mesmerizing, crowd in, a powerful, tribute to, to our, skill and, and teamwork, whether, represents"
           ],
           "boost_keywords_found": [
             "texans",
@@ -3751,7 +3756,8 @@
             "to our",
             "skill and",
             "and teamwork",
-            "whether"
+            "whether",
+            "represents"
           ]
         }
       },
@@ -3775,7 +3781,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 73910,
+          "views": 73909,
           "likes": 2313,
           "comments": 42
         },
@@ -4150,7 +4156,7 @@
         "duration_formatted": "1:14",
         "is_short": false,
         "statistics": {
-          "views": 22928,
+          "views": 22934,
           "likes": 1094,
           "comments": 38
         },
@@ -4253,9 +4259,10 @@
                 "in houston",
                 "show",
                 "fan",
-                "whether"
+                "whether",
+                "action"
               ],
-              "penalty": 620
+              "penalty": 630
             },
             "title": {
               "score": 20,
@@ -4275,7 +4282,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, from, tex, his, follow, full, houston texans, coach, instagram, facebook, twitter, out, the houston, get, their, players, hit, look, complete, break, moment, the team, led, its, hilarious, texans players, s texans, moments, hear, voice, start, hear the, content, youtube, know, follow the, get to, here, pro, out he, fans, hits, https, nicknames, come, life, starts, starts calling, let, tiktok, during, sub_confirmation, website, perfectly, special, in houston, show, fan, whether"
+            "Consider removing: houstontexans, com, www, team, from, tex, his, follow, full, houston texans, coach, instagram, facebook, twitter, out, the houston, get, their, players, hit, look, complete, break, moment, the team, led, its, hilarious, texans players, s texans, moments, hear, voice, start, hear the, content, youtube, know, follow the, get to, here, pro, out he, fans, hits, https, nicknames, come, life, starts, starts calling, let, tiktok, during, sub_confirmation, website, perfectly, special, in houston, show, fan, whether, action"
           ],
           "boost_keywords_found": [
             "texans",
@@ -4503,7 +4510,8 @@
             "in houston",
             "show",
             "fan",
-            "whether"
+            "whether",
+            "action"
           ]
         }
       },
@@ -4624,7 +4632,7 @@
         "duration_formatted": "1:38",
         "is_short": false,
         "statistics": {
-          "views": 10715,
+          "views": 10717,
           "likes": 409,
           "comments": 38
         },
@@ -4634,8 +4642,8 @@
           "flags": []
         },
         "vph": 0.9,
-        "days_since_published": 15,
-        "views_per_day": 23.5,
+        "days_since_published": 16,
+        "views_per_day": 22.1,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -5258,7 +5266,7 @@
         "duration_formatted": "22:32",
         "is_short": false,
         "statistics": {
-          "views": 6224,
+          "views": 6227,
           "likes": 229,
           "comments": 23
         },
@@ -5334,9 +5342,10 @@
                 "https",
                 "red",
                 "battle red",
-                "zone"
+                "zone",
+                "action"
               ],
-              "penalty": 350
+              "penalty": 360
             },
             "title": {
               "score": 10,
@@ -5356,7 +5365,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, from, tex, his, down, houston texans, the houston, from the, get, one, iron, episode, film, break, break down, inside, battle, inside the, night, colts, know, get to, to know, josh, allen, will anderson, anderson jr, josh allen, take, https, red, battle red, zone",
+            "Consider removing: houstontexans, com, www, from, tex, his, down, houston texans, the houston, from the, get, one, iron, episode, film, break, break down, inside, battle, inside the, night, colts, know, get to, to know, josh, allen, will anderson, anderson jr, josh allen, take, https, red, battle red, zone, action",
             "Title is long (88 chars). Consider shortening to under 70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -5435,7 +5444,8 @@
             "https",
             "red",
             "battle red",
-            "zone"
+            "zone",
+            "action"
           ]
         }
       },
@@ -5459,7 +5469,7 @@
         "duration_formatted": "12:06",
         "is_short": false,
         "statistics": {
-          "views": 219144,
+          "views": 219149,
           "likes": 3409,
           "comments": 316
         },
@@ -5921,7 +5931,7 @@
           "flags": []
         },
         "vph": 0.0,
-        "days_since_published": 836,
+        "days_since_published": 837,
         "views_per_day": 0.4,
         "performance_status": "good",
         "seo_score": {
@@ -6141,7 +6151,7 @@
         "duration_formatted": "25s",
         "is_short": true,
         "statistics": {
-          "views": 394250,
+          "views": 394247,
           "likes": 17833,
           "comments": 212
         },
@@ -6389,7 +6399,7 @@
           ]
         },
         "vph": 0.0,
-        "days_since_published": 379,
+        "days_since_published": 380,
         "views_per_day": 0.7,
         "performance_status": "average",
         "seo_score": {
@@ -6487,9 +6497,10 @@
                 "show",
                 "skill",
                 "whether",
-                "zone"
+                "zone",
+                "represents"
               ],
-              "penalty": 750
+              "penalty": 760
             },
             "title": {
               "score": 20,
@@ -6509,7 +6520,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, houston texans, instagram, facebook, twitter, out, the houston, get, plays, one, him, quarter, break, moment, season, the swarm, the texans, moments, offense, game, one of, define, features, adjustments, as he, the offense, that define, off, night, presents, youtube, know, follow the, to his, derek, stingley, derek stingley, stingley jr, ready, he's, pro, https, pick, draft, press, career, let, minutes, rookie, tiktok, elite, sub_confirmation, website, special, red, from his, excellence, showcases, moments that, in h-town, showcases the, made him, him a, show, skill, whether, zone"
+            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, houston texans, instagram, facebook, twitter, out, the houston, get, plays, one, him, quarter, break, moment, season, the swarm, the texans, moments, offense, game, one of, define, features, adjustments, as he, the offense, that define, off, night, presents, youtube, know, follow the, to his, derek, stingley, derek stingley, stingley jr, ready, he's, pro, https, pick, draft, press, career, let, minutes, rookie, tiktok, elite, sub_confirmation, website, special, red, from his, excellence, showcases, moments that, in h-town, showcases the, made him, him a, show, skill, whether, zone, represents"
           ],
           "boost_keywords_found": [
             "texans",
@@ -6644,7 +6655,8 @@
             "show",
             "skill",
             "whether",
-            "zone"
+            "zone",
+            "represents"
           ]
         }
       },
@@ -6668,7 +6680,7 @@
         "duration_formatted": "11:52",
         "is_short": false,
         "statistics": {
-          "views": 67001,
+          "views": 66999,
           "likes": 1333,
           "comments": 98
         },
@@ -6777,9 +6789,10 @@
                 "powerful",
                 "showcased",
                 "fan",
-                "up the"
+                "up the",
+                "action"
               ],
-              "penalty": 680
+              "penalty": 690
             },
             "title": {
               "score": 20,
@@ -6799,7 +6812,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, coach, instagram, facebook, twitter, out, the houston, get, energy, against, energy and, one, mic, d up, against the, look, ever, moment, s texans, the swarm, look at, as the, moments, watch the, leadership, game, the game, teammates, sideline, level, presence, content, s leadership, youtube, follow the, to his, he's, fans, https, through, exactly, come, press, tiktok, during, sub_confirmation, website, perfectly, red, from his, dedication, in h-town, in houston, and dedication, show, powerful, showcased, fan, up the"
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, coach, instagram, facebook, twitter, out, the houston, get, energy, against, energy and, one, mic, d up, against the, look, ever, moment, s texans, the swarm, look at, as the, moments, watch the, leadership, game, the game, teammates, sideline, level, presence, content, s leadership, youtube, follow the, to his, he's, fans, https, through, exactly, come, press, tiktok, during, sub_confirmation, website, perfectly, red, from his, dedication, in h-town, in houston, and dedication, show, powerful, showcased, fan, up the, action"
           ],
           "boost_keywords_found": [
             "texans",
@@ -6933,7 +6946,8 @@
             "powerful",
             "showcased",
             "fan",
-            "up the"
+            "up the",
+            "action"
           ]
         }
       },
@@ -6957,7 +6971,7 @@
         "duration_formatted": "6:17",
         "is_short": false,
         "statistics": {
-          "views": 491774,
+          "views": 491777,
           "likes": 9112,
           "comments": 890
         },
@@ -7088,9 +7102,14 @@
                 "franchise",
                 "known",
                 "known for",
-                "moments like"
+                "moments like",
+                "action",
+                "historic",
+                "johnson's",
+                "greatest",
+                "represents"
               ],
-              "penalty": 900
+              "penalty": 950
             },
             "title": {
               "score": 20,
@@ -7110,7 +7129,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, houston texans, instagram, facebook, twitter, out, the houston, get, players, one, him, hands, off the, never, ever, moment, season, the texans, time, moments, watch the, leadership, one of, emotion, highest, off, presents, precision, youtube, know, subscribe to, follow the, andre, johnson, gets, knock, 2024, andre johnson, johnson gets, the knock, cris, carter, legend, pro, hall, fame, class, from cris, cris carter, carter texans, texans legend, legend andre, the pro, pro football, football hall, hall of, of fame, fame class, class of, of 2024, https, life, history, career, tiktok, sub_confirmation, website, special, red, in h-town, miss, never miss, bowl, made him, him a, pro bowl, honor, decade, franchise, known, known for, moments like"
+            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, houston texans, instagram, facebook, twitter, out, the houston, get, players, one, him, hands, off the, never, ever, moment, season, the texans, time, moments, watch the, leadership, one of, emotion, highest, off, presents, precision, youtube, know, subscribe to, follow the, andre, johnson, gets, knock, 2024, andre johnson, johnson gets, the knock, cris, carter, legend, pro, hall, fame, class, from cris, cris carter, carter texans, texans legend, legend andre, the pro, pro football, football hall, hall of, of fame, fame class, class of, of 2024, https, life, history, career, tiktok, sub_confirmation, website, special, red, in h-town, miss, never miss, bowl, made him, him a, pro bowl, honor, decade, franchise, known, known for, moments like, action, historic, johnson's, greatest, represents"
           ],
           "boost_keywords_found": [
             "texans",
@@ -7241,7 +7260,12 @@
             "franchise",
             "known",
             "known for",
-            "moments like"
+            "moments like",
+            "action",
+            "historic",
+            "johnson's",
+            "greatest",
+            "represents"
           ]
         }
       },
@@ -7265,7 +7289,7 @@
         "duration_formatted": "6:28",
         "is_short": false,
         "statistics": {
-          "views": 21429,
+          "views": 21428,
           "likes": 251,
           "comments": 25
         },
@@ -7794,7 +7818,7 @@
         "duration_formatted": "4:40",
         "is_short": false,
         "statistics": {
-          "views": 67251,
+          "views": 67253,
           "likes": 1030,
           "comments": 79
         },
@@ -7928,9 +7952,11 @@
                 "franchise",
                 "perform",
                 "forget",
-                "whether"
+                "whether",
+                "greatest",
+                "represents"
               ],
-              "penalty": 930
+              "penalty": 950
             },
             "title": {
               "score": 15,
@@ -7950,7 +7976,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: compilation, injury, houstontexans, com, www, team, from, tex, his, down, follow, full, houston texans, instagram, facebook, twitter, out, the houston, get, their, comeback, plays, players, one, hit, never, ever, think, moment, season, the texans, moments, stadium, game, nrg stadium, one of, define, display, that define, content, off, on full, full display, presents, performance, youtube, know, presents a, follow the, relive, left, here, legend, hall, fame, texans legend, hall of, of fame, fans, https, relive the, through, the best, come, history, career, let, rookie, tiktok, during, sub_confirmation, website, red, from his, unforgettable, showcases, embodied, in h-town, in houston, had nrg, miss, an incredible, never miss, iconic, showcases the, texans fans, show, decade, fan, franchise, perform, forget, whether",
+            "Consider removing: compilation, injury, houstontexans, com, www, team, from, tex, his, down, follow, full, houston texans, instagram, facebook, twitter, out, the houston, get, their, comeback, plays, players, one, hit, never, ever, think, moment, season, the texans, moments, stadium, game, nrg stadium, one of, define, display, that define, content, off, on full, full display, presents, performance, youtube, know, presents a, follow the, relive, left, here, legend, hall, fame, texans legend, hall of, of fame, fans, https, relive the, through, the best, come, history, career, let, rookie, tiktok, during, sub_confirmation, website, red, from his, unforgettable, showcases, embodied, in h-town, in houston, had nrg, miss, an incredible, never miss, iconic, showcases the, texans fans, show, decade, fan, franchise, perform, forget, whether, greatest, represents",
             "Title is short (36 chars). Aim for 40-70 chars."
           ],
           "boost_keywords_found": [
@@ -8090,7 +8116,9 @@
             "franchise",
             "perform",
             "forget",
-            "whether"
+            "whether",
+            "greatest",
+            "represents"
           ]
         }
       },
@@ -8114,7 +8142,7 @@
         "duration_formatted": "40s",
         "is_short": true,
         "statistics": {
-          "views": 66521,
+          "views": 66530,
           "likes": 2724,
           "comments": 35
         },
@@ -8291,7 +8319,7 @@
         "duration_formatted": "2:15",
         "is_short": false,
         "statistics": {
-          "views": 33499,
+          "views": 33506,
           "likes": 373,
           "comments": 27
         },
@@ -8409,9 +8437,10 @@
                 "forget",
                 "thursdaynightfootball",
                 "to host",
-                "host the"
+                "host the",
+                "action"
               ],
-              "penalty": 770
+              "penalty": 780
             },
             "title": {
               "score": 20,
@@ -8431,7 +8460,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, new, houstontexans, com, www, from, tex, his, down, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, get, c j, against, one, comes, against the, day, hit, never, stun, ever, season, week, its, the swarm, the texans, as the, stadium, nrg stadium, experience, one of, stadium from, content, off, thursday, night, youtube, on thursday, thursday night, night football, subscribe to, follow the, takes, ready, take, here, pro, round, kickoff, before, https, come, press, tiktok, sub_confirmation, website, special, red, unforgettable, showcases, iconic, showcases the, show, of our, our home, electric, forget, thursdaynightfootball, to host, host the"
+            "Consider removing: watch, new, houstontexans, com, www, from, tex, his, down, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, get, c j, against, one, comes, against the, day, hit, never, stun, ever, season, week, its, the swarm, the texans, as the, stadium, nrg stadium, experience, one of, stadium from, content, off, thursday, night, youtube, on thursday, thursday night, night football, subscribe to, follow the, takes, ready, take, here, pro, round, kickoff, before, https, come, press, tiktok, sub_confirmation, website, special, red, unforgettable, showcases, iconic, showcases the, show, of our, our home, electric, forget, thursdaynightfootball, to host, host the, action"
           ],
           "boost_keywords_found": [
             "texans",
@@ -8545,7 +8574,8 @@
             "forget",
             "thursdaynightfootball",
             "to host",
-            "host the"
+            "host the",
+            "action"
           ]
         }
       },
@@ -8762,7 +8792,7 @@
         "duration_formatted": "2:57",
         "is_short": false,
         "statistics": {
-          "views": 482249,
+          "views": 482250,
           "likes": 6252,
           "comments": 282
         },
@@ -8922,9 +8952,10 @@
                 "pro",
                 "class",
                 "https",
-                "red"
+                "red",
+                "action"
               ],
-              "penalty": 1190
+              "penalty": 1200
             },
             "title": {
               "score": 10,
@@ -8944,7 +8975,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: video, watch, houstontexans, com, www, from, tex, his, down, full, coach, from the, their, energy, the moment, reaction video, plays, players, day, classic, instant, hit, look, defend, realized, still, ever, wondered, today, think, film, full-length, defenders, break, head, including, sack-fumbles, scoop-and-scores, infamous, helmet-knocking, analyze, moment, technique, roast, celebrations, praise, uncover, origins, philosophy, hilarious, insightful, earned, respect, arrived, nflreact, allpro, moment texans, texans players, players realized, realized coach, coach demeco, ryans could, could still, still play, full reaction, video ever, ever wondered, wondered what, what today, s texans, texans think, think when, they watch, watch demeco, this full-length, full-length reaction, texans defenders, defenders break, break down, down their, their head, head coach, s classic, classic plays, including sack-fumbles, that infamous, infamous helmet-knocking, helmet-knocking hit, they analyze, analyze his, his technique, roast his, his celebrations, praise his, his energy, and uncover, uncover the, the origins, origins of, a hilarious, insightful look, look at, why coach, coach ryans, ryans earned, earned instant, instant respect, respect from, moment he, he arrived, celebration, down the, knock, demeco ryans, demecoryans, pro, class, https, red",
+            "Consider removing: video, watch, houstontexans, com, www, from, tex, his, down, full, coach, from the, their, energy, the moment, reaction video, plays, players, day, classic, instant, hit, look, defend, realized, still, ever, wondered, today, think, film, full-length, defenders, break, head, including, sack-fumbles, scoop-and-scores, infamous, helmet-knocking, analyze, moment, technique, roast, celebrations, praise, uncover, origins, philosophy, hilarious, insightful, earned, respect, arrived, nflreact, allpro, moment texans, texans players, players realized, realized coach, coach demeco, ryans could, could still, still play, full reaction, video ever, ever wondered, wondered what, what today, s texans, texans think, think when, they watch, watch demeco, this full-length, full-length reaction, texans defenders, defenders break, break down, down their, their head, head coach, s classic, classic plays, including sack-fumbles, that infamous, infamous helmet-knocking, helmet-knocking hit, they analyze, analyze his, his technique, roast his, his celebrations, praise his, his energy, and uncover, uncover the, the origins, origins of, a hilarious, insightful look, look at, why coach, coach ryans, ryans earned, earned instant, instant respect, respect from, moment he, he arrived, celebration, down the, knock, demeco ryans, demecoryans, pro, class, https, red, action",
             "Title is long (92 chars). Consider shortening to under 70 chars."
           ],
           "boost_keywords_found": [
@@ -9087,7 +9118,8 @@
             "pro",
             "class",
             "https",
-            "red"
+            "red",
+            "action"
           ]
         }
       },
@@ -9111,7 +9143,7 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 83643,
+          "views": 83646,
           "likes": 2775,
           "comments": 34
         },
@@ -9244,7 +9276,7 @@
         "duration_formatted": "2:08",
         "is_short": false,
         "statistics": {
-          "views": 12343,
+          "views": 12341,
           "likes": 187,
           "comments": 44
         },
@@ -9381,8 +9413,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11846305,
-          "likes": 165829,
+          "views": 11846490,
+          "likes": 165832,
           "comments": 8561
         },
         "content_status": {
@@ -9824,8 +9856,8 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 28208,
-          "likes": 1326,
+          "views": 28221,
+          "likes": 1327,
           "comments": 40
         },
         "content_status": {
@@ -9841,7 +9873,7 @@
             }
           ]
         },
-        "vph": 73.4,
+        "vph": 73.3,
         "days_since_published": 15,
         "views_per_day": 1867.8,
         "performance_status": "average",
@@ -9974,7 +10006,7 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 26100,
+          "views": 26098,
           "likes": 1226,
           "comments": 74
         },
@@ -9983,7 +10015,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 54.4,
+        "vph": 54.3,
         "days_since_published": 19,
         "views_per_day": 1370.6,
         "performance_status": "good",
@@ -10075,7 +10107,7 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 25465,
+          "views": 25469,
           "likes": 1128,
           "comments": 65
         },
@@ -10084,7 +10116,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 113.6,
+        "vph": 113.1,
         "days_since_published": 9,
         "views_per_day": 2770.7,
         "performance_status": "good",
@@ -10178,7 +10210,7 @@
         "duration_formatted": "4:30",
         "is_short": false,
         "statistics": {
-          "views": 22998,
+          "views": 23001,
           "likes": 363,
           "comments": 36
         },
@@ -10187,7 +10219,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 28.4,
+        "vph": 28.3,
         "days_since_published": 31,
         "views_per_day": 683.0,
         "performance_status": "average",
@@ -10414,7 +10446,7 @@
         "duration_formatted": "35s",
         "is_short": true,
         "statistics": {
-          "views": 15750,
+          "views": 15753,
           "likes": 1020,
           "comments": 37
         },
@@ -10423,7 +10455,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 43.3,
+        "vph": 43.2,
         "days_since_published": 15,
         "views_per_day": 1039.2,
         "performance_status": "average",
@@ -10457,9 +10489,10 @@
                 "his",
                 "the texans",
                 "watch the",
-                "https"
+                "https",
+                "action"
               ],
-              "penalty": 100
+              "penalty": 110
             },
             "title": {
               "score": 10,
@@ -10479,7 +10512,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, new, houstontexans, com, www, tex, his, the texans, watch the, https",
+            "Consider removing: watch, new, houstontexans, com, www, tex, his, the texans, watch the, https, action",
             "Title is short (24 chars). Aim for 40-70 chars.",
             "Add more description text (aim for 200+ characters)"
           ],
@@ -10516,7 +10549,8 @@
             "his",
             "the texans",
             "watch the",
-            "https"
+            "https",
+            "action"
           ]
         }
       },
@@ -10549,7 +10583,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 41.3,
+        "vph": 41.2,
         "days_since_published": 14,
         "views_per_day": 993.4,
         "performance_status": "poor",
@@ -10643,7 +10677,7 @@
         "duration_formatted": "1:38",
         "is_short": false,
         "statistics": {
-          "views": 10717,
+          "views": 10715,
           "likes": 409,
           "comments": 38
         },
@@ -10652,9 +10686,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 27.8,
-        "days_since_published": 15,
-        "views_per_day": 710.6,
+        "vph": 27.7,
+        "days_since_published": 16,
+        "views_per_day": 666.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -10797,7 +10831,7 @@
         "duration_formatted": "1:01",
         "is_short": false,
         "statistics": {
-          "views": 9323,
+          "views": 9319,
           "likes": 826,
           "comments": 60
         },
@@ -10806,7 +10840,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 42.0,
+        "vph": 41.8,
         "days_since_published": 9,
         "views_per_day": 1016.2,
         "performance_status": "good",
@@ -10913,8 +10947,8 @@
           "flags": []
         },
         "vph": 23.5,
-        "days_since_published": 15,
-        "views_per_day": 602.9,
+        "days_since_published": 16,
+        "views_per_day": 565.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 65,
@@ -11033,7 +11067,7 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 9182,
+          "views": 9185,
           "likes": 469,
           "comments": 15
         },
@@ -11042,7 +11076,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 41.1,
+        "vph": 40.9,
         "days_since_published": 9,
         "views_per_day": 1004.0,
         "performance_status": "average",
@@ -11419,7 +11453,7 @@
         "duration_formatted": "1:38",
         "is_short": false,
         "statistics": {
-          "views": 76378,
+          "views": 76380,
           "likes": 1352,
           "comments": 57
         },
@@ -11686,7 +11720,7 @@
         "duration_formatted": "14s",
         "is_short": true,
         "statistics": {
-          "views": 17603,
+          "views": 17604,
           "likes": 531,
           "comments": 32
         },
@@ -11695,7 +11729,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 8.0,
+        "vph": 7.9,
         "days_since_published": 33,
         "views_per_day": 195.9,
         "performance_status": "average",
@@ -11763,7 +11797,7 @@
         "duration_formatted": "22:32",
         "is_short": false,
         "statistics": {
-          "views": 6227,
+          "views": 6231,
           "likes": 229,
           "comments": 23
         },
@@ -11839,9 +11873,10 @@
                 "https",
                 "red",
                 "battle red",
-                "zone"
+                "zone",
+                "action"
               ],
-              "penalty": 350
+              "penalty": 360
             },
             "title": {
               "score": 10,
@@ -11861,7 +11896,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, from, tex, his, down, houston texans, the houston, from the, get, one, iron, episode, film, break, break down, inside, battle, inside the, night, colts, know, get to, to know, josh, allen, will anderson, anderson jr, josh allen, take, https, red, battle red, zone",
+            "Consider removing: houstontexans, com, www, from, tex, his, down, houston texans, the houston, from the, get, one, iron, episode, film, break, break down, inside, battle, inside the, night, colts, know, get to, to know, josh, allen, will anderson, anderson jr, josh allen, take, https, red, battle red, zone, action",
             "Title is long (88 chars). Consider shortening to under 70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -11940,7 +11975,8 @@
             "https",
             "red",
             "battle red",
-            "zone"
+            "zone",
+            "action"
           ]
         }
       },
@@ -11965,7 +12001,7 @@
         "is_short": true,
         "statistics": {
           "views": 13921,
-          "likes": 322,
+          "likes": 323,
           "comments": 10
         },
         "content_status": {
@@ -12254,7 +12290,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 54.2,
+        "vph": 53.6,
         "days_since_published": 3,
         "views_per_day": 1433.0,
         "performance_status": "good",
@@ -12674,7 +12710,7 @@
         "duration_formatted": "50s",
         "is_short": true,
         "statistics": {
-          "views": 137260,
+          "views": 137264,
           "likes": 5182,
           "comments": 185
         },
@@ -12877,7 +12913,7 @@
         "duration_formatted": "3:03",
         "is_short": false,
         "statistics": {
-          "views": 146254,
+          "views": 146250,
           "likes": 1434,
           "comments": 77
         },
@@ -12982,9 +13018,10 @@
                 "show",
                 "of our",
                 "fan",
-                "whether"
+                "whether",
+                "action"
               ],
-              "penalty": 640
+              "penalty": 650
             },
             "title": {
               "score": 15,
@@ -13004,7 +13041,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, full, houston texans, instagram, facebook, twitter, out, the houston, from the, get, their, energy, day, ever, break, moment, season, the swarm, as the, time, moments, stadium, hear, game, nrg stadium, at nrg, battle, start, texans battle, content, youtube, follow the, halftime, down the, ready, texans game, here, fans, https, come, halftime of, tiktok, during, sub_confirmation, website, red, showcases, halftime show, in houston, miss, showcases the, texans fans, show, of our, fan, whether",
+            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, full, houston texans, instagram, facebook, twitter, out, the houston, from the, get, their, energy, day, ever, break, moment, season, the swarm, as the, time, moments, stadium, hear, game, nrg stadium, at nrg, battle, start, texans battle, content, youtube, follow the, halftime, down the, ready, texans game, here, fans, https, come, halftime of, tiktok, during, sub_confirmation, website, red, showcases, halftime show, in houston, miss, showcases the, texans fans, show, of our, fan, whether, action",
             "Title is short (34 chars). Aim for 40-70 chars."
           ],
           "boost_keywords_found": [
@@ -13100,7 +13137,8 @@
             "show",
             "of our",
             "fan",
-            "whether"
+            "whether",
+            "action"
           ]
         }
       },
@@ -13142,8 +13180,8 @@
           ]
         },
         "vph": 7.0,
-        "days_since_published": 16,
-        "views_per_day": 179.2,
+        "days_since_published": 17,
+        "views_per_day": 168.7,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -13329,7 +13367,7 @@
         "duration_formatted": "1:01",
         "is_short": false,
         "statistics": {
-          "views": 8076,
+          "views": 8078,
           "likes": 352,
           "comments": 10
         },
@@ -13742,7 +13780,7 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 221400,
+          "views": 221416,
           "likes": 2226,
           "comments": 176
         },
@@ -14080,7 +14118,7 @@
         "duration_formatted": "3:20",
         "is_short": false,
         "statistics": {
-          "views": 2313,
+          "views": 2317,
           "likes": 132,
           "comments": 11
         },
@@ -14547,8 +14585,8 @@
         "duration_formatted": "8:23",
         "is_short": false,
         "statistics": {
-          "views": 341178,
-          "likes": 4253,
+          "views": 341181,
+          "likes": 4254,
           "comments": 342
         },
         "content_status": {
@@ -14958,7 +14996,7 @@
         "duration_formatted": "6:17",
         "is_short": false,
         "statistics": {
-          "views": 491777,
+          "views": 491776,
           "likes": 9112,
           "comments": 890
         },
@@ -15089,9 +15127,14 @@
                 "franchise",
                 "known",
                 "known for",
-                "moments like"
+                "moments like",
+                "action",
+                "historic",
+                "johnson's",
+                "greatest",
+                "represents"
               ],
-              "penalty": 900
+              "penalty": 950
             },
             "title": {
               "score": 20,
@@ -15111,7 +15154,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, houston texans, instagram, facebook, twitter, out, the houston, get, players, one, him, hands, off the, never, ever, moment, season, the texans, time, moments, watch the, leadership, one of, emotion, highest, off, presents, precision, youtube, know, subscribe to, follow the, andre, johnson, gets, knock, 2024, andre johnson, johnson gets, the knock, cris, carter, legend, pro, hall, fame, class, from cris, cris carter, carter texans, texans legend, legend andre, the pro, pro football, football hall, hall of, of fame, fame class, class of, of 2024, https, life, history, career, tiktok, sub_confirmation, website, special, red, in h-town, miss, never miss, bowl, made him, him a, pro bowl, honor, decade, franchise, known, known for, moments like"
+            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, houston texans, instagram, facebook, twitter, out, the houston, get, players, one, him, hands, off the, never, ever, moment, season, the texans, time, moments, watch the, leadership, one of, emotion, highest, off, presents, precision, youtube, know, subscribe to, follow the, andre, johnson, gets, knock, 2024, andre johnson, johnson gets, the knock, cris, carter, legend, pro, hall, fame, class, from cris, cris carter, carter texans, texans legend, legend andre, the pro, pro football, football hall, hall of, of fame, fame class, class of, of 2024, https, life, history, career, tiktok, sub_confirmation, website, special, red, in h-town, miss, never miss, bowl, made him, him a, pro bowl, honor, decade, franchise, known, known for, moments like, action, historic, johnson's, greatest, represents"
           ],
           "boost_keywords_found": [
             "texans",
@@ -15242,7 +15285,12 @@
             "franchise",
             "known",
             "known for",
-            "moments like"
+            "moments like",
+            "action",
+            "historic",
+            "johnson's",
+            "greatest",
+            "represents"
           ]
         }
       },
@@ -15375,9 +15423,10 @@
                 "powerful",
                 "showcased",
                 "fan",
-                "up the"
+                "up the",
+                "action"
               ],
-              "penalty": 680
+              "penalty": 690
             },
             "title": {
               "score": 20,
@@ -15397,7 +15446,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, coach, instagram, facebook, twitter, out, the houston, get, energy, against, energy and, one, mic, d up, against the, look, ever, moment, s texans, the swarm, look at, as the, moments, watch the, leadership, game, the game, teammates, sideline, level, presence, content, s leadership, youtube, follow the, to his, he's, fans, https, through, exactly, come, press, tiktok, during, sub_confirmation, website, perfectly, red, from his, dedication, in h-town, in houston, and dedication, show, powerful, showcased, fan, up the"
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, coach, instagram, facebook, twitter, out, the houston, get, energy, against, energy and, one, mic, d up, against the, look, ever, moment, s texans, the swarm, look at, as the, moments, watch the, leadership, game, the game, teammates, sideline, level, presence, content, s leadership, youtube, follow the, to his, he's, fans, https, through, exactly, come, press, tiktok, during, sub_confirmation, website, perfectly, red, from his, dedication, in h-town, in houston, and dedication, show, powerful, showcased, fan, up the, action"
           ],
           "boost_keywords_found": [
             "texans",
@@ -15531,7 +15580,8 @@
             "powerful",
             "showcased",
             "fan",
-            "up the"
+            "up the",
+            "action"
           ]
         }
       },
@@ -15555,7 +15605,7 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 2138,
+          "views": 2140,
           "likes": 184,
           "comments": 10
         },
@@ -15564,7 +15614,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 23.9,
+        "vph": 23.7,
         "days_since_published": 3,
         "views_per_day": 629.3,
         "performance_status": "good",
@@ -15651,7 +15701,7 @@
         "duration_formatted": "12:06",
         "is_short": false,
         "statistics": {
-          "views": 219149,
+          "views": 219150,
           "likes": 3409,
           "comments": 316
         },
@@ -15803,7 +15853,7 @@
         "duration_formatted": "44s",
         "is_short": true,
         "statistics": {
-          "views": 490844,
+          "views": 490845,
           "likes": 20527,
           "comments": 184
         },
@@ -16047,9 +16097,10 @@
                 "in houston",
                 "show",
                 "fan",
-                "whether"
+                "whether",
+                "action"
               ],
-              "penalty": 620
+              "penalty": 630
             },
             "title": {
               "score": 20,
@@ -16069,7 +16120,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, team, from, tex, his, follow, full, houston texans, coach, instagram, facebook, twitter, out, the houston, get, their, players, hit, look, complete, break, moment, the team, led, its, hilarious, texans players, s texans, moments, hear, voice, start, hear the, content, youtube, know, follow the, get to, here, pro, out he, fans, hits, https, nicknames, come, life, starts, starts calling, let, tiktok, during, sub_confirmation, website, perfectly, special, in houston, show, fan, whether"
+            "Consider removing: houstontexans, com, www, team, from, tex, his, follow, full, houston texans, coach, instagram, facebook, twitter, out, the houston, get, their, players, hit, look, complete, break, moment, the team, led, its, hilarious, texans players, s texans, moments, hear, voice, start, hear the, content, youtube, know, follow the, get to, here, pro, out he, fans, hits, https, nicknames, come, life, starts, starts calling, let, tiktok, during, sub_confirmation, website, perfectly, special, in houston, show, fan, whether, action"
           ],
           "boost_keywords_found": [
             "texans",
@@ -16297,7 +16348,8 @@
             "in houston",
             "show",
             "fan",
-            "whether"
+            "whether",
+            "action"
           ]
         }
       },
@@ -16555,8 +16607,8 @@
         "duration_formatted": "37s",
         "is_short": true,
         "statistics": {
-          "views": 5528,
-          "likes": 320,
+          "views": 5531,
+          "likes": 321,
           "comments": 15
         },
         "content_status": {
@@ -16789,7 +16841,7 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 14737,
+          "views": 14742,
           "likes": 580,
           "comments": 55
         },
@@ -16890,7 +16942,7 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 144784,
+          "views": 144785,
           "likes": 1529,
           "comments": 109
         },
@@ -17368,7 +17420,7 @@
         "duration_formatted": "51s",
         "is_short": true,
         "statistics": {
-          "views": 12135,
+          "views": 12137,
           "likes": 790,
           "comments": 27
         },
