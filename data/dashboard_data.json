@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T18:48:54.328738-05:00",
+  "generated_at": "2026-04-03T22:14:50.660574-05:00",
   "channel": {
     "channel_id": "UCa_FcpOBe8G6VAR18RYS-aA",
     "title": "Houston Texans",
@@ -11,7 +11,7 @@
       "total_views": 71893660,
       "video_count": 5723
     },
-    "fetched_at": "2026-04-03T18:48:54.638736-05:00"
+    "fetched_at": "2026-04-03T22:14:50.929989-05:00"
   },
   "periods": {
     "past_7_days": {
@@ -19,9 +19,9 @@
       "start_date": "2026-03-27",
       "end_date": "2026-04-03",
       "analytics": {
-        "views": 79602,
-        "watch_time_minutes": 160871,
-        "watch_time_hours": 2681.18,
+        "views": 79774,
+        "watch_time_minutes": 161541,
+        "watch_time_hours": 2692.35,
         "avg_view_duration_seconds": 164,
         "subscribers_gained": 186,
         "subscribers_lost": 110,
@@ -37,17 +37,17 @@
       "start_date": "2026-03-04",
       "end_date": "2026-04-03",
       "analytics": {
-        "views": 560545,
-        "watch_time_minutes": 972681,
-        "watch_time_hours": 16211.35,
+        "views": 563123,
+        "watch_time_minutes": 975276,
+        "watch_time_hours": 16254.6,
         "avg_view_duration_seconds": 145,
         "subscribers_gained": 1140,
         "subscribers_lost": 632,
         "net_subscribers": 508,
-        "likes": 13992,
-        "comments": 748,
+        "likes": 13986,
+        "comments": 745,
         "shares": 1948,
-        "engagement_total": 16688
+        "engagement_total": 16679
       }
     },
     "current_fy": {
@@ -91,9 +91,9 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11852686,
-          "likes": 165855,
-          "comments": 8566
+          "views": 11853929,
+          "likes": 165817,
+          "comments": 8568
         },
         "content_status": {
           "is_blocked": false,
@@ -636,7 +636,7 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 26086,
+          "views": 26177,
           "likes": 1145,
           "comments": 65
         },
@@ -645,7 +645,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 19.9,
+        "vph": 19.6,
         "days_since_published": 10,
         "views_per_day": 492.4,
         "performance_status": "good",
@@ -739,7 +739,7 @@
         "duration_formatted": "30s",
         "is_short": true,
         "statistics": {
-          "views": 4866,
+          "views": 4902,
           "likes": 360,
           "comments": 16
         },
@@ -748,7 +748,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 42.7,
+        "vph": 41.4,
         "days_since_published": 4,
         "views_per_day": 1144.0,
         "performance_status": "excellent",
@@ -868,8 +868,8 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 28416,
-          "likes": 1334,
+          "views": 28452,
+          "likes": 1336,
           "comments": 40
         },
         "content_status": {
@@ -885,7 +885,7 @@
             }
           ]
         },
-        "vph": 9.5,
+        "vph": 9.4,
         "days_since_published": 17,
         "views_per_day": 229.4,
         "performance_status": "average",
@@ -1018,8 +1018,8 @@
         "duration_formatted": "12:20",
         "is_short": false,
         "statistics": {
-          "views": 2943,
-          "likes": 121,
+          "views": 2999,
+          "likes": 122,
           "comments": 4
         },
         "content_status": {
@@ -1035,7 +1035,7 @@
             }
           ]
         },
-        "vph": 37.0,
+        "vph": 35.0,
         "days_since_published": 2,
         "views_per_day": 1091.5,
         "performance_status": "average",
@@ -1055,7 +1055,7 @@
                 "top",
                 "nfl"
               ],
-              "count": 90
+              "count": 100
             },
             "avoid_keywords": {
               "score": 0,
@@ -1206,7 +1206,17 @@
             "at nfl",
             "nfl meetings",
             "meetings demeco",
-            "ryans talks"
+            "ryans talks",
+            "talks to",
+            "to media",
+            "media at",
+            "afc coaches",
+            "coaches breakfast",
+            "breakfast during",
+            "nfl annual",
+            "annual meeting",
+            "meeting in",
+            "in phoenix"
           ],
           "avoid_keywords_found": [
             "new",
@@ -1264,8 +1274,8 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 2357,
-          "likes": 194,
+          "views": 2433,
+          "likes": 196,
           "comments": 12
         },
         "content_status": {
@@ -1273,7 +1283,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 19.7,
+        "vph": 19.1,
         "days_since_published": 4,
         "views_per_day": 525.2,
         "performance_status": "good",
@@ -1360,8 +1370,8 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 9462,
-          "likes": 474,
+          "views": 9510,
+          "likes": 475,
           "comments": 14
         },
         "content_status": {
@@ -1369,7 +1379,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 8.1,
+        "vph": 7.9,
         "days_since_published": 10,
         "views_per_day": 199.6,
         "performance_status": "average",
@@ -1457,8 +1467,8 @@
         "duration_formatted": "1:01",
         "is_short": false,
         "statistics": {
-          "views": 9450,
-          "likes": 833,
+          "views": 9503,
+          "likes": 834,
           "comments": 60
         },
         "content_status": {
@@ -1466,7 +1476,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 7.7,
+        "vph": 7.6,
         "days_since_published": 10,
         "views_per_day": 189.6,
         "performance_status": "excellent",
@@ -1563,8 +1573,8 @@
         "duration_formatted": "35s",
         "is_short": true,
         "statistics": {
-          "views": 15954,
-          "likes": 1031,
+          "views": 15980,
+          "likes": 1032,
           "comments": 37
         },
         "content_status": {
@@ -1691,7 +1701,7 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 26188,
+          "views": 26207,
           "likes": 1228,
           "comments": 74
         },
@@ -1792,8 +1802,8 @@
         "duration_formatted": "35s",
         "is_short": true,
         "statistics": {
-          "views": 14162,
-          "likes": 532,
+          "views": 14173,
+          "likes": 533,
           "comments": 16
         },
         "content_status": {
@@ -1895,8 +1905,8 @@
         "duration_formatted": "8:14",
         "is_short": false,
         "statistics": {
-          "views": 36494,
-          "likes": 877,
+          "views": 36521,
+          "likes": 878,
           "comments": 43
         },
         "content_status": {
@@ -2217,7 +2227,7 @@
         "duration_formatted": "50s",
         "is_short": true,
         "statistics": {
-          "views": 137366,
+          "views": 137377,
           "likes": 5183,
           "comments": 185
         },
@@ -2321,7 +2331,7 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 221501,
+          "views": 221509,
           "likes": 2227,
           "comments": 177
         },
@@ -2546,7 +2556,7 @@
         "duration_formatted": "3:03",
         "is_short": false,
         "statistics": {
-          "views": 146366,
+          "views": 146376,
           "likes": 1435,
           "comments": 77
         },
@@ -2654,9 +2664,13 @@
                 "whether",
                 "action",
                 "brought",
-                "delivered"
+                "delivered",
+                "wiener",
+                "race",
+                "dog",
+                "watch as"
               ],
-              "penalty": 670
+              "penalty": 710
             },
             "title": {
               "score": 15,
@@ -2676,7 +2690,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, full, houston texans, instagram, facebook, twitter, out, the houston, from the, get, their, energy, day, ever, break, moment, season, the swarm, as the, time, moments, stadium, hear, game, nrg stadium, at nrg, battle, start, texans battle, content, youtube, follow the, halftime, down the, ready, texans game, here, fans, https, come, halftime of, tiktok, during, sub_confirmation, website, red, showcases, halftime show, in houston, miss, showcases the, texans fans, show, of our, fan, whether, action, brought, delivered",
+            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, full, houston texans, instagram, facebook, twitter, out, the houston, from the, get, their, energy, day, ever, break, moment, season, the swarm, as the, time, moments, stadium, hear, game, nrg stadium, at nrg, battle, start, texans battle, content, youtube, follow the, halftime, down the, ready, texans game, here, fans, https, come, halftime of, tiktok, during, sub_confirmation, website, red, showcases, halftime show, in houston, miss, showcases the, texans fans, show, of our, fan, whether, action, brought, delivered, wiener, race, dog, watch as",
             "Title is short (34 chars). Aim for 40-70 chars."
           ],
           "boost_keywords_found": [
@@ -2775,7 +2789,11 @@
             "whether",
             "action",
             "brought",
-            "delivered"
+            "delivered",
+            "wiener",
+            "race",
+            "dog",
+            "watch as"
           ]
         }
       },
@@ -2799,7 +2817,7 @@
         "duration_formatted": "8:23",
         "is_short": false,
         "statistics": {
-          "views": 341282,
+          "views": 341308,
           "likes": 4254,
           "comments": 342
         },
@@ -3131,7 +3149,7 @@
         "duration_formatted": "13s",
         "is_short": true,
         "statistics": {
-          "views": 19749,
+          "views": 19760,
           "likes": 1123,
           "comments": 76
         },
@@ -3244,8 +3262,8 @@
         "duration_formatted": "53s",
         "is_short": true,
         "statistics": {
-          "views": 62325,
-          "likes": 4553,
+          "views": 62331,
+          "likes": 4554,
           "comments": 123
         },
         "content_status": {
@@ -3392,7 +3410,7 @@
         "is_short": true,
         "statistics": {
           "views": 58221,
-          "likes": 2118,
+          "likes": 2119,
           "comments": 95
         },
         "content_status": {
@@ -3401,7 +3419,7 @@
           "flags": []
         },
         "vph": 0.2,
-        "days_since_published": 116,
+        "days_since_published": 117,
         "views_per_day": 3.7,
         "performance_status": "average",
         "seo_score": {
@@ -3494,7 +3512,7 @@
         "duration_formatted": "44s",
         "is_short": true,
         "statistics": {
-          "views": 490917,
+          "views": 490925,
           "likes": 20526,
           "comments": 184
         },
@@ -3642,8 +3660,8 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 144842,
-          "likes": 1529,
+          "views": 144849,
+          "likes": 1528,
           "comments": 109
         },
         "content_status": {
@@ -3785,9 +3803,10 @@
                 "captivated",
                 "heroes",
                 "flawless precision",
-                "drill routine"
+                "drill routine",
+                "watch as"
               ],
-              "penalty": 1020
+              "penalty": 1030
             },
             "title": {
               "score": 20,
@@ -3807,7 +3826,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine"
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine, watch as"
           ],
           "boost_keywords_found": [
             "texans",
@@ -3941,7 +3960,8 @@
             "captivated",
             "heroes",
             "flawless precision",
-            "drill routine"
+            "drill routine",
+            "watch as"
           ]
         }
       },
@@ -3965,8 +3985,8 @@
         "duration_formatted": "9:13",
         "is_short": false,
         "statistics": {
-          "views": 68683,
-          "likes": 655,
+          "views": 68703,
+          "likes": 656,
           "comments": 48
         },
         "content_status": {
@@ -4321,8 +4341,8 @@
         "duration_formatted": "1:39",
         "is_short": false,
         "statistics": {
-          "views": 9130,
-          "likes": 882,
+          "views": 9141,
+          "likes": 883,
           "comments": 33
         },
         "content_status": {
@@ -4451,8 +4471,8 @@
         "duration_formatted": "56s",
         "is_short": true,
         "statistics": {
-          "views": 287638,
-          "likes": 11698,
+          "views": 287681,
+          "likes": 11699,
           "comments": 707
         },
         "content_status": {
@@ -4564,8 +4584,8 @@
         "duration_formatted": "1:14",
         "is_short": false,
         "statistics": {
-          "views": 23003,
-          "likes": 1097,
+          "views": 23023,
+          "likes": 1099,
           "comments": 38
         },
         "content_status": {
@@ -4946,7 +4966,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 73983,
+          "views": 74000,
           "likes": 2315,
           "comments": 42
         },
@@ -5077,7 +5097,7 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 24861,
+          "views": 24876,
           "likes": 940,
           "comments": 53
         },
@@ -5095,8 +5115,8 @@
           ]
         },
         "vph": 0.2,
-        "days_since_published": 60,
-        "views_per_day": 5.8,
+        "days_since_published": 61,
+        "views_per_day": 5.7,
         "performance_status": "excellent",
         "seo_score": {
           "total_score": 20,
@@ -5174,7 +5194,7 @@
         "duration_formatted": "8:26",
         "is_short": false,
         "statistics": {
-          "views": 2285958,
+          "views": 2285967,
           "likes": 17247,
           "comments": 1473
         },
@@ -5371,7 +5391,7 @@
         "duration_formatted": "12:06",
         "is_short": false,
         "statistics": {
-          "views": 219200,
+          "views": 219220,
           "likes": 3411,
           "comments": 316
         },
@@ -5523,7 +5543,7 @@
         "duration_formatted": "40s",
         "is_short": true,
         "statistics": {
-          "views": 50158,
+          "views": 50172,
           "likes": 2167,
           "comments": 54
         },
@@ -5638,7 +5658,7 @@
         "duration_formatted": "1:38",
         "is_short": false,
         "statistics": {
-          "views": 10778,
+          "views": 10789,
           "likes": 411,
           "comments": 38
         },
@@ -5794,8 +5814,8 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 3597324,
-          "likes": 89653,
+          "views": 3597344,
+          "likes": 89648,
           "comments": 2137
         },
         "content_status": {
@@ -5981,7 +6001,7 @@
         "duration_formatted": "22:32",
         "is_short": false,
         "statistics": {
-          "views": 6283,
+          "views": 6297,
           "likes": 229,
           "comments": 23
         },
@@ -6061,9 +6081,10 @@
                 "action",
                 "danielle",
                 "hunter",
-                "to'o"
+                "to'o",
+                "danielle hunter"
               ],
-              "penalty": 390
+              "penalty": 400
             },
             "title": {
               "score": 10,
@@ -6083,7 +6104,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, from, tex, his, down, houston texans, the houston, from the, get, one, iron, episode, film, break, break down, inside, battle, inside the, night, colts, know, get to, to know, josh, allen, will anderson, anderson jr, josh allen, take, https, red, battle red, zone, action, danielle, hunter, to'o",
+            "Consider removing: houstontexans, com, www, from, tex, his, down, houston texans, the houston, from the, get, one, iron, episode, film, break, break down, inside, battle, inside the, night, colts, know, get to, to know, josh, allen, will anderson, anderson jr, josh allen, take, https, red, battle red, zone, action, danielle, hunter, to'o, danielle hunter",
             "Title is long (88 chars). Consider shortening to under 70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -6166,7 +6187,8 @@
             "action",
             "danielle",
             "hunter",
-            "to'o"
+            "to'o",
+            "danielle hunter"
           ]
         }
       },
@@ -6190,7 +6212,7 @@
         "duration_formatted": "10s",
         "is_short": true,
         "statistics": {
-          "views": 869538,
+          "views": 869545,
           "likes": 19914,
           "comments": 435
         },
@@ -6322,7 +6344,7 @@
         "duration_formatted": "14s",
         "is_short": true,
         "statistics": {
-          "views": 4407,
+          "views": 4419,
           "likes": 165,
           "comments": 7
         },
@@ -6421,7 +6443,7 @@
         "duration_formatted": "9:06",
         "is_short": false,
         "statistics": {
-          "views": 7190,
+          "views": 7196,
           "likes": 209,
           "comments": 30
         },
@@ -6590,8 +6612,8 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 23002,
-          "likes": 319,
+          "views": 23014,
+          "likes": 318,
           "comments": 34
         },
         "content_status": {
@@ -6689,8 +6711,8 @@
         "duration_formatted": "6:28",
         "is_short": false,
         "statistics": {
-          "views": 21481,
-          "likes": 251,
+          "views": 21485,
+          "likes": 252,
           "comments": 25
         },
         "content_status": {
@@ -7032,7 +7054,7 @@
         "duration_formatted": "40s",
         "is_short": true,
         "statistics": {
-          "views": 66600,
+          "views": 66609,
           "likes": 2725,
           "comments": 35
         },
@@ -7211,7 +7233,7 @@
         "duration_formatted": "6:01",
         "is_short": false,
         "statistics": {
-          "views": 63675,
+          "views": 63682,
           "likes": 1102,
           "comments": 89
         },
@@ -7332,9 +7354,10 @@
                 "most elite",
                 "list",
                 "cornerstone",
-                "a cornerstone"
+                "a cornerstone",
+                "watch as"
               ],
-              "penalty": 800
+              "penalty": 810
             },
             "title": {
               "score": 20,
@@ -7354,7 +7377,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, houston texans, instagram, facebook, twitter, out, the houston, get, plays, one, him, quarter, break, moment, season, the swarm, the texans, moments, offense, game, one of, define, features, adjustments, as he, the offense, that define, off, night, presents, youtube, know, follow the, to his, derek, stingley, derek stingley, stingley jr, ready, he's, pro, https, pick, draft, press, career, let, minutes, rookie, tiktok, elite, sub_confirmation, website, special, red, from his, excellence, showcases, moments that, in h-town, showcases the, made him, him a, show, skill, whether, zone, represents, most elite, list, cornerstone, a cornerstone"
+            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, houston texans, instagram, facebook, twitter, out, the houston, get, plays, one, him, quarter, break, moment, season, the swarm, the texans, moments, offense, game, one of, define, features, adjustments, as he, the offense, that define, off, night, presents, youtube, know, follow the, to his, derek, stingley, derek stingley, stingley jr, ready, he's, pro, https, pick, draft, press, career, let, minutes, rookie, tiktok, elite, sub_confirmation, website, special, red, from his, excellence, showcases, moments that, in h-town, showcases the, made him, him a, show, skill, whether, zone, represents, most elite, list, cornerstone, a cornerstone, watch as"
           ],
           "boost_keywords_found": [
             "texans",
@@ -7494,7 +7517,8 @@
             "most elite",
             "list",
             "cornerstone",
-            "a cornerstone"
+            "a cornerstone",
+            "watch as"
           ]
         }
       },
@@ -7518,7 +7542,7 @@
         "duration_formatted": "11:52",
         "is_short": false,
         "statistics": {
-          "views": 67050,
+          "views": 67052,
           "likes": 1334,
           "comments": 98
         },
@@ -7636,9 +7660,10 @@
                 "fired",
                 "texans'",
                 "cornerstone",
-                "a cornerstone"
+                "a cornerstone",
+                "watch as"
               ],
-              "penalty": 770
+              "penalty": 780
             },
             "title": {
               "score": 20,
@@ -7658,7 +7683,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, coach, instagram, facebook, twitter, out, the houston, get, energy, against, energy and, one, mic, d up, against the, look, ever, moment, s texans, the swarm, look at, as the, moments, watch the, leadership, game, the game, teammates, sideline, level, presence, content, s leadership, youtube, follow the, to his, he's, fans, https, through, exactly, come, press, tiktok, during, sub_confirmation, website, perfectly, red, from his, dedication, in h-town, in houston, and dedication, show, powerful, showcased, fan, up the, action, azeez, al-shaair's, brought, linebacker's, fired, texans', cornerstone, a cornerstone"
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, coach, instagram, facebook, twitter, out, the houston, get, energy, against, energy and, one, mic, d up, against the, look, ever, moment, s texans, the swarm, look at, as the, moments, watch the, leadership, game, the game, teammates, sideline, level, presence, content, s leadership, youtube, follow the, to his, he's, fans, https, through, exactly, come, press, tiktok, during, sub_confirmation, website, perfectly, red, from his, dedication, in h-town, in houston, and dedication, show, powerful, showcased, fan, up the, action, azeez, al-shaair's, brought, linebacker's, fired, texans', cornerstone, a cornerstone, watch as"
           ],
           "boost_keywords_found": [
             "texans",
@@ -7801,7 +7826,8 @@
             "fired",
             "texans'",
             "cornerstone",
-            "a cornerstone"
+            "a cornerstone",
+            "watch as"
           ]
         }
       },
@@ -7825,7 +7851,7 @@
         "duration_formatted": "14s",
         "is_short": true,
         "statistics": {
-          "views": 17662,
+          "views": 17665,
           "likes": 535,
           "comments": 32
         },
@@ -7902,7 +7928,7 @@
         "duration_formatted": "24s",
         "is_short": true,
         "statistics": {
-          "views": 6969,
+          "views": 6979,
           "likes": 247,
           "comments": 6
         },
@@ -8023,7 +8049,7 @@
         "duration_formatted": "25s",
         "is_short": true,
         "statistics": {
-          "views": 394308,
+          "views": 394311,
           "likes": 17833,
           "comments": 212
         },
@@ -8158,8 +8184,8 @@
         "duration_formatted": "6:17",
         "is_short": false,
         "statistics": {
-          "views": 491825,
-          "likes": 9112,
+          "views": 491833,
+          "likes": 9111,
           "comments": 890
         },
         "content_status": {
@@ -8521,7 +8547,7 @@
         "duration_formatted": "4:40",
         "is_short": false,
         "statistics": {
-          "views": 67292,
+          "views": 67303,
           "likes": 1030,
           "comments": 79
         },
@@ -8888,7 +8914,7 @@
         "duration_formatted": "2:15",
         "is_short": false,
         "statistics": {
-          "views": 33550,
+          "views": 33551,
           "likes": 373,
           "comments": 27
         },
@@ -9013,9 +9039,10 @@
                 "you've",
                 "drone",
                 "stadium like",
-                "you've never"
+                "you've never",
+                "watch as"
               ],
-              "penalty": 840
+              "penalty": 850
             },
             "title": {
               "score": 20,
@@ -9035,7 +9062,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, new, houstontexans, com, www, from, tex, his, down, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, get, c j, against, one, comes, against the, day, hit, never, stun, ever, season, week, its, the swarm, the texans, as the, stadium, nrg stadium, experience, one of, stadium from, content, off, thursday, night, youtube, on thursday, thursday night, night football, subscribe to, follow the, takes, ready, take, here, pro, round, kickoff, before, https, come, press, tiktok, sub_confirmation, website, special, red, unforgettable, showcases, iconic, showcases the, show, of our, our home, electric, forget, thursdaynightfootball, to host, host the, action, tnf, seen, you've, drone, stadium like, you've never"
+            "Consider removing: watch, new, houstontexans, com, www, from, tex, his, down, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, get, c j, against, one, comes, against the, day, hit, never, stun, ever, season, week, its, the swarm, the texans, as the, stadium, nrg stadium, experience, one of, stadium from, content, off, thursday, night, youtube, on thursday, thursday night, night football, subscribe to, follow the, takes, ready, take, here, pro, round, kickoff, before, https, come, press, tiktok, sub_confirmation, website, special, red, unforgettable, showcases, iconic, showcases the, show, of our, our home, electric, forget, thursdaynightfootball, to host, host the, action, tnf, seen, you've, drone, stadium like, you've never, watch as"
           ],
           "boost_keywords_found": [
             "texans",
@@ -9157,7 +9184,8 @@
             "you've",
             "drone",
             "stadium like",
-            "you've never"
+            "you've never",
+            "watch as"
           ]
         }
       },
@@ -9181,7 +9209,7 @@
         "duration_formatted": "2:57",
         "is_short": false,
         "statistics": {
-          "views": 482300,
+          "views": 482305,
           "likes": 6252,
           "comments": 282
         },
@@ -9532,7 +9560,7 @@
         "duration_formatted": "2:08",
         "is_short": false,
         "statistics": {
-          "views": 12375,
+          "views": 12388,
           "likes": 187,
           "comments": 44
         },
@@ -9669,7 +9697,7 @@
         "duration_formatted": "26:32",
         "is_short": false,
         "statistics": {
-          "views": 311486,
+          "views": 311493,
           "likes": 5539,
           "comments": 225
         },
@@ -9870,9 +9898,9 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11852686,
-          "likes": 165855,
-          "comments": 8566
+          "views": 11853929,
+          "likes": 165817,
+          "comments": 8568
         },
         "content_status": {
           "is_blocked": false,
@@ -10415,8 +10443,8 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 28417,
-          "likes": 1334,
+          "views": 28452,
+          "likes": 1336,
           "comments": 40
         },
         "content_status": {
@@ -10432,7 +10460,7 @@
             }
           ]
         },
-        "vph": 68.8,
+        "vph": 68.2,
         "days_since_published": 17,
         "views_per_day": 1656.9,
         "performance_status": "average",
@@ -10565,7 +10593,7 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 26188,
+          "views": 26207,
           "likes": 1228,
           "comments": 74
         },
@@ -10574,7 +10602,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 51.5,
+        "vph": 51.2,
         "days_since_published": 21,
         "views_per_day": 1242.5,
         "performance_status": "good",
@@ -10666,7 +10694,7 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 26086,
+          "views": 26179,
           "likes": 1145,
           "comments": 65
         },
@@ -10675,7 +10703,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 102.3,
+        "vph": 100.9,
         "days_since_published": 10,
         "views_per_day": 2529.5,
         "performance_status": "good",
@@ -10769,7 +10797,7 @@
         "duration_formatted": "13s",
         "is_short": true,
         "statistics": {
-          "views": 19750,
+          "views": 19760,
           "likes": 1123,
           "comments": 76
         },
@@ -10786,7 +10814,7 @@
             }
           ]
         },
-        "vph": 35.4,
+        "vph": 35.2,
         "days_since_published": 23,
         "views_per_day": 854.5,
         "performance_status": "good",
@@ -10882,7 +10910,7 @@
         "duration_formatted": "4:30",
         "is_short": false,
         "statistics": {
-          "views": 23032,
+          "views": 23035,
           "likes": 364,
           "comments": 36
         },
@@ -10891,7 +10919,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 22.3,
+        "vph": 22.2,
         "days_since_published": 32,
         "views_per_day": 540.8,
         "performance_status": "average",
@@ -11005,8 +11033,8 @@
         "duration_formatted": "35s",
         "is_short": true,
         "statistics": {
-          "views": 15954,
-          "likes": 1031,
+          "views": 15980,
+          "likes": 1032,
           "comments": 37
         },
         "content_status": {
@@ -11014,7 +11042,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 40.5,
+        "vph": 40.1,
         "days_since_published": 16,
         "views_per_day": 981.7,
         "performance_status": "average",
@@ -11133,8 +11161,8 @@
         "duration_formatted": "35s",
         "is_short": true,
         "statistics": {
-          "views": 14161,
-          "likes": 532,
+          "views": 14173,
+          "likes": 533,
           "comments": 16
         },
         "content_status": {
@@ -11142,7 +11170,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 38.4,
+        "vph": 38.1,
         "days_since_published": 15,
         "views_per_day": 933.9,
         "performance_status": "poor",
@@ -11236,7 +11264,7 @@
         "duration_formatted": "1:38",
         "is_short": false,
         "statistics": {
-          "views": 10778,
+          "views": 10790,
           "likes": 411,
           "comments": 38
         },
@@ -11245,7 +11273,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 26.0,
+        "vph": 25.8,
         "days_since_published": 17,
         "views_per_day": 629.3,
         "performance_status": "good",
@@ -11392,8 +11420,8 @@
         "duration_formatted": "1:01",
         "is_short": false,
         "statistics": {
-          "views": 9450,
-          "likes": 833,
+          "views": 9503,
+          "likes": 834,
           "comments": 60
         },
         "content_status": {
@@ -11401,7 +11429,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 37.8,
+        "vph": 37.3,
         "days_since_published": 10,
         "views_per_day": 929.1,
         "performance_status": "good",
@@ -11498,8 +11526,8 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 9463,
-          "likes": 474,
+          "views": 9510,
+          "likes": 475,
           "comments": 14
         },
         "content_status": {
@@ -11507,7 +11535,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 36.9,
+        "vph": 36.4,
         "days_since_published": 10,
         "views_per_day": 914.9,
         "performance_status": "average",
@@ -11595,8 +11623,8 @@
         "duration_formatted": "1:39",
         "is_short": false,
         "statistics": {
-          "views": 9115,
-          "likes": 882,
+          "views": 9141,
+          "likes": 883,
           "comments": 33
         },
         "content_status": {
@@ -11604,7 +11632,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 22.0,
+        "vph": 21.8,
         "days_since_published": 17,
         "views_per_day": 533.5,
         "performance_status": "good",
@@ -11725,7 +11753,7 @@
         "duration_formatted": "9:06",
         "is_short": false,
         "statistics": {
-          "views": 7191,
+          "views": 7194,
           "likes": 209,
           "comments": 30
         },
@@ -11742,7 +11770,7 @@
             }
           ]
         },
-        "vph": 21.3,
+        "vph": 21.1,
         "days_since_published": 14,
         "views_per_day": 511.6,
         "performance_status": "good",
@@ -11894,7 +11922,7 @@
         "duration_formatted": "24s",
         "is_short": true,
         "statistics": {
-          "views": 6969,
+          "views": 6978,
           "likes": 247,
           "comments": 6
         },
@@ -11911,7 +11939,7 @@
             }
           ]
         },
-        "vph": 10.6,
+        "vph": 10.5,
         "days_since_published": 27,
         "views_per_day": 256.2,
         "performance_status": "poor",
@@ -12015,7 +12043,7 @@
         "duration_formatted": "1:38",
         "is_short": false,
         "statistics": {
-          "views": 76393,
+          "views": 76400,
           "likes": 1359,
           "comments": 57
         },
@@ -12284,7 +12312,7 @@
         "duration_formatted": "22:32",
         "is_short": false,
         "statistics": {
-          "views": 6290,
+          "views": 6295,
           "likes": 229,
           "comments": 23
         },
@@ -12301,7 +12329,7 @@
             }
           ]
         },
-        "vph": 12.3,
+        "vph": 12.2,
         "days_since_published": 21,
         "views_per_day": 296.0,
         "performance_status": "average",
@@ -12364,9 +12392,10 @@
                 "action",
                 "danielle",
                 "hunter",
-                "to'o"
+                "to'o",
+                "danielle hunter"
               ],
-              "penalty": 390
+              "penalty": 400
             },
             "title": {
               "score": 10,
@@ -12386,7 +12415,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, from, tex, his, down, houston texans, the houston, from the, get, one, iron, episode, film, break, break down, inside, battle, inside the, night, colts, know, get to, to know, josh, allen, will anderson, anderson jr, josh allen, take, https, red, battle red, zone, action, danielle, hunter, to'o",
+            "Consider removing: houstontexans, com, www, from, tex, his, down, houston texans, the houston, from the, get, one, iron, episode, film, break, break down, inside, battle, inside the, night, colts, know, get to, to know, josh, allen, will anderson, anderson jr, josh allen, take, https, red, battle red, zone, action, danielle, hunter, to'o, danielle hunter",
             "Title is long (88 chars). Consider shortening to under 70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -12469,7 +12498,8 @@
             "action",
             "danielle",
             "hunter",
-            "to'o"
+            "to'o",
+            "danielle hunter"
           ]
         }
       },
@@ -12493,7 +12523,7 @@
         "duration_formatted": "14s",
         "is_short": true,
         "statistics": {
-          "views": 17662,
+          "views": 17675,
           "likes": 535,
           "comments": 32
         },
@@ -12570,8 +12600,8 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 22999,
-          "likes": 319,
+          "views": 23014,
+          "likes": 318,
           "comments": 34
         },
         "content_status": {
@@ -12669,7 +12699,7 @@
         "duration_formatted": "10s",
         "is_short": true,
         "statistics": {
-          "views": 13968,
+          "views": 13982,
           "likes": 324,
           "comments": 10
         },
@@ -12679,8 +12709,8 @@
           "flags": []
         },
         "vph": 5.6,
-        "days_since_published": 35,
-        "views_per_day": 138.5,
+        "days_since_published": 36,
+        "views_per_day": 134.6,
         "performance_status": "average",
         "seo_score": {
           "total_score": 35,
@@ -12752,7 +12782,7 @@
         "duration_formatted": "30s",
         "is_short": true,
         "statistics": {
-          "views": 4866,
+          "views": 4902,
           "likes": 360,
           "comments": 16
         },
@@ -12761,7 +12791,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 42.7,
+        "vph": 41.4,
         "days_since_published": 4,
         "views_per_day": 1144.0,
         "performance_status": "good",
@@ -12881,7 +12911,7 @@
         "duration_formatted": "14s",
         "is_short": true,
         "statistics": {
-          "views": 4407,
+          "views": 4419,
           "likes": 165,
           "comments": 7
         },
@@ -13145,7 +13175,7 @@
         "duration_formatted": "2:08",
         "is_short": false,
         "statistics": {
-          "views": 12374,
+          "views": 12385,
           "likes": 187,
           "comments": 44
         },
@@ -13282,7 +13312,7 @@
         "duration_formatted": "50s",
         "is_short": true,
         "statistics": {
-          "views": 137366,
+          "views": 137378,
           "likes": 5183,
           "comments": 185
         },
@@ -13386,7 +13416,7 @@
         "duration_formatted": "7s",
         "is_short": true,
         "statistics": {
-          "views": 15763,
+          "views": 15773,
           "likes": 255,
           "comments": 26
         },
@@ -13485,7 +13515,7 @@
         "duration_formatted": "1:46",
         "is_short": false,
         "statistics": {
-          "views": 2887,
+          "views": 2888,
           "likes": 159,
           "comments": 18
         },
@@ -13502,7 +13532,7 @@
             }
           ]
         },
-        "vph": 6.6,
+        "vph": 6.5,
         "days_since_published": 18,
         "views_per_day": 159.6,
         "performance_status": "good",
@@ -13690,7 +13720,7 @@
         "duration_formatted": "3:03",
         "is_short": false,
         "statistics": {
-          "views": 146367,
+          "views": 146379,
           "likes": 1435,
           "comments": 77
         },
@@ -13798,9 +13828,13 @@
                 "whether",
                 "action",
                 "brought",
-                "delivered"
+                "delivered",
+                "wiener",
+                "race",
+                "dog",
+                "watch as"
               ],
-              "penalty": 670
+              "penalty": 710
             },
             "title": {
               "score": 15,
@@ -13820,7 +13854,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, full, houston texans, instagram, facebook, twitter, out, the houston, from the, get, their, energy, day, ever, break, moment, season, the swarm, as the, time, moments, stadium, hear, game, nrg stadium, at nrg, battle, start, texans battle, content, youtube, follow the, halftime, down the, ready, texans game, here, fans, https, come, halftime of, tiktok, during, sub_confirmation, website, red, showcases, halftime show, in houston, miss, showcases the, texans fans, show, of our, fan, whether, action, brought, delivered",
+            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, full, houston texans, instagram, facebook, twitter, out, the houston, from the, get, their, energy, day, ever, break, moment, season, the swarm, as the, time, moments, stadium, hear, game, nrg stadium, at nrg, battle, start, texans battle, content, youtube, follow the, halftime, down the, ready, texans game, here, fans, https, come, halftime of, tiktok, during, sub_confirmation, website, red, showcases, halftime show, in houston, miss, showcases the, texans fans, show, of our, fan, whether, action, brought, delivered, wiener, race, dog, watch as",
             "Title is short (34 chars). Aim for 40-70 chars."
           ],
           "boost_keywords_found": [
@@ -13919,7 +13953,11 @@
             "whether",
             "action",
             "brought",
-            "delivered"
+            "delivered",
+            "wiener",
+            "race",
+            "dog",
+            "watch as"
           ]
         }
       },
@@ -13943,8 +13981,8 @@
         "duration_formatted": "8:14",
         "is_short": false,
         "statistics": {
-          "views": 36495,
-          "likes": 877,
+          "views": 36521,
+          "likes": 878,
           "comments": 43
         },
         "content_status": {
@@ -14265,7 +14303,7 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 221495,
+          "views": 221518,
           "likes": 2227,
           "comments": 177
         },
@@ -14490,7 +14528,7 @@
         "duration_formatted": "1:01",
         "is_short": false,
         "statistics": {
-          "views": 8120,
+          "views": 8131,
           "likes": 353,
           "comments": 10
         },
@@ -14589,7 +14627,7 @@
         "duration_formatted": "3:20",
         "is_short": false,
         "statistics": {
-          "views": 2347,
+          "views": 2354,
           "likes": 135,
           "comments": 11
         },
@@ -14759,8 +14797,8 @@
         "duration_formatted": "12:20",
         "is_short": false,
         "statistics": {
-          "views": 2943,
-          "likes": 121,
+          "views": 2999,
+          "likes": 122,
           "comments": 4
         },
         "content_status": {
@@ -14776,7 +14814,7 @@
             }
           ]
         },
-        "vph": 37.0,
+        "vph": 35.0,
         "days_since_published": 2,
         "views_per_day": 1091.5,
         "performance_status": "average",
@@ -14796,7 +14834,7 @@
                 "top",
                 "nfl"
               ],
-              "count": 90
+              "count": 100
             },
             "avoid_keywords": {
               "score": 0,
@@ -14947,7 +14985,17 @@
             "at nfl",
             "nfl meetings",
             "meetings demeco",
-            "ryans talks"
+            "ryans talks",
+            "talks to",
+            "to media",
+            "media at",
+            "afc coaches",
+            "coaches breakfast",
+            "breakfast during",
+            "nfl annual",
+            "annual meeting",
+            "meeting in",
+            "in phoenix"
           ],
           "avoid_keywords_found": [
             "new",
@@ -15005,8 +15053,8 @@
         "duration_formatted": "56s",
         "is_short": true,
         "statistics": {
-          "views": 287640,
-          "likes": 11698,
+          "views": 287677,
+          "likes": 11699,
           "comments": 707
         },
         "content_status": {
@@ -15118,8 +15166,8 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 2357,
-          "likes": 194,
+          "views": 2433,
+          "likes": 197,
           "comments": 12
         },
         "content_status": {
@@ -15127,7 +15175,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 19.7,
+        "vph": 19.1,
         "days_since_published": 4,
         "views_per_day": 525.2,
         "performance_status": "good",
@@ -15214,8 +15262,8 @@
         "duration_formatted": "19s",
         "is_short": true,
         "statistics": {
-          "views": 11226,
-          "likes": 533,
+          "views": 11227,
+          "likes": 535,
           "comments": 36
         },
         "content_status": {
@@ -15327,8 +15375,8 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 3597318,
-          "likes": 89652,
+          "views": 3597344,
+          "likes": 89648,
           "comments": 2137
         },
         "content_status": {
@@ -15514,7 +15562,7 @@
         "duration_formatted": "8:23",
         "is_short": false,
         "statistics": {
-          "views": 341282,
+          "views": 341308,
           "likes": 4254,
           "comments": 342
         },
@@ -15846,7 +15894,7 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 24871,
+          "views": 24876,
           "likes": 940,
           "comments": 53
         },
@@ -15864,8 +15912,8 @@
           ]
         },
         "vph": 1.4,
-        "days_since_published": 60,
-        "views_per_day": 33.1,
+        "days_since_published": 61,
+        "views_per_day": 32.6,
         "performance_status": "excellent",
         "seo_score": {
           "total_score": 20,
@@ -15943,8 +15991,8 @@
         "duration_formatted": "6:17",
         "is_short": false,
         "statistics": {
-          "views": 491818,
-          "likes": 9112,
+          "views": 491833,
+          "likes": 9111,
           "comments": 890
         },
         "content_status": {
@@ -16306,7 +16354,7 @@
         "duration_formatted": "44s",
         "is_short": true,
         "statistics": {
-          "views": 490917,
+          "views": 490925,
           "likes": 20526,
           "comments": 184
         },
@@ -16454,7 +16502,7 @@
         "duration_formatted": "11:52",
         "is_short": false,
         "statistics": {
-          "views": 67048,
+          "views": 67054,
           "likes": 1334,
           "comments": 98
         },
@@ -16572,9 +16620,10 @@
                 "fired",
                 "texans'",
                 "cornerstone",
-                "a cornerstone"
+                "a cornerstone",
+                "watch as"
               ],
-              "penalty": 770
+              "penalty": 780
             },
             "title": {
               "score": 20,
@@ -16594,7 +16643,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, coach, instagram, facebook, twitter, out, the houston, get, energy, against, energy and, one, mic, d up, against the, look, ever, moment, s texans, the swarm, look at, as the, moments, watch the, leadership, game, the game, teammates, sideline, level, presence, content, s leadership, youtube, follow the, to his, he's, fans, https, through, exactly, come, press, tiktok, during, sub_confirmation, website, perfectly, red, from his, dedication, in h-town, in houston, and dedication, show, powerful, showcased, fan, up the, action, azeez, al-shaair's, brought, linebacker's, fired, texans', cornerstone, a cornerstone"
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, coach, instagram, facebook, twitter, out, the houston, get, energy, against, energy and, one, mic, d up, against the, look, ever, moment, s texans, the swarm, look at, as the, moments, watch the, leadership, game, the game, teammates, sideline, level, presence, content, s leadership, youtube, follow the, to his, he's, fans, https, through, exactly, come, press, tiktok, during, sub_confirmation, website, perfectly, red, from his, dedication, in h-town, in houston, and dedication, show, powerful, showcased, fan, up the, action, azeez, al-shaair's, brought, linebacker's, fired, texans', cornerstone, a cornerstone, watch as"
           ],
           "boost_keywords_found": [
             "texans",
@@ -16737,7 +16786,8 @@
             "fired",
             "texans'",
             "cornerstone",
-            "a cornerstone"
+            "a cornerstone",
+            "watch as"
           ]
         }
       },
@@ -16761,8 +16811,8 @@
         "duration_formatted": "21s",
         "is_short": true,
         "statistics": {
-          "views": 58221,
-          "likes": 2118,
+          "views": 58223,
+          "likes": 2119,
           "comments": 95
         },
         "content_status": {
@@ -16771,8 +16821,8 @@
           "flags": []
         },
         "vph": 0.7,
-        "days_since_published": 116,
-        "views_per_day": 16.4,
+        "days_since_published": 117,
+        "views_per_day": 16.2,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -16864,7 +16914,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 73983,
+          "views": 73996,
           "likes": 2315,
           "comments": 42
         },
@@ -16995,7 +17045,7 @@
         "duration_formatted": "12:06",
         "is_short": false,
         "statistics": {
-          "views": 219200,
+          "views": 219220,
           "likes": 3411,
           "comments": 316
         },
@@ -17147,8 +17197,8 @@
         "duration_formatted": "1:14",
         "is_short": false,
         "statistics": {
-          "views": 23003,
-          "likes": 1097,
+          "views": 23017,
+          "likes": 1099,
           "comments": 38
         },
         "content_status": {
@@ -17529,7 +17579,7 @@
         "duration_formatted": "40s",
         "is_short": true,
         "statistics": {
-          "views": 50158,
+          "views": 50169,
           "likes": 2167,
           "comments": 54
         },
@@ -17644,7 +17694,7 @@
         "duration_formatted": "37s",
         "is_short": true,
         "statistics": {
-          "views": 5571,
+          "views": 5582,
           "likes": 322,
           "comments": 15
         },
@@ -17763,7 +17813,7 @@
         "duration_formatted": "2:47",
         "is_short": false,
         "statistics": {
-          "views": 1777,
+          "views": 1778,
           "likes": 128,
           "comments": 14
         },
@@ -17933,8 +17983,8 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 14770,
-          "likes": 581,
+          "views": 14777,
+          "likes": 580,
           "comments": 55
         },
         "content_status": {
@@ -18036,8 +18086,8 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 144841,
-          "likes": 1529,
+          "views": 144849,
+          "likes": 1528,
           "comments": 109
         },
         "content_status": {
@@ -18179,9 +18229,10 @@
                 "captivated",
                 "heroes",
                 "flawless precision",
-                "drill routine"
+                "drill routine",
+                "watch as"
               ],
-              "penalty": 1020
+              "penalty": 1030
             },
             "title": {
               "score": 20,
@@ -18201,7 +18252,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine"
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine, watch as"
           ],
           "boost_keywords_found": [
             "texans",
@@ -18335,7 +18386,8 @@
             "captivated",
             "heroes",
             "flawless precision",
-            "drill routine"
+            "drill routine",
+            "watch as"
           ]
         }
       }
@@ -18361,9 +18413,9 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11852686,
-          "likes": 165855,
-          "comments": 8566
+          "views": 11853929,
+          "likes": 165817,
+          "comments": 8568
         },
         "content_status": {
           "is_blocked": false,
@@ -18906,8 +18958,8 @@
         "duration_formatted": "12:20",
         "is_short": false,
         "statistics": {
-          "views": 2943,
-          "likes": 121,
+          "views": 2999,
+          "likes": 122,
           "comments": 4
         },
         "content_status": {
@@ -18923,7 +18975,7 @@
             }
           ]
         },
-        "vph": 37.0,
+        "vph": 35.0,
         "days_since_published": 2,
         "views_per_day": 1091.5,
         "performance_status": "poor",
@@ -18943,7 +18995,7 @@
                 "top",
                 "nfl"
               ],
-              "count": 90
+              "count": 100
             },
             "avoid_keywords": {
               "score": 0,
@@ -19094,7 +19146,17 @@
             "at nfl",
             "nfl meetings",
             "meetings demeco",
-            "ryans talks"
+            "ryans talks",
+            "talks to",
+            "to media",
+            "media at",
+            "afc coaches",
+            "coaches breakfast",
+            "breakfast during",
+            "nfl annual",
+            "annual meeting",
+            "meeting in",
+            "in phoenix"
           ],
           "avoid_keywords_found": [
             "new",
@@ -19152,7 +19214,7 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 26086,
+          "views": 26177,
           "likes": 1145,
           "comments": 65
         },
@@ -19255,7 +19317,7 @@
         "duration_formatted": "30s",
         "is_short": true,
         "statistics": {
-          "views": 4866,
+          "views": 4902,
           "likes": 360,
           "comments": 16
         },
@@ -19264,7 +19326,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 2.6,
+        "vph": 2.5,
         "days_since_published": 4,
         "views_per_day": 69.2,
         "performance_status": "excellent",
@@ -19384,8 +19446,8 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 2357,
-          "likes": 194,
+          "views": 2433,
+          "likes": 197,
           "comments": 12
         },
         "content_status": {
@@ -19393,7 +19455,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 2.0,
+        "vph": 1.9,
         "days_since_published": 4,
         "views_per_day": 53.2,
         "performance_status": "excellent",
@@ -19480,8 +19542,8 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 28416,
-          "likes": 1334,
+          "views": 28452,
+          "likes": 1336,
           "comments": 40
         },
         "content_status": {
@@ -19630,8 +19692,8 @@
         "duration_formatted": "1:01",
         "is_short": false,
         "statistics": {
-          "views": 9450,
-          "likes": 833,
+          "views": 9503,
+          "likes": 834,
           "comments": 60
         },
         "content_status": {
@@ -19736,8 +19798,8 @@
         "duration_formatted": "35s",
         "is_short": true,
         "statistics": {
-          "views": 15954,
-          "likes": 1031,
+          "views": 15980,
+          "likes": 1032,
           "comments": 37
         },
         "content_status": {
@@ -19864,8 +19926,8 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 9462,
-          "likes": 474,
+          "views": 9510,
+          "likes": 475,
           "comments": 14
         },
         "content_status": {
@@ -19961,8 +20023,8 @@
         "duration_formatted": "8:14",
         "is_short": false,
         "statistics": {
-          "views": 36494,
-          "likes": 877,
+          "views": 36521,
+          "likes": 878,
           "comments": 43
         },
         "content_status": {
@@ -20283,8 +20345,8 @@
         "duration_formatted": "35s",
         "is_short": true,
         "statistics": {
-          "views": 14161,
-          "likes": 532,
+          "views": 14173,
+          "likes": 533,
           "comments": 16
         },
         "content_status": {
@@ -20386,7 +20448,7 @@
         "duration_formatted": "44s",
         "is_short": true,
         "statistics": {
-          "views": 490917,
+          "views": 490918,
           "likes": 20526,
           "comments": 184
         },
@@ -20534,7 +20596,7 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 221502,
+          "views": 221518,
           "likes": 2227,
           "comments": 177
         },
@@ -20759,8 +20821,8 @@
         "duration_formatted": "21s",
         "is_short": true,
         "statistics": {
-          "views": 58221,
-          "likes": 2118,
+          "views": 58226,
+          "likes": 2119,
           "comments": 95
         },
         "content_status": {
@@ -20769,7 +20831,7 @@
           "flags": []
         },
         "vph": 0.0,
-        "days_since_published": 116,
+        "days_since_published": 117,
         "views_per_day": 0.8,
         "performance_status": "average",
         "seo_score": {
@@ -20862,7 +20924,7 @@
         "duration_formatted": "8:23",
         "is_short": false,
         "statistics": {
-          "views": 341282,
+          "views": 341308,
           "likes": 4254,
           "comments": 342
         },
@@ -21194,7 +21256,7 @@
         "duration_formatted": "50s",
         "is_short": true,
         "statistics": {
-          "views": 137366,
+          "views": 137377,
           "likes": 5183,
           "comments": 185
         },
@@ -21298,7 +21360,7 @@
         "duration_formatted": "3:03",
         "is_short": false,
         "statistics": {
-          "views": 146366,
+          "views": 146379,
           "likes": 1435,
           "comments": 77
         },
@@ -21406,9 +21468,13 @@
                 "whether",
                 "action",
                 "brought",
-                "delivered"
+                "delivered",
+                "wiener",
+                "race",
+                "dog",
+                "watch as"
               ],
-              "penalty": 670
+              "penalty": 710
             },
             "title": {
               "score": 15,
@@ -21428,7 +21494,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, full, houston texans, instagram, facebook, twitter, out, the houston, from the, get, their, energy, day, ever, break, moment, season, the swarm, as the, time, moments, stadium, hear, game, nrg stadium, at nrg, battle, start, texans battle, content, youtube, follow the, halftime, down the, ready, texans game, here, fans, https, come, halftime of, tiktok, during, sub_confirmation, website, red, showcases, halftime show, in houston, miss, showcases the, texans fans, show, of our, fan, whether, action, brought, delivered",
+            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, full, houston texans, instagram, facebook, twitter, out, the houston, from the, get, their, energy, day, ever, break, moment, season, the swarm, as the, time, moments, stadium, hear, game, nrg stadium, at nrg, battle, start, texans battle, content, youtube, follow the, halftime, down the, ready, texans game, here, fans, https, come, halftime of, tiktok, during, sub_confirmation, website, red, showcases, halftime show, in houston, miss, showcases the, texans fans, show, of our, fan, whether, action, brought, delivered, wiener, race, dog, watch as",
             "Title is short (34 chars). Aim for 40-70 chars."
           ],
           "boost_keywords_found": [
@@ -21527,7 +21593,11 @@
             "whether",
             "action",
             "brought",
-            "delivered"
+            "delivered",
+            "wiener",
+            "race",
+            "dog",
+            "watch as"
           ]
         }
       },
@@ -21551,8 +21621,8 @@
         "duration_formatted": "56s",
         "is_short": true,
         "statistics": {
-          "views": 287642,
-          "likes": 11698,
+          "views": 287681,
+          "likes": 11699,
           "comments": 707
         },
         "content_status": {
@@ -21664,8 +21734,8 @@
         "duration_formatted": "9:13",
         "is_short": false,
         "statistics": {
-          "views": 68683,
-          "likes": 655,
+          "views": 68703,
+          "likes": 656,
           "comments": 48
         },
         "content_status": {
@@ -22020,7 +22090,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 73986,
+          "views": 73996,
           "likes": 2315,
           "comments": 42
         },
@@ -22151,7 +22221,7 @@
         "duration_formatted": "2:15",
         "is_short": false,
         "statistics": {
-          "views": 33549,
+          "views": 33552,
           "likes": 373,
           "comments": 27
         },
@@ -22276,9 +22346,10 @@
                 "you've",
                 "drone",
                 "stadium like",
-                "you've never"
+                "you've never",
+                "watch as"
               ],
-              "penalty": 840
+              "penalty": 850
             },
             "title": {
               "score": 20,
@@ -22298,7 +22369,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, new, houstontexans, com, www, from, tex, his, down, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, get, c j, against, one, comes, against the, day, hit, never, stun, ever, season, week, its, the swarm, the texans, as the, stadium, nrg stadium, experience, one of, stadium from, content, off, thursday, night, youtube, on thursday, thursday night, night football, subscribe to, follow the, takes, ready, take, here, pro, round, kickoff, before, https, come, press, tiktok, sub_confirmation, website, special, red, unforgettable, showcases, iconic, showcases the, show, of our, our home, electric, forget, thursdaynightfootball, to host, host the, action, tnf, seen, you've, drone, stadium like, you've never"
+            "Consider removing: watch, new, houstontexans, com, www, from, tex, his, down, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, get, c j, against, one, comes, against the, day, hit, never, stun, ever, season, week, its, the swarm, the texans, as the, stadium, nrg stadium, experience, one of, stadium from, content, off, thursday, night, youtube, on thursday, thursday night, night football, subscribe to, follow the, takes, ready, take, here, pro, round, kickoff, before, https, come, press, tiktok, sub_confirmation, website, special, red, unforgettable, showcases, iconic, showcases the, show, of our, our home, electric, forget, thursdaynightfootball, to host, host the, action, tnf, seen, you've, drone, stadium like, you've never, watch as"
           ],
           "boost_keywords_found": [
             "texans",
@@ -22420,7 +22491,8 @@
             "you've",
             "drone",
             "stadium like",
-            "you've never"
+            "you've never",
+            "watch as"
           ]
         }
       },
@@ -22444,8 +22516,8 @@
         "duration_formatted": "1:14",
         "is_short": false,
         "statistics": {
-          "views": 23009,
-          "likes": 1097,
+          "views": 23016,
+          "likes": 1099,
           "comments": 38
         },
         "content_status": {
@@ -22826,7 +22898,7 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 26188,
+          "views": 26207,
           "likes": 1228,
           "comments": 74
         },
@@ -22927,8 +22999,8 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 144839,
-          "likes": 1529,
+          "views": 144849,
+          "likes": 1528,
           "comments": 109
         },
         "content_status": {
@@ -23070,9 +23142,10 @@
                 "captivated",
                 "heroes",
                 "flawless precision",
-                "drill routine"
+                "drill routine",
+                "watch as"
               ],
-              "penalty": 1020
+              "penalty": 1030
             },
             "title": {
               "score": 20,
@@ -23092,7 +23165,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine"
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine, watch as"
           ],
           "boost_keywords_found": [
             "texans",
@@ -23226,7 +23299,8 @@
             "captivated",
             "heroes",
             "flawless precision",
-            "drill routine"
+            "drill routine",
+            "watch as"
           ]
         }
       },
@@ -23250,7 +23324,7 @@
         "duration_formatted": "40s",
         "is_short": true,
         "statistics": {
-          "views": 50154,
+          "views": 50173,
           "likes": 2167,
           "comments": 54
         },
@@ -23365,7 +23439,7 @@
         "duration_formatted": "8:26",
         "is_short": false,
         "statistics": {
-          "views": 2285958,
+          "views": 2285967,
           "likes": 17247,
           "comments": 1473
         },
@@ -23562,7 +23636,7 @@
         "duration_formatted": "25s",
         "is_short": true,
         "statistics": {
-          "views": 394308,
+          "views": 394311,
           "likes": 17833,
           "comments": 212
         },
@@ -23697,7 +23771,7 @@
         "duration_formatted": "40s",
         "is_short": true,
         "statistics": {
-          "views": 66601,
+          "views": 66605,
           "likes": 2725,
           "comments": 35
         },
@@ -23876,8 +23950,8 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 3597324,
-          "likes": 89653,
+          "views": 3597344,
+          "likes": 89648,
           "comments": 2137
         },
         "content_status": {
@@ -24063,7 +24137,7 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 24861,
+          "views": 24876,
           "likes": 940,
           "comments": 53
         },
@@ -24081,7 +24155,7 @@
           ]
         },
         "vph": 0.0,
-        "days_since_published": 60,
+        "days_since_published": 61,
         "views_per_day": 0.7,
         "performance_status": "excellent",
         "seo_score": {
@@ -24160,8 +24234,8 @@
         "duration_formatted": "6:28",
         "is_short": false,
         "statistics": {
-          "views": 21480,
-          "likes": 251,
+          "views": 21485,
+          "likes": 252,
           "comments": 25
         },
         "content_status": {
@@ -24503,7 +24577,7 @@
         "duration_formatted": "13s",
         "is_short": true,
         "statistics": {
-          "views": 19749,
+          "views": 19757,
           "likes": 1123,
           "comments": 76
         },
@@ -24616,7 +24690,7 @@
         "duration_formatted": "6:01",
         "is_short": false,
         "statistics": {
-          "views": 63673,
+          "views": 63681,
           "likes": 1102,
           "comments": 89
         },
@@ -24737,9 +24811,10 @@
                 "most elite",
                 "list",
                 "cornerstone",
-                "a cornerstone"
+                "a cornerstone",
+                "watch as"
               ],
-              "penalty": 800
+              "penalty": 810
             },
             "title": {
               "score": 20,
@@ -24759,7 +24834,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, houston texans, instagram, facebook, twitter, out, the houston, get, plays, one, him, quarter, break, moment, season, the swarm, the texans, moments, offense, game, one of, define, features, adjustments, as he, the offense, that define, off, night, presents, youtube, know, follow the, to his, derek, stingley, derek stingley, stingley jr, ready, he's, pro, https, pick, draft, press, career, let, minutes, rookie, tiktok, elite, sub_confirmation, website, special, red, from his, excellence, showcases, moments that, in h-town, showcases the, made him, him a, show, skill, whether, zone, represents, most elite, list, cornerstone, a cornerstone"
+            "Consider removing: watch, houstontexans, com, www, from, tex, his, down, follow, houston texans, instagram, facebook, twitter, out, the houston, get, plays, one, him, quarter, break, moment, season, the swarm, the texans, moments, offense, game, one of, define, features, adjustments, as he, the offense, that define, off, night, presents, youtube, know, follow the, to his, derek, stingley, derek stingley, stingley jr, ready, he's, pro, https, pick, draft, press, career, let, minutes, rookie, tiktok, elite, sub_confirmation, website, special, red, from his, excellence, showcases, moments that, in h-town, showcases the, made him, him a, show, skill, whether, zone, represents, most elite, list, cornerstone, a cornerstone, watch as"
           ],
           "boost_keywords_found": [
             "texans",
@@ -24899,7 +24974,8 @@
             "most elite",
             "list",
             "cornerstone",
-            "a cornerstone"
+            "a cornerstone",
+            "watch as"
           ]
         }
       },
@@ -24923,7 +24999,7 @@
         "duration_formatted": "1:38",
         "is_short": false,
         "statistics": {
-          "views": 10778,
+          "views": 10789,
           "likes": 411,
           "comments": 38
         },
@@ -25079,7 +25155,7 @@
         "duration_formatted": "4:40",
         "is_short": false,
         "statistics": {
-          "views": 67290,
+          "views": 67302,
           "likes": 1030,
           "comments": 79
         },
@@ -25446,7 +25522,7 @@
         "duration_formatted": "22:32",
         "is_short": false,
         "statistics": {
-          "views": 6284,
+          "views": 6293,
           "likes": 229,
           "comments": 23
         },
@@ -25526,9 +25602,10 @@
                 "action",
                 "danielle",
                 "hunter",
-                "to'o"
+                "to'o",
+                "danielle hunter"
               ],
-              "penalty": 390
+              "penalty": 400
             },
             "title": {
               "score": 10,
@@ -25548,7 +25625,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, from, tex, his, down, houston texans, the houston, from the, get, one, iron, episode, film, break, break down, inside, battle, inside the, night, colts, know, get to, to know, josh, allen, will anderson, anderson jr, josh allen, take, https, red, battle red, zone, action, danielle, hunter, to'o",
+            "Consider removing: houstontexans, com, www, from, tex, his, down, houston texans, the houston, from the, get, one, iron, episode, film, break, break down, inside, battle, inside the, night, colts, know, get to, to know, josh, allen, will anderson, anderson jr, josh allen, take, https, red, battle red, zone, action, danielle, hunter, to'o, danielle hunter",
             "Title is long (88 chars). Consider shortening to under 70 chars.",
             "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
           ],
@@ -25631,7 +25708,8 @@
             "action",
             "danielle",
             "hunter",
-            "to'o"
+            "to'o",
+            "danielle hunter"
           ]
         }
       },
@@ -25655,7 +25733,7 @@
         "duration_formatted": "2:57",
         "is_short": false,
         "statistics": {
-          "views": 482301,
+          "views": 482304,
           "likes": 6252,
           "comments": 282
         },
@@ -26006,7 +26084,7 @@
         "duration_formatted": "12:06",
         "is_short": false,
         "statistics": {
-          "views": 219200,
+          "views": 219220,
           "likes": 3411,
           "comments": 316
         },
@@ -26158,7 +26236,7 @@
         "duration_formatted": "14s",
         "is_short": true,
         "statistics": {
-          "views": 4407,
+          "views": 4419,
           "likes": 165,
           "comments": 7
         },
@@ -26257,8 +26335,8 @@
         "duration_formatted": "53s",
         "is_short": true,
         "statistics": {
-          "views": 62325,
-          "likes": 4553,
+          "views": 62331,
+          "likes": 4554,
           "comments": 123
         },
         "content_status": {
@@ -26404,8 +26482,8 @@
         "duration_formatted": "6:17",
         "is_short": false,
         "statistics": {
-          "views": 491825,
-          "likes": 9112,
+          "views": 491833,
+          "likes": 9111,
           "comments": 890
         },
         "content_status": {
@@ -26767,8 +26845,8 @@
         "duration_formatted": "1:39",
         "is_short": false,
         "statistics": {
-          "views": 9130,
-          "likes": 882,
+          "views": 9141,
+          "likes": 883,
           "comments": 33
         },
         "content_status": {
@@ -26898,7 +26976,7 @@
         "is_short": true,
         "statistics": {
           "views": 869545,
-          "likes": 19914,
+          "likes": 19912,
           "comments": 435
         },
         "content_status": {
@@ -27029,7 +27107,7 @@
         "duration_formatted": "4:30",
         "is_short": false,
         "statistics": {
-          "views": 23031,
+          "views": 23034,
           "likes": 364,
           "comments": 36
         },
@@ -27152,7 +27230,7 @@
         "duration_formatted": "11:52",
         "is_short": false,
         "statistics": {
-          "views": 67049,
+          "views": 67055,
           "likes": 1334,
           "comments": 98
         },
@@ -27270,9 +27348,10 @@
                 "fired",
                 "texans'",
                 "cornerstone",
-                "a cornerstone"
+                "a cornerstone",
+                "watch as"
               ],
-              "penalty": 770
+              "penalty": 780
             },
             "title": {
               "score": 20,
@@ -27292,7 +27371,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, coach, instagram, facebook, twitter, out, the houston, get, energy, against, energy and, one, mic, d up, against the, look, ever, moment, s texans, the swarm, look at, as the, moments, watch the, leadership, game, the game, teammates, sideline, level, presence, content, s leadership, youtube, follow the, to his, he's, fans, https, through, exactly, come, press, tiktok, during, sub_confirmation, website, perfectly, red, from his, dedication, in h-town, in houston, and dedication, show, powerful, showcased, fan, up the, action, azeez, al-shaair's, brought, linebacker's, fired, texans', cornerstone, a cornerstone"
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, coach, instagram, facebook, twitter, out, the houston, get, energy, against, energy and, one, mic, d up, against the, look, ever, moment, s texans, the swarm, look at, as the, moments, watch the, leadership, game, the game, teammates, sideline, level, presence, content, s leadership, youtube, follow the, to his, he's, fans, https, through, exactly, come, press, tiktok, during, sub_confirmation, website, perfectly, red, from his, dedication, in h-town, in houston, and dedication, show, powerful, showcased, fan, up the, action, azeez, al-shaair's, brought, linebacker's, fired, texans', cornerstone, a cornerstone, watch as"
           ],
           "boost_keywords_found": [
             "texans",
@@ -27435,7 +27514,8 @@
             "fired",
             "texans'",
             "cornerstone",
-            "a cornerstone"
+            "a cornerstone",
+            "watch as"
           ]
         }
       },
@@ -27459,7 +27539,7 @@
         "duration_formatted": "8:07",
         "is_short": false,
         "statistics": {
-          "views": 199972,
+          "views": 199984,
           "likes": 1903,
           "comments": 194
         },
@@ -27930,7 +28010,7 @@
         "duration_formatted": "26:32",
         "is_short": false,
         "statistics": {
-          "views": 311483,
+          "views": 311487,
           "likes": 5539,
           "comments": 225
         },
@@ -28129,7 +28209,7 @@
         "duration_formatted": "9:06",
         "is_short": false,
         "statistics": {
-          "views": 7190,
+          "views": 7194,
           "likes": 209,
           "comments": 30
         },
@@ -28298,7 +28378,7 @@
         "duration_formatted": "10s",
         "is_short": true,
         "statistics": {
-          "views": 13968,
+          "views": 13982,
           "likes": 324,
           "comments": 10
         },
@@ -28308,7 +28388,7 @@
           "flags": []
         },
         "vph": 0.0,
-        "days_since_published": 35,
+        "days_since_published": 36,
         "views_per_day": 0.7,
         "performance_status": "excellent",
         "seo_score": {
@@ -28381,8 +28461,8 @@
         "duration_formatted": "1:03",
         "is_short": false,
         "statistics": {
-          "views": 126998,
-          "likes": 4898,
+          "views": 127008,
+          "likes": 4899,
           "comments": 196
         },
         "content_status": {
@@ -28714,21 +28794,21 @@
         "start_date": "2026-03-20",
         "end_date": "2026-03-27",
         "analytics": {
-          "views": 163335,
-          "watch_time_minutes": 280154,
-          "watch_time_hours": 4669.23,
+          "views": 163846,
+          "watch_time_minutes": 281143,
+          "watch_time_hours": 4685.72,
           "avg_view_duration_seconds": 150,
           "subscribers_gained": 326,
           "subscribers_lost": 168,
           "net_subscribers": 158,
           "likes": 3795,
-          "comments": 203,
+          "comments": 201,
           "shares": 512,
-          "engagement_total": 4510
+          "engagement_total": 4508
         },
         "changes": {
           "views": -51.3,
-          "watch_time_hours": -42.6,
+          "watch_time_hours": -42.5,
           "net_subscribers": -51.9,
           "engagement_total": -47.8,
           "avg_view_duration_seconds": 9.3,
@@ -28753,8 +28833,8 @@
           "engagement_total": 4638
         },
         "changes": {
-          "views": -42.4,
-          "watch_time_hours": -61.0,
+          "views": -42.3,
+          "watch_time_hours": -60.8,
           "net_subscribers": -58.7,
           "engagement_total": -49.3,
           "avg_view_duration_seconds": -15.0,
@@ -28768,17 +28848,17 @@
         "start_date": "2026-03-01",
         "end_date": "2026-03-31",
         "analytics": {
-          "views": 597804,
-          "watch_time_minutes": 1062115,
-          "watch_time_hours": 17701.92,
+          "views": 600382,
+          "watch_time_minutes": 1064710,
+          "watch_time_hours": 17745.17,
           "avg_view_duration_seconds": 147,
           "subscribers_gained": 1249,
           "subscribers_lost": 694,
           "net_subscribers": 555,
-          "likes": 14392,
-          "comments": 791,
+          "likes": 14386,
+          "comments": 788,
           "shares": 2082,
-          "engagement_total": 17265
+          "engagement_total": 17256
         },
         "changes": {
           "views": -6.2,
@@ -28807,12 +28887,12 @@
           "engagement_total": 20358
         },
         "changes": {
-          "views": 17.3,
-          "watch_time_hours": -24.1,
+          "views": 17.8,
+          "watch_time_hours": -23.9,
           "net_subscribers": -26.2,
-          "engagement_total": -18.0,
+          "engagement_total": -18.1,
           "avg_view_duration_seconds": -9.9,
-          "likes": -19.3
+          "likes": -19.4
         }
       }
     },
