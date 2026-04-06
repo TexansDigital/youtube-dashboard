@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T22:48:47.129463-05:00",
-  "total_candidates": 19,
+  "generated_at": "2026-04-06T01:14:36.745815-05:00",
+  "total_candidates": 20,
   "candidates": [
     {
       "video_id": "-GKhJzzrzAw",
@@ -43,7 +43,97 @@
       ],
       "content_type": "press_conference",
       "source_video_views": 30979,
-      "identified_at": "2026-04-05T22:43:26.014687-05:00",
+      "identified_at": "2026-04-06T01:09:44.925193-05:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "B22OQS2Hjxg",
+      "video_title": "LIVE: Houston Texans address the media",
+      "video_url": "https://youtube.com/watch?v=B22OQS2Hjxg",
+      "timestamped_url": "https://youtube.com/watch?v=B22OQS2Hjxg&t=5139",
+      "start_seconds": 5139,
+      "end_seconds": 5199,
+      "start_formatted": "1:25:39",
+      "end_formatted": "1:26:39",
+      "clip_duration": 60,
+      "retention_score": 29.4,
+      "video_avg_retention": 13.0,
+      "retention_boost": 2.26,
+      "priority_score": 203.4,
+      "flags": [
+        {
+          "type": "content",
+          "name": "ad",
+          "emoji": "\ud83d\udcb0",
+          "note": "Sponsored content - use conservative titling",
+          "show_banner": false
+        }
+      ],
+      "suggested_title": {
+        "suggestion": "Houston showed UP \ud83d\udd25",
+        "alternatives": [
+          "Houston is BUILT DIFFERENT \ud83d\udd25",
+          "H-Town Made \ud83d\udcaa"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#Shorts"
+      ],
+      "content_type": "historical",
+      "source_video_views": 13710,
+      "identified_at": "2026-04-06T01:12:14.450618-05:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "B22OQS2Hjxg",
+      "video_title": "LIVE: Houston Texans address the media",
+      "video_url": "https://youtube.com/watch?v=B22OQS2Hjxg",
+      "timestamped_url": "https://youtube.com/watch?v=B22OQS2Hjxg&t=1424",
+      "start_seconds": 1424,
+      "end_seconds": 1484,
+      "start_formatted": "23:44",
+      "end_formatted": "24:44",
+      "clip_duration": 60,
+      "retention_score": 28.5,
+      "video_avg_retention": 13.0,
+      "retention_boost": 2.19,
+      "priority_score": 197.1,
+      "flags": [
+        {
+          "type": "content",
+          "name": "ad",
+          "emoji": "\ud83d\udcb0",
+          "note": "Sponsored content - use conservative titling",
+          "show_banner": false
+        }
+      ],
+      "suggested_title": {
+        "suggestion": "Houston showed UP \ud83d\udd25",
+        "alternatives": [
+          "Houston is BUILT DIFFERENT \ud83d\udd25",
+          "H-Town Made \ud83d\udcaa"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#Shorts"
+      ],
+      "content_type": "historical",
+      "source_video_views": 13710,
+      "identified_at": "2026-04-06T01:12:14.450567-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -88,7 +178,7 @@
       ],
       "content_type": "atmosphere",
       "source_video_views": 146411,
-      "identified_at": "2026-04-05T22:48:10.069368-05:00",
+      "identified_at": "2026-04-06T01:13:47.815023-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -135,7 +225,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 259791,
-      "identified_at": "2026-04-05T22:47:27.746224-05:00",
+      "identified_at": "2026-04-06T01:13:05.809424-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -180,7 +270,7 @@
       ],
       "content_type": "press_conference",
       "source_video_views": 23838,
-      "identified_at": "2026-04-05T22:44:22.421821-05:00",
+      "identified_at": "2026-04-06T01:10:23.156625-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -220,7 +310,7 @@
       ],
       "content_type": "interview",
       "source_video_views": 18757,
-      "identified_at": "2026-04-05T22:45:13.731073-05:00",
+      "identified_at": "2026-04-06T01:11:09.257438-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -259,7 +349,7 @@
       ],
       "content_type": "practice",
       "source_video_views": 28453,
-      "identified_at": "2026-04-05T22:43:51.841007-05:00",
+      "identified_at": "2026-04-06T01:10:07.908370-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -304,8 +394,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 132535,
-      "identified_at": "2026-04-05T22:41:07.328082-05:00",
+      "source_video_views": 127586,
+      "identified_at": "2026-04-06T01:07:26.430802-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -350,7 +440,7 @@
       ],
       "content_type": "general",
       "source_video_views": 171450,
-      "identified_at": "2026-04-05T22:47:44.576812-05:00",
+      "identified_at": "2026-04-06T01:13:27.996501-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -389,7 +479,7 @@
       ],
       "content_type": "press_conference",
       "source_video_views": 29995,
-      "identified_at": "2026-04-05T22:43:42.041598-05:00",
+      "identified_at": "2026-04-06T01:09:58.423447-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -436,7 +526,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 113943,
-      "identified_at": "2026-04-05T22:48:34.989585-05:00",
+      "identified_at": "2026-04-06T01:14:25.315365-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -473,8 +563,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 59381,
-      "identified_at": "2026-04-05T22:42:06.129634-05:00",
+      "source_video_views": 56294,
+      "identified_at": "2026-04-06T01:08:17.212109-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -518,8 +608,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 30444,
-      "identified_at": "2026-04-05T22:43:30.505238-05:00",
+      "source_video_views": 30298,
+      "identified_at": "2026-04-06T01:09:51.120700-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -563,8 +653,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 14186,
-      "identified_at": "2026-04-05T22:46:43.267610-05:00",
+      "source_video_views": 14075,
+      "identified_at": "2026-04-06T01:12:01.361004-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -608,8 +698,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 513298,
-      "identified_at": "2026-04-05T22:40:15.939855-05:00",
+      "source_video_views": 506458,
+      "identified_at": "2026-04-06T01:06:34.560803-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -654,7 +744,7 @@
       ],
       "content_type": "general",
       "source_video_views": 15579,
-      "identified_at": "2026-04-05T22:46:05.997885-05:00",
+      "identified_at": "2026-04-06T01:11:49.257902-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -692,44 +782,7 @@
       ],
       "content_type": "interview",
       "source_video_views": 21913,
-      "identified_at": "2026-04-05T22:44:40.390117-05:00",
-      "clip_created": false,
-      "shorts_video_id": null
-    },
-    {
-      "video_id": "J6A2NMiqUL4",
-      "video_title": "DeMeco Ryans Wild Card Week Full Q&A | Texans Press Conference",
-      "video_url": "https://youtube.com/watch?v=J6A2NMiqUL4",
-      "timestamped_url": "https://youtube.com/watch?v=J6A2NMiqUL4&t=95",
-      "start_seconds": 95,
-      "end_seconds": 155,
-      "start_formatted": "1:35",
-      "end_formatted": "2:35",
-      "clip_duration": 60,
-      "retention_score": 59.6,
-      "video_avg_retention": 44.5,
-      "retention_boost": 1.34,
-      "priority_score": 120.6,
-      "flags": [],
-      "suggested_title": {
-        "suggestion": "Leadership like no other \ud83d\udc10",
-        "alternatives": [
-          "Coach DeMeco Ryans is HIM \ud83d\udd25",
-          "This is why we love DeMeco \ud83d\udcaa"
-        ],
-        "confidence": "\ud83d\udcca Performance-based",
-        "note": "Based on title patterns from high-performing Texans content"
-      },
-      "suggested_hashtags": [
-        "#Texans",
-        "#NFL",
-        "#Houston",
-        "#HoustonTexans",
-        "#Shorts"
-      ],
-      "content_type": "press_conference",
-      "source_video_views": 14214,
-      "identified_at": "2026-04-05T22:46:28.562995-05:00",
+      "identified_at": "2026-04-06T01:10:37.855925-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -774,7 +827,7 @@
       ],
       "content_type": "general",
       "source_video_views": 144873,
-      "identified_at": "2026-04-05T22:48:15.727579-05:00",
+      "identified_at": "2026-04-06T01:14:00.469020-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -810,8 +863,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 21581,
-      "identified_at": "2026-04-05T22:44:51.474321-05:00",
+      "source_video_views": 18759,
+      "identified_at": "2026-04-06T01:10:56.392040-05:00",
       "clip_created": false,
       "shorts_video_id": null
     }
