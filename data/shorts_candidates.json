@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T22:48:30.446093-05:00",
-  "total_candidates": 20,
+  "generated_at": "2026-04-14T01:15:52.305030-05:00",
+  "total_candidates": 19,
   "candidates": [
     {
       "video_id": "-GKhJzzrzAw",
@@ -43,7 +43,7 @@
       ],
       "content_type": "press_conference",
       "source_video_views": 30986,
-      "identified_at": "2026-04-13T22:43:03.162518-05:00",
+      "identified_at": "2026-04-14T01:10:57.499940-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -88,7 +88,7 @@
       ],
       "content_type": "historical",
       "source_video_views": 13713,
-      "identified_at": "2026-04-13T22:44:45.031289-05:00",
+      "identified_at": "2026-04-14T01:12:24.305633-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -133,7 +133,7 @@
       ],
       "content_type": "historical",
       "source_video_views": 13713,
-      "identified_at": "2026-04-13T22:44:45.031235-05:00",
+      "identified_at": "2026-04-14T01:12:24.305584-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -177,8 +177,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 147029,
-      "identified_at": "2026-04-13T22:47:48.363900-05:00",
+      "source_video_views": 9464,
+      "identified_at": "2026-04-14T01:13:35.125215-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -225,7 +225,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 259846,
-      "identified_at": "2026-04-13T22:46:56.223324-05:00",
+      "identified_at": "2026-04-14T01:14:21.833191-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -265,7 +265,7 @@
       ],
       "content_type": "interview",
       "source_video_views": 18804,
-      "identified_at": "2026-04-13T22:43:56.127430-05:00",
+      "identified_at": "2026-04-14T01:11:36.774662-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -304,7 +304,7 @@
       ],
       "content_type": "practice",
       "source_video_views": 28470,
-      "identified_at": "2026-04-13T22:43:17.672672-05:00",
+      "identified_at": "2026-04-14T01:11:15.080682-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -356,7 +356,7 @@
       ],
       "content_type": "practice",
       "source_video_views": 13225,
-      "identified_at": "2026-04-13T22:45:09.051308-05:00",
+      "identified_at": "2026-04-14T01:12:25.256041-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -401,8 +401,53 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 94493,
-      "identified_at": "2026-04-13T22:41:57.368269-05:00",
+      "source_video_views": 88202,
+      "identified_at": "2026-04-14T01:10:11.641361-05:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "r8XPKx5JRrw",
+      "video_title": "LIVE: Houston Texans EVP & GM Nick Caserio addresses the media",
+      "video_url": "https://youtube.com/watch?v=r8XPKx5JRrw",
+      "timestamped_url": "https://youtube.com/watch?v=r8XPKx5JRrw&t=479",
+      "start_seconds": 479,
+      "end_seconds": 539,
+      "start_formatted": "7:59",
+      "end_formatted": "8:59",
+      "clip_duration": 60,
+      "retention_score": 44.3,
+      "video_avg_retention": 29.0,
+      "retention_boost": 1.53,
+      "priority_score": 137.5,
+      "flags": [
+        {
+          "type": "content",
+          "name": "ad",
+          "emoji": "\ud83d\udcb0",
+          "note": "Sponsored content - use conservative titling",
+          "show_banner": false
+        }
+      ],
+      "suggested_title": {
+        "suggestion": "The Swarm came to PLAY \ud83d\udc1d",
+        "alternatives": [
+          "Houston is BUILT DIFFERENT \ud83d\udd25",
+          "H-Town Made \ud83d\udcaa"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#Shorts"
+      ],
+      "content_type": "historical",
+      "source_video_views": 10392,
+      "identified_at": "2026-04-14T01:13:03.277944-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -447,46 +492,7 @@
       ],
       "content_type": "general",
       "source_video_views": 171519,
-      "identified_at": "2026-04-13T22:47:26.528968-05:00",
-      "clip_created": false,
-      "shorts_video_id": null
-    },
-    {
-      "video_id": "AxNA1jOYDEg",
-      "video_title": "C.J. Stroud's First Home Win! \ud83c\udfc8 Historic Texans Victory Presser",
-      "video_url": "https://youtube.com/watch?v=AxNA1jOYDEg",
-      "timestamped_url": "https://youtube.com/watch?v=AxNA1jOYDEg&t=18",
-      "start_seconds": 18,
-      "end_seconds": 41,
-      "start_formatted": "0:18",
-      "end_formatted": "0:41",
-      "clip_duration": 23,
-      "retention_score": 76.5,
-      "video_avg_retention": 56.9,
-      "retention_boost": 1.34,
-      "priority_score": 134.4,
-      "flags": [],
-      "suggested_title": {
-        "suggestion": "C.J. Stroud doing C.J. Stroud things \ud83d\ude24",
-        "alternatives": [
-          "C.J. Stroud is DIFFERENT \ud83d\udd25",
-          "This C.J. Stroud throw is INSANE \ud83d\ude31"
-        ],
-        "confidence": "\ud83d\udcca Performance-based",
-        "note": "Based on title patterns from high-performing Texans content"
-      },
-      "suggested_hashtags": [
-        "#Texans",
-        "#NFL",
-        "#Houston",
-        "#HoustonTexans",
-        "#CJStroud",
-        "#QB1",
-        "#Shorts"
-      ],
-      "content_type": "press_conference",
-      "source_video_views": 26177,
-      "identified_at": "2026-04-13T22:43:32.623384-05:00",
+      "identified_at": "2026-04-14T01:14:40.341878-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -533,7 +539,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 113994,
-      "identified_at": "2026-04-13T22:48:22.732676-05:00",
+      "identified_at": "2026-04-14T01:15:38.720723-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -570,8 +576,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 42359,
-      "identified_at": "2026-04-13T22:42:36.053824-05:00",
+      "source_video_views": 39484,
+      "identified_at": "2026-04-14T01:10:50.496771-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -609,7 +615,7 @@
       ],
       "content_type": "interview",
       "source_video_views": 13223,
-      "identified_at": "2026-04-13T22:45:20.022026-05:00",
+      "identified_at": "2026-04-14T01:12:29.808686-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -653,8 +659,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 29119,
-      "identified_at": "2026-04-13T22:43:03.959474-05:00",
+      "source_video_views": 28892,
+      "identified_at": "2026-04-14T01:11:11.404055-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -698,8 +704,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 13469,
-      "identified_at": "2026-04-13T22:44:52.398973-05:00",
+      "source_video_views": 13215,
+      "identified_at": "2026-04-14T01:12:36.048898-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -743,8 +749,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 499274,
-      "identified_at": "2026-04-13T22:41:06.764890-05:00",
+      "source_video_views": 494604,
+      "identified_at": "2026-04-14T01:09:16.392357-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -789,45 +795,7 @@
       ],
       "content_type": "general",
       "source_video_views": 15582,
-      "identified_at": "2026-04-13T22:44:27.915201-05:00",
-      "clip_created": false,
-      "shorts_video_id": null
-    },
-    {
-      "video_id": "48RHE7wVtro",
-      "video_title": "DeMeco Ryans Speaks to the Media After Texans Beat Steelers | Full Postgame Presser",
-      "video_url": "https://youtube.com/watch?v=48RHE7wVtro",
-      "timestamped_url": "https://youtube.com/watch?v=48RHE7wVtro&t=57",
-      "start_seconds": 57,
-      "end_seconds": 117,
-      "start_formatted": "0:57",
-      "end_formatted": "1:57",
-      "clip_duration": 60,
-      "retention_score": 60.3,
-      "video_avg_retention": 44.7,
-      "retention_boost": 1.35,
-      "priority_score": 121.3,
-      "flags": [],
-      "suggested_title": {
-        "suggestion": "This is why we love DeMeco \ud83d\udcaa",
-        "alternatives": [
-          "Coach DeMeco Ryans is HIM \ud83d\udd25",
-          "DeMeco Ryans gets it \ud83d\ude24"
-        ],
-        "confidence": "\ud83d\udcca Performance-based",
-        "note": "Based on title patterns from high-performing Texans content"
-      },
-      "suggested_hashtags": [
-        "#Texans",
-        "#NFL",
-        "#Houston",
-        "#HoustonTexans",
-        "#NFLInterview",
-        "#Shorts"
-      ],
-      "content_type": "interview",
-      "source_video_views": 19259,
-      "identified_at": "2026-04-13T22:43:55.481271-05:00",
+      "identified_at": "2026-04-14T01:11:59.173509-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -871,8 +839,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 145296,
-      "identified_at": "2026-04-13T22:47:56.633590-05:00",
+      "source_video_views": 145298,
+      "identified_at": "2026-04-14T01:15:03.967295-05:00",
       "clip_created": false,
       "shorts_video_id": null
     }
