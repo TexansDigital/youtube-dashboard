@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T12:07:58.703974-05:00",
+  "generated_at": "2026-04-17T13:03:59.461078-05:00",
   "channel": {
     "channel_id": "UCa_FcpOBe8G6VAR18RYS-aA",
     "title": "Houston Texans",
@@ -11,7 +11,7 @@
       "total_views": 72078666,
       "video_count": 5734
     },
-    "fetched_at": "2026-04-17T12:07:58.976127-05:00"
+    "fetched_at": "2026-04-17T13:03:59.712260-05:00"
   },
   "periods": {
     "past_7_days": {
@@ -19,9 +19,9 @@
       "start_date": "2026-04-10",
       "end_date": "2026-04-17",
       "analytics": {
-        "views": 63811,
-        "watch_time_minutes": 181552,
-        "watch_time_hours": 3025.87,
+        "views": 63723,
+        "watch_time_minutes": 181596,
+        "watch_time_hours": 3026.6,
         "avg_view_duration_seconds": 222,
         "subscribers_gained": 140,
         "subscribers_lost": 90,
@@ -37,17 +37,17 @@
       "start_date": "2026-03-18",
       "end_date": "2026-04-17",
       "analytics": {
-        "views": 468617,
-        "watch_time_minutes": 955558,
-        "watch_time_hours": 15925.97,
+        "views": 466198,
+        "watch_time_minutes": 953447,
+        "watch_time_hours": 15890.78,
         "avg_view_duration_seconds": 166,
         "subscribers_gained": 974,
         "subscribers_lost": 560,
         "net_subscribers": 414,
         "likes": 11329,
-        "comments": 557,
+        "comments": 561,
         "shares": 1716,
-        "engagement_total": 13602
+        "engagement_total": 13606
       }
     },
     "current_fy": {
@@ -55,17 +55,17 @@
       "start_date": "2026-04-01",
       "end_date": "2026-04-17",
       "analytics": {
-        "views": 186970,
-        "watch_time_minutes": 506287,
-        "watch_time_hours": 8438.12,
+        "views": 186507,
+        "watch_time_minutes": 505502,
+        "watch_time_hours": 8425.03,
         "avg_view_duration_seconds": 201,
         "subscribers_gained": 423,
         "subscribers_lost": 264,
         "net_subscribers": 159,
         "likes": 3474,
-        "comments": 212,
+        "comments": 214,
         "shares": 752,
-        "engagement_total": 4438
+        "engagement_total": 4440
       }
     }
   },
@@ -73,8 +73,8 @@
     "past_7_days": [
       {
         "video_id": "0xvXMEnwyYM",
-        "views": 17754,
-        "watch_time_minutes": 61515,
+        "views": 17778,
+        "watch_time_minutes": 61574,
         "avg_view_duration_seconds": 207,
         "avg_view_percentage": 31.819999999999997,
         "subscribers_gained": 25,
@@ -91,8 +91,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11905708,
-          "likes": 166120,
+          "views": 11905898,
+          "likes": 166121,
           "comments": 8591
         },
         "content_status": {
@@ -735,7 +735,7 @@
       },
       {
         "video_id": "NYmMFdckDkQ",
-        "views": 6407,
+        "views": 6409,
         "watch_time_minutes": 934,
         "avg_view_duration_seconds": 21,
         "avg_view_percentage": 97.64,
@@ -770,9 +770,9 @@
             }
           ]
         },
-        "vph": 38.0,
+        "vph": 37.8,
         "days_since_published": 7,
-        "views_per_day": 915.3,
+        "views_per_day": 915.6,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 65,
@@ -872,8 +872,8 @@
       },
       {
         "video_id": "AmDtg6kuD2k",
-        "views": 3608,
-        "watch_time_minutes": 59344,
+        "views": 3609,
+        "watch_time_minutes": 59350,
         "avg_view_duration_seconds": 986,
         "avg_view_percentage": 28.48,
         "subscribers_gained": 3,
@@ -899,9 +899,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 38.0,
+        "vph": 37.6,
         "days_since_published": 3,
-        "views_per_day": 1202.7,
+        "views_per_day": 1203.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -1018,7 +1018,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 32.6,
+        "vph": 32.3,
         "days_since_published": 3,
         "views_per_day": 1013.0,
         "performance_status": "average",
@@ -1096,7 +1096,7 @@
       },
       {
         "video_id": "gT0LkqWFc4M",
-        "views": 2287,
+        "views": 2285,
         "watch_time_minutes": 249,
         "avg_view_duration_seconds": 15,
         "avg_view_percentage": 110.27,
@@ -1104,7 +1104,7 @@
         "likes": 64,
         "comments": 3,
         "shares": 4,
-        "engagement_rate": 3.1,
+        "engagement_rate": 3.11,
         "subscriber_conversion_rate": 0.131,
         "title": "How many did you get right?",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -1114,8 +1114,8 @@
         "duration_formatted": "14s",
         "is_short": true,
         "statistics": {
-          "views": 2705,
-          "likes": 72,
+          "views": 2709,
+          "likes": 73,
           "comments": 7
         },
         "content_status": {
@@ -1123,9 +1123,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 24.0,
-        "days_since_published": 3,
-        "views_per_day": 762.3,
+        "vph": 23.8,
+        "days_since_published": 4,
+        "views_per_day": 571.2,
         "performance_status": "average",
         "seo_score": {
           "total_score": 40,
@@ -1201,15 +1201,15 @@
       },
       {
         "video_id": "D48rG8-TwiA",
-        "views": 1500,
-        "watch_time_minutes": 3355,
+        "views": 1504,
+        "watch_time_minutes": 3360,
         "avg_view_duration_seconds": 134,
         "avg_view_percentage": 31.920000000000005,
         "subscribers_gained": 0,
         "likes": 87,
         "comments": 7,
         "shares": 5,
-        "engagement_rate": 6.6,
+        "engagement_rate": 6.58,
         "subscriber_conversion_rate": 0.0,
         "title": "Tommy and Junior Take on the Rodeo | Food Reviews, Games and Petting Zoo Chaos",
         "description": "Tommy and Junior head to the Houston Rodeo for a full day of food, games and unforgettable moments. From the petting zoo to mutton bustin\u2019 to fried Oreos and turkey legs, this one has a little bit of everything.\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -1219,7 +1219,7 @@
         "duration_formatted": "7:00",
         "is_short": false,
         "statistics": {
-          "views": 1589,
+          "views": 1590,
           "likes": 89,
           "comments": 7
         },
@@ -1236,9 +1236,9 @@
             }
           ]
         },
-        "vph": 9.2,
+        "vph": 9.1,
         "days_since_published": 6,
-        "views_per_day": 250.0,
+        "views_per_day": 250.7,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -1455,15 +1455,15 @@
       },
       {
         "video_id": "U98Gw-qmtNQ",
-        "views": 778,
-        "watch_time_minutes": 1343,
+        "views": 780,
+        "watch_time_minutes": 1348,
         "avg_view_duration_seconds": 103,
         "avg_view_percentage": 37.99,
         "subscribers_gained": 0,
         "likes": 29,
         "comments": 4,
         "shares": 5,
-        "engagement_rate": 4.88,
+        "engagement_rate": 4.87,
         "subscriber_conversion_rate": 0.0,
         "title": "We Dropped 1,000 Ping Pong Balls Into NRG Stadium for Texans Fans",
         "description": "We dropped 1,000 ping pong balls from the roof of NRG Stadium and gave 12 Texans fans one shot to place their hoop in the perfect spot. The fan whose hoop caught the winning ball walked away with the grand prize, plus there was a hula hoop battle for a signed C.J. Stroud photo. Watch the full challenge play out inside NRG Stadium.\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -1492,8 +1492,8 @@
         },
         "vph": 3.7,
         "days_since_published": 8,
-        "views_per_day": 97.2,
-        "performance_status": "good",
+        "views_per_day": 97.5,
+        "performance_status": "average",
         "seo_score": {
           "total_score": 70,
           "grade": "B",
@@ -1785,15 +1785,15 @@
       },
       {
         "video_id": "5NyUSV4KXmo",
-        "views": 616,
-        "watch_time_minutes": 230,
+        "views": 618,
+        "watch_time_minutes": 231,
         "avg_view_duration_seconds": 41,
         "avg_view_percentage": 83.21,
         "subscribers_gained": 0,
         "likes": 14,
         "comments": 1,
         "shares": 0,
-        "engagement_rate": 2.44,
+        "engagement_rate": 2.43,
         "subscriber_conversion_rate": 0.0,
         "title": "Professional soccer player attempts 60-yard NFL field goal \ud83d\udc40",
         "description": "Club America goalkeeper Guillermo \"Memo\" Ochoa attempts a 60-yard field goal with coaching from former Texans punter Shane Lechler.",
@@ -1907,7 +1907,7 @@
         "duration_formatted": "8:23",
         "is_short": false,
         "statistics": {
-          "views": 342920,
+          "views": 342919,
           "likes": 4277,
           "comments": 346
         },
@@ -2259,7 +2259,7 @@
         "is_short": false,
         "statistics": {
           "views": 7003,
-          "likes": 598,
+          "likes": 599,
           "comments": 24
         },
         "content_status": {
@@ -2467,8 +2467,8 @@
           ]
         },
         "vph": 1.6,
-        "days_since_published": 12,
-        "views_per_day": 42.6,
+        "days_since_published": 13,
+        "views_per_day": 39.3,
         "performance_status": "good",
         "seo_score": {
           "total_score": 65,
@@ -2927,15 +2927,15 @@
       },
       {
         "video_id": "RVMAf8bsfLM",
-        "views": 410,
-        "watch_time_minutes": 1425,
+        "views": 412,
+        "watch_time_minutes": 1431,
         "avg_view_duration_seconds": 208,
         "avg_view_percentage": 56.65,
         "subscribers_gained": 0,
         "likes": 4,
         "comments": 1,
         "shares": 4,
-        "engagement_rate": 2.2,
+        "engagement_rate": 2.18,
         "subscriber_conversion_rate": 0.0,
         "title": "26-0 in the 4th \ud83d\ude24 | Texans Complete INSANE Comeback vs. Jaguars",
         "description": "Down big, but never out. The Houston Texans flipped the switch \u2014 26 unanswered in the 4th quarter to stun Jacksonville. Davis Mills led the charge, the defense locked in, and H-Town showed its fight.\n#Texans #WeAreTexans #NFL #Comeback\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -2945,7 +2945,7 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 222486,
+          "views": 222504,
           "likes": 2238,
           "comments": 177
         },
@@ -2956,7 +2956,7 @@
         },
         "vph": 0.1,
         "days_since_published": 155,
-        "views_per_day": 2.6,
+        "views_per_day": 2.7,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 80,
@@ -3174,7 +3174,7 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 3598402,
+          "views": 3598421,
           "likes": 89638,
           "comments": 2135
         },
@@ -3361,7 +3361,7 @@
         "duration_formatted": "22s",
         "is_short": true,
         "statistics": {
-          "views": 22225,
+          "views": 22226,
           "likes": 1255,
           "comments": 20
         },
@@ -3937,7 +3937,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 74688,
+          "views": 74701,
           "likes": 2327,
           "comments": 42
         },
@@ -4050,16 +4050,16 @@
       },
       {
         "video_id": "dBNgfROuJnQ",
-        "views": 289,
-        "watch_time_minutes": 1432,
+        "views": 290,
+        "watch_time_minutes": 1443,
         "avg_view_duration_seconds": 298,
         "avg_view_percentage": 41.14,
         "subscribers_gained": 1,
         "likes": 5,
         "comments": 0,
         "shares": 3,
-        "engagement_rate": 2.77,
-        "subscriber_conversion_rate": 0.346,
+        "engagement_rate": 2.76,
+        "subscriber_conversion_rate": 0.345,
         "title": "Jalen Pitre was EVERYWHERE \ud83d\udcaa | Mic'd Up vs Steelers",
         "description": "Relive the Texans playoff win vs the Steelers through Jalen Pitre Mic\u2019d Up. Hits, hype, communication, and the SWARM mentality as Houston\u2019s defense makes plays and finishes.\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-01-15T22:00:48Z",
@@ -4068,7 +4068,7 @@
         "duration_formatted": "12:06",
         "is_short": false,
         "statistics": {
-          "views": 220021,
+          "views": 220020,
           "likes": 3428,
           "comments": 315
         },
@@ -4223,7 +4223,7 @@
         "duration_formatted": "40s",
         "is_short": true,
         "statistics": {
-          "views": 67315,
+          "views": 67321,
           "likes": 2731,
           "comments": 35
         },
@@ -4406,8 +4406,8 @@
         "duration_formatted": "9:13",
         "is_short": false,
         "statistics": {
-          "views": 69445,
-          "likes": 663,
+          "views": 69457,
+          "likes": 664,
           "comments": 48
         },
         "content_status": {
@@ -4916,15 +4916,15 @@
       },
       {
         "video_id": "AbylW2cKvZM",
-        "views": 265,
-        "watch_time_minutes": 824,
+        "views": 266,
+        "watch_time_minutes": 826,
         "avg_view_duration_seconds": 186,
         "avg_view_percentage": 36.84,
         "subscribers_gained": 0,
         "likes": 2,
         "comments": 0,
         "shares": 5,
-        "engagement_rate": 2.64,
+        "engagement_rate": 2.63,
         "subscriber_conversion_rate": 0.0,
         "title": "INSANE Marine precision | Silent Drill Platoon",
         "description": "The United States Marine Corps Silent Drill Platoon performed during the halftime show at the Houston Texans home game against the New York Jets in November of 2015.\n\nSubscribe to the Houston Texans YouTube Channel: tex.nz/youtubesubscribe\n\n#WeAreTexans #Texans #NFL\n\nFOLLOW THE TEAM\nhttps://www.facebook.com/HoustonTexans/\nhttps://twitter.com/HoustonTexans\nhttps://www.instagram.com/houstontexans/\n\nGET TO KNOW THE TEAM\nhttps://www.HoustonTexans.com\nhttps://www.houstontexans.com/team/pl...\nhttps://www.houstontexans.com/team/st...\nhttps://www.houstontexans.com/team/te...\nhttps://www.houstontexans.com/team/st...\nhttps://www.houstontexans.com/schedule/",
@@ -4944,7 +4944,7 @@
           "flags": []
         },
         "vph": 0.0,
-        "days_since_published": 3795,
+        "days_since_published": 3796,
         "views_per_day": 0.1,
         "performance_status": "poor",
         "seo_score": {
@@ -5127,7 +5127,7 @@
       },
       {
         "video_id": "v3NshI22Iek",
-        "views": 263,
+        "views": 264,
         "watch_time_minutes": 55,
         "avg_view_duration_seconds": 23,
         "avg_view_percentage": 111.54000000000002,
@@ -5135,7 +5135,7 @@
         "likes": 6,
         "comments": 0,
         "shares": 2,
-        "engagement_rate": 3.04,
+        "engagement_rate": 3.03,
         "subscriber_conversion_rate": 0.0,
         "title": "Defensive intro SNF edition \ud83c\udfa5",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -5145,7 +5145,7 @@
         "duration_formatted": "21s",
         "is_short": true,
         "statistics": {
-          "views": 58959,
+          "views": 58966,
           "likes": 2149,
           "comments": 95
         },
@@ -5248,7 +5248,7 @@
         "duration_formatted": "44s",
         "is_short": true,
         "statistics": {
-          "views": 491617,
+          "views": 491624,
           "likes": 20525,
           "comments": 184
         },
@@ -5266,7 +5266,7 @@
           ]
         },
         "vph": 0.0,
-        "days_since_published": 719,
+        "days_since_published": 720,
         "views_per_day": 0.4,
         "performance_status": "poor",
         "seo_score": {
@@ -5424,7 +5424,7 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 145525,
+          "views": 145535,
           "likes": 1537,
           "comments": 109
         },
@@ -5829,219 +5829,16 @@
         }
       },
       {
-        "video_id": "N2DfPTKwRU8",
-        "views": 244,
-        "watch_time_minutes": 20,
-        "avg_view_duration_seconds": 10,
-        "avg_view_percentage": 98.97,
-        "subscribers_gained": 0,
-        "likes": 8,
-        "comments": 0,
-        "shares": 0,
-        "engagement_rate": 3.28,
-        "subscriber_conversion_rate": 0.0,
-        "title": "Every corner. Every block. Built by Houston.",
-        "description": "",
-        "published_at": "2026-03-30T13:06:02Z",
-        "thumbnail": "https://i.ytimg.com/vi/N2DfPTKwRU8/hqdefault.jpg",
-        "duration_seconds": 11,
-        "duration_formatted": "11s",
-        "is_short": true,
-        "statistics": {
-          "views": 3334,
-          "likes": 233,
-          "comments": 15
-        },
-        "content_status": {
-          "is_blocked": false,
-          "block_reason": null,
-          "flags": []
-        },
-        "vph": 0.6,
-        "days_since_published": 18,
-        "views_per_day": 13.6,
-        "performance_status": "average",
-        "seo_score": {
-          "total_score": 70,
-          "grade": "B",
-          "breakdown": {
-            "boost_keywords": {
-              "score": 40,
-              "found": [
-                "houston",
-                "built",
-                "lock",
-                "corner",
-                "block",
-                "every corner",
-                "every block",
-                "built by"
-              ],
-              "count": 9
-            },
-            "avoid_keywords": {
-              "score": 10,
-              "found": [
-                "ever"
-              ],
-              "penalty": 10
-            },
-            "title": {
-              "score": 20,
-              "length": 44,
-              "optimal_range": [
-                40,
-                70
-              ]
-            },
-            "description": {
-              "score": 0,
-              "length": 0
-            },
-            "hashtags": {
-              "score": 0,
-              "count": 0
-            }
-          },
-          "suggestions": [
-            "Consider removing: ever",
-            "Description is too short. Add context, links, and keywords.",
-            "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
-          ],
-          "boost_keywords_found": [
-            "houston",
-            "built",
-            "lock",
-            "corner",
-            "block",
-            "every corner",
-            "every block",
-            "built by",
-            "by houston"
-          ],
-          "avoid_keywords_found": [
-            "ever"
-          ]
-        }
-      },
-      {
-        "video_id": "c5R3Ng_VBKg",
-        "views": 242,
-        "watch_time_minutes": 99,
-        "avg_view_duration_seconds": 41,
-        "avg_view_percentage": 68.17,
-        "subscribers_gained": 0,
-        "likes": 8,
-        "comments": 0,
-        "shares": 0,
-        "engagement_rate": 3.31,
-        "subscriber_conversion_rate": 0.0,
-        "title": "Got a Field General \ud83e\udee1",
-        "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
-        "published_at": "2026-03-24T18:00:41Z",
-        "thumbnail": "https://i.ytimg.com/vi/c5R3Ng_VBKg/hqdefault.jpg",
-        "duration_seconds": 61,
-        "duration_formatted": "1:01",
-        "is_short": false,
-        "statistics": {
-          "views": 10455,
-          "likes": 877,
-          "comments": 61
-        },
-        "content_status": {
-          "is_blocked": false,
-          "block_reason": null,
-          "flags": []
-        },
-        "vph": 0.4,
-        "days_since_published": 23,
-        "views_per_day": 10.5,
-        "performance_status": "average",
-        "seo_score": {
-          "total_score": 55,
-          "grade": "D",
-          "breakdown": {
-            "boost_keywords": {
-              "score": 40,
-              "found": [
-                "texans",
-                "houston",
-                "got",
-                "bit",
-                "3uh7n0e",
-                "field",
-                "tickets",
-                "general"
-              ],
-              "count": 12
-            },
-            "avoid_keywords": {
-              "score": 0,
-              "found": [
-                "houstontexans",
-                "com",
-                "www",
-                "tex",
-                "https"
-              ],
-              "penalty": 50
-            },
-            "title": {
-              "score": 15,
-              "length": 21,
-              "optimal_range": [
-                40,
-                70
-              ]
-            },
-            "description": {
-              "score": 0,
-              "length": 82
-            },
-            "hashtags": {
-              "score": 0,
-              "count": 0
-            }
-          },
-          "suggestions": [
-            "Consider removing: houstontexans, com, www, tex, https",
-            "Title is short (21 chars). Aim for 40-70 chars.",
-            "Description is too short. Add context, links, and keywords."
-          ],
-          "boost_keywords_found": [
-            "texans",
-            "houston",
-            "got",
-            "bit",
-            "3uh7n0e",
-            "field",
-            "tickets",
-            "general",
-            "got a",
-            "a field",
-            "field general",
-            "era"
-          ],
-          "avoid_keywords_found": [
-            "houstontexans",
-            "com",
-            "www",
-            "tex",
-            "https"
-          ]
-        }
-      },
-      {
         "video_id": "Q5Oj8G8qx7M",
-        "views": 241,
-        "watch_time_minutes": 855,
+        "views": 244,
+        "watch_time_minutes": 868,
         "avg_view_duration_seconds": 213,
         "avg_view_percentage": 59.19,
         "subscribers_gained": 0,
         "likes": 5,
         "comments": 1,
         "shares": 1,
-        "engagement_rate": 2.9,
+        "engagement_rate": 2.87,
         "subscriber_conversion_rate": 0.0,
         "title": "6 Minutes of Derek Stingley Jr.'s Top Career Plays",
         "description": "Derek Stingley Jr.'s most elite plays that prove why he's one of the NFL's premier shutdown corners! From rookie year gems to lockdown coverage, witness defensive excellence.\n\nGet ready to witness defensive mastery as we showcase Derek Stingley Jr.'s most spectacular plays from his Houston Texans career. This collection features the LSU product's incredible ball skills, shutdown coverage, and game-changing moments that have made him a cornerstone of the Texans defense.\n\nFrom his impressive rookie season adjustments to his evolution into one of the league's most feared coverage specialists, Stingley Jr. continues to prove why Houston made him the third overall pick in the 2022 NFL Draft. Watch as he blankets elite receivers, creates turnovers, and showcases the elite athleticism that makes him a nightmare matchup for opposing quarterbacks.\n\nThese six minutes capture the essence of what makes Derek Stingley Jr. special - his fluid hips, exceptional route recognition, and clutch plays when the Texans need them most. Whether it's breaking up passes in the red zone or creating short fields for the offense, Stingley Jr. embodies the championship mentality that defines Houston's defensive identity.\n\nThe Swarm knows elite defense when they see it, and Derek Stingley Jr. represents the future of lockdown coverage in H-Town.\n\n\ud83d\udd14 Subscribe for more elite Texans defensive highlights and player showcases!\n\ud83d\udc49 SUBSCRIBE: https://www.youtube.com/c/HoustonTexans?sub_confirmation=1\n\n\ud83d\udcf1 Follow the Houston Texans:\nTwitter: https://twitter.com/HoustonTexans\nInstagram: https://instagram.com/HoustonTexans\nFacebook: https://facebook.com/HoustonTexans\nTikTok: https://tiktok.com/@HoustonTexans\nWebsite: https://www.HoustonTexans.com\n\n#Texans #HoustonTexans #NFL #DerekStingleyJr #DefensiveHighlights",
@@ -6367,37 +6164,133 @@
         }
       },
       {
-        "video_id": "9Rqu9om_bDE",
-        "views": 233,
-        "watch_time_minutes": 72,
-        "avg_view_duration_seconds": 26,
-        "avg_view_percentage": 65.72,
+        "video_id": "N2DfPTKwRU8",
+        "views": 244,
+        "watch_time_minutes": 20,
+        "avg_view_duration_seconds": 10,
+        "avg_view_percentage": 98.97,
         "subscribers_gained": 0,
-        "likes": 10,
+        "likes": 8,
         "comments": 0,
         "shares": 0,
-        "engagement_rate": 4.29,
+        "engagement_rate": 3.28,
         "subscriber_conversion_rate": 0.0,
-        "title": "Pitre is really like that \ud83d\ude24 | Mic'd Up",
-        "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
-        "published_at": "2026-01-16T16:17:56Z",
-        "thumbnail": "https://i.ytimg.com/vi/9Rqu9om_bDE/hqdefault.jpg",
-        "duration_seconds": 40,
-        "duration_formatted": "40s",
+        "title": "Every corner. Every block. Built by Houston.",
+        "description": "",
+        "published_at": "2026-03-30T13:06:02Z",
+        "thumbnail": "https://i.ytimg.com/vi/N2DfPTKwRU8/hqdefault.jpg",
+        "duration_seconds": 11,
+        "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 50789,
-          "likes": 2204,
-          "comments": 55
+          "views": 3334,
+          "likes": 233,
+          "comments": 15
         },
         "content_status": {
           "is_blocked": false,
           "block_reason": null,
           "flags": []
         },
-        "vph": 0.1,
-        "days_since_published": 91,
-        "views_per_day": 2.6,
+        "vph": 0.6,
+        "days_since_published": 18,
+        "views_per_day": 13.6,
+        "performance_status": "average",
+        "seo_score": {
+          "total_score": 70,
+          "grade": "B",
+          "breakdown": {
+            "boost_keywords": {
+              "score": 40,
+              "found": [
+                "houston",
+                "built",
+                "lock",
+                "corner",
+                "block",
+                "every corner",
+                "every block",
+                "built by"
+              ],
+              "count": 9
+            },
+            "avoid_keywords": {
+              "score": 10,
+              "found": [
+                "ever"
+              ],
+              "penalty": 10
+            },
+            "title": {
+              "score": 20,
+              "length": 44,
+              "optimal_range": [
+                40,
+                70
+              ]
+            },
+            "description": {
+              "score": 0,
+              "length": 0
+            },
+            "hashtags": {
+              "score": 0,
+              "count": 0
+            }
+          },
+          "suggestions": [
+            "Consider removing: ever",
+            "Description is too short. Add context, links, and keywords.",
+            "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
+          ],
+          "boost_keywords_found": [
+            "houston",
+            "built",
+            "lock",
+            "corner",
+            "block",
+            "every corner",
+            "every block",
+            "built by",
+            "by houston"
+          ],
+          "avoid_keywords_found": [
+            "ever"
+          ]
+        }
+      },
+      {
+        "video_id": "c5R3Ng_VBKg",
+        "views": 242,
+        "watch_time_minutes": 99,
+        "avg_view_duration_seconds": 41,
+        "avg_view_percentage": 68.17,
+        "subscribers_gained": 0,
+        "likes": 8,
+        "comments": 0,
+        "shares": 0,
+        "engagement_rate": 3.31,
+        "subscriber_conversion_rate": 0.0,
+        "title": "Got a Field General \ud83e\udee1",
+        "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
+        "published_at": "2026-03-24T18:00:41Z",
+        "thumbnail": "https://i.ytimg.com/vi/c5R3Ng_VBKg/hqdefault.jpg",
+        "duration_seconds": 61,
+        "duration_formatted": "1:01",
+        "is_short": false,
+        "statistics": {
+          "views": 10455,
+          "likes": 877,
+          "comments": 61
+        },
+        "content_status": {
+          "is_blocked": false,
+          "block_reason": null,
+          "flags": []
+        },
+        "vph": 0.4,
+        "days_since_published": 24,
+        "views_per_day": 10.1,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -6408,14 +6301,14 @@
               "found": [
                 "texans",
                 "houston",
-                "pitre",
-                "mic'd up",
-                "real",
-                "like",
-                "really",
-                "really like"
+                "got",
+                "bit",
+                "3uh7n0e",
+                "field",
+                "tickets",
+                "general"
               ],
-              "count": 16
+              "count": 12
             },
             "avoid_keywords": {
               "score": 0,
@@ -6424,15 +6317,13 @@
                 "com",
                 "www",
                 "tex",
-                "mic",
-                "d up",
                 "https"
               ],
-              "penalty": 70
+              "penalty": 50
             },
             "title": {
               "score": 15,
-              "length": 38,
+              "length": 21,
               "optimal_range": [
                 40,
                 70
@@ -6448,51 +6339,45 @@
             }
           },
           "suggestions": [
-            "Consider removing: houstontexans, com, www, tex, mic, d up, https",
-            "Title is short (38 chars). Aim for 40-70 chars.",
+            "Consider removing: houstontexans, com, www, tex, https",
+            "Title is short (21 chars). Aim for 40-70 chars.",
             "Description is too short. Add context, links, and keywords."
           ],
           "boost_keywords_found": [
             "texans",
             "houston",
-            "pitre",
-            "mic'd up",
-            "real",
-            "like",
-            "really",
-            "really like",
-            "like that",
-            "mic'd",
-            "up subscribe",
+            "got",
             "bit",
             "3uh7n0e",
-            "pitre is",
-            "is really",
-            "tickets"
+            "field",
+            "tickets",
+            "general",
+            "got a",
+            "a field",
+            "field general",
+            "era"
           ],
           "avoid_keywords_found": [
             "houstontexans",
             "com",
             "www",
             "tex",
-            "mic",
-            "d up",
             "https"
           ]
         }
       },
       {
         "video_id": "WN1bbyy0_wQ",
-        "views": 232,
-        "watch_time_minutes": 132,
+        "views": 234,
+        "watch_time_minutes": 131,
         "avg_view_duration_seconds": 45,
         "avg_view_percentage": 85.02,
         "subscribers_gained": 1,
         "likes": 15,
         "comments": 0,
         "shares": 2,
-        "engagement_rate": 7.33,
-        "subscriber_conversion_rate": 0.431,
+        "engagement_rate": 7.26,
+        "subscriber_conversion_rate": 0.427,
         "title": "Why Kamari Lassiter Sets the Standard",
         "description": "Toughness. Competitive edge. No fear.\nThis is what building a culture looks like and why Kamari Lassiter is everything you want in a player.\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-01-02T20:00:34Z",
@@ -6501,8 +6386,8 @@
         "duration_formatted": "53s",
         "is_short": true,
         "statistics": {
-          "views": 62863,
-          "likes": 4587,
+          "views": 62876,
+          "likes": 4588,
           "comments": 126
         },
         "content_status": {
@@ -6513,7 +6398,7 @@
         "vph": 0.1,
         "days_since_published": 104,
         "views_per_day": 2.2,
-        "performance_status": "excellent",
+        "performance_status": "good",
         "seo_score": {
           "total_score": 60,
           "grade": "C",
@@ -6624,6 +6509,121 @@
             "his",
             "look",
             "ever",
+            "https"
+          ]
+        }
+      },
+      {
+        "video_id": "9Rqu9om_bDE",
+        "views": 234,
+        "watch_time_minutes": 72,
+        "avg_view_duration_seconds": 26,
+        "avg_view_percentage": 65.72,
+        "subscribers_gained": 0,
+        "likes": 10,
+        "comments": 0,
+        "shares": 0,
+        "engagement_rate": 4.27,
+        "subscriber_conversion_rate": 0.0,
+        "title": "Pitre is really like that \ud83d\ude24 | Mic'd Up",
+        "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
+        "published_at": "2026-01-16T16:17:56Z",
+        "thumbnail": "https://i.ytimg.com/vi/9Rqu9om_bDE/hqdefault.jpg",
+        "duration_seconds": 40,
+        "duration_formatted": "40s",
+        "is_short": true,
+        "statistics": {
+          "views": 50789,
+          "likes": 2204,
+          "comments": 55
+        },
+        "content_status": {
+          "is_blocked": false,
+          "block_reason": null,
+          "flags": []
+        },
+        "vph": 0.1,
+        "days_since_published": 91,
+        "views_per_day": 2.6,
+        "performance_status": "average",
+        "seo_score": {
+          "total_score": 55,
+          "grade": "D",
+          "breakdown": {
+            "boost_keywords": {
+              "score": 40,
+              "found": [
+                "texans",
+                "houston",
+                "pitre",
+                "mic'd up",
+                "real",
+                "like",
+                "really",
+                "really like"
+              ],
+              "count": 16
+            },
+            "avoid_keywords": {
+              "score": 0,
+              "found": [
+                "houstontexans",
+                "com",
+                "www",
+                "tex",
+                "mic",
+                "d up",
+                "https"
+              ],
+              "penalty": 70
+            },
+            "title": {
+              "score": 15,
+              "length": 38,
+              "optimal_range": [
+                40,
+                70
+              ]
+            },
+            "description": {
+              "score": 0,
+              "length": 82
+            },
+            "hashtags": {
+              "score": 0,
+              "count": 0
+            }
+          },
+          "suggestions": [
+            "Consider removing: houstontexans, com, www, tex, mic, d up, https",
+            "Title is short (38 chars). Aim for 40-70 chars.",
+            "Description is too short. Add context, links, and keywords."
+          ],
+          "boost_keywords_found": [
+            "texans",
+            "houston",
+            "pitre",
+            "mic'd up",
+            "real",
+            "like",
+            "really",
+            "really like",
+            "like that",
+            "mic'd",
+            "up subscribe",
+            "bit",
+            "3uh7n0e",
+            "pitre is",
+            "is really",
+            "tickets"
+          ],
+          "avoid_keywords_found": [
+            "houstontexans",
+            "com",
+            "www",
+            "tex",
+            "mic",
+            "d up",
             "https"
           ]
         }
@@ -7585,7 +7585,7 @@
       {
         "video_id": "UfycvP7u15o",
         "views": 194,
-        "watch_time_minutes": 1082,
+        "watch_time_minutes": 1085,
         "avg_view_duration_seconds": 335,
         "avg_view_percentage": 40.93,
         "subscribers_gained": 0,
@@ -7602,7 +7602,7 @@
         "duration_formatted": "13:40",
         "is_short": false,
         "statistics": {
-          "views": 492207,
+          "views": 492210,
           "likes": 2279,
           "comments": 154
         },
@@ -7788,7 +7788,7 @@
         "duration_formatted": "6:17",
         "is_short": false,
         "statistics": {
-          "views": 492279,
+          "views": 492280,
           "likes": 9114,
           "comments": 890
         },
@@ -8279,15 +8279,15 @@
       },
       {
         "video_id": "1u96XRieL2A",
-        "views": 171,
-        "watch_time_minutes": 437,
+        "views": 172,
+        "watch_time_minutes": 442,
         "avg_view_duration_seconds": 154,
         "avg_view_percentage": 55.16,
         "subscribers_gained": 0,
         "likes": 5,
         "comments": 0,
         "shares": 1,
-        "engagement_rate": 3.51,
+        "engagement_rate": 3.49,
         "subscriber_conversion_rate": 0.0,
         "title": "J.J. Watt\u2019s Top 10 plays with Texans",
         "description": "From defensive dominance to unforgettable moments, relive the legendary J.J. Watt's most iconic plays in a Houston Texans uniform. Which play tops your list?\n\nHouston Texans legend J.J. Watt left an incredible legacy during his decade in H-Town, and we're counting down his 10 most memorable plays that defined his Hall of Fame career. From his three NFL Defensive Player of the Year seasons to clutch playoff moments, Watt's impact on the Texans franchise was immeasurable. This compilation showcases the defensive end's most dominant pass rushes, game-changing interceptions, and those rare offensive touchdowns that had NRG Stadium erupting. Whether it was his 20.5-sack season in 2012 or his inspiring comeback from injury, J.J. Watt embodied everything Texans fans love about their team. Each play on this list represents a moment where Watt's incredible athleticism and football IQ were on full display, cementing his status as one of the greatest defensive players in NFL history. From his rookie season through his final games in a Texans uniform, Watt consistently delivered performances that will be remembered forever in Houston sports history. Let us know in the comments which J.J. Watt play you think deserves the top spot!\n\n\ud83d\udd14 Hit that subscribe button to never miss the best Houston Texans content!\n\ud83d\udc49 SUBSCRIBE: https://www.youtube.com/c/HoustonTexans?sub_confirmation=1\n\n\ud83d\udcf1 Follow the Houston Texans:\nTwitter: https://twitter.com/HoustonTexans\nInstagram: https://instagram.com/HoustonTexans\nFacebook: https://facebook.com/HoustonTexans\nTikTok: https://tiktok.com/@HoustonTexans\nWebsite: https://www.HoustonTexans.com\n\n#Texans #HoustonTexans #NFL #JJWatt #NFLLegends",
@@ -8680,7 +8680,7 @@
       },
       {
         "video_id": "tNIbuhggyXI",
-        "views": 167,
+        "views": 166,
         "watch_time_minutes": 748,
         "avg_view_duration_seconds": 270,
         "avg_view_percentage": 38,
@@ -8688,7 +8688,7 @@
         "likes": 6,
         "comments": 0,
         "shares": 0,
-        "engagement_rate": 3.59,
+        "engagement_rate": 3.61,
         "subscriber_conversion_rate": 0.0,
         "title": "Azeez Al-Shaair's EPIC leadership vs 49ers \ud83d\udcaa | Mic'd Up",
         "description": "Azeez Al-Shaair brought championship-level leadership in Houston's victory over San Francisco! Watch the linebacker's incredible energy and passion that fired up the entire team. \ud83d\udd25\n\nGet an exclusive behind-the-scenes look at linebacker Azeez Al-Shaair's commanding presence during the Houston Texans' impressive win against the San Francisco 49ers. From his powerful pre-game speeches that got the entire locker room hyped to his non-stop sideline coaching throughout the game, Al-Shaair showcased exactly why he's become a cornerstone leader for this Texans defense.\n\nWatch as the veteran linebacker encourages teammates during crucial moments, celebrates every defensive stop, and demonstrates the kind of infectious energy that transforms good teams into great ones. His passion for the game and dedication to his teammates shines through every mic'd up moment, giving fans an intimate look at what true NFL leadership looks like.\n\nThis is the kind of behind-the-scenes content that shows why the Houston Texans have built such a strong culture in H-Town. Al-Shaair's leadership style perfectly embodies what it means to be part of The Swarm, bringing that championship mentality to every snap.\n\n\ud83d\udd14 Subscribe for more exclusive Houston Texans mic'd up content and behind-the-scenes action!\n\ud83d\udc49 SUBSCRIBE: https://www.youtube.com/c/HoustonTexans?sub_confirmation=1\n\n\ud83d\udcf1 Follow the Houston Texans:\nTwitter: https://twitter.com/HoustonTexans\nInstagram: https://instagram.com/HoustonTexans\nFacebook: https://facebook.com/HoustonTexans\nTikTok: https://tiktok.com/@HoustonTexans\nWebsite: https://www.HoustonTexans.com\n\n#Texans #HoustonTexans #NFL #MicdUp #Leadership",
@@ -9436,15 +9436,15 @@
       },
       {
         "video_id": "er0EC10Y1lg",
-        "views": 153,
-        "watch_time_minutes": 144,
+        "views": 152,
+        "watch_time_minutes": 142,
         "avg_view_duration_seconds": 56,
         "avg_view_percentage": 57.47,
         "subscribers_gained": 0,
         "likes": 3,
         "comments": 0,
         "shares": 2,
-        "engagement_rate": 3.27,
+        "engagement_rate": 3.29,
         "subscriber_conversion_rate": 0.0,
         "title": "From Detroit to H-Town, The Mindset Travels | Iron Sharpens Iron Feature",
         "description": "Speed is cool. Strength is cool. But mindset changes everything.\n\nDavid Montgomery brings a mentality to Houston that goes beyond the stat sheet. A runner who looks you in the eye and dares you to stop him. In this episode, he shares why Houston feels like home, the influence of Arian Foster, and how his game fits the Texans identity under DeMeco Ryans.\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -9686,16 +9686,16 @@
       },
       {
         "video_id": "0R5GZjOfdn0",
-        "views": 152,
-        "watch_time_minutes": 400,
+        "views": 150,
+        "watch_time_minutes": 388,
         "avg_view_duration_seconds": 155,
         "avg_view_percentage": 40.08,
         "subscribers_gained": 1,
         "likes": 2,
         "comments": 0,
         "shares": 4,
-        "engagement_rate": 3.95,
-        "subscriber_conversion_rate": 0.658,
+        "engagement_rate": 4.0,
+        "subscriber_conversion_rate": 0.667,
         "title": "Silent Drill Platoon leaves 70K fans SPEECHLESS \ud83e\udd2f",
         "description": "The Marine Corps Silent Drill Platoon delivered an absolutely incredible halftime performance that had all 70,000 Houston Texans fans on their feet! \ud83c\uddfa\ud83c\uddf8\n\nWhat an incredible honor to have the Marine Barracks Washington DC Silent Drill Platoon perform at NRG Stadium during our Houston Texans game! This world-renowned precision drill team left our entire fanbase speechless with their flawless choreography and military excellence.\n\nThe Silent Drill Platoon's performance showcased the highest level of discipline, teamwork, and dedication - values that align perfectly with what we strive for as the Houston Texans organization. Watching 70,000 fans rise to their feet in appreciation for these Marines was truly a special moment at NRG Stadium.\n\nThis elite 24-member platoon from Marine Barracks Washington DC has been performing ceremonial duties since 1956, and their visit to H-Town was absolutely unforgettable. From their synchronized rifle movements to their picture-perfect formations, every single movement demonstrated why they're considered the finest drill team in the world.\n\nThank you to all the brave men and women who serve our country, and thank you to the Silent Drill Platoon for this amazing halftime show that our fans will never forget!\n\n\ud83d\udd14 Hit that subscribe button to catch every incredible moment from NRG Stadium!\n\ud83d\udc49 SUBSCRIBE: https://www.youtube.com/c/HoustonTexans?sub_confirmation=1\n\n\ud83d\udcf1 Follow the Houston Texans:\nTwitter: https://twitter.com/HoustonTexans\nInstagram: https://instagram.com/HoustonTexans\nFacebook: https://facebook.com/HoustonTexans\nTikTok: https://tiktok.com/@HoustonTexans\nWebsite: https://www.HoustonTexans.com\n\n#Texans #HoustonTexans #NFL #SilentDrillPlatoon #Marines",
         "published_at": "2024-11-24T20:53:58Z",
@@ -9704,7 +9704,7 @@
         "duration_formatted": "6:28",
         "is_short": false,
         "statistics": {
-          "views": 21901,
+          "views": 21903,
           "likes": 256,
           "comments": 26
         },
@@ -10099,15 +10099,15 @@
       },
       {
         "video_id": "FYF4LDeZ01I",
-        "views": 144,
-        "watch_time_minutes": 617,
+        "views": 145,
+        "watch_time_minutes": 623,
         "avg_view_duration_seconds": 258,
         "avg_view_percentage": 34.75,
         "subscribers_gained": 0,
         "likes": 3,
         "comments": 1,
         "shares": 0,
-        "engagement_rate": 2.78,
+        "engagement_rate": 2.76,
         "subscriber_conversion_rate": 0.0,
         "title": "Nick Caserio Breaks Down Texans Offseason Moves at NFL Meetings",
         "description": "Texans Executive VP/General Manager Nick Caserio joins Marc Vandermeer live from the NFL Annual Meeting to break down Houston's offseason roster construction.\n\n\ud83d\udd39 Offensive line: Wyatt Teller, Braden Smith, Evan Brown, plus Trent Brown and Ed Ingram re-signed\n\ud83d\udd39 New additions Foster Moreau and David Montgomery \u2014 what they bring to the Texans\n\ud83d\udd39 Reed Blankenship's journey from undrafted free agent to Super Bowl champion safety\n\ud83d\udd39 How the Texans evaluate fit \n\ud83d\udd39 Draft prep update: pre-draft visits and Houston's philosophy\n\ud83d\udd39 Toro District headquarters update and the vision for a player-friendly facility\n\nSubscribe for the latest Houston Texans coverage from Texans All-Access on Sports Radio 610!\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -10117,7 +10117,7 @@
         "duration_formatted": "12:23",
         "is_short": false,
         "statistics": {
-          "views": 3764,
+          "views": 3765,
           "likes": 120,
           "comments": 6
         },
@@ -10136,7 +10136,7 @@
         },
         "vph": 0.4,
         "days_since_published": 14,
-        "views_per_day": 10.3,
+        "views_per_day": 10.4,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -11047,8 +11047,8 @@
     "past_month": [
       {
         "video_id": "0xvXMEnwyYM",
-        "views": 107443,
-        "watch_time_minutes": 390321,
+        "views": 107467,
+        "watch_time_minutes": 390380,
         "avg_view_duration_seconds": 217,
         "avg_view_percentage": 33.38,
         "subscribers_gained": 136,
@@ -11065,8 +11065,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11905708,
-          "likes": 166120,
+          "views": 11905898,
+          "likes": 166121,
           "comments": 8591
         },
         "content_status": {
@@ -11736,7 +11736,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 49.9,
+        "vph": 49.8,
         "days_since_published": 24,
         "views_per_day": 1199.3,
         "performance_status": "good",
@@ -12233,8 +12233,8 @@
           "flags": []
         },
         "vph": 18.0,
-        "days_since_published": 23,
-        "views_per_day": 451.0,
+        "days_since_published": 24,
+        "views_per_day": 432.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -12409,8 +12409,8 @@
       },
       {
         "video_id": "er0EC10Y1lg",
-        "views": 7520,
-        "watch_time_minutes": 7311,
+        "views": 7519,
+        "watch_time_minutes": 7309,
         "avg_view_duration_seconds": 58,
         "avg_view_percentage": 59.52,
         "subscribers_gained": 15,
@@ -12438,7 +12438,7 @@
         },
         "vph": 10.1,
         "days_since_published": 30,
-        "views_per_day": 250.7,
+        "views_per_day": 250.6,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -12864,7 +12864,7 @@
         "is_short": false,
         "statistics": {
           "views": 7003,
-          "likes": 598,
+          "likes": 599,
           "comments": 24
         },
         "content_status": {
@@ -13036,7 +13036,7 @@
       },
       {
         "video_id": "NYmMFdckDkQ",
-        "views": 6407,
+        "views": 6409,
         "watch_time_minutes": 934,
         "avg_view_duration_seconds": 21,
         "avg_view_percentage": 97.64,
@@ -13071,9 +13071,9 @@
             }
           ]
         },
-        "vph": 38.0,
+        "vph": 37.8,
         "days_since_published": 7,
-        "views_per_day": 915.3,
+        "views_per_day": 915.6,
         "performance_status": "average",
         "seo_score": {
           "total_score": 65,
@@ -13338,8 +13338,8 @@
           ]
         },
         "vph": 16.2,
-        "days_since_published": 12,
-        "views_per_day": 421.1,
+        "days_since_published": 13,
+        "views_per_day": 388.7,
         "performance_status": "average",
         "seo_score": {
           "total_score": 65,
@@ -13483,7 +13483,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 6.7,
+        "vph": 6.6,
         "days_since_published": 30,
         "views_per_day": 164.3,
         "performance_status": "good",
@@ -13688,8 +13688,8 @@
       },
       {
         "video_id": "FYF4LDeZ01I",
-        "views": 3742,
-        "watch_time_minutes": 23326,
+        "views": 3743,
+        "watch_time_minutes": 23333,
         "avg_view_duration_seconds": 374,
         "avg_view_percentage": 50.34,
         "subscribers_gained": 3,
@@ -13725,7 +13725,7 @@
         },
         "vph": 11.0,
         "days_since_published": 14,
-        "views_per_day": 267.3,
+        "views_per_day": 267.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 70,
@@ -13912,8 +13912,8 @@
       },
       {
         "video_id": "AmDtg6kuD2k",
-        "views": 3608,
-        "watch_time_minutes": 59344,
+        "views": 3609,
+        "watch_time_minutes": 59350,
         "avg_view_duration_seconds": 986,
         "avg_view_percentage": 28.48,
         "subscribers_gained": 3,
@@ -13939,9 +13939,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 38.0,
+        "vph": 37.6,
         "days_since_published": 3,
-        "views_per_day": 1202.7,
+        "views_per_day": 1203.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -14179,7 +14179,7 @@
             }
           ]
         },
-        "vph": 10.2,
+        "vph": 10.1,
         "days_since_published": 14,
         "views_per_day": 244.2,
         "performance_status": "average",
@@ -14435,7 +14435,7 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 3334,
+          "views": 3339,
           "likes": 233,
           "comments": 15
         },
@@ -14548,7 +14548,7 @@
             }
           ]
         },
-        "vph": 8.4,
+        "vph": 8.3,
         "days_since_published": 16,
         "views_per_day": 203.1,
         "performance_status": "average",
@@ -14841,8 +14841,8 @@
       },
       {
         "video_id": "U98Gw-qmtNQ",
-        "views": 3204,
-        "watch_time_minutes": 5763,
+        "views": 3206,
+        "watch_time_minutes": 5767,
         "avg_view_duration_seconds": 107,
         "avg_view_percentage": 39.54,
         "subscribers_gained": 11,
@@ -14859,7 +14859,7 @@
         "duration_formatted": "4:33",
         "is_short": false,
         "statistics": {
-          "views": 3283,
+          "views": 3284,
           "likes": 123,
           "comments": 10
         },
@@ -14878,7 +14878,7 @@
         },
         "vph": 15.1,
         "days_since_published": 8,
-        "views_per_day": 400.5,
+        "views_per_day": 400.8,
         "performance_status": "excellent",
         "seo_score": {
           "total_score": 70,
@@ -15351,7 +15351,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 32.6,
+        "vph": 32.3,
         "days_since_published": 3,
         "views_per_day": 1013.0,
         "performance_status": "average",
@@ -15429,8 +15429,8 @@
       },
       {
         "video_id": "5NyUSV4KXmo",
-        "views": 2777,
-        "watch_time_minutes": 1020,
+        "views": 2779,
+        "watch_time_minutes": 1021,
         "avg_view_duration_seconds": 42,
         "avg_view_percentage": 85.79,
         "subscribers_gained": 2,
@@ -15561,8 +15561,8 @@
           "flags": []
         },
         "vph": 2.5,
-        "days_since_published": 45,
-        "views_per_day": 61.4,
+        "days_since_published": 46,
+        "views_per_day": 60.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -16018,7 +16018,7 @@
         "duration_formatted": "22:32",
         "is_short": false,
         "statistics": {
-          "views": 6716,
+          "views": 6727,
           "likes": 238,
           "comments": 23
         },
@@ -16742,8 +16742,8 @@
       },
       {
         "video_id": "RVMAf8bsfLM",
-        "views": 2408,
-        "watch_time_minutes": 8398,
+        "views": 2410,
+        "watch_time_minutes": 8405,
         "avg_view_duration_seconds": 209,
         "avg_view_percentage": 56.86,
         "subscribers_gained": 4,
@@ -16760,7 +16760,7 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 222486,
+          "views": 222503,
           "likes": 2238,
           "comments": 177
         },
@@ -16971,7 +16971,7 @@
       },
       {
         "video_id": "gT0LkqWFc4M",
-        "views": 2287,
+        "views": 2285,
         "watch_time_minutes": 249,
         "avg_view_duration_seconds": 15,
         "avg_view_percentage": 110.27,
@@ -16979,7 +16979,7 @@
         "likes": 64,
         "comments": 3,
         "shares": 4,
-        "engagement_rate": 3.1,
+        "engagement_rate": 3.11,
         "subscriber_conversion_rate": 0.131,
         "title": "How many did you get right?",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -16989,8 +16989,8 @@
         "duration_formatted": "14s",
         "is_short": true,
         "statistics": {
-          "views": 2705,
-          "likes": 72,
+          "views": 2709,
+          "likes": 73,
           "comments": 7
         },
         "content_status": {
@@ -16998,9 +16998,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 24.0,
-        "days_since_published": 3,
-        "views_per_day": 762.3,
+        "vph": 23.8,
+        "days_since_published": 4,
+        "views_per_day": 571.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 40,
@@ -17765,6 +17765,182 @@
         }
       },
       {
+        "video_id": "jVwo_olu7os",
+        "views": 1893,
+        "watch_time_minutes": 591,
+        "avg_view_duration_seconds": 29,
+        "avg_view_percentage": 66.99,
+        "subscribers_gained": 1,
+        "likes": 34,
+        "comments": 0,
+        "shares": 2,
+        "engagement_rate": 1.9,
+        "subscriber_conversion_rate": 0.053,
+        "title": "What's up brother \u261d\ufe0f",
+        "description": "@TheSketchReal announces the Houston Texans' Fourth Round pick TE Cade Stover. \nSubscribe: tex.nz/youtubesubscribe\n\nTickets: https://tex.nz/2024yt-seasons\n\nFollow Us!\nhttps://www.instagram.com/houstontexans/\nhttps://www.facebook.com/HoustonTexans/\nhttps://twitter.com/HoustonTexans\nhttps://www.HoustonTexans.com",
+        "published_at": "2024-04-27T17:24:21Z",
+        "thumbnail": "https://i.ytimg.com/vi/jVwo_olu7os/hqdefault.jpg",
+        "duration_seconds": 44,
+        "duration_formatted": "44s",
+        "is_short": true,
+        "statistics": {
+          "views": 491624,
+          "likes": 20525,
+          "comments": 184
+        },
+        "content_status": {
+          "is_blocked": false,
+          "block_reason": null,
+          "flags": [
+            {
+              "type": "content",
+              "name": "ad",
+              "emoji": "\ud83d\udcb0",
+              "note": "Sponsored content - use conservative titling",
+              "show_banner": false
+            }
+          ]
+        },
+        "vph": 0.1,
+        "days_since_published": 720,
+        "views_per_day": 2.6,
+        "performance_status": "poor",
+        "seo_score": {
+          "total_score": 65,
+          "grade": "C",
+          "breakdown": {
+            "boost_keywords": {
+              "score": 40,
+              "found": [
+                "texans",
+                "houston",
+                "over",
+                "real",
+                "our",
+                "announce",
+                "tickets",
+                "cade"
+              ],
+              "count": 11
+            },
+            "avoid_keywords": {
+              "score": 0,
+              "found": [
+                "houstontexans",
+                "com",
+                "www",
+                "tex",
+                "follow",
+                "houston texans",
+                "youtubesubscribe",
+                "instagram",
+                "facebook",
+                "twitter",
+                "out",
+                "the houston",
+                "follow us",
+                "season",
+                "fourth",
+                "youtube",
+                "2024",
+                "2024yt-seasons",
+                "round",
+                "https",
+                "pick",
+                "texans'",
+                "seasons",
+                "houston texans'",
+                "brother",
+                "thesketchreal",
+                "announces",
+                "what's up",
+                "up brother",
+                "thesketchreal announces",
+                "announces the",
+                "texans' fourth",
+                "fourth round",
+                "round pick",
+                "pick te",
+                "te cade"
+              ],
+              "penalty": 360
+            },
+            "title": {
+              "score": 15,
+              "length": 20,
+              "optimal_range": [
+                40,
+                70
+              ]
+            },
+            "description": {
+              "score": 10,
+              "length": 311
+            },
+            "hashtags": {
+              "score": 0,
+              "count": 0
+            }
+          },
+          "suggestions": [
+            "Consider removing: houstontexans, com, www, tex, follow, houston texans, youtubesubscribe, instagram, facebook, twitter, out, the houston, follow us, season, fourth, youtube, 2024, 2024yt-seasons, round, https, pick, texans', seasons, houston texans', brother, thesketchreal, announces, what's up, up brother, thesketchreal announces, announces the, texans' fourth, fourth round, round pick, pick te, te cade",
+            "Title is short (20 chars). Aim for 40-70 chars.",
+            "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
+          ],
+          "boost_keywords_found": [
+            "texans",
+            "houston",
+            "over",
+            "real",
+            "our",
+            "announce",
+            "tickets",
+            "cade",
+            "stover",
+            "cade stover",
+            "what's"
+          ],
+          "avoid_keywords_found": [
+            "houstontexans",
+            "com",
+            "www",
+            "tex",
+            "follow",
+            "houston texans",
+            "youtubesubscribe",
+            "instagram",
+            "facebook",
+            "twitter",
+            "out",
+            "the houston",
+            "follow us",
+            "season",
+            "fourth",
+            "youtube",
+            "2024",
+            "2024yt-seasons",
+            "round",
+            "https",
+            "pick",
+            "texans'",
+            "seasons",
+            "houston texans'",
+            "brother",
+            "thesketchreal",
+            "announces",
+            "what's up",
+            "up brother",
+            "thesketchreal announces",
+            "announces the",
+            "texans' fourth",
+            "fourth round",
+            "round pick",
+            "pick te",
+            "te cade"
+          ]
+        }
+      },
+      {
         "video_id": "onraOpS0PLE",
         "views": 1893,
         "watch_time_minutes": 320,
@@ -17784,7 +17960,7 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 3598402,
+          "views": 3598421,
           "likes": 89638,
           "comments": 2135
         },
@@ -17952,182 +18128,6 @@
         }
       },
       {
-        "video_id": "jVwo_olu7os",
-        "views": 1893,
-        "watch_time_minutes": 591,
-        "avg_view_duration_seconds": 29,
-        "avg_view_percentage": 66.99,
-        "subscribers_gained": 1,
-        "likes": 34,
-        "comments": 0,
-        "shares": 2,
-        "engagement_rate": 1.9,
-        "subscriber_conversion_rate": 0.053,
-        "title": "What's up brother \u261d\ufe0f",
-        "description": "@TheSketchReal announces the Houston Texans' Fourth Round pick TE Cade Stover. \nSubscribe: tex.nz/youtubesubscribe\n\nTickets: https://tex.nz/2024yt-seasons\n\nFollow Us!\nhttps://www.instagram.com/houstontexans/\nhttps://www.facebook.com/HoustonTexans/\nhttps://twitter.com/HoustonTexans\nhttps://www.HoustonTexans.com",
-        "published_at": "2024-04-27T17:24:21Z",
-        "thumbnail": "https://i.ytimg.com/vi/jVwo_olu7os/hqdefault.jpg",
-        "duration_seconds": 44,
-        "duration_formatted": "44s",
-        "is_short": true,
-        "statistics": {
-          "views": 491617,
-          "likes": 20525,
-          "comments": 184
-        },
-        "content_status": {
-          "is_blocked": false,
-          "block_reason": null,
-          "flags": [
-            {
-              "type": "content",
-              "name": "ad",
-              "emoji": "\ud83d\udcb0",
-              "note": "Sponsored content - use conservative titling",
-              "show_banner": false
-            }
-          ]
-        },
-        "vph": 0.1,
-        "days_since_published": 719,
-        "views_per_day": 2.6,
-        "performance_status": "poor",
-        "seo_score": {
-          "total_score": 65,
-          "grade": "C",
-          "breakdown": {
-            "boost_keywords": {
-              "score": 40,
-              "found": [
-                "texans",
-                "houston",
-                "over",
-                "real",
-                "our",
-                "announce",
-                "tickets",
-                "cade"
-              ],
-              "count": 11
-            },
-            "avoid_keywords": {
-              "score": 0,
-              "found": [
-                "houstontexans",
-                "com",
-                "www",
-                "tex",
-                "follow",
-                "houston texans",
-                "youtubesubscribe",
-                "instagram",
-                "facebook",
-                "twitter",
-                "out",
-                "the houston",
-                "follow us",
-                "season",
-                "fourth",
-                "youtube",
-                "2024",
-                "2024yt-seasons",
-                "round",
-                "https",
-                "pick",
-                "texans'",
-                "seasons",
-                "houston texans'",
-                "brother",
-                "thesketchreal",
-                "announces",
-                "what's up",
-                "up brother",
-                "thesketchreal announces",
-                "announces the",
-                "texans' fourth",
-                "fourth round",
-                "round pick",
-                "pick te",
-                "te cade"
-              ],
-              "penalty": 360
-            },
-            "title": {
-              "score": 15,
-              "length": 20,
-              "optimal_range": [
-                40,
-                70
-              ]
-            },
-            "description": {
-              "score": 10,
-              "length": 311
-            },
-            "hashtags": {
-              "score": 0,
-              "count": 0
-            }
-          },
-          "suggestions": [
-            "Consider removing: houstontexans, com, www, tex, follow, houston texans, youtubesubscribe, instagram, facebook, twitter, out, the houston, follow us, season, fourth, youtube, 2024, 2024yt-seasons, round, https, pick, texans', seasons, houston texans', brother, thesketchreal, announces, what's up, up brother, thesketchreal announces, announces the, texans' fourth, fourth round, round pick, pick te, te cade",
-            "Title is short (20 chars). Aim for 40-70 chars.",
-            "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
-          ],
-          "boost_keywords_found": [
-            "texans",
-            "houston",
-            "over",
-            "real",
-            "our",
-            "announce",
-            "tickets",
-            "cade",
-            "stover",
-            "cade stover",
-            "what's"
-          ],
-          "avoid_keywords_found": [
-            "houstontexans",
-            "com",
-            "www",
-            "tex",
-            "follow",
-            "houston texans",
-            "youtubesubscribe",
-            "instagram",
-            "facebook",
-            "twitter",
-            "out",
-            "the houston",
-            "follow us",
-            "season",
-            "fourth",
-            "youtube",
-            "2024",
-            "2024yt-seasons",
-            "round",
-            "https",
-            "pick",
-            "texans'",
-            "seasons",
-            "houston texans'",
-            "brother",
-            "thesketchreal",
-            "announces",
-            "what's up",
-            "up brother",
-            "thesketchreal announces",
-            "announces the",
-            "texans' fourth",
-            "fourth round",
-            "round pick",
-            "pick te",
-            "te cade"
-          ]
-        }
-      },
-      {
         "video_id": "yhTCSwy7txo",
         "views": 1853,
         "watch_time_minutes": 298,
@@ -18206,7 +18206,7 @@
       },
       {
         "video_id": "tNIbuhggyXI",
-        "views": 1850,
+        "views": 1849,
         "watch_time_minutes": 7803,
         "avg_view_duration_seconds": 253,
         "avg_view_percentage": 35.57,
@@ -18576,7 +18576,7 @@
       },
       {
         "video_id": "v3NshI22Iek",
-        "views": 1825,
+        "views": 1826,
         "watch_time_minutes": 385,
         "avg_view_duration_seconds": 24,
         "avg_view_percentage": 118.33,
@@ -18594,7 +18594,7 @@
         "duration_formatted": "21s",
         "is_short": true,
         "statistics": {
-          "views": 58959,
+          "views": 58970,
           "likes": 2149,
           "comments": 95
         },
@@ -18679,8 +18679,8 @@
       },
       {
         "video_id": "dBNgfROuJnQ",
-        "views": 1749,
-        "watch_time_minutes": 9023,
+        "views": 1750,
+        "watch_time_minutes": 9034,
         "avg_view_duration_seconds": 310,
         "avg_view_percentage": 42.78,
         "subscribers_gained": 5,
@@ -19475,6 +19475,153 @@
         }
       },
       {
+        "video_id": "WN1bbyy0_wQ",
+        "views": 1645,
+        "watch_time_minutes": 697,
+        "avg_view_duration_seconds": 34,
+        "avg_view_percentage": 65.45,
+        "subscribers_gained": 5,
+        "likes": 110,
+        "comments": 3,
+        "shares": 5,
+        "engagement_rate": 7.17,
+        "subscriber_conversion_rate": 0.304,
+        "title": "Why Kamari Lassiter Sets the Standard",
+        "description": "Toughness. Competitive edge. No fear.\nThis is what building a culture looks like and why Kamari Lassiter is everything you want in a player.\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
+        "published_at": "2026-01-02T20:00:34Z",
+        "thumbnail": "https://i.ytimg.com/vi/WN1bbyy0_wQ/hqdefault.jpg",
+        "duration_seconds": 53,
+        "duration_formatted": "53s",
+        "is_short": true,
+        "statistics": {
+          "views": 62878,
+          "likes": 4588,
+          "comments": 126
+        },
+        "content_status": {
+          "is_blocked": false,
+          "block_reason": null,
+          "flags": []
+        },
+        "vph": 0.7,
+        "days_since_published": 104,
+        "views_per_day": 15.8,
+        "performance_status": "excellent",
+        "seo_score": {
+          "total_score": 60,
+          "grade": "C",
+          "breakdown": {
+            "boost_keywords": {
+              "score": 40,
+              "found": [
+                "texans",
+                "houston",
+                "play",
+                "build",
+                "tough",
+                "like a",
+                "kamari",
+                "lassiter"
+              ],
+              "count": 46
+            },
+            "avoid_keywords": {
+              "score": 0,
+              "found": [
+                "houstontexans",
+                "com",
+                "www",
+                "tex",
+                "his",
+                "look",
+                "ever",
+                "https"
+              ],
+              "penalty": 80
+            },
+            "title": {
+              "score": 10,
+              "length": 37,
+              "optimal_range": [
+                40,
+                70
+              ]
+            },
+            "description": {
+              "score": 10,
+              "length": 224
+            },
+            "hashtags": {
+              "score": 0,
+              "count": 0
+            }
+          },
+          "suggestions": [
+            "Consider removing: houstontexans, com, www, tex, his, look, ever, https",
+            "Title is short (37 chars). Aim for 40-70 chars.",
+            "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
+          ],
+          "boost_keywords_found": [
+            "texans",
+            "houston",
+            "play",
+            "build",
+            "tough",
+            "like a",
+            "kamari",
+            "lassiter",
+            "why kamari",
+            "kamari lassiter",
+            "sets",
+            "standard",
+            "toughness",
+            "competitive",
+            "edge",
+            "fear",
+            "culture",
+            "looks",
+            "everything",
+            "want",
+            "player",
+            "lassiter sets",
+            "sets the",
+            "the standard",
+            "standard toughness",
+            "competitive edge",
+            "no fear",
+            "what building",
+            "building a",
+            "a culture",
+            "culture looks",
+            "looks like",
+            "like and",
+            "lassiter is",
+            "is everything",
+            "everything you",
+            "you want",
+            "want in",
+            "a player",
+            "like",
+            "building",
+            "s like",
+            "bit",
+            "3uh7n0e",
+            "set",
+            "tickets"
+          ],
+          "avoid_keywords_found": [
+            "houstontexans",
+            "com",
+            "www",
+            "tex",
+            "his",
+            "look",
+            "ever",
+            "https"
+          ]
+        }
+      },
+      {
         "video_id": "7UbR96SWcPc",
         "views": 1645,
         "watch_time_minutes": 5725,
@@ -19494,8 +19641,8 @@
         "duration_formatted": "9:13",
         "is_short": false,
         "statistics": {
-          "views": 69445,
-          "likes": 663,
+          "views": 69457,
+          "likes": 664,
           "comments": 48
         },
         "content_status": {
@@ -20003,155 +20150,8 @@
         }
       },
       {
-        "video_id": "WN1bbyy0_wQ",
-        "views": 1643,
-        "watch_time_minutes": 697,
-        "avg_view_duration_seconds": 34,
-        "avg_view_percentage": 65.45,
-        "subscribers_gained": 5,
-        "likes": 110,
-        "comments": 3,
-        "shares": 5,
-        "engagement_rate": 7.18,
-        "subscriber_conversion_rate": 0.304,
-        "title": "Why Kamari Lassiter Sets the Standard",
-        "description": "Toughness. Competitive edge. No fear.\nThis is what building a culture looks like and why Kamari Lassiter is everything you want in a player.\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
-        "published_at": "2026-01-02T20:00:34Z",
-        "thumbnail": "https://i.ytimg.com/vi/WN1bbyy0_wQ/hqdefault.jpg",
-        "duration_seconds": 53,
-        "duration_formatted": "53s",
-        "is_short": true,
-        "statistics": {
-          "views": 62863,
-          "likes": 4587,
-          "comments": 126
-        },
-        "content_status": {
-          "is_blocked": false,
-          "block_reason": null,
-          "flags": []
-        },
-        "vph": 0.7,
-        "days_since_published": 104,
-        "views_per_day": 15.8,
-        "performance_status": "excellent",
-        "seo_score": {
-          "total_score": 60,
-          "grade": "C",
-          "breakdown": {
-            "boost_keywords": {
-              "score": 40,
-              "found": [
-                "texans",
-                "houston",
-                "play",
-                "build",
-                "tough",
-                "like a",
-                "kamari",
-                "lassiter"
-              ],
-              "count": 46
-            },
-            "avoid_keywords": {
-              "score": 0,
-              "found": [
-                "houstontexans",
-                "com",
-                "www",
-                "tex",
-                "his",
-                "look",
-                "ever",
-                "https"
-              ],
-              "penalty": 80
-            },
-            "title": {
-              "score": 10,
-              "length": 37,
-              "optimal_range": [
-                40,
-                70
-              ]
-            },
-            "description": {
-              "score": 10,
-              "length": 224
-            },
-            "hashtags": {
-              "score": 0,
-              "count": 0
-            }
-          },
-          "suggestions": [
-            "Consider removing: houstontexans, com, www, tex, his, look, ever, https",
-            "Title is short (37 chars). Aim for 40-70 chars.",
-            "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
-          ],
-          "boost_keywords_found": [
-            "texans",
-            "houston",
-            "play",
-            "build",
-            "tough",
-            "like a",
-            "kamari",
-            "lassiter",
-            "why kamari",
-            "kamari lassiter",
-            "sets",
-            "standard",
-            "toughness",
-            "competitive",
-            "edge",
-            "fear",
-            "culture",
-            "looks",
-            "everything",
-            "want",
-            "player",
-            "lassiter sets",
-            "sets the",
-            "the standard",
-            "standard toughness",
-            "competitive edge",
-            "no fear",
-            "what building",
-            "building a",
-            "a culture",
-            "culture looks",
-            "looks like",
-            "like and",
-            "lassiter is",
-            "is everything",
-            "everything you",
-            "you want",
-            "want in",
-            "a player",
-            "like",
-            "building",
-            "s like",
-            "bit",
-            "3uh7n0e",
-            "set",
-            "tickets"
-          ],
-          "avoid_keywords_found": [
-            "houstontexans",
-            "com",
-            "www",
-            "tex",
-            "his",
-            "look",
-            "ever",
-            "https"
-          ]
-        }
-      },
-      {
         "video_id": "9Rqu9om_bDE",
-        "views": 1639,
+        "views": 1640,
         "watch_time_minutes": 519,
         "avg_view_duration_seconds": 29,
         "avg_view_percentage": 73.09,
@@ -20159,7 +20159,7 @@
         "likes": 93,
         "comments": 2,
         "shares": 1,
-        "engagement_rate": 5.86,
+        "engagement_rate": 5.85,
         "subscriber_conversion_rate": 0.122,
         "title": "Pitre is really like that \ud83d\ude24 | Mic'd Up",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -20169,7 +20169,7 @@
         "duration_formatted": "40s",
         "is_short": true,
         "statistics": {
-          "views": 50789,
+          "views": 50791,
           "likes": 2204,
           "comments": 55
         },
@@ -20284,7 +20284,7 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 145525,
+          "views": 145535,
           "likes": 1537,
           "comments": 109
         },
@@ -20898,8 +20898,8 @@
     "current_fy": [
       {
         "video_id": "0xvXMEnwyYM",
-        "views": 55971,
-        "watch_time_minutes": 200105,
+        "views": 55995,
+        "watch_time_minutes": 200164,
         "avg_view_duration_seconds": 214,
         "avg_view_percentage": 32.85,
         "subscribers_gained": 65,
@@ -20916,8 +20916,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11905708,
-          "likes": 166120,
+          "views": 11905898,
+          "likes": 166121,
           "comments": 8591
         },
         "content_status": {
@@ -20935,7 +20935,7 @@
         },
         "vph": 1.0,
         "days_since_published": 2337,
-        "views_per_day": 23.9,
+        "views_per_day": 24.0,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -21579,7 +21579,7 @@
         "is_short": false,
         "statistics": {
           "views": 7003,
-          "likes": 598,
+          "likes": 599,
           "comments": 24
         },
         "content_status": {
@@ -21751,7 +21751,7 @@
       },
       {
         "video_id": "NYmMFdckDkQ",
-        "views": 6407,
+        "views": 6409,
         "watch_time_minutes": 934,
         "avg_view_duration_seconds": 21,
         "avg_view_percentage": 97.64,
@@ -21786,9 +21786,9 @@
             }
           ]
         },
-        "vph": 38.0,
+        "vph": 37.8,
         "days_since_published": 7,
-        "views_per_day": 915.3,
+        "views_per_day": 915.6,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 65,
@@ -21924,8 +21924,8 @@
           ]
         },
         "vph": 16.2,
-        "days_since_published": 12,
-        "views_per_day": 421.1,
+        "days_since_published": 13,
+        "views_per_day": 388.7,
         "performance_status": "average",
         "seo_score": {
           "total_score": 65,
@@ -22145,8 +22145,8 @@
       },
       {
         "video_id": "FYF4LDeZ01I",
-        "views": 3742,
-        "watch_time_minutes": 23326,
+        "views": 3743,
+        "watch_time_minutes": 23333,
         "avg_view_duration_seconds": 374,
         "avg_view_percentage": 50.34,
         "subscribers_gained": 3,
@@ -22163,7 +22163,7 @@
         "duration_formatted": "12:23",
         "is_short": false,
         "statistics": {
-          "views": 3764,
+          "views": 3765,
           "likes": 120,
           "comments": 6
         },
@@ -22182,7 +22182,7 @@
         },
         "vph": 11.0,
         "days_since_published": 14,
-        "views_per_day": 267.3,
+        "views_per_day": 267.4,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -22369,8 +22369,8 @@
       },
       {
         "video_id": "AmDtg6kuD2k",
-        "views": 3608,
-        "watch_time_minutes": 59344,
+        "views": 3609,
+        "watch_time_minutes": 59350,
         "avg_view_duration_seconds": 986,
         "avg_view_percentage": 28.48,
         "subscribers_gained": 3,
@@ -22396,9 +22396,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 38.0,
+        "vph": 37.6,
         "days_since_published": 3,
-        "views_per_day": 1202.7,
+        "views_per_day": 1203.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -22523,7 +22523,7 @@
             }
           ]
         },
-        "vph": 10.2,
+        "vph": 10.1,
         "days_since_published": 14,
         "views_per_day": 244.2,
         "performance_status": "average",
@@ -22779,7 +22779,7 @@
         "duration_formatted": "12:20",
         "is_short": false,
         "statistics": {
-          "views": 3259,
+          "views": 3260,
           "likes": 126,
           "comments": 4
         },
@@ -22796,7 +22796,7 @@
             }
           ]
         },
-        "vph": 8.4,
+        "vph": 8.3,
         "days_since_published": 16,
         "views_per_day": 203.1,
         "performance_status": "average",
@@ -23089,8 +23089,8 @@
       },
       {
         "video_id": "U98Gw-qmtNQ",
-        "views": 3204,
-        "watch_time_minutes": 5763,
+        "views": 3206,
+        "watch_time_minutes": 5767,
         "avg_view_duration_seconds": 107,
         "avg_view_percentage": 39.54,
         "subscribers_gained": 11,
@@ -23126,7 +23126,7 @@
         },
         "vph": 15.1,
         "days_since_published": 8,
-        "views_per_day": 400.5,
+        "views_per_day": 400.8,
         "performance_status": "good",
         "seo_score": {
           "total_score": 70,
@@ -23275,7 +23275,7 @@
         "duration_formatted": "13:34",
         "is_short": false,
         "statistics": {
-          "views": 3217,
+          "views": 3218,
           "likes": 131,
           "comments": 16
         },
@@ -23599,7 +23599,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 32.6,
+        "vph": 32.3,
         "days_since_published": 3,
         "views_per_day": 1013.0,
         "performance_status": "average",
@@ -23677,7 +23677,7 @@
       },
       {
         "video_id": "gT0LkqWFc4M",
-        "views": 2287,
+        "views": 2285,
         "watch_time_minutes": 249,
         "avg_view_duration_seconds": 15,
         "avg_view_percentage": 110.27,
@@ -23685,7 +23685,7 @@
         "likes": 64,
         "comments": 3,
         "shares": 4,
-        "engagement_rate": 3.1,
+        "engagement_rate": 3.11,
         "subscriber_conversion_rate": 0.131,
         "title": "How many did you get right?",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -23695,8 +23695,8 @@
         "duration_formatted": "14s",
         "is_short": true,
         "statistics": {
-          "views": 2705,
-          "likes": 72,
+          "views": 2709,
+          "likes": 73,
           "comments": 7
         },
         "content_status": {
@@ -23704,9 +23704,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 24.0,
-        "days_since_published": 3,
-        "views_per_day": 762.3,
+        "vph": 23.8,
+        "days_since_published": 4,
+        "views_per_day": 571.2,
         "performance_status": "average",
         "seo_score": {
           "total_score": 40,
@@ -23962,7 +23962,7 @@
         "duration_formatted": "8:23",
         "is_short": false,
         "statistics": {
-          "views": 342920,
+          "views": 342919,
           "likes": 4277,
           "comments": 346
         },
@@ -24424,15 +24424,15 @@
       },
       {
         "video_id": "D48rG8-TwiA",
-        "views": 1500,
-        "watch_time_minutes": 3355,
+        "views": 1504,
+        "watch_time_minutes": 3360,
         "avg_view_duration_seconds": 134,
         "avg_view_percentage": 31.920000000000005,
         "subscribers_gained": 0,
         "likes": 87,
         "comments": 7,
         "shares": 5,
-        "engagement_rate": 6.6,
+        "engagement_rate": 6.58,
         "subscriber_conversion_rate": 0.0,
         "title": "Tommy and Junior Take on the Rodeo | Food Reviews, Games and Petting Zoo Chaos",
         "description": "Tommy and Junior head to the Houston Rodeo for a full day of food, games and unforgettable moments. From the petting zoo to mutton bustin\u2019 to fried Oreos and turkey legs, this one has a little bit of everything.\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -24442,7 +24442,7 @@
         "duration_formatted": "7:00",
         "is_short": false,
         "statistics": {
-          "views": 1589,
+          "views": 1590,
           "likes": 89,
           "comments": 7
         },
@@ -24459,9 +24459,9 @@
             }
           ]
         },
-        "vph": 9.2,
+        "vph": 9.1,
         "days_since_published": 6,
-        "views_per_day": 250.0,
+        "views_per_day": 250.7,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -24575,8 +24575,8 @@
       },
       {
         "video_id": "5NyUSV4KXmo",
-        "views": 1476,
-        "watch_time_minutes": 552,
+        "views": 1478,
+        "watch_time_minutes": 553,
         "avg_view_duration_seconds": 42,
         "avg_view_percentage": 85.06,
         "subscribers_gained": 0,
@@ -24706,7 +24706,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 3.2,
+        "vph": 3.1,
         "days_since_published": 18,
         "views_per_day": 76.3,
         "performance_status": "good",
@@ -24900,8 +24900,8 @@
           "flags": []
         },
         "vph": 2.1,
-        "days_since_published": 23,
-        "views_per_day": 53.7,
+        "days_since_published": 24,
+        "views_per_day": 51.5,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -25559,8 +25559,8 @@
       },
       {
         "video_id": "RVMAf8bsfLM",
-        "views": 1087,
-        "watch_time_minutes": 3777,
+        "views": 1089,
+        "watch_time_minutes": 3784,
         "avg_view_duration_seconds": 208,
         "avg_view_percentage": 56.65,
         "subscribers_gained": 1,
@@ -25577,7 +25577,7 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 222486,
+          "views": 222504,
           "likes": 2238,
           "comments": 177
         },
@@ -26448,7 +26448,7 @@
       },
       {
         "video_id": "v3NshI22Iek",
-        "views": 862,
+        "views": 863,
         "watch_time_minutes": 179,
         "avg_view_duration_seconds": 24,
         "avg_view_percentage": 117.65999999999998,
@@ -26466,7 +26466,7 @@
         "duration_formatted": "21s",
         "is_short": true,
         "statistics": {
-          "views": 58959,
+          "views": 58966,
           "likes": 2149,
           "comments": 95
         },
@@ -26682,8 +26682,8 @@
         "duration_formatted": "9:13",
         "is_short": false,
         "statistics": {
-          "views": 69445,
-          "likes": 663,
+          "views": 69457,
+          "likes": 664,
           "comments": 48
         },
         "content_status": {
@@ -27192,16 +27192,16 @@
       },
       {
         "video_id": "dBNgfROuJnQ",
-        "views": 801,
-        "watch_time_minutes": 4157,
+        "views": 802,
+        "watch_time_minutes": 4168,
         "avg_view_duration_seconds": 311,
         "avg_view_percentage": 42.96,
         "subscribers_gained": 5,
         "likes": 19,
         "comments": 0,
         "shares": 11,
-        "engagement_rate": 3.75,
-        "subscriber_conversion_rate": 0.624,
+        "engagement_rate": 3.74,
+        "subscriber_conversion_rate": 0.623,
         "title": "Jalen Pitre was EVERYWHERE \ud83d\udcaa | Mic'd Up vs Steelers",
         "description": "Relive the Texans playoff win vs the Steelers through Jalen Pitre Mic\u2019d Up. Hits, hype, communication, and the SWARM mentality as Houston\u2019s defense makes plays and finishes.\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-01-15T22:00:48Z",
@@ -27210,7 +27210,7 @@
         "duration_formatted": "12:06",
         "is_short": false,
         "statistics": {
-          "views": 220021,
+          "views": 220020,
           "likes": 3428,
           "comments": 315
         },
@@ -27347,8 +27347,8 @@
       },
       {
         "video_id": "AbylW2cKvZM",
-        "views": 798,
-        "watch_time_minutes": 2449,
+        "views": 799,
+        "watch_time_minutes": 2450,
         "avg_view_duration_seconds": 184,
         "avg_view_percentage": 36.37,
         "subscribers_gained": 0,
@@ -27375,7 +27375,7 @@
           "flags": []
         },
         "vph": 0.0,
-        "days_since_published": 3795,
+        "days_since_published": 3796,
         "views_per_day": 0.2,
         "performance_status": "poor",
         "seo_score": {
@@ -27576,7 +27576,7 @@
         "duration_formatted": "44s",
         "is_short": true,
         "statistics": {
-          "views": 491617,
+          "views": 491624,
           "likes": 20525,
           "comments": 184
         },
@@ -27594,7 +27594,7 @@
           ]
         },
         "vph": 0.0,
-        "days_since_published": 719,
+        "days_since_published": 720,
         "views_per_day": 1.1,
         "performance_status": "poor",
         "seo_score": {
@@ -28434,7 +28434,7 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 145525,
+          "views": 145535,
           "likes": 1537,
           "comments": 109
         },
@@ -28858,7 +28858,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 74688,
+          "views": 74701,
           "likes": 2327,
           "comments": 42
         },
@@ -29074,7 +29074,7 @@
       },
       {
         "video_id": "9Rqu9om_bDE",
-        "views": 672,
+        "views": 673,
         "watch_time_minutes": 228,
         "avg_view_duration_seconds": 30,
         "avg_view_percentage": 76.54,
@@ -29082,7 +29082,7 @@
         "likes": 35,
         "comments": 1,
         "shares": 0,
-        "engagement_rate": 5.36,
+        "engagement_rate": 5.35,
         "subscriber_conversion_rate": 0.149,
         "title": "Pitre is really like that \ud83d\ude24 | Mic'd Up",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -29302,16 +29302,16 @@
       },
       {
         "video_id": "Q5Oj8G8qx7M",
-        "views": 582,
-        "watch_time_minutes": 1954,
+        "views": 585,
+        "watch_time_minutes": 1967,
         "avg_view_duration_seconds": 201,
         "avg_view_percentage": 55.91,
         "subscribers_gained": 2,
         "likes": 13,
         "comments": 1,
         "shares": 1,
-        "engagement_rate": 2.58,
-        "subscriber_conversion_rate": 0.344,
+        "engagement_rate": 2.56,
+        "subscriber_conversion_rate": 0.342,
         "title": "6 Minutes of Derek Stingley Jr.'s Top Career Plays",
         "description": "Derek Stingley Jr.'s most elite plays that prove why he's one of the NFL's premier shutdown corners! From rookie year gems to lockdown coverage, witness defensive excellence.\n\nGet ready to witness defensive mastery as we showcase Derek Stingley Jr.'s most spectacular plays from his Houston Texans career. This collection features the LSU product's incredible ball skills, shutdown coverage, and game-changing moments that have made him a cornerstone of the Texans defense.\n\nFrom his impressive rookie season adjustments to his evolution into one of the league's most feared coverage specialists, Stingley Jr. continues to prove why Houston made him the third overall pick in the 2022 NFL Draft. Watch as he blankets elite receivers, creates turnovers, and showcases the elite athleticism that makes him a nightmare matchup for opposing quarterbacks.\n\nThese six minutes capture the essence of what makes Derek Stingley Jr. special - his fluid hips, exceptional route recognition, and clutch plays when the Texans need them most. Whether it's breaking up passes in the red zone or creating short fields for the offense, Stingley Jr. embodies the championship mentality that defines Houston's defensive identity.\n\nThe Swarm knows elite defense when they see it, and Derek Stingley Jr. represents the future of lockdown coverage in H-Town.\n\n\ud83d\udd14 Subscribe for more elite Texans defensive highlights and player showcases!\n\ud83d\udc49 SUBSCRIBE: https://www.youtube.com/c/HoustonTexans?sub_confirmation=1\n\n\ud83d\udcf1 Follow the Houston Texans:\nTwitter: https://twitter.com/HoustonTexans\nInstagram: https://instagram.com/HoustonTexans\nFacebook: https://facebook.com/HoustonTexans\nTikTok: https://tiktok.com/@HoustonTexans\nWebsite: https://www.HoustonTexans.com\n\n#Texans #HoustonTexans #NFL #DerekStingleyJr #DefensiveHighlights",
         "published_at": "2025-03-18T20:10:18Z",
@@ -29738,7 +29738,7 @@
       },
       {
         "video_id": "tNIbuhggyXI",
-        "views": 543,
+        "views": 542,
         "watch_time_minutes": 2588,
         "avg_view_duration_seconds": 286,
         "avg_view_percentage": 40.25,
@@ -29746,7 +29746,7 @@
         "likes": 16,
         "comments": 1,
         "shares": 3,
-        "engagement_rate": 3.68,
+        "engagement_rate": 3.69,
         "subscriber_conversion_rate": 0.0,
         "title": "Azeez Al-Shaair's EPIC leadership vs 49ers \ud83d\udcaa | Mic'd Up",
         "description": "Azeez Al-Shaair brought championship-level leadership in Houston's victory over San Francisco! Watch the linebacker's incredible energy and passion that fired up the entire team. \ud83d\udd25\n\nGet an exclusive behind-the-scenes look at linebacker Azeez Al-Shaair's commanding presence during the Houston Texans' impressive win against the San Francisco 49ers. From his powerful pre-game speeches that got the entire locker room hyped to his non-stop sideline coaching throughout the game, Al-Shaair showcased exactly why he's become a cornerstone leader for this Texans defense.\n\nWatch as the veteran linebacker encourages teammates during crucial moments, celebrates every defensive stop, and demonstrates the kind of infectious energy that transforms good teams into great ones. His passion for the game and dedication to his teammates shines through every mic'd up moment, giving fans an intimate look at what true NFL leadership looks like.\n\nThis is the kind of behind-the-scenes content that shows why the Houston Texans have built such a strong culture in H-Town. Al-Shaair's leadership style perfectly embodies what it means to be part of The Swarm, bringing that championship mentality to every snap.\n\n\ud83d\udd14 Subscribe for more exclusive Houston Texans mic'd up content and behind-the-scenes action!\n\ud83d\udc49 SUBSCRIBE: https://www.youtube.com/c/HoustonTexans?sub_confirmation=1\n\n\ud83d\udcf1 Follow the Houston Texans:\nTwitter: https://twitter.com/HoustonTexans\nInstagram: https://instagram.com/HoustonTexans\nFacebook: https://facebook.com/HoustonTexans\nTikTok: https://tiktok.com/@HoustonTexans\nWebsite: https://www.HoustonTexans.com\n\n#Texans #HoustonTexans #NFL #MicdUp #Leadership",
@@ -29776,7 +29776,7 @@
         "vph": 0.1,
         "days_since_published": 170,
         "views_per_day": 3.2,
-        "performance_status": "poor",
+        "performance_status": "average",
         "seo_score": {
           "total_score": 80,
           "grade": "A",
@@ -30126,7 +30126,7 @@
         "duration_formatted": "22s",
         "is_short": true,
         "statistics": {
-          "views": 22225,
+          "views": 22226,
           "likes": 1255,
           "comments": 20
         },
@@ -30226,7 +30226,7 @@
       },
       {
         "video_id": "WN1bbyy0_wQ",
-        "views": 522,
+        "views": 524,
         "watch_time_minutes": 245,
         "avg_view_duration_seconds": 37,
         "avg_view_percentage": 70.91,
@@ -30234,8 +30234,8 @@
         "likes": 33,
         "comments": 1,
         "shares": 3,
-        "engagement_rate": 7.09,
-        "subscriber_conversion_rate": 0.192,
+        "engagement_rate": 7.06,
+        "subscriber_conversion_rate": 0.191,
         "title": "Why Kamari Lassiter Sets the Standard",
         "description": "Toughness. Competitive edge. No fear.\nThis is what building a culture looks like and why Kamari Lassiter is everything you want in a player.\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-01-02T20:00:34Z",
@@ -30244,8 +30244,8 @@
         "duration_formatted": "53s",
         "is_short": true,
         "statistics": {
-          "views": 62863,
-          "likes": 4587,
+          "views": 62878,
+          "likes": 4588,
           "comments": 126
         },
         "content_status": {
@@ -30373,8 +30373,8 @@
       },
       {
         "video_id": "er0EC10Y1lg",
-        "views": 498,
-        "watch_time_minutes": 506,
+        "views": 497,
+        "watch_time_minutes": 504,
         "avg_view_duration_seconds": 60,
         "avg_view_percentage": 62.18,
         "subscribers_gained": 1,
@@ -30779,7 +30779,7 @@
         "duration_formatted": "22:32",
         "is_short": false,
         "statistics": {
-          "views": 6716,
+          "views": 6723,
           "likes": 238,
           "comments": 23
         },
@@ -30982,15 +30982,15 @@
       },
       {
         "video_id": "1u96XRieL2A",
-        "views": 482,
-        "watch_time_minutes": 1223,
+        "views": 483,
+        "watch_time_minutes": 1228,
         "avg_view_duration_seconds": 152,
         "avg_view_percentage": 54.52,
         "subscribers_gained": 0,
         "likes": 8,
         "comments": 0,
         "shares": 5,
-        "engagement_rate": 2.7,
+        "engagement_rate": 2.69,
         "subscriber_conversion_rate": 0.0,
         "title": "J.J. Watt\u2019s Top 10 plays with Texans",
         "description": "From defensive dominance to unforgettable moments, relive the legendary J.J. Watt's most iconic plays in a Houston Texans uniform. Which play tops your list?\n\nHouston Texans legend J.J. Watt left an incredible legacy during his decade in H-Town, and we're counting down his 10 most memorable plays that defined his Hall of Fame career. From his three NFL Defensive Player of the Year seasons to clutch playoff moments, Watt's impact on the Texans franchise was immeasurable. This compilation showcases the defensive end's most dominant pass rushes, game-changing interceptions, and those rare offensive touchdowns that had NRG Stadium erupting. Whether it was his 20.5-sack season in 2012 or his inspiring comeback from injury, J.J. Watt embodied everything Texans fans love about their team. Each play on this list represents a moment where Watt's incredible athleticism and football IQ were on full display, cementing his status as one of the greatest defensive players in NFL history. From his rookie season through his final games in a Texans uniform, Watt consistently delivered performances that will be remembered forever in Houston sports history. Let us know in the comments which J.J. Watt play you think deserves the top spot!\n\n\ud83d\udd14 Hit that subscribe button to never miss the best Houston Texans content!\n\ud83d\udc49 SUBSCRIBE: https://www.youtube.com/c/HoustonTexans?sub_confirmation=1\n\n\ud83d\udcf1 Follow the Houston Texans:\nTwitter: https://twitter.com/HoustonTexans\nInstagram: https://instagram.com/HoustonTexans\nFacebook: https://facebook.com/HoustonTexans\nTikTok: https://tiktok.com/@HoustonTexans\nWebsite: https://www.HoustonTexans.com\n\n#Texans #HoustonTexans #NFL #JJWatt #NFLLegends",
@@ -31633,21 +31633,21 @@
         "start_date": "2026-04-03",
         "end_date": "2026-04-10",
         "analytics": {
-          "views": 115231,
-          "watch_time_minutes": 285744,
-          "watch_time_hours": 4762.4,
+          "views": 114739,
+          "watch_time_minutes": 284698,
+          "watch_time_hours": 4744.97,
           "avg_view_duration_seconds": 184,
           "subscribers_gained": 260,
           "subscribers_lost": 156,
           "net_subscribers": 104,
           "likes": 2352,
-          "comments": 120,
+          "comments": 122,
           "shares": 416,
-          "engagement_total": 2888
+          "engagement_total": 2890
         },
         "changes": {
-          "views": -44.6,
-          "watch_time_hours": -36.5,
+          "views": -44.5,
+          "watch_time_hours": -36.2,
           "net_subscribers": -51.9,
           "engagement_total": -68.9,
           "avg_view_duration_seconds": 20.7,
@@ -31672,8 +31672,8 @@
           "engagement_total": 2033
         },
         "changes": {
-          "views": -36.6,
-          "watch_time_hours": -47.5,
+          "views": -36.7,
+          "watch_time_hours": -47.4,
           "net_subscribers": -66.9,
           "engagement_total": -55.8,
           "avg_view_duration_seconds": -3.5,
@@ -31687,25 +31687,25 @@
         "start_date": "2026-03-01",
         "end_date": "2026-03-31",
         "analytics": {
-          "views": 600372,
-          "watch_time_minutes": 1064723,
-          "watch_time_hours": 17745.38,
+          "views": 597621,
+          "watch_time_minutes": 1062078,
+          "watch_time_hours": 17701.3,
           "avg_view_duration_seconds": 147,
           "subscribers_gained": 1249,
           "subscribers_lost": 694,
           "net_subscribers": 555,
-          "likes": 14386,
-          "comments": 788,
+          "likes": 14392,
+          "comments": 791,
           "shares": 2082,
-          "engagement_total": 17256
+          "engagement_total": 17265
         },
         "changes": {
-          "views": -21.9,
-          "watch_time_hours": -10.3,
+          "views": -22.0,
+          "watch_time_hours": -10.2,
           "net_subscribers": -25.4,
           "engagement_total": -21.2,
           "avg_view_duration_seconds": 12.9,
-          "likes": -21.2
+          "likes": -21.3
         }
       },
       "same_month_ly": {
@@ -31726,8 +31726,8 @@
           "engagement_total": 20358
         },
         "changes": {
-          "views": -1.9,
-          "watch_time_hours": -25.5,
+          "views": -2.4,
+          "watch_time_hours": -25.6,
           "net_subscribers": -39.8,
           "engagement_total": -33.2,
           "avg_view_duration_seconds": 3.1,
@@ -31754,8 +31754,8 @@
           "engagement_total": 6180
         },
         "changes": {
-          "views": -25.5,
-          "watch_time_hours": -42.8,
+          "views": -25.7,
+          "watch_time_hours": -42.9,
           "net_subscribers": -66.9,
           "engagement_total": -28.2,
           "avg_view_duration_seconds": -16.9,
