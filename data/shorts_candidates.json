@@ -1,52 +1,7 @@
 {
-  "generated_at": "2026-04-18T22:54:16.174114-05:00",
+  "generated_at": "2026-04-19T01:13:42.489588-05:00",
   "total_candidates": 22,
   "candidates": [
-    {
-      "video_id": "-GKhJzzrzAw",
-      "video_title": "Houston Texans Press Conference \ud83c\udf99\ufe0f | 2026",
-      "video_url": "https://youtube.com/watch?v=-GKhJzzrzAw",
-      "timestamped_url": "https://youtube.com/watch?v=-GKhJzzrzAw&t=1741",
-      "start_seconds": 1741,
-      "end_seconds": 1801,
-      "start_formatted": "29:01",
-      "end_formatted": "30:01",
-      "clip_duration": 60,
-      "retention_score": 23.8,
-      "video_avg_retention": 10.5,
-      "retention_boost": 2.27,
-      "priority_score": 204.6,
-      "flags": [
-        {
-          "type": "content",
-          "name": "ad",
-          "emoji": "\ud83d\udcb0",
-          "note": "Sponsored content - use conservative titling",
-          "show_banner": false
-        }
-      ],
-      "suggested_title": {
-        "suggestion": "H-Town Made \ud83d\udcaa",
-        "alternatives": [
-          "Houston is BUILT DIFFERENT \ud83d\udd25",
-          "The Swarm came to PLAY \ud83d\udc1d"
-        ],
-        "confidence": "\ud83d\udcca Performance-based",
-        "note": "Based on title patterns from high-performing Texans content"
-      },
-      "suggested_hashtags": [
-        "#Texans",
-        "#NFL",
-        "#Houston",
-        "#HoustonTexans",
-        "#Shorts"
-      ],
-      "content_type": "press_conference",
-      "source_video_views": 30991,
-      "identified_at": "2026-04-18T22:49:30.476783-05:00",
-      "clip_created": false,
-      "shorts_video_id": null
-    },
     {
       "video_id": "B22OQS2Hjxg",
       "video_title": "LIVE: Houston Texans address the media",
@@ -88,7 +43,7 @@
       ],
       "content_type": "historical",
       "source_video_views": 13714,
-      "identified_at": "2026-04-18T22:49:59.947536-05:00",
+      "identified_at": "2026-04-19T01:09:08.320905-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -133,7 +88,7 @@
       ],
       "content_type": "historical",
       "source_video_views": 13714,
-      "identified_at": "2026-04-18T22:49:59.947489-05:00",
+      "identified_at": "2026-04-19T01:09:08.320826-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -177,8 +132,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 9433,
-      "identified_at": "2026-04-18T22:50:33.258615-05:00",
+      "source_video_views": 9355,
+      "identified_at": "2026-04-19T01:09:49.858386-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -223,7 +178,7 @@
       ],
       "content_type": "general",
       "source_video_views": 5866,
-      "identified_at": "2026-04-18T22:51:35.038013-05:00",
+      "identified_at": "2026-04-19T01:10:30.072855-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -270,7 +225,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 259874,
-      "identified_at": "2026-04-18T22:52:44.234578-05:00",
+      "identified_at": "2026-04-19T01:12:30.904732-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -309,47 +264,8 @@
         "#Shorts"
       ],
       "content_type": "interview",
-      "source_video_views": 18820,
-      "identified_at": "2026-04-18T22:49:44.629449-05:00",
-      "clip_created": false,
-      "shorts_video_id": null
-    },
-    {
-      "video_id": "bBXYE6vtSYg",
-      "video_title": "SWARM City RISES | J.J. Watt's Epic Return | Divisional Preview",
-      "video_url": "https://youtube.com/watch?v=bBXYE6vtSYg",
-      "timestamped_url": "https://youtube.com/watch?v=bBXYE6vtSYg&t=264",
-      "start_seconds": 264,
-      "end_seconds": 324,
-      "start_formatted": "4:24",
-      "end_formatted": "5:24",
-      "clip_duration": 60,
-      "retention_score": 45.1,
-      "video_avg_retention": 29.2,
-      "retention_boost": 1.54,
-      "priority_score": 138.9,
-      "flags": [],
-      "suggested_title": {
-        "suggestion": "Never forget this J.J. Watt moment",
-        "alternatives": [
-          "Prime J.J. Watt was a PROBLEM \ud83d\ude24",
-          "J.J. Watt was BUILT DIFFERENT"
-        ],
-        "confidence": "\ud83d\udcca Performance-based",
-        "note": "Based on title patterns from high-performing Texans content"
-      },
-      "suggested_hashtags": [
-        "#Texans",
-        "#NFL",
-        "#Houston",
-        "#HoustonTexans",
-        "#JJWatt",
-        "#99",
-        "#Shorts"
-      ],
-      "content_type": "practice",
-      "source_video_views": 9843,
-      "identified_at": "2026-04-18T22:50:31.811218-05:00",
+      "source_video_views": 12258,
+      "identified_at": "2026-04-19T01:09:26.631383-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -401,7 +317,7 @@
       ],
       "content_type": "practice",
       "source_video_views": 13245,
-      "identified_at": "2026-04-18T22:50:12.562122-05:00",
+      "identified_at": "2026-04-19T01:09:17.347239-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -446,8 +362,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 54087,
-      "identified_at": "2026-04-18T22:49:12.057956-05:00",
+      "source_video_views": 45968,
+      "identified_at": "2026-04-19T01:07:58.742576-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -492,7 +408,7 @@
       ],
       "content_type": "historical",
       "source_video_views": 10404,
-      "identified_at": "2026-04-18T22:50:23.690031-05:00",
+      "identified_at": "2026-04-19T01:09:37.927734-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -537,7 +453,7 @@
       ],
       "content_type": "general",
       "source_video_views": 171550,
-      "identified_at": "2026-04-18T22:53:24.518924-05:00",
+      "identified_at": "2026-04-19T01:12:57.691654-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -584,7 +500,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 114031,
-      "identified_at": "2026-04-18T22:54:09.522173-05:00",
+      "identified_at": "2026-04-19T01:13:31.128504-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -621,8 +537,53 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 21033,
-      "identified_at": "2026-04-18T22:49:42.265697-05:00",
+      "source_video_views": 16148,
+      "identified_at": "2026-04-19T01:08:57.318554-05:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "F0cKfdsc8jQ",
+      "video_title": "Toro District Press Conference",
+      "video_url": "https://youtube.com/watch?v=F0cKfdsc8jQ",
+      "timestamped_url": "https://youtube.com/watch?v=F0cKfdsc8jQ&t=207",
+      "start_seconds": 207,
+      "end_seconds": 267,
+      "start_formatted": "3:27",
+      "end_formatted": "4:27",
+      "clip_duration": 60,
+      "retention_score": 19.5,
+      "video_avg_retention": 13.8,
+      "retention_boost": 1.41,
+      "priority_score": 127.0,
+      "flags": [
+        {
+          "type": "content",
+          "name": "ad",
+          "emoji": "\ud83d\udcb0",
+          "note": "Sponsored content - use conservative titling",
+          "show_banner": false
+        }
+      ],
+      "suggested_title": {
+        "suggestion": "Houston showed UP \ud83d\udd25",
+        "alternatives": [
+          "Houston is BUILT DIFFERENT \ud83d\udd25",
+          "H-Town Made \ud83d\udcaa"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#Shorts"
+      ],
+      "content_type": "press_conference",
+      "source_video_views": 4912,
+      "identified_at": "2026-04-19T01:11:19.709553-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -659,8 +620,53 @@
         "#Shorts"
       ],
       "content_type": "interview",
-      "source_video_views": 13230,
-      "identified_at": "2026-04-18T22:50:13.099462-05:00",
+      "source_video_views": 8272,
+      "identified_at": "2026-04-19T01:09:52.482719-05:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "7UbR96SWcPc",
+      "video_title": "US Army Drill Team's INCREDIBLE halftime show \ud83c\uddfa\ud83c\uddf8 | Texans vs Cardinals",
+      "video_url": "https://youtube.com/watch?v=7UbR96SWcPc",
+      "timestamped_url": "https://youtube.com/watch?v=7UbR96SWcPc&t=55",
+      "start_seconds": 55,
+      "end_seconds": 115,
+      "start_formatted": "0:55",
+      "end_formatted": "1:55",
+      "clip_duration": 60,
+      "retention_score": 56.6,
+      "video_avg_retention": 40.7,
+      "retention_boost": 1.39,
+      "priority_score": 125.0,
+      "flags": [
+        {
+          "type": "content",
+          "name": "ad",
+          "emoji": "\ud83d\udcb0",
+          "note": "Sponsored content - use conservative titling",
+          "show_banner": false
+        }
+      ],
+      "suggested_title": {
+        "suggestion": "You have to see this play \ud83d\udc40",
+        "alternatives": [
+          "This play is UNBELIEVABLE \ud83d\ude31",
+          "How did they pull this off?! \ud83d\udd25"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#Shorts"
+      ],
+      "content_type": "highlight",
+      "source_video_views": 4538,
+      "identified_at": "2026-04-19T01:11:32.005786-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -704,8 +710,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 26994,
-      "identified_at": "2026-04-18T22:49:31.560413-05:00",
+      "source_video_views": 25651,
+      "identified_at": "2026-04-19T01:08:14.945620-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -751,7 +757,7 @@
       ],
       "content_type": "general",
       "source_video_views": 6715,
-      "identified_at": "2026-04-18T22:51:06.334355-05:00",
+      "identified_at": "2026-04-19T01:10:06.831602-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -795,8 +801,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 12880,
-      "identified_at": "2026-04-18T22:50:20.297443-05:00",
+      "source_video_views": 12641,
+      "identified_at": "2026-04-19T01:09:25.907203-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -840,8 +846,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 482675,
-      "identified_at": "2026-04-18T22:49:09.661937-05:00",
+      "source_video_views": 474265,
+      "identified_at": "2026-04-19T01:07:34.967031-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -886,7 +892,7 @@
       ],
       "content_type": "general",
       "source_video_views": 15585,
-      "identified_at": "2026-04-18T22:49:59.151077-05:00",
+      "identified_at": "2026-04-19T01:08:58.002860-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -930,8 +936,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 5591,
-      "identified_at": "2026-04-18T22:51:58.735236-05:00",
+      "source_video_views": 5531,
+      "identified_at": "2026-04-19T01:10:37.446410-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -975,8 +981,8 @@
         "#Shorts"
       ],
       "content_type": "behind_the_scenes",
-      "source_video_views": 5895,
-      "identified_at": "2026-04-18T22:51:27.172209-05:00",
+      "source_video_views": 5278,
+      "identified_at": "2026-04-19T01:10:52.119172-05:00",
       "clip_created": false,
       "shorts_video_id": null
     }
