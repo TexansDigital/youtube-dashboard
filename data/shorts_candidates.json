@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T17:09:59.181826-05:00",
-  "total_candidates": 18,
+  "generated_at": "2026-04-22T18:12:33.518074-05:00",
+  "total_candidates": 19,
   "candidates": [
     {
       "video_id": "BfXh2WSteEQ",
@@ -43,7 +43,7 @@
       ],
       "content_type": "atmosphere",
       "source_video_views": 9386,
-      "identified_at": "2026-04-22T17:05:39.466854-05:00",
+      "identified_at": "2026-04-22T18:07:08.831498-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -88,7 +88,54 @@
       ],
       "content_type": "general",
       "source_video_views": 5896,
-      "identified_at": "2026-04-22T17:06:33.567089-05:00",
+      "identified_at": "2026-04-22T18:08:18.971164-05:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "f7SIY6hT_p0",
+      "video_title": "Rookie C.J. Stroud leads CLUTCH comeback | Mic'd Up",
+      "video_url": "https://youtube.com/watch?v=f7SIY6hT_p0",
+      "timestamped_url": "https://youtube.com/watch?v=f7SIY6hT_p0&t=45",
+      "start_seconds": 45,
+      "end_seconds": 86,
+      "start_formatted": "0:45",
+      "end_formatted": "1:26",
+      "clip_duration": 41,
+      "retention_score": 70.9,
+      "video_avg_retention": 54.9,
+      "retention_boost": 1.29,
+      "priority_score": 155.1,
+      "flags": [
+        {
+          "type": "content",
+          "name": "ad",
+          "emoji": "\ud83d\udcb0",
+          "note": "Sponsored content - use conservative titling",
+          "show_banner": false
+        }
+      ],
+      "suggested_title": {
+        "suggestion": "C.J. Stroud doing C.J. Stroud things \ud83d\ude24",
+        "alternatives": [
+          "C.J. Stroud is DIFFERENT \ud83d\udd25",
+          "This C.J. Stroud throw is INSANE \ud83d\ude31"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#CJStroud",
+        "#QB1",
+        "#Shorts"
+      ],
+      "content_type": "highlight",
+      "source_video_views": 259891,
+      "identified_at": "2026-04-22T18:11:07.259167-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -140,7 +187,7 @@
       ],
       "content_type": "practice",
       "source_video_views": 13263,
-      "identified_at": "2026-04-22T17:04:50.922091-05:00",
+      "identified_at": "2026-04-22T18:06:35.754638-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -186,7 +233,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 33998,
-      "identified_at": "2026-04-22T17:04:11.881296-05:00",
+      "identified_at": "2026-04-22T18:06:05.106420-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -231,7 +278,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 7323,
-      "identified_at": "2026-04-22T17:06:09.304122-05:00",
+      "identified_at": "2026-04-22T18:07:44.698761-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -276,7 +323,7 @@
       ],
       "content_type": "general",
       "source_video_views": 171572,
-      "identified_at": "2026-04-22T17:09:11.504035-05:00",
+      "identified_at": "2026-04-22T18:11:47.720608-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -323,7 +370,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 114088,
-      "identified_at": "2026-04-22T17:09:57.743112-05:00",
+      "identified_at": "2026-04-22T18:12:32.954786-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -361,7 +408,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 8228,
-      "identified_at": "2026-04-22T17:05:51.939177-05:00",
+      "identified_at": "2026-04-22T18:07:18.097077-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -398,7 +445,7 @@
       ],
       "content_type": "general",
       "source_video_views": 3852,
-      "identified_at": "2026-04-22T17:08:25.982772-05:00",
+      "identified_at": "2026-04-22T18:10:20.103525-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -443,7 +490,7 @@
       ],
       "content_type": "historical",
       "source_video_views": 4303,
-      "identified_at": "2026-04-22T17:08:12.758576-05:00",
+      "identified_at": "2026-04-22T18:09:57.055131-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -488,7 +535,7 @@
       ],
       "content_type": "press_conference",
       "source_video_views": 4919,
-      "identified_at": "2026-04-22T17:07:30.418618-05:00",
+      "identified_at": "2026-04-22T18:09:08.721110-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -533,7 +580,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 4554,
-      "identified_at": "2026-04-22T17:07:56.442365-05:00",
+      "identified_at": "2026-04-22T18:09:45.447279-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -578,7 +625,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 20157,
-      "identified_at": "2026-04-22T17:04:33.070548-05:00",
+      "identified_at": "2026-04-22T18:06:26.571870-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -624,7 +671,7 @@
       ],
       "content_type": "general",
       "source_video_views": 6844,
-      "identified_at": "2026-04-22T17:06:19.079599-05:00",
+      "identified_at": "2026-04-22T18:08:05.085014-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -669,7 +716,7 @@
       ],
       "content_type": "atmosphere",
       "source_video_views": 12536,
-      "identified_at": "2026-04-22T17:05:03.419376-05:00",
+      "identified_at": "2026-04-22T18:06:43.430218-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -714,7 +761,7 @@
       ],
       "content_type": "atmosphere",
       "source_video_views": 469386,
-      "identified_at": "2026-04-22T17:03:56.714002-05:00",
+      "identified_at": "2026-04-22T18:05:59.218098-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -759,7 +806,7 @@
       ],
       "content_type": "general",
       "source_video_views": 5603,
-      "identified_at": "2026-04-22T17:06:40.365906-05:00",
+      "identified_at": "2026-04-22T18:08:27.969947-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -804,7 +851,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 4608,
-      "identified_at": "2026-04-22T17:07:54.037444-05:00",
+      "identified_at": "2026-04-22T18:09:37.268984-05:00",
       "clip_created": false,
       "shorts_video_id": null
     }
