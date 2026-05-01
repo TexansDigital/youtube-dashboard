@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T08:53:20.305926-05:00",
+  "generated_at": "2026-05-01T10:14:43.396762-05:00",
   "channel": {
     "channel_id": "UCa_FcpOBe8G6VAR18RYS-aA",
     "title": "Houston Texans",
@@ -11,7 +11,7 @@
       "total_views": 73475552,
       "video_count": 5804
     },
-    "fetched_at": "2026-05-01T08:53:20.525543-05:00"
+    "fetched_at": "2026-05-01T10:14:43.625900-05:00"
   },
   "periods": {
     "past_7_days": {
@@ -19,17 +19,17 @@
       "start_date": "2026-04-24",
       "end_date": "2026-05-01",
       "analytics": {
-        "views": 1077639,
-        "watch_time_minutes": 688347,
-        "watch_time_hours": 11472.45,
+        "views": 1076884,
+        "watch_time_minutes": 687960,
+        "watch_time_hours": 11466.0,
         "avg_view_duration_seconds": 76,
         "subscribers_gained": 696,
         "subscribers_lost": 181,
         "net_subscribers": 515,
-        "likes": 38368,
+        "likes": 38370,
         "comments": 1487,
         "shares": 2365,
-        "engagement_total": 42220
+        "engagement_total": 42222
       }
     },
     "past_month": {
@@ -37,17 +37,17 @@
       "start_date": "2026-04-01",
       "end_date": "2026-05-01",
       "analytics": {
-        "views": 1539203,
-        "watch_time_minutes": 1648292,
-        "watch_time_hours": 27471.53,
+        "views": 1537726,
+        "watch_time_minutes": 1646353,
+        "watch_time_hours": 27439.22,
         "avg_view_duration_seconds": 113,
         "subscribers_gained": 1534,
         "subscribers_lost": 674,
         "net_subscribers": 860,
-        "likes": 51215,
-        "comments": 2371,
-        "shares": 4361,
-        "engagement_total": 57947
+        "likes": 51218,
+        "comments": 2373,
+        "shares": 4360,
+        "engagement_total": 57951
       }
     },
     "current_fy": {
@@ -55,17 +55,17 @@
       "start_date": "2026-04-01",
       "end_date": "2026-05-01",
       "analytics": {
-        "views": 1539203,
-        "watch_time_minutes": 1648292,
-        "watch_time_hours": 27471.53,
+        "views": 1537726,
+        "watch_time_minutes": 1646353,
+        "watch_time_hours": 27439.22,
         "avg_view_duration_seconds": 113,
         "subscribers_gained": 1534,
         "subscribers_lost": 674,
         "net_subscribers": 860,
-        "likes": 51215,
-        "comments": 2371,
-        "shares": 4361,
-        "engagement_total": 57947
+        "likes": 51218,
+        "comments": 2373,
+        "shares": 4360,
+        "engagement_total": 57951
       }
     }
   },
@@ -73,16 +73,16 @@
     "past_7_days": [
       {
         "video_id": "cUCAZnzw6Zg",
-        "views": 83524,
-        "watch_time_minutes": 28227,
+        "views": 83565,
+        "watch_time_minutes": 28226,
         "avg_view_duration_seconds": 40,
         "avg_view_percentage": 81.13,
-        "subscribers_gained": 56,
+        "subscribers_gained": 55,
         "likes": 2987,
         "comments": 119,
         "shares": 544,
         "engagement_rate": 4.37,
-        "subscriber_conversion_rate": 0.067,
+        "subscriber_conversion_rate": 0.066,
         "title": "H-TOWN, MEET BIG RED",
         "description": "\u201cWe traded up to come get you.\u201d\nKeylan Rutledge is officially headed to H-Town.\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-24T04:21:03Z",
@@ -91,8 +91,8 @@
         "duration_formatted": "50s",
         "is_short": true,
         "statistics": {
-          "views": 91761,
-          "likes": 3700,
+          "views": 91798,
+          "likes": 3702,
           "comments": 158
         },
         "content_status": {
@@ -108,9 +108,9 @@
             }
           ]
         },
-        "vph": 470.5,
+        "vph": 467.1,
         "days_since_published": 7,
-        "views_per_day": 11932.0,
+        "views_per_day": 11937.9,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -210,10 +210,10 @@
       },
       {
         "video_id": "aaAvCKCMCPs",
-        "views": 39565,
-        "watch_time_minutes": 12911,
+        "views": 39592,
+        "watch_time_minutes": 12915,
         "avg_view_duration_seconds": 38,
-        "avg_view_percentage": 80.19,
+        "avg_view_percentage": 80.18,
         "subscribers_gained": 33,
         "likes": 1246,
         "comments": 39,
@@ -228,8 +228,8 @@
         "duration_formatted": "48s",
         "is_short": true,
         "statistics": {
-          "views": 42089,
-          "likes": 1301,
+          "views": 42141,
+          "likes": 1303,
           "comments": 100
         },
         "content_status": {
@@ -237,9 +237,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 252.3,
+        "vph": 250.3,
         "days_since_published": 6,
-        "views_per_day": 6594.2,
+        "views_per_day": 6598.7,
         "performance_status": "good",
         "seo_score": {
           "total_score": 65,
@@ -257,7 +257,7 @@
                 "subscribe",
                 "select"
               ],
-              "count": 13
+              "count": 15
             },
             "avoid_keywords": {
               "score": 0,
@@ -310,7 +310,9 @@
             "texan",
             "pick in",
             "draft we",
-            "we select"
+            "we select",
+            "the 2026",
+            "2026 nfl"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -328,8 +330,8 @@
       },
       {
         "video_id": "fS4AOH7CwiM",
-        "views": 38702,
-        "watch_time_minutes": 6225,
+        "views": 38726,
+        "watch_time_minutes": 6226,
         "avg_view_duration_seconds": 21,
         "avg_view_percentage": 119.5,
         "subscribers_gained": 5,
@@ -346,8 +348,8 @@
         "duration_formatted": "18s",
         "is_short": true,
         "statistics": {
-          "views": 45072,
-          "likes": 1513,
+          "views": 45087,
+          "likes": 1514,
           "comments": 63
         },
         "content_status": {
@@ -363,9 +365,9 @@
             }
           ]
         },
-        "vph": 217.1,
+        "vph": 215.6,
         "days_since_published": 7,
-        "views_per_day": 5528.9,
+        "views_per_day": 5532.3,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 55,
@@ -454,15 +456,15 @@
       },
       {
         "video_id": "SxzIFNdD1_0",
-        "views": 36746,
-        "watch_time_minutes": 4962,
+        "views": 36815,
+        "watch_time_minutes": 4973,
         "avg_view_duration_seconds": 17,
-        "avg_view_percentage": 143.19,
+        "avg_view_percentage": 143.1,
         "subscribers_gained": 6,
         "likes": 676,
         "comments": 25,
         "shares": 66,
-        "engagement_rate": 2.09,
+        "engagement_rate": 2.08,
         "subscriber_conversion_rate": 0.016,
         "title": "Big man movin' \ud83c\udfc3",
         "description": "Keylan Rutledge runs his 40-yard dash at the NFL Combine\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -472,8 +474,8 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 46013,
-          "likes": 1044,
+          "views": 46068,
+          "likes": 1045,
           "comments": 46
         },
         "content_status": {
@@ -481,9 +483,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 205.6,
+        "vph": 204.4,
         "days_since_published": 7,
-        "views_per_day": 5249.4,
+        "views_per_day": 5259.3,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 60,
@@ -596,14 +598,14 @@
       },
       {
         "video_id": "-plK0seX3xU",
-        "views": 34170,
-        "watch_time_minutes": 9547,
+        "views": 34223,
+        "watch_time_minutes": 9566,
         "avg_view_duration_seconds": 33,
-        "avg_view_percentage": 108.79,
+        "avg_view_percentage": 108.81999999999998,
         "subscribers_gained": 13,
         "likes": 1743,
         "comments": 72,
-        "shares": 117,
+        "shares": 118,
         "engagement_rate": 5.65,
         "subscriber_conversion_rate": 0.038,
         "title": "Let's get to work.",
@@ -614,8 +616,8 @@
         "duration_formatted": "31s",
         "is_short": true,
         "statistics": {
-          "views": 35537,
-          "likes": 1792,
+          "views": 35559,
+          "likes": 1794,
           "comments": 82
         },
         "content_status": {
@@ -623,9 +625,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 214.1,
+        "vph": 212.6,
         "days_since_published": 6,
-        "views_per_day": 5695.0,
+        "views_per_day": 5703.8,
         "performance_status": "good",
         "seo_score": {
           "total_score": 50,
@@ -706,16 +708,16 @@
       },
       {
         "video_id": "Z9Z30_IUEPk",
-        "views": 33185,
-        "watch_time_minutes": 8277,
+        "views": 33243,
+        "watch_time_minutes": 8296,
         "avg_view_duration_seconds": 29,
-        "avg_view_percentage": 109.98000000000002,
-        "subscribers_gained": 6,
+        "avg_view_percentage": 110.00000000000001,
+        "subscribers_gained": 7,
         "likes": 1363,
         "comments": 39,
         "shares": 24,
-        "engagement_rate": 4.3,
-        "subscriber_conversion_rate": 0.018,
+        "engagement_rate": 4.29,
+        "subscriber_conversion_rate": 0.021,
         "title": "Full circle moment \ud83d\udc40 | Hear the call",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-25T03:13:16Z",
@@ -724,7 +726,7 @@
         "duration_formatted": "27s",
         "is_short": true,
         "statistics": {
-          "views": 34260,
+          "views": 34275,
           "likes": 1393,
           "comments": 104
         },
@@ -733,9 +735,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 214.6,
+        "vph": 213.1,
         "days_since_published": 6,
-        "views_per_day": 5530.8,
+        "views_per_day": 5540.5,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -820,8 +822,8 @@
       },
       {
         "video_id": "A4lKk9dZagA",
-        "views": 32929,
-        "watch_time_minutes": 5428,
+        "views": 32978,
+        "watch_time_minutes": 5444,
         "avg_view_duration_seconds": 18,
         "avg_view_percentage": 103.99000000000001,
         "subscribers_gained": 9,
@@ -838,8 +840,8 @@
         "duration_formatted": "18s",
         "is_short": true,
         "statistics": {
-          "views": 36921,
-          "likes": 994,
+          "views": 36929,
+          "likes": 995,
           "comments": 40
         },
         "content_status": {
@@ -847,9 +849,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 185.1,
+        "vph": 184.0,
         "days_since_published": 7,
-        "views_per_day": 4704.1,
+        "views_per_day": 4711.1,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -931,16 +933,16 @@
       },
       {
         "video_id": "_TLkN8r0PR8",
-        "views": 30906,
-        "watch_time_minutes": 6865,
+        "views": 30948,
+        "watch_time_minutes": 6848,
         "avg_view_duration_seconds": 28,
-        "avg_view_percentage": 123.31,
-        "subscribers_gained": 21,
+        "avg_view_percentage": 123.29999999999998,
+        "subscribers_gained": 20,
         "likes": 1545,
         "comments": 46,
         "shares": 28,
-        "engagement_rate": 5.24,
-        "subscriber_conversion_rate": 0.068,
+        "engagement_rate": 5.23,
+        "subscriber_conversion_rate": 0.065,
         "title": "The call that made Kayden McDonald a Texan",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-25T00:46:29Z",
@@ -966,9 +968,9 @@
             }
           ]
         },
-        "vph": 196.7,
+        "vph": 195.3,
         "days_since_published": 6,
-        "views_per_day": 5151.0,
+        "views_per_day": 5158.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -1045,10 +1047,10 @@
       },
       {
         "video_id": "4g4KlWI2Hjg",
-        "views": 29244,
-        "watch_time_minutes": 1855,
+        "views": 29272,
+        "watch_time_minutes": 1856,
         "avg_view_duration_seconds": 9,
-        "avg_view_percentage": 195.6,
+        "avg_view_percentage": 195.63,
         "subscribers_gained": 3,
         "likes": 867,
         "comments": 14,
@@ -1063,7 +1065,7 @@
         "duration_formatted": "5s",
         "is_short": true,
         "statistics": {
-          "views": 30218,
+          "views": 30220,
           "likes": 879,
           "comments": 18
         },
@@ -1072,9 +1074,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 214.8,
+        "vph": 212.9,
         "days_since_published": 5,
-        "views_per_day": 5848.8,
+        "views_per_day": 5854.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -1153,10 +1155,10 @@
       },
       {
         "video_id": "BRaPuOKZbsw",
-        "views": 25505,
-        "watch_time_minutes": 4442,
+        "views": 25517,
+        "watch_time_minutes": 4447,
         "avg_view_duration_seconds": 21,
-        "avg_view_percentage": 124.87000000000002,
+        "avg_view_percentage": 124.88,
         "subscribers_gained": 4,
         "likes": 975,
         "comments": 30,
@@ -1171,8 +1173,8 @@
         "duration_formatted": "17s",
         "is_short": true,
         "statistics": {
-          "views": 30092,
-          "likes": 1259,
+          "views": 30095,
+          "likes": 1260,
           "comments": 49
         },
         "content_status": {
@@ -1180,9 +1182,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 143.1,
+        "vph": 142.1,
         "days_since_published": 7,
-        "views_per_day": 3643.6,
+        "views_per_day": 3645.3,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -1256,10 +1258,10 @@
       },
       {
         "video_id": "l1GfFMC6dhY",
-        "views": 25272,
-        "watch_time_minutes": 6764,
+        "views": 25299,
+        "watch_time_minutes": 6761,
         "avg_view_duration_seconds": 34,
-        "avg_view_percentage": 85.93,
+        "avg_view_percentage": 85.92,
         "subscribers_gained": 9,
         "likes": 1421,
         "comments": 71,
@@ -1274,7 +1276,7 @@
         "duration_formatted": "40s",
         "is_short": true,
         "statistics": {
-          "views": 25645,
+          "views": 25652,
           "likes": 1440,
           "comments": 72
         },
@@ -1283,9 +1285,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 159.9,
+        "vph": 158.7,
         "days_since_published": 6,
-        "views_per_day": 4212.0,
+        "views_per_day": 4216.5,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -1374,15 +1376,15 @@
       },
       {
         "video_id": "UiwxXi--4IQ",
-        "views": 22993,
-        "watch_time_minutes": 15112,
+        "views": 23066,
+        "watch_time_minutes": 15171,
         "avg_view_duration_seconds": 58,
         "avg_view_percentage": 43.18,
         "subscribers_gained": 15,
         "likes": 1134,
         "comments": 105,
         "shares": 363,
-        "engagement_rate": 6.97,
+        "engagement_rate": 6.95,
         "subscriber_conversion_rate": 0.065,
         "title": "With the 141st pick in the NFL Draft we select..",
         "description": "The Houston Texans select USC defensive back Kamari Ramsey in Round 5 of the 2026 NFL Draft with the No. 141 overall pick.\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -1392,18 +1394,18 @@
         "duration_formatted": "2:16",
         "is_short": false,
         "statistics": {
-          "views": 23561,
+          "views": 23569,
           "likes": 1166,
-          "comments": 143
+          "comments": 144
         },
         "content_status": {
           "is_blocked": false,
           "block_reason": null,
           "flags": []
         },
-        "vph": 164.8,
+        "vph": 163.7,
         "days_since_published": 5,
-        "views_per_day": 4598.6,
+        "views_per_day": 4613.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 70,
@@ -1421,7 +1423,7 @@
                 "bit",
                 "3uh7n0e"
               ],
-              "count": 32
+              "count": 41
             },
             "avoid_keywords": {
               "score": 0,
@@ -1493,7 +1495,16 @@
             "usc defensive",
             "defensive back",
             "back kamari",
-            "kamari ramsey"
+            "kamari ramsey",
+            "ramsey in",
+            "in round",
+            "round 5",
+            "5 of",
+            "the 2026",
+            "2026 nfl",
+            "draft with",
+            "141 overall",
+            "overall pick"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -1512,10 +1523,10 @@
       },
       {
         "video_id": "0xvXMEnwyYM",
-        "views": 22577,
-        "watch_time_minutes": 80487,
+        "views": 22589,
+        "watch_time_minutes": 80606,
         "avg_view_duration_seconds": 214,
-        "avg_view_percentage": 32.78,
+        "avg_view_percentage": 32.79,
         "subscribers_gained": 32,
         "likes": 151,
         "comments": 10,
@@ -1530,8 +1541,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11962581,
-          "likes": 164642,
+          "views": 11962771,
+          "likes": 164643,
           "comments": 8618
         },
         "content_status": {
@@ -1841,9 +1852,14 @@
                 "excellence and",
                 "teamwork that",
                 "texans a",
-                "a huge"
+                "a huge",
+                "huge thank",
+                "dc and",
+                "this unforgettable",
+                "unforgettable performance",
+                "fans and"
               ],
-              "penalty": 2700
+              "penalty": 2750
             },
             "title": {
               "score": 10,
@@ -1863,7 +1879,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: video, houstontexans, com, www, team, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, get, their, texans vs, silent, drill, platoon, marine, silent drill, drill platoon, against, players, one, against the, day, never, ever, moment, its, as the, time, moments, stadium, game, nrg stadium, at nrg, one of, performs, thursday, night, colts, barracks, washington, precision, performance, united, states, corps, youtube, know, platoon performs, performs at, at halftime, halftime on, on thursday, thursday night, night football, colts the, the marine, marine barracks, barracks washington, washington dc, the united, united states, states marine, marine corps, corps silent, subscribe to, follow the, halftime, pro, fans, as they, https, front, tiktok, during, elite, sub_confirmation, website, perfectly, the silent, special, red, military, unforgettable, performance that, excellence, halftime show, absolutely, feet, marines', crowd, dedication, embodied, in houston, had nrg, thank, miss, marines, their feet, an incredible, the marines', precision and, and dedication, thank you, never miss, signature, show, honor, of our, discipline, powerful, stadium on, women, skill, teamwork, an absolutely, halftime performance, on their, our home, and women, stadium was, incredible halftime, our military, fan, mesmerizing, flawless, perform, ceremonial, known, synchronized, movements, rifle, tribute, values, strive, forget, thursdaynightfootball, absolutely mesmerizing, incredible honor, honor to, to host, host the, dc silent, stadium during, during our, crowd in, known for, performance was, a powerful, tribute to, to our, skill and, this incredible, show that, and teamwork, moments like, delivers, routine, units, handling, without, any, verbal, commands, nation's, servicemen, captivated, even, honored, heroes, professionalism, huge, stay, connected, platoon delivers, delivers an, mesmerizing halftime, feet during, during thursday, platoon at, our thursday, football matchup, matchup against, the indianapolis, indianapolis colts, this video, video captures, marines' flawless, flawless precision, and discipline, discipline as, they perform, perform their, their signature, signature silent, drill routine, routine in, in front, front of, home crowd, platoon is, is one, most elite, elite ceremonial, ceremonial units, units in, states military, unit, men, men and, nation, their performance, military heroes, the values, of excellence, for their, their perfectly, perfectly synchronized, synchronized movements, movements and, and rifle, rifle handling, handling without, without any, any verbal, verbal commands, powerful tribute, our nation's, nation's servicemen, servicemen and, entire stadium, was captivated, captivated by, by their, their skill, this thursday, football game, game was, was made, made even, even more, more special, special by, service, stat, we strive, strive for, for as, platoon for, that our, our fans, will never, never forget, that honored, honored our, marines' precision, and professionalism, professionalism perfectly, perfectly embodied, embodied the, values of, excellence and, teamwork that, texans a, a huge",
+            "Consider removing: video, houstontexans, com, www, team, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, get, their, texans vs, silent, drill, platoon, marine, silent drill, drill platoon, against, players, one, against the, day, never, ever, moment, its, as the, time, moments, stadium, game, nrg stadium, at nrg, one of, performs, thursday, night, colts, barracks, washington, precision, performance, united, states, corps, youtube, know, platoon performs, performs at, at halftime, halftime on, on thursday, thursday night, night football, colts the, the marine, marine barracks, barracks washington, washington dc, the united, united states, states marine, marine corps, corps silent, subscribe to, follow the, halftime, pro, fans, as they, https, front, tiktok, during, elite, sub_confirmation, website, perfectly, the silent, special, red, military, unforgettable, performance that, excellence, halftime show, absolutely, feet, marines', crowd, dedication, embodied, in houston, had nrg, thank, miss, marines, their feet, an incredible, the marines', precision and, and dedication, thank you, never miss, signature, show, honor, of our, discipline, powerful, stadium on, women, skill, teamwork, an absolutely, halftime performance, on their, our home, and women, stadium was, incredible halftime, our military, fan, mesmerizing, flawless, perform, ceremonial, known, synchronized, movements, rifle, tribute, values, strive, forget, thursdaynightfootball, absolutely mesmerizing, incredible honor, honor to, to host, host the, dc silent, stadium during, during our, crowd in, known for, performance was, a powerful, tribute to, to our, skill and, this incredible, show that, and teamwork, moments like, delivers, routine, units, handling, without, any, verbal, commands, nation's, servicemen, captivated, even, honored, heroes, professionalism, huge, stay, connected, platoon delivers, delivers an, mesmerizing halftime, feet during, during thursday, platoon at, our thursday, football matchup, matchup against, the indianapolis, indianapolis colts, this video, video captures, marines' flawless, flawless precision, and discipline, discipline as, they perform, perform their, their signature, signature silent, drill routine, routine in, in front, front of, home crowd, platoon is, is one, most elite, elite ceremonial, ceremonial units, units in, states military, unit, men, men and, nation, their performance, military heroes, the values, of excellence, for their, their perfectly, perfectly synchronized, synchronized movements, movements and, and rifle, rifle handling, handling without, without any, any verbal, verbal commands, powerful tribute, our nation's, nation's servicemen, servicemen and, entire stadium, was captivated, captivated by, by their, their skill, this thursday, football game, game was, was made, made even, even more, more special, special by, service, stat, we strive, strive for, for as, platoon for, that our, our fans, will never, never forget, that honored, honored our, marines' precision, and professionalism, professionalism perfectly, perfectly embodied, embodied the, values of, excellence and, teamwork that, texans a, a huge, huge thank, dc and, this unforgettable, unforgettable performance, fans and",
             "Title is long (87 chars). Consider shortening to under 70 chars."
           ],
           "boost_keywords_found": [
@@ -2170,16 +2186,21 @@
             "excellence and",
             "teamwork that",
             "texans a",
-            "a huge"
+            "a huge",
+            "huge thank",
+            "dc and",
+            "this unforgettable",
+            "unforgettable performance",
+            "fans and"
           ]
         }
       },
       {
         "video_id": "zBGiIqoSsck",
-        "views": 20822,
-        "watch_time_minutes": 4060,
+        "views": 20841,
+        "watch_time_minutes": 4057,
         "avg_view_duration_seconds": 22,
-        "avg_view_percentage": 105.65,
+        "avg_view_percentage": 105.64,
         "subscribers_gained": 0,
         "likes": 935,
         "comments": 17,
@@ -2194,7 +2215,7 @@
         "duration_formatted": "21s",
         "is_short": true,
         "statistics": {
-          "views": 21917,
+          "views": 21930,
           "likes": 965,
           "comments": 23
         },
@@ -2211,9 +2232,9 @@
             }
           ]
         },
-        "vph": 155.3,
+        "vph": 153.9,
         "days_since_published": 5,
-        "views_per_day": 4164.4,
+        "views_per_day": 4168.2,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -2297,10 +2318,10 @@
       },
       {
         "video_id": "4qAREEw0N-g",
-        "views": 20640,
-        "watch_time_minutes": 5482,
+        "views": 20664,
+        "watch_time_minutes": 5489,
         "avg_view_duration_seconds": 31,
-        "avg_view_percentage": 92.76,
+        "avg_view_percentage": 92.78,
         "subscribers_gained": 5,
         "likes": 872,
         "comments": 34,
@@ -2315,8 +2336,8 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 21498,
-          "likes": 897,
+          "views": 21526,
+          "likes": 898,
           "comments": 62
         },
         "content_status": {
@@ -2324,9 +2345,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 131.7,
+        "vph": 130.7,
         "days_since_published": 6,
-        "views_per_day": 3440.0,
+        "views_per_day": 3444.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -2404,10 +2425,10 @@
       },
       {
         "video_id": "pttLtOcs6No",
-        "views": 18883,
-        "watch_time_minutes": 11268,
+        "views": 18889,
+        "watch_time_minutes": 11275,
         "avg_view_duration_seconds": 76,
-        "avg_view_percentage": 47.4,
+        "avg_view_percentage": 47.39,
         "subscribers_gained": 13,
         "likes": 933,
         "comments": 54,
@@ -2422,8 +2443,8 @@
         "duration_formatted": "2:41",
         "is_short": false,
         "statistics": {
-          "views": 19388,
-          "likes": 991,
+          "views": 19399,
+          "likes": 993,
           "comments": 67
         },
         "content_status": {
@@ -2431,9 +2452,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 119.3,
+        "vph": 118.3,
         "days_since_published": 6,
-        "views_per_day": 3147.2,
+        "views_per_day": 3148.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 65,
@@ -2451,7 +2472,7 @@
                 "tickets",
                 "subscribe"
               ],
-              "count": 15
+              "count": 17
             },
             "avoid_keywords": {
               "score": 0,
@@ -2509,7 +2530,9 @@
             "texan",
             "pick in",
             "draft we",
-            "we select"
+            "we select",
+            "the 2026",
+            "2026 nfl"
           ],
           "avoid_keywords_found": [
             "watch",
@@ -2530,16 +2553,16 @@
       },
       {
         "video_id": "2j4C5kFuC5g",
-        "views": 18806,
-        "watch_time_minutes": 1657,
+        "views": 18838,
+        "watch_time_minutes": 1661,
         "avg_view_duration_seconds": 11,
-        "avg_view_percentage": 129.87,
-        "subscribers_gained": 4,
+        "avg_view_percentage": 129.94,
+        "subscribers_gained": 3,
         "likes": 909,
         "comments": 46,
         "shares": 18,
         "engagement_rate": 5.17,
-        "subscriber_conversion_rate": 0.021,
+        "subscriber_conversion_rate": 0.016,
         "title": "Everyone, meet Marlin \ud83d\udc4b",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-25T03:02:47Z",
@@ -2548,7 +2571,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 19502,
+          "views": 19505,
           "likes": 931,
           "comments": 57
         },
@@ -2557,9 +2580,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 121.5,
+        "vph": 120.6,
         "days_since_published": 6,
-        "views_per_day": 3134.3,
+        "views_per_day": 3139.7,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -2635,16 +2658,16 @@
       },
       {
         "video_id": "q9jUpznN1fU",
-        "views": 18171,
-        "watch_time_minutes": 7305,
+        "views": 18189,
+        "watch_time_minutes": 7310,
         "avg_view_duration_seconds": 40,
-        "avg_view_percentage": 82.59,
+        "avg_view_percentage": 82.62,
         "subscribers_gained": 3,
         "likes": 974,
         "comments": 21,
         "shares": 23,
         "engagement_rate": 5.6,
-        "subscriber_conversion_rate": 0.017,
+        "subscriber_conversion_rate": 0.016,
         "title": "Watch the newest Texan work \ud83d\udcaa",
         "description": "Kayden McDonald highlights \nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-24T23:56:41Z",
@@ -2653,7 +2676,7 @@
         "duration_formatted": "49s",
         "is_short": true,
         "statistics": {
-          "views": 18589,
+          "views": 18591,
           "likes": 988,
           "comments": 30
         },
@@ -2662,9 +2685,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 115.0,
+        "vph": 114.2,
         "days_since_published": 6,
-        "views_per_day": 3028.5,
+        "views_per_day": 3031.5,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -2750,15 +2773,15 @@
       },
       {
         "video_id": "gHyQIfvar5A",
-        "views": 17869,
-        "watch_time_minutes": 8466,
+        "views": 17909,
+        "watch_time_minutes": 8480,
         "avg_view_duration_seconds": 50,
-        "avg_view_percentage": 96.22,
+        "avg_view_percentage": 96.17,
         "subscribers_gained": 4,
         "likes": 904,
         "comments": 21,
         "shares": 49,
-        "engagement_rate": 5.45,
+        "engagement_rate": 5.44,
         "subscriber_conversion_rate": 0.022,
         "title": "Meet the newest Texan, G Febechi Nwaiwu \ud83d\udcaa",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -2768,8 +2791,8 @@
         "duration_formatted": "53s",
         "is_short": true,
         "statistics": {
-          "views": 18319,
-          "likes": 917,
+          "views": 18345,
+          "likes": 918,
           "comments": 31
         },
         "content_status": {
@@ -2777,9 +2800,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 126.5,
+        "vph": 125.6,
         "days_since_published": 5,
-        "views_per_day": 3573.8,
+        "views_per_day": 3581.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -2857,15 +2880,15 @@
       },
       {
         "video_id": "geVHYAgtmuQ",
-        "views": 17493,
-        "watch_time_minutes": 4986,
+        "views": 17524,
+        "watch_time_minutes": 4996,
         "avg_view_duration_seconds": 34,
-        "avg_view_percentage": 87.29,
+        "avg_view_percentage": 87.31,
         "subscribers_gained": 4,
         "likes": 860,
         "comments": 17,
         "shares": 27,
-        "engagement_rate": 5.17,
+        "engagement_rate": 5.16,
         "subscriber_conversion_rate": 0.023,
         "title": "Welcome to the swarm, Kamari Ramsey \u270c\ufe0f",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -2875,8 +2898,8 @@
         "duration_formatted": "39s",
         "is_short": true,
         "statistics": {
-          "views": 18358,
-          "likes": 900,
+          "views": 18387,
+          "likes": 901,
           "comments": 23
         },
         "content_status": {
@@ -2884,9 +2907,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 126.3,
+        "vph": 125.3,
         "days_since_published": 5,
-        "views_per_day": 3498.6,
+        "views_per_day": 3504.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -2968,15 +2991,15 @@
       },
       {
         "video_id": "6MI2yjtsvYY",
-        "views": 17401,
-        "watch_time_minutes": 4078,
+        "views": 17424,
+        "watch_time_minutes": 4086,
         "avg_view_duration_seconds": 26,
-        "avg_view_percentage": 82.94,
+        "avg_view_percentage": 82.97,
         "subscribers_gained": 5,
         "likes": 846,
         "comments": 13,
         "shares": 5,
-        "engagement_rate": 4.97,
+        "engagement_rate": 4.96,
         "subscriber_conversion_rate": 0.029,
         "title": "\"Let's go to work\" \ud83d\udcaa",
         "description": "Hear the call that made Lewis Bond a Texan. \nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -2986,8 +3009,8 @@
         "duration_formatted": "32s",
         "is_short": true,
         "statistics": {
-          "views": 18356,
-          "likes": 867,
+          "views": 18360,
+          "likes": 868,
           "comments": 14
         },
         "content_status": {
@@ -3003,9 +3026,9 @@
             }
           ]
         },
-        "vph": 129.1,
+        "vph": 128.0,
         "days_since_published": 5,
-        "views_per_day": 3480.2,
+        "views_per_day": 3484.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -3089,10 +3112,10 @@
       },
       {
         "video_id": "xqjWwrB5WH0",
-        "views": 15726,
+        "views": 15730,
         "watch_time_minutes": 926,
         "avg_view_duration_seconds": 8,
-        "avg_view_percentage": 175.99,
+        "avg_view_percentage": 176.03,
         "subscribers_gained": 4,
         "likes": 822,
         "comments": 43,
@@ -3107,7 +3130,7 @@
         "duration_formatted": "5s",
         "is_short": true,
         "statistics": {
-          "views": 19019,
+          "views": 19025,
           "likes": 1034,
           "comments": 63
         },
@@ -3116,9 +3139,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 88.5,
+        "vph": 87.8,
         "days_since_published": 7,
-        "views_per_day": 2246.6,
+        "views_per_day": 2247.1,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -3199,15 +3222,15 @@
       },
       {
         "video_id": "1m0CO1_6TKs",
-        "views": 15166,
-        "watch_time_minutes": 1256,
+        "views": 15200,
+        "watch_time_minutes": 1258,
         "avg_view_duration_seconds": 11,
-        "avg_view_percentage": 139.79,
+        "avg_view_percentage": 139.85,
         "subscribers_gained": 0,
         "likes": 744,
         "comments": 30,
         "shares": 3,
-        "engagement_rate": 5.12,
+        "engagement_rate": 5.11,
         "subscriber_conversion_rate": 0.0,
         "title": "Houston we got a problem\u203c\ufe0f",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -3226,9 +3249,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 110.7,
+        "vph": 109.9,
         "days_since_published": 5,
-        "views_per_day": 3033.2,
+        "views_per_day": 3040.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -3307,15 +3330,15 @@
       },
       {
         "video_id": "FuXzaVkHQ1A",
-        "views": 14464,
-        "watch_time_minutes": 5266,
+        "views": 14498,
+        "watch_time_minutes": 5275,
         "avg_view_duration_seconds": 39,
-        "avg_view_percentage": 64.71,
+        "avg_view_percentage": 64.73,
         "subscribers_gained": 8,
         "likes": 563,
         "comments": 13,
         "shares": 27,
-        "engagement_rate": 4.17,
+        "engagement_rate": 4.16,
         "subscriber_conversion_rate": 0.055,
         "title": "With the 123 overall pick we select..",
         "description": "The Houston Texans select Clemson Tigers linebacker Wade Woodaz in Round 4 of the 2026 NFL Draft with the No. 123 overall pick (via a trade with the Los Angeles Chargers).\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -3325,7 +3348,7 @@
         "duration_formatted": "1:01",
         "is_short": false,
         "statistics": {
-          "views": 14772,
+          "views": 14771,
           "likes": 578,
           "comments": 19
         },
@@ -3342,9 +3365,9 @@
             }
           ]
         },
-        "vph": 103.0,
+        "vph": 102.3,
         "days_since_published": 5,
-        "views_per_day": 2892.8,
+        "views_per_day": 2899.6,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -3362,7 +3385,7 @@
                 "angeles",
                 "the los"
               ],
-              "count": 23
+              "count": 28
             },
             "avoid_keywords": {
               "score": 0,
@@ -3428,7 +3451,12 @@
             "texans select",
             "texan",
             "overall",
-            "we select"
+            "we select",
+            "in round",
+            "the 2026",
+            "2026 nfl",
+            "draft with",
+            "overall pick"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -3449,15 +3477,15 @@
       },
       {
         "video_id": "L4-OdkQjzV4",
-        "views": 14438,
-        "watch_time_minutes": 888,
+        "views": 14475,
+        "watch_time_minutes": 890,
         "avg_view_duration_seconds": 8,
-        "avg_view_percentage": 149.05,
+        "avg_view_percentage": 149.11,
         "subscribers_gained": 3,
         "likes": 634,
         "comments": 28,
         "shares": 8,
-        "engagement_rate": 4.64,
+        "engagement_rate": 4.63,
         "subscriber_conversion_rate": 0.021,
         "title": "Hear from the newest Texan Wade Woodaz \ud83d\udc05",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -3484,9 +3512,9 @@
             }
           ]
         },
-        "vph": 104.2,
+        "vph": 103.4,
         "days_since_published": 5,
-        "views_per_day": 2887.6,
+        "views_per_day": 2895.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -3569,15 +3597,15 @@
       },
       {
         "video_id": "t5TqCPu2sWg",
-        "views": 14364,
-        "watch_time_minutes": 4933,
+        "views": 14397,
+        "watch_time_minutes": 4939,
         "avg_view_duration_seconds": 42,
-        "avg_view_percentage": 65.78,
+        "avg_view_percentage": 65.82,
         "subscribers_gained": 7,
         "likes": 476,
         "comments": 13,
         "shares": 3,
-        "engagement_rate": 3.43,
+        "engagement_rate": 3.42,
         "subscriber_conversion_rate": 0.049,
         "title": "With the 204th pick in the NFL Draft we select..",
         "description": "Texans select Lewis Bond with No. 204 pick in 2026 draft\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -3587,7 +3615,7 @@
         "duration_formatted": "1:04",
         "is_short": false,
         "statistics": {
-          "views": 14809,
+          "views": 14826,
           "likes": 489,
           "comments": 30
         },
@@ -3596,9 +3624,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 105.2,
+        "vph": 104.4,
         "days_since_published": 5,
-        "views_per_day": 2872.8,
+        "views_per_day": 2879.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 65,
@@ -3687,15 +3715,15 @@
       },
       {
         "video_id": "bALO9i-CXXc",
-        "views": 14255,
-        "watch_time_minutes": 3423,
+        "views": 14292,
+        "watch_time_minutes": 3430,
         "avg_view_duration_seconds": 28,
-        "avg_view_percentage": 99.41,
+        "avg_view_percentage": 99.42,
         "subscribers_gained": 3,
         "likes": 962,
         "comments": 54,
         "shares": 39,
-        "engagement_rate": 7.4,
+        "engagement_rate": 7.38,
         "subscriber_conversion_rate": 0.021,
         "title": "Febechi is ready to ball \ud83c\udfc8",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -3705,7 +3733,7 @@
         "duration_formatted": "29s",
         "is_short": true,
         "statistics": {
-          "views": 14585,
+          "views": 14592,
           "likes": 981,
           "comments": 58
         },
@@ -3722,9 +3750,9 @@
             }
           ]
         },
-        "vph": 101.5,
+        "vph": 100.8,
         "days_since_published": 5,
-        "views_per_day": 2851.0,
+        "views_per_day": 2858.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -3805,15 +3833,15 @@
       },
       {
         "video_id": "iXZJJBNdCKA",
-        "views": 13907,
-        "watch_time_minutes": 3564,
+        "views": 13929,
+        "watch_time_minutes": 3569,
         "avg_view_duration_seconds": 30,
-        "avg_view_percentage": 86.06,
+        "avg_view_percentage": 86.08,
         "subscribers_gained": 1,
         "likes": 783,
         "comments": 24,
         "shares": 24,
-        "engagement_rate": 5.98,
+        "engagement_rate": 5.97,
         "subscriber_conversion_rate": 0.007,
         "title": "Febechi Nwaiwu, YOU\u2019RE A TEXAN\u203c\ufe0f",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -3823,7 +3851,7 @@
         "duration_formatted": "36s",
         "is_short": true,
         "statistics": {
-          "views": 14484,
+          "views": 14489,
           "likes": 809,
           "comments": 25
         },
@@ -3832,9 +3860,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 100.4,
+        "vph": 99.6,
         "days_since_published": 5,
-        "views_per_day": 2781.4,
+        "views_per_day": 2785.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -3908,15 +3936,15 @@
       },
       {
         "video_id": "VJt8kMdhb1A",
-        "views": 13870,
-        "watch_time_minutes": 3702,
+        "views": 13828,
+        "watch_time_minutes": 3686,
         "avg_view_duration_seconds": 28,
-        "avg_view_percentage": 88.28,
+        "avg_view_percentage": 88.21,
         "subscribers_gained": 6,
         "likes": 923,
         "comments": 30,
         "shares": 26,
-        "engagement_rate": 7.06,
+        "engagement_rate": 7.08,
         "subscriber_conversion_rate": 0.043,
         "title": "Houston Texans, Hallelujah \ud83d\ude4c",
         "description": "",
@@ -3935,9 +3963,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 120.9,
+        "vph": 119.1,
         "days_since_published": 4,
-        "views_per_day": 3467.5,
+        "views_per_day": 3457.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 35,
@@ -3999,16 +4027,16 @@
       },
       {
         "video_id": "pLkZzPBVtps",
-        "views": 12980,
-        "watch_time_minutes": 3761,
+        "views": 12994,
+        "watch_time_minutes": 3764,
         "avg_view_duration_seconds": 31,
-        "avg_view_percentage": 81.86,
-        "subscribers_gained": 2,
+        "avg_view_percentage": 81.87,
+        "subscribers_gained": 1,
         "likes": 766,
         "comments": 16,
         "shares": 11,
-        "engagement_rate": 6.11,
-        "subscriber_conversion_rate": 0.015,
+        "engagement_rate": 6.1,
+        "subscriber_conversion_rate": 0.008,
         "title": "Wade Woodaz got the H-Town call \ud83d\udcde",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-25T19:23:13Z",
@@ -4034,9 +4062,9 @@
             }
           ]
         },
-        "vph": 93.7,
+        "vph": 92.9,
         "days_since_published": 5,
-        "views_per_day": 2596.0,
+        "views_per_day": 2598.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -4113,8 +4141,8 @@
       },
       {
         "video_id": "WXDZUmEZtV8",
-        "views": 12425,
-        "watch_time_minutes": 846,
+        "views": 12440,
+        "watch_time_minutes": 847,
         "avg_view_duration_seconds": 13,
         "avg_view_percentage": 87.17,
         "subscribers_gained": 0,
@@ -4166,16 +4194,16 @@
       },
       {
         "video_id": "aQQm1naiPKY",
-        "views": 12229,
-        "watch_time_minutes": 2690,
+        "views": 12250,
+        "watch_time_minutes": 2695,
         "avg_view_duration_seconds": 26,
         "avg_view_percentage": 97.09,
         "subscribers_gained": 3,
         "likes": 676,
         "comments": 21,
         "shares": 43,
-        "engagement_rate": 6.05,
-        "subscriber_conversion_rate": 0.025,
+        "engagement_rate": 6.04,
+        "subscriber_conversion_rate": 0.024,
         "title": "JUMPIN\u2019 FOR JOY \ud83e\udd18",
         "description": "The newest Texan meets Texans fans at the NFL Draft. \nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-25T00:02:15Z",
@@ -4184,7 +4212,7 @@
         "duration_formatted": "27s",
         "is_short": true,
         "statistics": {
-          "views": 12496,
+          "views": 12502,
           "likes": 694,
           "comments": 27
         },
@@ -4193,9 +4221,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 77.5,
+        "vph": 76.9,
         "days_since_published": 6,
-        "views_per_day": 2038.2,
+        "views_per_day": 2041.7,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -4286,10 +4314,10 @@
       },
       {
         "video_id": "LinQ1BAhvRg",
-        "views": 12226,
-        "watch_time_minutes": 877,
+        "views": 12238,
+        "watch_time_minutes": 878,
         "avg_view_duration_seconds": 10,
-        "avg_view_percentage": 67.41,
+        "avg_view_percentage": 67.42,
         "subscribers_gained": 0,
         "likes": 0,
         "comments": 0,
@@ -4339,15 +4367,15 @@
       },
       {
         "video_id": "wmBY8Gtb77E",
-        "views": 11543,
-        "watch_time_minutes": 757,
+        "views": 11570,
+        "watch_time_minutes": 758,
         "avg_view_duration_seconds": 9,
-        "avg_view_percentage": 128.99,
+        "avg_view_percentage": 128.98,
         "subscribers_gained": 0,
         "likes": 708,
         "comments": 34,
         "shares": 8,
-        "engagement_rate": 6.5,
+        "engagement_rate": 6.48,
         "subscriber_conversion_rate": 0.0,
         "title": "KAYDEN IS READY TO WORK!!",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -4357,7 +4385,7 @@
         "duration_formatted": "7s",
         "is_short": true,
         "statistics": {
-          "views": 11802,
+          "views": 11807,
           "likes": 718,
           "comments": 35
         },
@@ -4374,9 +4402,9 @@
             }
           ]
         },
-        "vph": 73.6,
+        "vph": 73.1,
         "days_since_published": 6,
-        "views_per_day": 1923.8,
+        "views_per_day": 1928.3,
         "performance_status": "good",
         "seo_score": {
           "total_score": 50,
@@ -4456,10 +4484,10 @@
       },
       {
         "video_id": "vY_cbXwihbs",
-        "views": 11483,
-        "watch_time_minutes": 672,
+        "views": 11504,
+        "watch_time_minutes": 673,
         "avg_view_duration_seconds": 8,
-        "avg_view_percentage": 162.76,
+        "avg_view_percentage": 162.77,
         "subscribers_gained": 2,
         "likes": 543,
         "comments": 18,
@@ -4483,9 +4511,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 84.8,
+        "vph": 84.1,
         "days_since_published": 5,
-        "views_per_day": 2296.6,
+        "views_per_day": 2300.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -4562,10 +4590,10 @@
       },
       {
         "video_id": "frL7GN0fXms",
-        "views": 10404,
-        "watch_time_minutes": 1227,
+        "views": 10402,
+        "watch_time_minutes": 1225,
         "avg_view_duration_seconds": 14,
-        "avg_view_percentage": 97.66,
+        "avg_view_percentage": 97.59,
         "subscribers_gained": 0,
         "likes": 1,
         "comments": 0,
@@ -4615,10 +4643,10 @@
       },
       {
         "video_id": "gLKZkcwXd8g",
-        "views": 9794,
-        "watch_time_minutes": 1016,
+        "views": 9792,
+        "watch_time_minutes": 1007,
         "avg_view_duration_seconds": 14,
-        "avg_view_percentage": 131.42,
+        "avg_view_percentage": 130.12,
         "subscribers_gained": 0,
         "likes": 529,
         "comments": 16,
@@ -4633,7 +4661,7 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 10089,
+          "views": 10090,
           "likes": 542,
           "comments": 16
         },
@@ -4642,9 +4670,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 61.9,
+        "vph": 61.4,
         "days_since_published": 6,
-        "views_per_day": 1632.3,
+        "views_per_day": 1632.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -4726,10 +4754,10 @@
       },
       {
         "video_id": "OPSY6H_rP-k",
-        "views": 9311,
-        "watch_time_minutes": 636,
+        "views": 9316,
+        "watch_time_minutes": 637,
         "avg_view_duration_seconds": 12,
-        "avg_view_percentage": 82.53,
+        "avg_view_percentage": 82.55,
         "subscribers_gained": 0,
         "likes": 0,
         "comments": 0,
@@ -4779,10 +4807,10 @@
       },
       {
         "video_id": "ZyjaNRFqpKA",
-        "views": 8757,
+        "views": 8774,
         "watch_time_minutes": 518,
         "avg_view_duration_seconds": 12,
-        "avg_view_percentage": 81.77,
+        "avg_view_percentage": 81.71,
         "subscribers_gained": 0,
         "likes": 0,
         "comments": 0,
@@ -4832,8 +4860,8 @@
       },
       {
         "video_id": "Ds8kVBVOQdk",
-        "views": 8657,
-        "watch_time_minutes": 58506,
+        "views": 8659,
+        "watch_time_minutes": 58491,
         "avg_view_duration_seconds": 405,
         "avg_view_percentage": 30.990000000000002,
         "subscribers_gained": 8,
@@ -4859,9 +4887,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 53.8,
+        "vph": 53.3,
         "days_since_published": 6,
-        "views_per_day": 1442.8,
+        "views_per_day": 1443.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 70,
@@ -5007,8 +5035,8 @@
       },
       {
         "video_id": "ozmiPKtD1VQ",
-        "views": 8410,
-        "watch_time_minutes": 3226,
+        "views": 8413,
+        "watch_time_minutes": 3227,
         "avg_view_duration_seconds": 41,
         "avg_view_percentage": 71.02,
         "subscribers_gained": 9,
@@ -5025,7 +5053,7 @@
         "duration_formatted": "58s",
         "is_short": true,
         "statistics": {
-          "views": 11231,
+          "views": 11229,
           "likes": 716,
           "comments": 17
         },
@@ -5034,9 +5062,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 47.1,
+        "vph": 46.8,
         "days_since_published": 7,
-        "views_per_day": 1201.4,
+        "views_per_day": 1201.9,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -5117,7 +5145,7 @@
       },
       {
         "video_id": "2yd1rTZIr7w",
-        "views": 8235,
+        "views": 8242,
         "watch_time_minutes": 552,
         "avg_view_duration_seconds": 12,
         "avg_view_percentage": 616.38,
@@ -5170,15 +5198,15 @@
       },
       {
         "video_id": "DDQitWgzPeg",
-        "views": 7947,
-        "watch_time_minutes": 2163,
+        "views": 7959,
+        "watch_time_minutes": 2161,
         "avg_view_duration_seconds": 30,
-        "avg_view_percentage": 98.96,
+        "avg_view_percentage": 99.11,
         "subscribers_gained": 9,
         "likes": 325,
         "comments": 21,
         "shares": 34,
-        "engagement_rate": 4.78,
+        "engagement_rate": 4.77,
         "subscriber_conversion_rate": 0.113,
         "title": "Raquel Rodriguez makes our pick from Monterrey",
         "description": "From Monterrey, Mexico we select G Febechi Nwaiwu from Oklahoma. \nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -5188,7 +5216,7 @@
         "duration_formatted": "31s",
         "is_short": true,
         "statistics": {
-          "views": 8296,
+          "views": 8297,
           "likes": 342,
           "comments": 21
         },
@@ -5197,9 +5225,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 56.3,
+        "vph": 55.8,
         "days_since_published": 5,
-        "views_per_day": 1589.4,
+        "views_per_day": 1591.8,
         "performance_status": "good",
         "seo_score": {
           "total_score": 65,
@@ -5281,10 +5309,10 @@
       },
       {
         "video_id": "2HKvQ834lpo",
-        "views": 7783,
+        "views": 7786,
         "watch_time_minutes": 639,
         "avg_view_duration_seconds": 15,
-        "avg_view_percentage": 327.07,
+        "avg_view_percentage": 327.11,
         "subscribers_gained": 0,
         "likes": 0,
         "comments": 0,
@@ -5352,7 +5380,7 @@
         "duration_formatted": "21:04",
         "is_short": false,
         "statistics": {
-          "views": 8534,
+          "views": 8535,
           "likes": 282,
           "comments": 23
         },
@@ -5369,7 +5397,7 @@
             }
           ]
         },
-        "vph": 85.9,
+        "vph": 84.6,
         "days_since_published": 3,
         "views_per_day": 2573.0,
         "performance_status": "excellent",
@@ -5389,7 +5417,7 @@
                 "room",
                 "ball"
               ],
-              "count": 42
+              "count": 44
             },
             "avoid_keywords": {
               "score": 0,
@@ -5488,7 +5516,9 @@
             "febechi",
             "texan",
             "ramsey",
-            "kamari ramsey"
+            "kamari ramsey",
+            "the 2026",
+            "2026 nfl"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -5524,10 +5554,10 @@
       },
       {
         "video_id": "nLMnX62mvkg",
-        "views": 7448,
-        "watch_time_minutes": 829,
+        "views": 7450,
+        "watch_time_minutes": 830,
         "avg_view_duration_seconds": 14,
-        "avg_view_percentage": 114.81000000000002,
+        "avg_view_percentage": 114.86000000000001,
         "subscribers_gained": 1,
         "likes": 319,
         "comments": 7,
@@ -5551,9 +5581,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 46.4,
+        "vph": 46.0,
         "days_since_published": 6,
-        "views_per_day": 1241.3,
+        "views_per_day": 1241.7,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -5627,8 +5657,8 @@
       },
       {
         "video_id": "GEVooUZzsJ8",
-        "views": 7328,
-        "watch_time_minutes": 563,
+        "views": 7341,
+        "watch_time_minutes": 564,
         "avg_view_duration_seconds": 16,
         "avg_view_percentage": 109.35,
         "subscribers_gained": 0,
@@ -5683,7 +5713,7 @@
         "views": 6927,
         "watch_time_minutes": 547,
         "avg_view_duration_seconds": 15,
-        "avg_view_percentage": 100.57000000000001,
+        "avg_view_percentage": 100.56,
         "subscribers_gained": 0,
         "likes": 0,
         "comments": 0,
@@ -5733,10 +5763,10 @@
       },
       {
         "video_id": "A7sf6zchFcc",
-        "views": 6912,
+        "views": 6917,
         "watch_time_minutes": 1712,
         "avg_view_duration_seconds": 29,
-        "avg_view_percentage": 78.87,
+        "avg_view_percentage": 78.88,
         "subscribers_gained": 1,
         "likes": 466,
         "comments": 19,
@@ -5760,9 +5790,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 43.8,
+        "vph": 43.4,
         "days_since_published": 6,
-        "views_per_day": 1152.0,
+        "views_per_day": 1152.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -5836,10 +5866,10 @@
       },
       {
         "video_id": "C3fYR1JzgOg",
-        "views": 6722,
-        "watch_time_minutes": 2562,
+        "views": 6718,
+        "watch_time_minutes": 2564,
         "avg_view_duration_seconds": 44,
-        "avg_view_percentage": 76.06,
+        "avg_view_percentage": 76.04,
         "subscribers_gained": 1,
         "likes": 238,
         "comments": 9,
@@ -5854,8 +5884,8 @@
         "duration_formatted": "59s",
         "is_short": true,
         "statistics": {
-          "views": 20832,
-          "likes": 1042,
+          "views": 20852,
+          "likes": 1043,
           "comments": 35
         },
         "content_status": {
@@ -5863,9 +5893,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 31.4,
+        "vph": 31.2,
         "days_since_published": 8,
-        "views_per_day": 840.2,
+        "views_per_day": 839.8,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 60,
@@ -5959,8 +5989,8 @@
     "past_month": [
       {
         "video_id": "0xvXMEnwyYM",
-        "views": 112642,
-        "watch_time_minutes": 406151,
+        "views": 112654,
+        "watch_time_minutes": 406270,
         "avg_view_duration_seconds": 216,
         "avg_view_percentage": 33.14,
         "subscribers_gained": 140,
@@ -5977,8 +6007,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11962581,
-          "likes": 164642,
+          "views": 11962771,
+          "likes": 164643,
           "comments": 8618
         },
         "content_status": {
@@ -6288,9 +6318,14 @@
                 "excellence and",
                 "teamwork that",
                 "texans a",
-                "a huge"
+                "a huge",
+                "huge thank",
+                "dc and",
+                "this unforgettable",
+                "unforgettable performance",
+                "fans and"
               ],
-              "penalty": 2700
+              "penalty": 2750
             },
             "title": {
               "score": 10,
@@ -6310,7 +6345,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: video, houstontexans, com, www, team, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, get, their, texans vs, silent, drill, platoon, marine, silent drill, drill platoon, against, players, one, against the, day, never, ever, moment, its, as the, time, moments, stadium, game, nrg stadium, at nrg, one of, performs, thursday, night, colts, barracks, washington, precision, performance, united, states, corps, youtube, know, platoon performs, performs at, at halftime, halftime on, on thursday, thursday night, night football, colts the, the marine, marine barracks, barracks washington, washington dc, the united, united states, states marine, marine corps, corps silent, subscribe to, follow the, halftime, pro, fans, as they, https, front, tiktok, during, elite, sub_confirmation, website, perfectly, the silent, special, red, military, unforgettable, performance that, excellence, halftime show, absolutely, feet, marines', crowd, dedication, embodied, in houston, had nrg, thank, miss, marines, their feet, an incredible, the marines', precision and, and dedication, thank you, never miss, signature, show, honor, of our, discipline, powerful, stadium on, women, skill, teamwork, an absolutely, halftime performance, on their, our home, and women, stadium was, incredible halftime, our military, fan, mesmerizing, flawless, perform, ceremonial, known, synchronized, movements, rifle, tribute, values, strive, forget, thursdaynightfootball, absolutely mesmerizing, incredible honor, honor to, to host, host the, dc silent, stadium during, during our, crowd in, known for, performance was, a powerful, tribute to, to our, skill and, this incredible, show that, and teamwork, moments like, delivers, routine, units, handling, without, any, verbal, commands, nation's, servicemen, captivated, even, honored, heroes, professionalism, huge, stay, connected, platoon delivers, delivers an, mesmerizing halftime, feet during, during thursday, platoon at, our thursday, football matchup, matchup against, the indianapolis, indianapolis colts, this video, video captures, marines' flawless, flawless precision, and discipline, discipline as, they perform, perform their, their signature, signature silent, drill routine, routine in, in front, front of, home crowd, platoon is, is one, most elite, elite ceremonial, ceremonial units, units in, states military, unit, men, men and, nation, their performance, military heroes, the values, of excellence, for their, their perfectly, perfectly synchronized, synchronized movements, movements and, and rifle, rifle handling, handling without, without any, any verbal, verbal commands, powerful tribute, our nation's, nation's servicemen, servicemen and, entire stadium, was captivated, captivated by, by their, their skill, this thursday, football game, game was, was made, made even, even more, more special, special by, service, stat, we strive, strive for, for as, platoon for, that our, our fans, will never, never forget, that honored, honored our, marines' precision, and professionalism, professionalism perfectly, perfectly embodied, embodied the, values of, excellence and, teamwork that, texans a, a huge",
+            "Consider removing: video, houstontexans, com, www, team, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, get, their, texans vs, silent, drill, platoon, marine, silent drill, drill platoon, against, players, one, against the, day, never, ever, moment, its, as the, time, moments, stadium, game, nrg stadium, at nrg, one of, performs, thursday, night, colts, barracks, washington, precision, performance, united, states, corps, youtube, know, platoon performs, performs at, at halftime, halftime on, on thursday, thursday night, night football, colts the, the marine, marine barracks, barracks washington, washington dc, the united, united states, states marine, marine corps, corps silent, subscribe to, follow the, halftime, pro, fans, as they, https, front, tiktok, during, elite, sub_confirmation, website, perfectly, the silent, special, red, military, unforgettable, performance that, excellence, halftime show, absolutely, feet, marines', crowd, dedication, embodied, in houston, had nrg, thank, miss, marines, their feet, an incredible, the marines', precision and, and dedication, thank you, never miss, signature, show, honor, of our, discipline, powerful, stadium on, women, skill, teamwork, an absolutely, halftime performance, on their, our home, and women, stadium was, incredible halftime, our military, fan, mesmerizing, flawless, perform, ceremonial, known, synchronized, movements, rifle, tribute, values, strive, forget, thursdaynightfootball, absolutely mesmerizing, incredible honor, honor to, to host, host the, dc silent, stadium during, during our, crowd in, known for, performance was, a powerful, tribute to, to our, skill and, this incredible, show that, and teamwork, moments like, delivers, routine, units, handling, without, any, verbal, commands, nation's, servicemen, captivated, even, honored, heroes, professionalism, huge, stay, connected, platoon delivers, delivers an, mesmerizing halftime, feet during, during thursday, platoon at, our thursday, football matchup, matchup against, the indianapolis, indianapolis colts, this video, video captures, marines' flawless, flawless precision, and discipline, discipline as, they perform, perform their, their signature, signature silent, drill routine, routine in, in front, front of, home crowd, platoon is, is one, most elite, elite ceremonial, ceremonial units, units in, states military, unit, men, men and, nation, their performance, military heroes, the values, of excellence, for their, their perfectly, perfectly synchronized, synchronized movements, movements and, and rifle, rifle handling, handling without, without any, any verbal, verbal commands, powerful tribute, our nation's, nation's servicemen, servicemen and, entire stadium, was captivated, captivated by, by their, their skill, this thursday, football game, game was, was made, made even, even more, more special, special by, service, stat, we strive, strive for, for as, platoon for, that our, our fans, will never, never forget, that honored, honored our, marines' precision, and professionalism, professionalism perfectly, perfectly embodied, embodied the, values of, excellence and, teamwork that, texans a, a huge, huge thank, dc and, this unforgettable, unforgettable performance, fans and",
             "Title is long (87 chars). Consider shortening to under 70 chars."
           ],
           "boost_keywords_found": [
@@ -6617,22 +6652,27 @@
             "excellence and",
             "teamwork that",
             "texans a",
-            "a huge"
+            "a huge",
+            "huge thank",
+            "dc and",
+            "this unforgettable",
+            "unforgettable performance",
+            "fans and"
           ]
         }
       },
       {
         "video_id": "cUCAZnzw6Zg",
-        "views": 90009,
-        "watch_time_minutes": 31168,
+        "views": 90050,
+        "watch_time_minutes": 31167,
         "avg_view_duration_seconds": 41,
         "avg_view_percentage": 82.47,
-        "subscribers_gained": 59,
+        "subscribers_gained": 58,
         "likes": 3650,
         "comments": 159,
         "shares": 637,
         "engagement_rate": 4.94,
-        "subscriber_conversion_rate": 0.066,
+        "subscriber_conversion_rate": 0.064,
         "title": "H-TOWN, MEET BIG RED",
         "description": "\u201cWe traded up to come get you.\u201d\nKeylan Rutledge is officially headed to H-Town.\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-24T04:21:03Z",
@@ -6641,8 +6681,8 @@
         "duration_formatted": "50s",
         "is_short": true,
         "statistics": {
-          "views": 91761,
-          "likes": 3700,
+          "views": 91798,
+          "likes": 3702,
           "comments": 158
         },
         "content_status": {
@@ -6658,9 +6698,9 @@
             }
           ]
         },
-        "vph": 507.0,
+        "vph": 503.4,
         "days_since_published": 7,
-        "views_per_day": 12858.4,
+        "views_per_day": 12864.3,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -6760,15 +6800,15 @@
       },
       {
         "video_id": "fS4AOH7CwiM",
-        "views": 43723,
-        "watch_time_minutes": 7300,
+        "views": 43747,
+        "watch_time_minutes": 7302,
         "avg_view_duration_seconds": 22,
-        "avg_view_percentage": 124.07999999999998,
+        "avg_view_percentage": 124.09000000000002,
         "subscribers_gained": 6,
         "likes": 1481,
         "comments": 61,
         "shares": 65,
-        "engagement_rate": 3.68,
+        "engagement_rate": 3.67,
         "subscriber_conversion_rate": 0.014,
         "title": "Keylan is ready to get out there \ud83c\udfc8",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -6778,8 +6818,8 @@
         "duration_formatted": "18s",
         "is_short": true,
         "statistics": {
-          "views": 45068,
-          "likes": 1513,
+          "views": 45087,
+          "likes": 1514,
           "comments": 63
         },
         "content_status": {
@@ -6795,9 +6835,9 @@
             }
           ]
         },
-        "vph": 245.3,
+        "vph": 243.6,
         "days_since_published": 7,
-        "views_per_day": 6246.1,
+        "views_per_day": 6249.6,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 55,
@@ -6886,15 +6926,15 @@
       },
       {
         "video_id": "SxzIFNdD1_0",
-        "views": 43451,
-        "watch_time_minutes": 5866,
+        "views": 43520,
+        "watch_time_minutes": 5878,
         "avg_view_duration_seconds": 17,
-        "avg_view_percentage": 144.09,
+        "avg_view_percentage": 144.01,
         "subscribers_gained": 6,
         "likes": 972,
         "comments": 38,
         "shares": 93,
-        "engagement_rate": 2.54,
+        "engagement_rate": 2.53,
         "subscriber_conversion_rate": 0.014,
         "title": "Big man movin' \ud83c\udfc3",
         "description": "Keylan Rutledge runs his 40-yard dash at the NFL Combine\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -6904,8 +6944,8 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 46013,
-          "likes": 1044,
+          "views": 46068,
+          "likes": 1045,
           "comments": 46
         },
         "content_status": {
@@ -6913,9 +6953,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 243.1,
+        "vph": 241.6,
         "days_since_published": 7,
-        "views_per_day": 6207.3,
+        "views_per_day": 6217.1,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 60,
@@ -7028,10 +7068,10 @@
       },
       {
         "video_id": "aaAvCKCMCPs",
-        "views": 39565,
-        "watch_time_minutes": 12911,
+        "views": 39592,
+        "watch_time_minutes": 12915,
         "avg_view_duration_seconds": 38,
-        "avg_view_percentage": 80.19,
+        "avg_view_percentage": 80.18,
         "subscribers_gained": 33,
         "likes": 1246,
         "comments": 39,
@@ -7046,8 +7086,8 @@
         "duration_formatted": "48s",
         "is_short": true,
         "statistics": {
-          "views": 42101,
-          "likes": 1301,
+          "views": 42141,
+          "likes": 1303,
           "comments": 100
         },
         "content_status": {
@@ -7055,9 +7095,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 252.3,
+        "vph": 250.3,
         "days_since_published": 6,
-        "views_per_day": 6594.2,
+        "views_per_day": 6598.7,
         "performance_status": "good",
         "seo_score": {
           "total_score": 65,
@@ -7075,7 +7115,7 @@
                 "subscribe",
                 "select"
               ],
-              "count": 13
+              "count": 15
             },
             "avoid_keywords": {
               "score": 0,
@@ -7128,7 +7168,9 @@
             "texan",
             "pick in",
             "draft we",
-            "we select"
+            "we select",
+            "the 2026",
+            "2026 nfl"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -7146,8 +7188,8 @@
       },
       {
         "video_id": "A4lKk9dZagA",
-        "views": 36213,
-        "watch_time_minutes": 6062,
+        "views": 36262,
+        "watch_time_minutes": 6078,
         "avg_view_duration_seconds": 18,
         "avg_view_percentage": 105.22,
         "subscribers_gained": 9,
@@ -7164,8 +7206,8 @@
         "duration_formatted": "18s",
         "is_short": true,
         "statistics": {
-          "views": 36923,
-          "likes": 994,
+          "views": 36929,
+          "likes": 995,
           "comments": 40
         },
         "content_status": {
@@ -7173,9 +7215,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 203.6,
+        "vph": 202.3,
         "days_since_published": 7,
-        "views_per_day": 5173.3,
+        "views_per_day": 5180.3,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 55,
@@ -7257,14 +7299,14 @@
       },
       {
         "video_id": "-plK0seX3xU",
-        "views": 34170,
-        "watch_time_minutes": 9547,
+        "views": 34223,
+        "watch_time_minutes": 9566,
         "avg_view_duration_seconds": 33,
-        "avg_view_percentage": 108.79,
+        "avg_view_percentage": 108.81999999999998,
         "subscribers_gained": 13,
         "likes": 1743,
         "comments": 72,
-        "shares": 117,
+        "shares": 118,
         "engagement_rate": 5.65,
         "subscriber_conversion_rate": 0.038,
         "title": "Let's get to work.",
@@ -7275,8 +7317,8 @@
         "duration_formatted": "31s",
         "is_short": true,
         "statistics": {
-          "views": 35537,
-          "likes": 1792,
+          "views": 35559,
+          "likes": 1794,
           "comments": 82
         },
         "content_status": {
@@ -7284,9 +7326,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 214.1,
+        "vph": 212.6,
         "days_since_published": 6,
-        "views_per_day": 5695.0,
+        "views_per_day": 5703.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -7367,16 +7409,16 @@
       },
       {
         "video_id": "Z9Z30_IUEPk",
-        "views": 33185,
-        "watch_time_minutes": 8277,
+        "views": 33243,
+        "watch_time_minutes": 8296,
         "avg_view_duration_seconds": 29,
-        "avg_view_percentage": 109.98000000000002,
-        "subscribers_gained": 6,
+        "avg_view_percentage": 110.00000000000001,
+        "subscribers_gained": 7,
         "likes": 1363,
         "comments": 39,
         "shares": 24,
-        "engagement_rate": 4.3,
-        "subscriber_conversion_rate": 0.018,
+        "engagement_rate": 4.29,
+        "subscriber_conversion_rate": 0.021,
         "title": "Full circle moment \ud83d\udc40 | Hear the call",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-25T03:13:16Z",
@@ -7385,7 +7427,7 @@
         "duration_formatted": "27s",
         "is_short": true,
         "statistics": {
-          "views": 34260,
+          "views": 34282,
           "likes": 1393,
           "comments": 104
         },
@@ -7394,9 +7436,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 214.6,
+        "vph": 213.1,
         "days_since_published": 6,
-        "views_per_day": 5530.8,
+        "views_per_day": 5540.5,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -7481,16 +7523,16 @@
       },
       {
         "video_id": "_TLkN8r0PR8",
-        "views": 30906,
-        "watch_time_minutes": 6865,
+        "views": 30948,
+        "watch_time_minutes": 6848,
         "avg_view_duration_seconds": 28,
-        "avg_view_percentage": 123.31,
-        "subscribers_gained": 21,
+        "avg_view_percentage": 123.29999999999998,
+        "subscribers_gained": 20,
         "likes": 1545,
         "comments": 46,
         "shares": 28,
-        "engagement_rate": 5.24,
-        "subscriber_conversion_rate": 0.068,
+        "engagement_rate": 5.23,
+        "subscriber_conversion_rate": 0.065,
         "title": "The call that made Kayden McDonald a Texan",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-25T00:46:29Z",
@@ -7516,9 +7558,9 @@
             }
           ]
         },
-        "vph": 196.7,
+        "vph": 195.3,
         "days_since_published": 6,
-        "views_per_day": 5151.0,
+        "views_per_day": 5158.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -7595,8 +7637,8 @@
       },
       {
         "video_id": "BRaPuOKZbsw",
-        "views": 29433,
-        "watch_time_minutes": 5137,
+        "views": 29445,
+        "watch_time_minutes": 5141,
         "avg_view_duration_seconds": 21,
         "avg_view_percentage": 125.21,
         "subscribers_gained": 6,
@@ -7613,8 +7655,8 @@
         "duration_formatted": "17s",
         "is_short": true,
         "statistics": {
-          "views": 30092,
-          "likes": 1259,
+          "views": 30095,
+          "likes": 1260,
           "comments": 49
         },
         "content_status": {
@@ -7622,9 +7664,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 165.1,
+        "vph": 163.9,
         "days_since_published": 7,
-        "views_per_day": 4204.7,
+        "views_per_day": 4206.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -7698,10 +7740,10 @@
       },
       {
         "video_id": "4g4KlWI2Hjg",
-        "views": 29244,
-        "watch_time_minutes": 1855,
+        "views": 29272,
+        "watch_time_minutes": 1856,
         "avg_view_duration_seconds": 9,
-        "avg_view_percentage": 195.6,
+        "avg_view_percentage": 195.63,
         "subscribers_gained": 3,
         "likes": 867,
         "comments": 14,
@@ -7716,7 +7758,7 @@
         "duration_formatted": "5s",
         "is_short": true,
         "statistics": {
-          "views": 30220,
+          "views": 30218,
           "likes": 879,
           "comments": 18
         },
@@ -7725,9 +7767,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 214.8,
+        "vph": 212.9,
         "days_since_published": 5,
-        "views_per_day": 5848.8,
+        "views_per_day": 5854.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -7806,10 +7848,10 @@
       },
       {
         "video_id": "l1GfFMC6dhY",
-        "views": 25272,
-        "watch_time_minutes": 6764,
+        "views": 25299,
+        "watch_time_minutes": 6761,
         "avg_view_duration_seconds": 34,
-        "avg_view_percentage": 85.93,
+        "avg_view_percentage": 85.92,
         "subscribers_gained": 9,
         "likes": 1421,
         "comments": 71,
@@ -7824,7 +7866,7 @@
         "duration_formatted": "40s",
         "is_short": true,
         "statistics": {
-          "views": 25645,
+          "views": 25652,
           "likes": 1440,
           "comments": 72
         },
@@ -7833,9 +7875,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 159.9,
+        "vph": 158.7,
         "days_since_published": 6,
-        "views_per_day": 4212.0,
+        "views_per_day": 4216.5,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -7924,15 +7966,15 @@
       },
       {
         "video_id": "UiwxXi--4IQ",
-        "views": 22993,
-        "watch_time_minutes": 15112,
+        "views": 23066,
+        "watch_time_minutes": 15171,
         "avg_view_duration_seconds": 58,
         "avg_view_percentage": 43.18,
         "subscribers_gained": 15,
         "likes": 1134,
         "comments": 105,
         "shares": 363,
-        "engagement_rate": 6.97,
+        "engagement_rate": 6.95,
         "subscriber_conversion_rate": 0.065,
         "title": "With the 141st pick in the NFL Draft we select..",
         "description": "The Houston Texans select USC defensive back Kamari Ramsey in Round 5 of the 2026 NFL Draft with the No. 141 overall pick.\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -7942,18 +7984,18 @@
         "duration_formatted": "2:16",
         "is_short": false,
         "statistics": {
-          "views": 23561,
+          "views": 23569,
           "likes": 1166,
-          "comments": 143
+          "comments": 144
         },
         "content_status": {
           "is_blocked": false,
           "block_reason": null,
           "flags": []
         },
-        "vph": 164.8,
+        "vph": 163.7,
         "days_since_published": 5,
-        "views_per_day": 4598.6,
+        "views_per_day": 4613.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 70,
@@ -7971,7 +8013,7 @@
                 "bit",
                 "3uh7n0e"
               ],
-              "count": 32
+              "count": 41
             },
             "avoid_keywords": {
               "score": 0,
@@ -8043,7 +8085,16 @@
             "usc defensive",
             "defensive back",
             "back kamari",
-            "kamari ramsey"
+            "kamari ramsey",
+            "ramsey in",
+            "in round",
+            "round 5",
+            "5 of",
+            "the 2026",
+            "2026 nfl",
+            "draft with",
+            "141 overall",
+            "overall pick"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -8062,10 +8113,10 @@
       },
       {
         "video_id": "pIZ-31LgkFY",
-        "views": 20867,
+        "views": 20866,
         "watch_time_minutes": 3429,
         "avg_view_duration_seconds": 20,
-        "avg_view_percentage": 144.97,
+        "avg_view_percentage": 144.98,
         "subscribers_gained": 11,
         "likes": 851,
         "comments": 100,
@@ -8097,9 +8148,9 @@
             }
           ]
         },
-        "vph": 79.5,
+        "vph": 79.0,
         "days_since_published": 10,
-        "views_per_day": 2086.7,
+        "views_per_day": 2086.6,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -8178,10 +8229,10 @@
       },
       {
         "video_id": "zBGiIqoSsck",
-        "views": 20822,
-        "watch_time_minutes": 4060,
+        "views": 20841,
+        "watch_time_minutes": 4057,
         "avg_view_duration_seconds": 22,
-        "avg_view_percentage": 105.65,
+        "avg_view_percentage": 105.64,
         "subscribers_gained": 0,
         "likes": 935,
         "comments": 17,
@@ -8196,7 +8247,7 @@
         "duration_formatted": "21s",
         "is_short": true,
         "statistics": {
-          "views": 21901,
+          "views": 21918,
           "likes": 965,
           "comments": 23
         },
@@ -8213,9 +8264,9 @@
             }
           ]
         },
-        "vph": 155.3,
+        "vph": 153.9,
         "days_since_published": 5,
-        "views_per_day": 4164.4,
+        "views_per_day": 4168.2,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -8299,10 +8350,10 @@
       },
       {
         "video_id": "4qAREEw0N-g",
-        "views": 20640,
-        "watch_time_minutes": 5482,
+        "views": 20664,
+        "watch_time_minutes": 5489,
         "avg_view_duration_seconds": 31,
-        "avg_view_percentage": 92.76,
+        "avg_view_percentage": 92.78,
         "subscribers_gained": 5,
         "likes": 872,
         "comments": 34,
@@ -8317,8 +8368,8 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 21498,
-          "likes": 897,
+          "views": 21526,
+          "likes": 898,
           "comments": 62
         },
         "content_status": {
@@ -8326,9 +8377,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 131.7,
+        "vph": 130.7,
         "days_since_published": 6,
-        "views_per_day": 3440.0,
+        "views_per_day": 3444.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -8406,8 +8457,8 @@
       },
       {
         "video_id": "C3fYR1JzgOg",
-        "views": 20321,
-        "watch_time_minutes": 8915,
+        "views": 20317,
+        "watch_time_minutes": 8917,
         "avg_view_duration_seconds": 46,
         "avg_view_percentage": 78.68,
         "subscribers_gained": 8,
@@ -8424,8 +8475,8 @@
         "duration_formatted": "59s",
         "is_short": true,
         "statistics": {
-          "views": 20833,
-          "likes": 1042,
+          "views": 20848,
+          "likes": 1043,
           "comments": 35
         },
         "content_status": {
@@ -8433,9 +8484,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 95.0,
+        "vph": 94.4,
         "days_since_published": 8,
-        "views_per_day": 2540.1,
+        "views_per_day": 2539.6,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -8527,10 +8578,10 @@
       },
       {
         "video_id": "pttLtOcs6No",
-        "views": 18883,
-        "watch_time_minutes": 11268,
+        "views": 18889,
+        "watch_time_minutes": 11275,
         "avg_view_duration_seconds": 76,
-        "avg_view_percentage": 47.4,
+        "avg_view_percentage": 47.39,
         "subscribers_gained": 13,
         "likes": 933,
         "comments": 54,
@@ -8545,8 +8596,8 @@
         "duration_formatted": "2:41",
         "is_short": false,
         "statistics": {
-          "views": 19388,
-          "likes": 991,
+          "views": 19399,
+          "likes": 993,
           "comments": 67
         },
         "content_status": {
@@ -8554,9 +8605,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 119.3,
+        "vph": 118.3,
         "days_since_published": 6,
-        "views_per_day": 3147.2,
+        "views_per_day": 3148.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 65,
@@ -8574,7 +8625,7 @@
                 "tickets",
                 "subscribe"
               ],
-              "count": 15
+              "count": 17
             },
             "avoid_keywords": {
               "score": 0,
@@ -8632,7 +8683,9 @@
             "texan",
             "pick in",
             "draft we",
-            "we select"
+            "we select",
+            "the 2026",
+            "2026 nfl"
           ],
           "avoid_keywords_found": [
             "watch",
@@ -8653,16 +8706,16 @@
       },
       {
         "video_id": "2j4C5kFuC5g",
-        "views": 18806,
-        "watch_time_minutes": 1657,
+        "views": 18838,
+        "watch_time_minutes": 1661,
         "avg_view_duration_seconds": 11,
-        "avg_view_percentage": 129.87,
-        "subscribers_gained": 4,
+        "avg_view_percentage": 129.94,
+        "subscribers_gained": 3,
         "likes": 909,
         "comments": 46,
         "shares": 18,
         "engagement_rate": 5.17,
-        "subscriber_conversion_rate": 0.021,
+        "subscriber_conversion_rate": 0.016,
         "title": "Everyone, meet Marlin \ud83d\udc4b",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-25T03:02:47Z",
@@ -8671,7 +8724,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 19497,
+          "views": 19507,
           "likes": 931,
           "comments": 57
         },
@@ -8680,9 +8733,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 121.5,
+        "vph": 120.6,
         "days_since_published": 6,
-        "views_per_day": 3134.3,
+        "views_per_day": 3139.7,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -8758,10 +8811,10 @@
       },
       {
         "video_id": "xqjWwrB5WH0",
-        "views": 18725,
-        "watch_time_minutes": 1103,
+        "views": 18729,
+        "watch_time_minutes": 1104,
         "avg_view_duration_seconds": 8,
-        "avg_view_percentage": 176.74,
+        "avg_view_percentage": 176.77,
         "subscribers_gained": 4,
         "likes": 1018,
         "comments": 66,
@@ -8776,7 +8829,7 @@
         "duration_formatted": "5s",
         "is_short": true,
         "statistics": {
-          "views": 19021,
+          "views": 19027,
           "likes": 1034,
           "comments": 63
         },
@@ -8785,9 +8838,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 105.4,
+        "vph": 104.6,
         "days_since_published": 7,
-        "views_per_day": 2675.0,
+        "views_per_day": 2675.6,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -8868,16 +8921,16 @@
       },
       {
         "video_id": "q9jUpznN1fU",
-        "views": 18171,
-        "watch_time_minutes": 7305,
+        "views": 18189,
+        "watch_time_minutes": 7310,
         "avg_view_duration_seconds": 40,
-        "avg_view_percentage": 82.59,
+        "avg_view_percentage": 82.62,
         "subscribers_gained": 3,
         "likes": 974,
         "comments": 21,
         "shares": 23,
         "engagement_rate": 5.6,
-        "subscriber_conversion_rate": 0.017,
+        "subscriber_conversion_rate": 0.016,
         "title": "Watch the newest Texan work \ud83d\udcaa",
         "description": "Kayden McDonald highlights \nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-24T23:56:41Z",
@@ -8886,7 +8939,7 @@
         "duration_formatted": "49s",
         "is_short": true,
         "statistics": {
-          "views": 18589,
+          "views": 18592,
           "likes": 988,
           "comments": 30
         },
@@ -8895,9 +8948,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 115.0,
+        "vph": 114.2,
         "days_since_published": 6,
-        "views_per_day": 3028.5,
+        "views_per_day": 3031.5,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -8983,15 +9036,15 @@
       },
       {
         "video_id": "gHyQIfvar5A",
-        "views": 17869,
-        "watch_time_minutes": 8466,
+        "views": 17909,
+        "watch_time_minutes": 8480,
         "avg_view_duration_seconds": 50,
-        "avg_view_percentage": 96.22,
+        "avg_view_percentage": 96.17,
         "subscribers_gained": 4,
         "likes": 904,
         "comments": 21,
         "shares": 49,
-        "engagement_rate": 5.45,
+        "engagement_rate": 5.44,
         "subscriber_conversion_rate": 0.022,
         "title": "Meet the newest Texan, G Febechi Nwaiwu \ud83d\udcaa",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -9001,8 +9054,8 @@
         "duration_formatted": "53s",
         "is_short": true,
         "statistics": {
-          "views": 18326,
-          "likes": 917,
+          "views": 18345,
+          "likes": 918,
           "comments": 31
         },
         "content_status": {
@@ -9010,9 +9063,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 126.5,
+        "vph": 125.6,
         "days_since_published": 5,
-        "views_per_day": 3573.8,
+        "views_per_day": 3581.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -9090,7 +9143,7 @@
       },
       {
         "video_id": "ixvfuF7QWlw",
-        "views": 17679,
+        "views": 17677,
         "watch_time_minutes": 1559,
         "avg_view_duration_seconds": 12,
         "avg_view_percentage": 157.62,
@@ -9108,7 +9161,7 @@
         "duration_formatted": "8s",
         "is_short": true,
         "statistics": {
-          "views": 17932,
+          "views": 17936,
           "likes": 1056,
           "comments": 48
         },
@@ -9117,9 +9170,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 75.7,
+        "vph": 75.3,
         "days_since_published": 9,
-        "views_per_day": 1964.3,
+        "views_per_day": 1964.1,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -9197,15 +9250,15 @@
       },
       {
         "video_id": "geVHYAgtmuQ",
-        "views": 17493,
-        "watch_time_minutes": 4986,
+        "views": 17524,
+        "watch_time_minutes": 4996,
         "avg_view_duration_seconds": 34,
-        "avg_view_percentage": 87.29,
+        "avg_view_percentage": 87.31,
         "subscribers_gained": 4,
         "likes": 860,
         "comments": 17,
         "shares": 27,
-        "engagement_rate": 5.17,
+        "engagement_rate": 5.16,
         "subscriber_conversion_rate": 0.023,
         "title": "Welcome to the swarm, Kamari Ramsey \u270c\ufe0f",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -9215,8 +9268,8 @@
         "duration_formatted": "39s",
         "is_short": true,
         "statistics": {
-          "views": 18373,
-          "likes": 900,
+          "views": 18387,
+          "likes": 901,
           "comments": 23
         },
         "content_status": {
@@ -9224,9 +9277,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 126.3,
+        "vph": 125.3,
         "days_since_published": 5,
-        "views_per_day": 3498.6,
+        "views_per_day": 3504.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -9308,15 +9361,15 @@
       },
       {
         "video_id": "6MI2yjtsvYY",
-        "views": 17401,
-        "watch_time_minutes": 4078,
+        "views": 17424,
+        "watch_time_minutes": 4086,
         "avg_view_duration_seconds": 26,
-        "avg_view_percentage": 82.94,
+        "avg_view_percentage": 82.97,
         "subscribers_gained": 5,
         "likes": 846,
         "comments": 13,
         "shares": 5,
-        "engagement_rate": 4.97,
+        "engagement_rate": 4.96,
         "subscriber_conversion_rate": 0.029,
         "title": "\"Let's go to work\" \ud83d\udcaa",
         "description": "Hear the call that made Lewis Bond a Texan. \nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -9326,8 +9379,8 @@
         "duration_formatted": "32s",
         "is_short": true,
         "statistics": {
-          "views": 18356,
-          "likes": 867,
+          "views": 18360,
+          "likes": 868,
           "comments": 14
         },
         "content_status": {
@@ -9343,9 +9396,9 @@
             }
           ]
         },
-        "vph": 129.1,
+        "vph": 128.0,
         "days_since_published": 5,
-        "views_per_day": 3480.2,
+        "views_per_day": 3484.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -9429,10 +9482,10 @@
       },
       {
         "video_id": "MbN4ZkShp20",
-        "views": 16511,
+        "views": 16512,
         "watch_time_minutes": 10422,
         "avg_view_duration_seconds": 63,
-        "avg_view_percentage": 66.46,
+        "avg_view_percentage": 66.47,
         "subscribers_gained": 15,
         "likes": 1724,
         "comments": 61,
@@ -9447,7 +9500,7 @@
         "duration_formatted": "1:35",
         "is_short": false,
         "statistics": {
-          "views": 16785,
+          "views": 16789,
           "likes": 1747,
           "comments": 70
         },
@@ -9456,9 +9509,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 68.6,
+        "vph": 68.2,
         "days_since_published": 10,
-        "views_per_day": 1651.1,
+        "views_per_day": 1651.2,
         "performance_status": "excellent",
         "seo_score": {
           "total_score": 50,
@@ -9530,15 +9583,15 @@
       },
       {
         "video_id": "1m0CO1_6TKs",
-        "views": 15166,
-        "watch_time_minutes": 1256,
+        "views": 15200,
+        "watch_time_minutes": 1258,
         "avg_view_duration_seconds": 11,
-        "avg_view_percentage": 139.79,
+        "avg_view_percentage": 139.85,
         "subscribers_gained": 0,
         "likes": 744,
         "comments": 30,
         "shares": 3,
-        "engagement_rate": 5.12,
+        "engagement_rate": 5.11,
         "subscriber_conversion_rate": 0.0,
         "title": "Houston we got a problem\u203c\ufe0f",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -9548,7 +9601,7 @@
         "duration_formatted": "8s",
         "is_short": true,
         "statistics": {
-          "views": 15615,
+          "views": 15616,
           "likes": 762,
           "comments": 35
         },
@@ -9557,9 +9610,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 110.7,
+        "vph": 109.9,
         "days_since_published": 5,
-        "views_per_day": 3033.2,
+        "views_per_day": 3040.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -9638,10 +9691,10 @@
       },
       {
         "video_id": "k9amHI0v9Hc",
-        "views": 15005,
+        "views": 15008,
         "watch_time_minutes": 2744,
         "avg_view_duration_seconds": 21,
-        "avg_view_percentage": 95.84,
+        "avg_view_percentage": 95.85,
         "subscribers_gained": 5,
         "likes": 730,
         "comments": 42,
@@ -9657,7 +9710,7 @@
         "is_short": true,
         "statistics": {
           "views": 15245,
-          "likes": 735,
+          "likes": 736,
           "comments": 39
         },
         "content_status": {
@@ -9665,9 +9718,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 57.2,
+        "vph": 56.9,
         "days_since_published": 10,
-        "views_per_day": 1500.5,
+        "views_per_day": 1500.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -9743,15 +9796,15 @@
       },
       {
         "video_id": "FuXzaVkHQ1A",
-        "views": 14464,
-        "watch_time_minutes": 5266,
+        "views": 14498,
+        "watch_time_minutes": 5275,
         "avg_view_duration_seconds": 39,
-        "avg_view_percentage": 64.71,
+        "avg_view_percentage": 64.73,
         "subscribers_gained": 8,
         "likes": 563,
         "comments": 13,
         "shares": 27,
-        "engagement_rate": 4.17,
+        "engagement_rate": 4.16,
         "subscriber_conversion_rate": 0.055,
         "title": "With the 123 overall pick we select..",
         "description": "The Houston Texans select Clemson Tigers linebacker Wade Woodaz in Round 4 of the 2026 NFL Draft with the No. 123 overall pick (via a trade with the Los Angeles Chargers).\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -9761,7 +9814,7 @@
         "duration_formatted": "1:01",
         "is_short": false,
         "statistics": {
-          "views": 14771,
+          "views": 14772,
           "likes": 578,
           "comments": 19
         },
@@ -9778,9 +9831,9 @@
             }
           ]
         },
-        "vph": 103.0,
+        "vph": 102.3,
         "days_since_published": 5,
-        "views_per_day": 2892.8,
+        "views_per_day": 2899.6,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -9798,7 +9851,7 @@
                 "angeles",
                 "the los"
               ],
-              "count": 23
+              "count": 28
             },
             "avoid_keywords": {
               "score": 0,
@@ -9864,7 +9917,12 @@
             "texans select",
             "texan",
             "overall",
-            "we select"
+            "we select",
+            "in round",
+            "the 2026",
+            "2026 nfl",
+            "draft with",
+            "overall pick"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -9885,15 +9943,15 @@
       },
       {
         "video_id": "L4-OdkQjzV4",
-        "views": 14438,
-        "watch_time_minutes": 888,
+        "views": 14475,
+        "watch_time_minutes": 890,
         "avg_view_duration_seconds": 8,
-        "avg_view_percentage": 149.05,
+        "avg_view_percentage": 149.11,
         "subscribers_gained": 3,
         "likes": 634,
         "comments": 28,
         "shares": 8,
-        "engagement_rate": 4.64,
+        "engagement_rate": 4.63,
         "subscriber_conversion_rate": 0.021,
         "title": "Hear from the newest Texan Wade Woodaz \ud83d\udc05",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -9920,9 +9978,9 @@
             }
           ]
         },
-        "vph": 104.2,
+        "vph": 103.4,
         "days_since_published": 5,
-        "views_per_day": 2887.6,
+        "views_per_day": 2895.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -10005,15 +10063,15 @@
       },
       {
         "video_id": "t5TqCPu2sWg",
-        "views": 14364,
-        "watch_time_minutes": 4933,
+        "views": 14397,
+        "watch_time_minutes": 4939,
         "avg_view_duration_seconds": 42,
-        "avg_view_percentage": 65.78,
+        "avg_view_percentage": 65.82,
         "subscribers_gained": 7,
         "likes": 476,
         "comments": 13,
         "shares": 3,
-        "engagement_rate": 3.43,
+        "engagement_rate": 3.42,
         "subscriber_conversion_rate": 0.049,
         "title": "With the 204th pick in the NFL Draft we select..",
         "description": "Texans select Lewis Bond with No. 204 pick in 2026 draft\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -10023,7 +10081,7 @@
         "duration_formatted": "1:04",
         "is_short": false,
         "statistics": {
-          "views": 14813,
+          "views": 14826,
           "likes": 489,
           "comments": 30
         },
@@ -10032,9 +10090,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 105.2,
+        "vph": 104.4,
         "days_since_published": 5,
-        "views_per_day": 2872.8,
+        "views_per_day": 2879.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 65,
@@ -10123,10 +10181,10 @@
       },
       {
         "video_id": "sR5F_n9K4ho",
-        "views": 14361,
+        "views": 14365,
         "watch_time_minutes": 2037,
         "avg_view_duration_seconds": 19,
-        "avg_view_percentage": 120.78,
+        "avg_view_percentage": 120.77,
         "subscribers_gained": 2,
         "likes": 698,
         "comments": 29,
@@ -10141,7 +10199,7 @@
         "duration_formatted": "16s",
         "is_short": true,
         "statistics": {
-          "views": 14828,
+          "views": 14834,
           "likes": 721,
           "comments": 26
         },
@@ -10158,9 +10216,9 @@
             }
           ]
         },
-        "vph": 66.8,
-        "days_since_published": 8,
-        "views_per_day": 1795.1,
+        "vph": 66.4,
+        "days_since_published": 9,
+        "views_per_day": 1596.1,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -10257,15 +10315,15 @@
       },
       {
         "video_id": "bALO9i-CXXc",
-        "views": 14255,
-        "watch_time_minutes": 3423,
+        "views": 14292,
+        "watch_time_minutes": 3430,
         "avg_view_duration_seconds": 28,
-        "avg_view_percentage": 99.41,
+        "avg_view_percentage": 99.42,
         "subscribers_gained": 3,
         "likes": 962,
         "comments": 54,
         "shares": 39,
-        "engagement_rate": 7.4,
+        "engagement_rate": 7.38,
         "subscriber_conversion_rate": 0.021,
         "title": "Febechi is ready to ball \ud83c\udfc8",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -10275,7 +10333,7 @@
         "duration_formatted": "29s",
         "is_short": true,
         "statistics": {
-          "views": 14592,
+          "views": 14605,
           "likes": 981,
           "comments": 58
         },
@@ -10292,9 +10350,9 @@
             }
           ]
         },
-        "vph": 101.5,
+        "vph": 100.8,
         "days_since_published": 5,
-        "views_per_day": 2851.0,
+        "views_per_day": 2858.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -10375,15 +10433,15 @@
       },
       {
         "video_id": "iXZJJBNdCKA",
-        "views": 13907,
-        "watch_time_minutes": 3564,
+        "views": 13929,
+        "watch_time_minutes": 3569,
         "avg_view_duration_seconds": 30,
-        "avg_view_percentage": 86.06,
+        "avg_view_percentage": 86.08,
         "subscribers_gained": 1,
         "likes": 783,
         "comments": 24,
         "shares": 24,
-        "engagement_rate": 5.98,
+        "engagement_rate": 5.97,
         "subscriber_conversion_rate": 0.007,
         "title": "Febechi Nwaiwu, YOU\u2019RE A TEXAN\u203c\ufe0f",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -10393,7 +10451,7 @@
         "duration_formatted": "36s",
         "is_short": true,
         "statistics": {
-          "views": 14474,
+          "views": 14490,
           "likes": 809,
           "comments": 25
         },
@@ -10402,9 +10460,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 100.4,
+        "vph": 99.6,
         "days_since_published": 5,
-        "views_per_day": 2781.4,
+        "views_per_day": 2785.8,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 55,
@@ -10478,15 +10536,15 @@
       },
       {
         "video_id": "VJt8kMdhb1A",
-        "views": 13870,
-        "watch_time_minutes": 3702,
+        "views": 13828,
+        "watch_time_minutes": 3686,
         "avg_view_duration_seconds": 28,
-        "avg_view_percentage": 88.28,
+        "avg_view_percentage": 88.21,
         "subscribers_gained": 6,
         "likes": 923,
         "comments": 30,
         "shares": 26,
-        "engagement_rate": 7.06,
+        "engagement_rate": 7.08,
         "subscriber_conversion_rate": 0.043,
         "title": "Houston Texans, Hallelujah \ud83d\ude4c",
         "description": "",
@@ -10496,7 +10554,7 @@
         "duration_formatted": "32s",
         "is_short": true,
         "statistics": {
-          "views": 14941,
+          "views": 14943,
           "likes": 965,
           "comments": 30
         },
@@ -10505,9 +10563,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 120.9,
+        "vph": 119.1,
         "days_since_published": 4,
-        "views_per_day": 3467.5,
+        "views_per_day": 3457.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 35,
@@ -10569,16 +10627,16 @@
       },
       {
         "video_id": "pLkZzPBVtps",
-        "views": 12980,
-        "watch_time_minutes": 3761,
+        "views": 12994,
+        "watch_time_minutes": 3764,
         "avg_view_duration_seconds": 31,
-        "avg_view_percentage": 81.86,
-        "subscribers_gained": 2,
+        "avg_view_percentage": 81.87,
+        "subscribers_gained": 1,
         "likes": 766,
         "comments": 16,
         "shares": 11,
-        "engagement_rate": 6.11,
-        "subscriber_conversion_rate": 0.015,
+        "engagement_rate": 6.1,
+        "subscriber_conversion_rate": 0.008,
         "title": "Wade Woodaz got the H-Town call \ud83d\udcde",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-25T19:23:13Z",
@@ -10604,10 +10662,10 @@
             }
           ]
         },
-        "vph": 93.7,
+        "vph": 92.9,
         "days_since_published": 5,
-        "views_per_day": 2596.0,
-        "performance_status": "average",
+        "views_per_day": 2598.8,
+        "performance_status": "poor",
         "seo_score": {
           "total_score": 55,
           "grade": "D",
@@ -10683,8 +10741,8 @@
       },
       {
         "video_id": "WXDZUmEZtV8",
-        "views": 12425,
-        "watch_time_minutes": 846,
+        "views": 12440,
+        "watch_time_minutes": 847,
         "avg_view_duration_seconds": 13,
         "avg_view_percentage": 87.17,
         "subscribers_gained": 0,
@@ -10736,7 +10794,7 @@
       },
       {
         "video_id": "-5dft1iiTd0",
-        "views": 12401,
+        "views": 12409,
         "watch_time_minutes": 1529,
         "avg_view_duration_seconds": 17,
         "avg_view_percentage": 154.95,
@@ -10754,8 +10812,8 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 12610,
-          "likes": 513,
+          "views": 12612,
+          "likes": 514,
           "comments": 32
         },
         "content_status": {
@@ -10763,9 +10821,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 47.2,
+        "vph": 47.0,
         "days_since_published": 10,
-        "views_per_day": 1240.1,
+        "views_per_day": 1240.9,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -10839,16 +10897,16 @@
       },
       {
         "video_id": "aQQm1naiPKY",
-        "views": 12229,
-        "watch_time_minutes": 2690,
+        "views": 12250,
+        "watch_time_minutes": 2695,
         "avg_view_duration_seconds": 26,
         "avg_view_percentage": 97.09,
         "subscribers_gained": 3,
         "likes": 676,
         "comments": 21,
         "shares": 43,
-        "engagement_rate": 6.05,
-        "subscriber_conversion_rate": 0.025,
+        "engagement_rate": 6.04,
+        "subscriber_conversion_rate": 0.024,
         "title": "JUMPIN\u2019 FOR JOY \ud83e\udd18",
         "description": "The newest Texan meets Texans fans at the NFL Draft. \nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-25T00:02:15Z",
@@ -10857,7 +10915,7 @@
         "duration_formatted": "27s",
         "is_short": true,
         "statistics": {
-          "views": 12496,
+          "views": 12504,
           "likes": 694,
           "comments": 27
         },
@@ -10866,9 +10924,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 77.5,
+        "vph": 76.9,
         "days_since_published": 6,
-        "views_per_day": 2038.2,
+        "views_per_day": 2041.7,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -10959,10 +11017,10 @@
       },
       {
         "video_id": "LinQ1BAhvRg",
-        "views": 12226,
-        "watch_time_minutes": 877,
+        "views": 12238,
+        "watch_time_minutes": 878,
         "avg_view_duration_seconds": 10,
-        "avg_view_percentage": 67.41,
+        "avg_view_percentage": 67.42,
         "subscribers_gained": 0,
         "likes": 0,
         "comments": 0,
@@ -11012,15 +11070,15 @@
       },
       {
         "video_id": "wmBY8Gtb77E",
-        "views": 11543,
-        "watch_time_minutes": 757,
+        "views": 11570,
+        "watch_time_minutes": 758,
         "avg_view_duration_seconds": 9,
-        "avg_view_percentage": 128.99,
+        "avg_view_percentage": 128.98,
         "subscribers_gained": 0,
         "likes": 708,
         "comments": 34,
         "shares": 8,
-        "engagement_rate": 6.5,
+        "engagement_rate": 6.48,
         "subscriber_conversion_rate": 0.0,
         "title": "KAYDEN IS READY TO WORK!!",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -11047,9 +11105,9 @@
             }
           ]
         },
-        "vph": 73.6,
+        "vph": 73.1,
         "days_since_published": 6,
-        "views_per_day": 1923.8,
+        "views_per_day": 1928.3,
         "performance_status": "good",
         "seo_score": {
           "total_score": 50,
@@ -11129,10 +11187,10 @@
       },
       {
         "video_id": "vY_cbXwihbs",
-        "views": 11483,
-        "watch_time_minutes": 672,
+        "views": 11504,
+        "watch_time_minutes": 673,
         "avg_view_duration_seconds": 8,
-        "avg_view_percentage": 162.76,
+        "avg_view_percentage": 162.77,
         "subscribers_gained": 2,
         "likes": 543,
         "comments": 18,
@@ -11147,7 +11205,7 @@
         "duration_formatted": "5s",
         "is_short": true,
         "statistics": {
-          "views": 12079,
+          "views": 12084,
           "likes": 557,
           "comments": 17
         },
@@ -11156,9 +11214,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 84.8,
+        "vph": 84.1,
         "days_since_published": 5,
-        "views_per_day": 2296.6,
+        "views_per_day": 2300.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -11235,8 +11293,8 @@
       },
       {
         "video_id": "ozmiPKtD1VQ",
-        "views": 10964,
-        "watch_time_minutes": 4597,
+        "views": 10967,
+        "watch_time_minutes": 4598,
         "avg_view_duration_seconds": 44,
         "avg_view_percentage": 76.32,
         "subscribers_gained": 11,
@@ -11262,9 +11320,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 61.4,
+        "vph": 60.9,
         "days_since_published": 7,
-        "views_per_day": 1566.3,
+        "views_per_day": 1566.7,
         "performance_status": "excellent",
         "seo_score": {
           "total_score": 60,
@@ -11345,10 +11403,10 @@
       },
       {
         "video_id": "frL7GN0fXms",
-        "views": 10404,
-        "watch_time_minutes": 1227,
+        "views": 10402,
+        "watch_time_minutes": 1225,
         "avg_view_duration_seconds": 14,
-        "avg_view_percentage": 97.66,
+        "avg_view_percentage": 97.59,
         "subscribers_gained": 0,
         "likes": 1,
         "comments": 0,
@@ -11398,10 +11456,10 @@
       },
       {
         "video_id": "gLKZkcwXd8g",
-        "views": 9794,
-        "watch_time_minutes": 1016,
+        "views": 9792,
+        "watch_time_minutes": 1007,
         "avg_view_duration_seconds": 14,
-        "avg_view_percentage": 131.42,
+        "avg_view_percentage": 130.12,
         "subscribers_gained": 0,
         "likes": 529,
         "comments": 16,
@@ -11425,9 +11483,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 61.9,
+        "vph": 61.4,
         "days_since_published": 6,
-        "views_per_day": 1632.3,
+        "views_per_day": 1632.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -11509,10 +11567,10 @@
       },
       {
         "video_id": "OPSY6H_rP-k",
-        "views": 9311,
-        "watch_time_minutes": 636,
+        "views": 9316,
+        "watch_time_minutes": 637,
         "avg_view_duration_seconds": 12,
-        "avg_view_percentage": 82.53,
+        "avg_view_percentage": 82.55,
         "subscribers_gained": 0,
         "likes": 0,
         "comments": 0,
@@ -11562,10 +11620,10 @@
       },
       {
         "video_id": "ZyjaNRFqpKA",
-        "views": 8757,
+        "views": 8774,
         "watch_time_minutes": 518,
         "avg_view_duration_seconds": 12,
-        "avg_view_percentage": 81.77,
+        "avg_view_percentage": 81.71,
         "subscribers_gained": 0,
         "likes": 0,
         "comments": 0,
@@ -11615,8 +11673,8 @@
       },
       {
         "video_id": "Ds8kVBVOQdk",
-        "views": 8657,
-        "watch_time_minutes": 58506,
+        "views": 8659,
+        "watch_time_minutes": 58491,
         "avg_view_duration_seconds": 405,
         "avg_view_percentage": 30.990000000000002,
         "subscribers_gained": 8,
@@ -11642,9 +11700,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 53.8,
+        "vph": 53.3,
         "days_since_published": 6,
-        "views_per_day": 1442.8,
+        "views_per_day": 1443.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 70,
@@ -11790,7 +11848,7 @@
       },
       {
         "video_id": "2yd1rTZIr7w",
-        "views": 8235,
+        "views": 8242,
         "watch_time_minutes": 552,
         "avg_view_duration_seconds": 12,
         "avg_view_percentage": 616.38,
@@ -11843,7 +11901,7 @@
       },
       {
         "video_id": "RZFaQfbfvq8",
-        "views": 8161,
+        "views": 8164,
         "watch_time_minutes": 656,
         "avg_view_duration_seconds": 14,
         "avg_view_percentage": 724.89,
@@ -11898,8 +11956,8 @@
     "current_fy": [
       {
         "video_id": "0xvXMEnwyYM",
-        "views": 112642,
-        "watch_time_minutes": 406151,
+        "views": 112654,
+        "watch_time_minutes": 406270,
         "avg_view_duration_seconds": 216,
         "avg_view_percentage": 33.14,
         "subscribers_gained": 140,
@@ -11916,8 +11974,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 11962581,
-          "likes": 164642,
+          "views": 11962771,
+          "likes": 164643,
           "comments": 8618
         },
         "content_status": {
@@ -12227,9 +12285,14 @@
                 "excellence and",
                 "teamwork that",
                 "texans a",
-                "a huge"
+                "a huge",
+                "huge thank",
+                "dc and",
+                "this unforgettable",
+                "unforgettable performance",
+                "fans and"
               ],
-              "penalty": 2700
+              "penalty": 2750
             },
             "title": {
               "score": 10,
@@ -12249,7 +12312,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: video, houstontexans, com, www, team, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, get, their, texans vs, silent, drill, platoon, marine, silent drill, drill platoon, against, players, one, against the, day, never, ever, moment, its, as the, time, moments, stadium, game, nrg stadium, at nrg, one of, performs, thursday, night, colts, barracks, washington, precision, performance, united, states, corps, youtube, know, platoon performs, performs at, at halftime, halftime on, on thursday, thursday night, night football, colts the, the marine, marine barracks, barracks washington, washington dc, the united, united states, states marine, marine corps, corps silent, subscribe to, follow the, halftime, pro, fans, as they, https, front, tiktok, during, elite, sub_confirmation, website, perfectly, the silent, special, red, military, unforgettable, performance that, excellence, halftime show, absolutely, feet, marines', crowd, dedication, embodied, in houston, had nrg, thank, miss, marines, their feet, an incredible, the marines', precision and, and dedication, thank you, never miss, signature, show, honor, of our, discipline, powerful, stadium on, women, skill, teamwork, an absolutely, halftime performance, on their, our home, and women, stadium was, incredible halftime, our military, fan, mesmerizing, flawless, perform, ceremonial, known, synchronized, movements, rifle, tribute, values, strive, forget, thursdaynightfootball, absolutely mesmerizing, incredible honor, honor to, to host, host the, dc silent, stadium during, during our, crowd in, known for, performance was, a powerful, tribute to, to our, skill and, this incredible, show that, and teamwork, moments like, delivers, routine, units, handling, without, any, verbal, commands, nation's, servicemen, captivated, even, honored, heroes, professionalism, huge, stay, connected, platoon delivers, delivers an, mesmerizing halftime, feet during, during thursday, platoon at, our thursday, football matchup, matchup against, the indianapolis, indianapolis colts, this video, video captures, marines' flawless, flawless precision, and discipline, discipline as, they perform, perform their, their signature, signature silent, drill routine, routine in, in front, front of, home crowd, platoon is, is one, most elite, elite ceremonial, ceremonial units, units in, states military, unit, men, men and, nation, their performance, military heroes, the values, of excellence, for their, their perfectly, perfectly synchronized, synchronized movements, movements and, and rifle, rifle handling, handling without, without any, any verbal, verbal commands, powerful tribute, our nation's, nation's servicemen, servicemen and, entire stadium, was captivated, captivated by, by their, their skill, this thursday, football game, game was, was made, made even, even more, more special, special by, service, stat, we strive, strive for, for as, platoon for, that our, our fans, will never, never forget, that honored, honored our, marines' precision, and professionalism, professionalism perfectly, perfectly embodied, embodied the, values of, excellence and, teamwork that, texans a, a huge",
+            "Consider removing: video, houstontexans, com, www, team, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, get, their, texans vs, silent, drill, platoon, marine, silent drill, drill platoon, against, players, one, against the, day, never, ever, moment, its, as the, time, moments, stadium, game, nrg stadium, at nrg, one of, performs, thursday, night, colts, barracks, washington, precision, performance, united, states, corps, youtube, know, platoon performs, performs at, at halftime, halftime on, on thursday, thursday night, night football, colts the, the marine, marine barracks, barracks washington, washington dc, the united, united states, states marine, marine corps, corps silent, subscribe to, follow the, halftime, pro, fans, as they, https, front, tiktok, during, elite, sub_confirmation, website, perfectly, the silent, special, red, military, unforgettable, performance that, excellence, halftime show, absolutely, feet, marines', crowd, dedication, embodied, in houston, had nrg, thank, miss, marines, their feet, an incredible, the marines', precision and, and dedication, thank you, never miss, signature, show, honor, of our, discipline, powerful, stadium on, women, skill, teamwork, an absolutely, halftime performance, on their, our home, and women, stadium was, incredible halftime, our military, fan, mesmerizing, flawless, perform, ceremonial, known, synchronized, movements, rifle, tribute, values, strive, forget, thursdaynightfootball, absolutely mesmerizing, incredible honor, honor to, to host, host the, dc silent, stadium during, during our, crowd in, known for, performance was, a powerful, tribute to, to our, skill and, this incredible, show that, and teamwork, moments like, delivers, routine, units, handling, without, any, verbal, commands, nation's, servicemen, captivated, even, honored, heroes, professionalism, huge, stay, connected, platoon delivers, delivers an, mesmerizing halftime, feet during, during thursday, platoon at, our thursday, football matchup, matchup against, the indianapolis, indianapolis colts, this video, video captures, marines' flawless, flawless precision, and discipline, discipline as, they perform, perform their, their signature, signature silent, drill routine, routine in, in front, front of, home crowd, platoon is, is one, most elite, elite ceremonial, ceremonial units, units in, states military, unit, men, men and, nation, their performance, military heroes, the values, of excellence, for their, their perfectly, perfectly synchronized, synchronized movements, movements and, and rifle, rifle handling, handling without, without any, any verbal, verbal commands, powerful tribute, our nation's, nation's servicemen, servicemen and, entire stadium, was captivated, captivated by, by their, their skill, this thursday, football game, game was, was made, made even, even more, more special, special by, service, stat, we strive, strive for, for as, platoon for, that our, our fans, will never, never forget, that honored, honored our, marines' precision, and professionalism, professionalism perfectly, perfectly embodied, embodied the, values of, excellence and, teamwork that, texans a, a huge, huge thank, dc and, this unforgettable, unforgettable performance, fans and",
             "Title is long (87 chars). Consider shortening to under 70 chars."
           ],
           "boost_keywords_found": [
@@ -12556,22 +12619,27 @@
             "excellence and",
             "teamwork that",
             "texans a",
-            "a huge"
+            "a huge",
+            "huge thank",
+            "dc and",
+            "this unforgettable",
+            "unforgettable performance",
+            "fans and"
           ]
         }
       },
       {
         "video_id": "cUCAZnzw6Zg",
-        "views": 90009,
-        "watch_time_minutes": 31168,
+        "views": 90050,
+        "watch_time_minutes": 31167,
         "avg_view_duration_seconds": 41,
         "avg_view_percentage": 82.47,
-        "subscribers_gained": 59,
+        "subscribers_gained": 58,
         "likes": 3650,
         "comments": 159,
         "shares": 637,
         "engagement_rate": 4.94,
-        "subscriber_conversion_rate": 0.066,
+        "subscriber_conversion_rate": 0.064,
         "title": "H-TOWN, MEET BIG RED",
         "description": "\u201cWe traded up to come get you.\u201d\nKeylan Rutledge is officially headed to H-Town.\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-24T04:21:03Z",
@@ -12580,8 +12648,8 @@
         "duration_formatted": "50s",
         "is_short": true,
         "statistics": {
-          "views": 91761,
-          "likes": 3700,
+          "views": 91798,
+          "likes": 3702,
           "comments": 158
         },
         "content_status": {
@@ -12597,9 +12665,9 @@
             }
           ]
         },
-        "vph": 507.0,
+        "vph": 503.4,
         "days_since_published": 7,
-        "views_per_day": 12858.4,
+        "views_per_day": 12864.3,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -12699,15 +12767,15 @@
       },
       {
         "video_id": "fS4AOH7CwiM",
-        "views": 43723,
-        "watch_time_minutes": 7300,
+        "views": 43747,
+        "watch_time_minutes": 7302,
         "avg_view_duration_seconds": 22,
-        "avg_view_percentage": 124.07999999999998,
+        "avg_view_percentage": 124.09000000000002,
         "subscribers_gained": 6,
         "likes": 1481,
         "comments": 61,
         "shares": 65,
-        "engagement_rate": 3.68,
+        "engagement_rate": 3.67,
         "subscriber_conversion_rate": 0.014,
         "title": "Keylan is ready to get out there \ud83c\udfc8",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -12717,8 +12785,8 @@
         "duration_formatted": "18s",
         "is_short": true,
         "statistics": {
-          "views": 45072,
-          "likes": 1513,
+          "views": 45087,
+          "likes": 1514,
           "comments": 63
         },
         "content_status": {
@@ -12734,9 +12802,9 @@
             }
           ]
         },
-        "vph": 245.3,
+        "vph": 243.6,
         "days_since_published": 7,
-        "views_per_day": 6246.1,
+        "views_per_day": 6249.6,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 55,
@@ -12825,15 +12893,15 @@
       },
       {
         "video_id": "SxzIFNdD1_0",
-        "views": 43451,
-        "watch_time_minutes": 5866,
+        "views": 43520,
+        "watch_time_minutes": 5878,
         "avg_view_duration_seconds": 17,
-        "avg_view_percentage": 144.09,
+        "avg_view_percentage": 144.01,
         "subscribers_gained": 6,
         "likes": 972,
         "comments": 38,
         "shares": 93,
-        "engagement_rate": 2.54,
+        "engagement_rate": 2.53,
         "subscriber_conversion_rate": 0.014,
         "title": "Big man movin' \ud83c\udfc3",
         "description": "Keylan Rutledge runs his 40-yard dash at the NFL Combine\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -12843,8 +12911,8 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 46013,
-          "likes": 1044,
+          "views": 46068,
+          "likes": 1045,
           "comments": 46
         },
         "content_status": {
@@ -12852,9 +12920,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 243.1,
+        "vph": 241.6,
         "days_since_published": 7,
-        "views_per_day": 6207.3,
+        "views_per_day": 6217.1,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 60,
@@ -12967,10 +13035,10 @@
       },
       {
         "video_id": "aaAvCKCMCPs",
-        "views": 39565,
-        "watch_time_minutes": 12911,
+        "views": 39592,
+        "watch_time_minutes": 12915,
         "avg_view_duration_seconds": 38,
-        "avg_view_percentage": 80.19,
+        "avg_view_percentage": 80.18,
         "subscribers_gained": 33,
         "likes": 1246,
         "comments": 39,
@@ -12985,8 +13053,8 @@
         "duration_formatted": "48s",
         "is_short": true,
         "statistics": {
-          "views": 42089,
-          "likes": 1301,
+          "views": 42141,
+          "likes": 1303,
           "comments": 100
         },
         "content_status": {
@@ -12994,9 +13062,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 252.3,
+        "vph": 250.3,
         "days_since_published": 6,
-        "views_per_day": 6594.2,
+        "views_per_day": 6598.7,
         "performance_status": "good",
         "seo_score": {
           "total_score": 65,
@@ -13014,7 +13082,7 @@
                 "subscribe",
                 "select"
               ],
-              "count": 13
+              "count": 15
             },
             "avoid_keywords": {
               "score": 0,
@@ -13067,7 +13135,9 @@
             "texan",
             "pick in",
             "draft we",
-            "we select"
+            "we select",
+            "the 2026",
+            "2026 nfl"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -13085,8 +13155,8 @@
       },
       {
         "video_id": "A4lKk9dZagA",
-        "views": 36213,
-        "watch_time_minutes": 6062,
+        "views": 36262,
+        "watch_time_minutes": 6078,
         "avg_view_duration_seconds": 18,
         "avg_view_percentage": 105.22,
         "subscribers_gained": 9,
@@ -13103,8 +13173,8 @@
         "duration_formatted": "18s",
         "is_short": true,
         "statistics": {
-          "views": 36921,
-          "likes": 994,
+          "views": 36929,
+          "likes": 995,
           "comments": 40
         },
         "content_status": {
@@ -13112,9 +13182,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 203.6,
+        "vph": 202.3,
         "days_since_published": 7,
-        "views_per_day": 5173.3,
+        "views_per_day": 5180.3,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 55,
@@ -13196,14 +13266,14 @@
       },
       {
         "video_id": "-plK0seX3xU",
-        "views": 34170,
-        "watch_time_minutes": 9547,
+        "views": 34223,
+        "watch_time_minutes": 9566,
         "avg_view_duration_seconds": 33,
-        "avg_view_percentage": 108.79,
+        "avg_view_percentage": 108.81999999999998,
         "subscribers_gained": 13,
         "likes": 1743,
         "comments": 72,
-        "shares": 117,
+        "shares": 118,
         "engagement_rate": 5.65,
         "subscriber_conversion_rate": 0.038,
         "title": "Let's get to work.",
@@ -13214,8 +13284,8 @@
         "duration_formatted": "31s",
         "is_short": true,
         "statistics": {
-          "views": 35537,
-          "likes": 1792,
+          "views": 35559,
+          "likes": 1794,
           "comments": 82
         },
         "content_status": {
@@ -13223,9 +13293,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 214.1,
+        "vph": 212.6,
         "days_since_published": 6,
-        "views_per_day": 5695.0,
+        "views_per_day": 5703.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -13306,16 +13376,16 @@
       },
       {
         "video_id": "Z9Z30_IUEPk",
-        "views": 33185,
-        "watch_time_minutes": 8277,
+        "views": 33243,
+        "watch_time_minutes": 8296,
         "avg_view_duration_seconds": 29,
-        "avg_view_percentage": 109.98000000000002,
-        "subscribers_gained": 6,
+        "avg_view_percentage": 110.00000000000001,
+        "subscribers_gained": 7,
         "likes": 1363,
         "comments": 39,
         "shares": 24,
-        "engagement_rate": 4.3,
-        "subscriber_conversion_rate": 0.018,
+        "engagement_rate": 4.29,
+        "subscriber_conversion_rate": 0.021,
         "title": "Full circle moment \ud83d\udc40 | Hear the call",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-25T03:13:16Z",
@@ -13324,7 +13394,7 @@
         "duration_formatted": "27s",
         "is_short": true,
         "statistics": {
-          "views": 34260,
+          "views": 34282,
           "likes": 1393,
           "comments": 104
         },
@@ -13333,9 +13403,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 214.6,
+        "vph": 213.1,
         "days_since_published": 6,
-        "views_per_day": 5530.8,
+        "views_per_day": 5540.5,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -13420,16 +13490,16 @@
       },
       {
         "video_id": "_TLkN8r0PR8",
-        "views": 30906,
-        "watch_time_minutes": 6865,
+        "views": 30948,
+        "watch_time_minutes": 6848,
         "avg_view_duration_seconds": 28,
-        "avg_view_percentage": 123.31,
-        "subscribers_gained": 21,
+        "avg_view_percentage": 123.29999999999998,
+        "subscribers_gained": 20,
         "likes": 1545,
         "comments": 46,
         "shares": 28,
-        "engagement_rate": 5.24,
-        "subscriber_conversion_rate": 0.068,
+        "engagement_rate": 5.23,
+        "subscriber_conversion_rate": 0.065,
         "title": "The call that made Kayden McDonald a Texan",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-25T00:46:29Z",
@@ -13455,9 +13525,9 @@
             }
           ]
         },
-        "vph": 196.7,
+        "vph": 195.3,
         "days_since_published": 6,
-        "views_per_day": 5151.0,
+        "views_per_day": 5158.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -13534,8 +13604,8 @@
       },
       {
         "video_id": "BRaPuOKZbsw",
-        "views": 29433,
-        "watch_time_minutes": 5137,
+        "views": 29445,
+        "watch_time_minutes": 5141,
         "avg_view_duration_seconds": 21,
         "avg_view_percentage": 125.21,
         "subscribers_gained": 6,
@@ -13552,8 +13622,8 @@
         "duration_formatted": "17s",
         "is_short": true,
         "statistics": {
-          "views": 30092,
-          "likes": 1259,
+          "views": 30095,
+          "likes": 1260,
           "comments": 49
         },
         "content_status": {
@@ -13561,9 +13631,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 165.1,
+        "vph": 163.9,
         "days_since_published": 7,
-        "views_per_day": 4204.7,
+        "views_per_day": 4206.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -13637,10 +13707,10 @@
       },
       {
         "video_id": "4g4KlWI2Hjg",
-        "views": 29244,
-        "watch_time_minutes": 1855,
+        "views": 29272,
+        "watch_time_minutes": 1856,
         "avg_view_duration_seconds": 9,
-        "avg_view_percentage": 195.6,
+        "avg_view_percentage": 195.63,
         "subscribers_gained": 3,
         "likes": 867,
         "comments": 14,
@@ -13664,9 +13734,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 214.8,
+        "vph": 212.9,
         "days_since_published": 5,
-        "views_per_day": 5848.8,
+        "views_per_day": 5854.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -13745,10 +13815,10 @@
       },
       {
         "video_id": "l1GfFMC6dhY",
-        "views": 25272,
-        "watch_time_minutes": 6764,
+        "views": 25299,
+        "watch_time_minutes": 6761,
         "avg_view_duration_seconds": 34,
-        "avg_view_percentage": 85.93,
+        "avg_view_percentage": 85.92,
         "subscribers_gained": 9,
         "likes": 1421,
         "comments": 71,
@@ -13763,7 +13833,7 @@
         "duration_formatted": "40s",
         "is_short": true,
         "statistics": {
-          "views": 25645,
+          "views": 25652,
           "likes": 1440,
           "comments": 72
         },
@@ -13772,9 +13842,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 159.9,
+        "vph": 158.7,
         "days_since_published": 6,
-        "views_per_day": 4212.0,
+        "views_per_day": 4216.5,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -13863,15 +13933,15 @@
       },
       {
         "video_id": "UiwxXi--4IQ",
-        "views": 22993,
-        "watch_time_minutes": 15112,
+        "views": 23066,
+        "watch_time_minutes": 15171,
         "avg_view_duration_seconds": 58,
         "avg_view_percentage": 43.18,
         "subscribers_gained": 15,
         "likes": 1134,
         "comments": 105,
         "shares": 363,
-        "engagement_rate": 6.97,
+        "engagement_rate": 6.95,
         "subscriber_conversion_rate": 0.065,
         "title": "With the 141st pick in the NFL Draft we select..",
         "description": "The Houston Texans select USC defensive back Kamari Ramsey in Round 5 of the 2026 NFL Draft with the No. 141 overall pick.\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -13881,18 +13951,18 @@
         "duration_formatted": "2:16",
         "is_short": false,
         "statistics": {
-          "views": 23561,
+          "views": 23569,
           "likes": 1166,
-          "comments": 143
+          "comments": 144
         },
         "content_status": {
           "is_blocked": false,
           "block_reason": null,
           "flags": []
         },
-        "vph": 164.8,
+        "vph": 163.7,
         "days_since_published": 5,
-        "views_per_day": 4598.6,
+        "views_per_day": 4613.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 70,
@@ -13910,7 +13980,7 @@
                 "bit",
                 "3uh7n0e"
               ],
-              "count": 32
+              "count": 41
             },
             "avoid_keywords": {
               "score": 0,
@@ -13982,7 +14052,16 @@
             "usc defensive",
             "defensive back",
             "back kamari",
-            "kamari ramsey"
+            "kamari ramsey",
+            "ramsey in",
+            "in round",
+            "round 5",
+            "5 of",
+            "the 2026",
+            "2026 nfl",
+            "draft with",
+            "141 overall",
+            "overall pick"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -14001,10 +14080,10 @@
       },
       {
         "video_id": "pIZ-31LgkFY",
-        "views": 20867,
+        "views": 20866,
         "watch_time_minutes": 3429,
         "avg_view_duration_seconds": 20,
-        "avg_view_percentage": 144.97,
+        "avg_view_percentage": 144.98,
         "subscribers_gained": 11,
         "likes": 851,
         "comments": 100,
@@ -14019,7 +14098,7 @@
         "duration_formatted": "14s",
         "is_short": true,
         "statistics": {
-          "views": 21139,
+          "views": 21143,
           "likes": 858,
           "comments": 115
         },
@@ -14036,9 +14115,9 @@
             }
           ]
         },
-        "vph": 79.5,
+        "vph": 79.0,
         "days_since_published": 10,
-        "views_per_day": 2086.7,
+        "views_per_day": 2086.6,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -14117,10 +14196,10 @@
       },
       {
         "video_id": "zBGiIqoSsck",
-        "views": 20822,
-        "watch_time_minutes": 4060,
+        "views": 20841,
+        "watch_time_minutes": 4057,
         "avg_view_duration_seconds": 22,
-        "avg_view_percentage": 105.65,
+        "avg_view_percentage": 105.64,
         "subscribers_gained": 0,
         "likes": 935,
         "comments": 17,
@@ -14135,7 +14214,7 @@
         "duration_formatted": "21s",
         "is_short": true,
         "statistics": {
-          "views": 21917,
+          "views": 21918,
           "likes": 965,
           "comments": 23
         },
@@ -14152,9 +14231,9 @@
             }
           ]
         },
-        "vph": 155.3,
+        "vph": 153.9,
         "days_since_published": 5,
-        "views_per_day": 4164.4,
+        "views_per_day": 4168.2,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -14238,10 +14317,10 @@
       },
       {
         "video_id": "4qAREEw0N-g",
-        "views": 20640,
-        "watch_time_minutes": 5482,
+        "views": 20664,
+        "watch_time_minutes": 5489,
         "avg_view_duration_seconds": 31,
-        "avg_view_percentage": 92.76,
+        "avg_view_percentage": 92.78,
         "subscribers_gained": 5,
         "likes": 872,
         "comments": 34,
@@ -14256,8 +14335,8 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 21498,
-          "likes": 897,
+          "views": 21526,
+          "likes": 898,
           "comments": 62
         },
         "content_status": {
@@ -14265,9 +14344,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 131.7,
+        "vph": 130.7,
         "days_since_published": 6,
-        "views_per_day": 3440.0,
+        "views_per_day": 3444.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -14345,8 +14424,8 @@
       },
       {
         "video_id": "C3fYR1JzgOg",
-        "views": 20321,
-        "watch_time_minutes": 8915,
+        "views": 20317,
+        "watch_time_minutes": 8917,
         "avg_view_duration_seconds": 46,
         "avg_view_percentage": 78.68,
         "subscribers_gained": 8,
@@ -14363,8 +14442,8 @@
         "duration_formatted": "59s",
         "is_short": true,
         "statistics": {
-          "views": 20832,
-          "likes": 1042,
+          "views": 20848,
+          "likes": 1043,
           "comments": 35
         },
         "content_status": {
@@ -14372,9 +14451,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 95.0,
+        "vph": 94.4,
         "days_since_published": 8,
-        "views_per_day": 2540.1,
+        "views_per_day": 2539.6,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -14466,10 +14545,10 @@
       },
       {
         "video_id": "pttLtOcs6No",
-        "views": 18883,
-        "watch_time_minutes": 11268,
+        "views": 18889,
+        "watch_time_minutes": 11275,
         "avg_view_duration_seconds": 76,
-        "avg_view_percentage": 47.4,
+        "avg_view_percentage": 47.39,
         "subscribers_gained": 13,
         "likes": 933,
         "comments": 54,
@@ -14484,8 +14563,8 @@
         "duration_formatted": "2:41",
         "is_short": false,
         "statistics": {
-          "views": 19388,
-          "likes": 991,
+          "views": 19399,
+          "likes": 993,
           "comments": 67
         },
         "content_status": {
@@ -14493,9 +14572,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 119.3,
+        "vph": 118.3,
         "days_since_published": 6,
-        "views_per_day": 3147.2,
+        "views_per_day": 3148.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 65,
@@ -14513,7 +14592,7 @@
                 "tickets",
                 "subscribe"
               ],
-              "count": 15
+              "count": 17
             },
             "avoid_keywords": {
               "score": 0,
@@ -14571,7 +14650,9 @@
             "texan",
             "pick in",
             "draft we",
-            "we select"
+            "we select",
+            "the 2026",
+            "2026 nfl"
           ],
           "avoid_keywords_found": [
             "watch",
@@ -14592,16 +14673,16 @@
       },
       {
         "video_id": "2j4C5kFuC5g",
-        "views": 18806,
-        "watch_time_minutes": 1657,
+        "views": 18838,
+        "watch_time_minutes": 1661,
         "avg_view_duration_seconds": 11,
-        "avg_view_percentage": 129.87,
-        "subscribers_gained": 4,
+        "avg_view_percentage": 129.94,
+        "subscribers_gained": 3,
         "likes": 909,
         "comments": 46,
         "shares": 18,
         "engagement_rate": 5.17,
-        "subscriber_conversion_rate": 0.021,
+        "subscriber_conversion_rate": 0.016,
         "title": "Everyone, meet Marlin \ud83d\udc4b",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-25T03:02:47Z",
@@ -14610,7 +14691,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 19502,
+          "views": 19507,
           "likes": 931,
           "comments": 57
         },
@@ -14619,9 +14700,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 121.5,
+        "vph": 120.6,
         "days_since_published": 6,
-        "views_per_day": 3134.3,
+        "views_per_day": 3139.7,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -14697,10 +14778,10 @@
       },
       {
         "video_id": "xqjWwrB5WH0",
-        "views": 18725,
-        "watch_time_minutes": 1103,
+        "views": 18729,
+        "watch_time_minutes": 1104,
         "avg_view_duration_seconds": 8,
-        "avg_view_percentage": 176.74,
+        "avg_view_percentage": 176.77,
         "subscribers_gained": 4,
         "likes": 1018,
         "comments": 66,
@@ -14715,7 +14796,7 @@
         "duration_formatted": "5s",
         "is_short": true,
         "statistics": {
-          "views": 19019,
+          "views": 19027,
           "likes": 1034,
           "comments": 63
         },
@@ -14724,9 +14805,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 105.4,
+        "vph": 104.6,
         "days_since_published": 7,
-        "views_per_day": 2675.0,
+        "views_per_day": 2675.6,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -14807,16 +14888,16 @@
       },
       {
         "video_id": "q9jUpznN1fU",
-        "views": 18171,
-        "watch_time_minutes": 7305,
+        "views": 18189,
+        "watch_time_minutes": 7310,
         "avg_view_duration_seconds": 40,
-        "avg_view_percentage": 82.59,
+        "avg_view_percentage": 82.62,
         "subscribers_gained": 3,
         "likes": 974,
         "comments": 21,
         "shares": 23,
         "engagement_rate": 5.6,
-        "subscriber_conversion_rate": 0.017,
+        "subscriber_conversion_rate": 0.016,
         "title": "Watch the newest Texan work \ud83d\udcaa",
         "description": "Kayden McDonald highlights \nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-24T23:56:41Z",
@@ -14825,7 +14906,7 @@
         "duration_formatted": "49s",
         "is_short": true,
         "statistics": {
-          "views": 18589,
+          "views": 18592,
           "likes": 988,
           "comments": 30
         },
@@ -14834,9 +14915,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 115.0,
+        "vph": 114.2,
         "days_since_published": 6,
-        "views_per_day": 3028.5,
+        "views_per_day": 3031.5,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -14922,15 +15003,15 @@
       },
       {
         "video_id": "gHyQIfvar5A",
-        "views": 17869,
-        "watch_time_minutes": 8466,
+        "views": 17909,
+        "watch_time_minutes": 8480,
         "avg_view_duration_seconds": 50,
-        "avg_view_percentage": 96.22,
+        "avg_view_percentage": 96.17,
         "subscribers_gained": 4,
         "likes": 904,
         "comments": 21,
         "shares": 49,
-        "engagement_rate": 5.45,
+        "engagement_rate": 5.44,
         "subscriber_conversion_rate": 0.022,
         "title": "Meet the newest Texan, G Febechi Nwaiwu \ud83d\udcaa",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -14940,8 +15021,8 @@
         "duration_formatted": "53s",
         "is_short": true,
         "statistics": {
-          "views": 18319,
-          "likes": 917,
+          "views": 18345,
+          "likes": 918,
           "comments": 31
         },
         "content_status": {
@@ -14949,9 +15030,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 126.5,
+        "vph": 125.6,
         "days_since_published": 5,
-        "views_per_day": 3573.8,
+        "views_per_day": 3581.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -15029,7 +15110,7 @@
       },
       {
         "video_id": "ixvfuF7QWlw",
-        "views": 17679,
+        "views": 17677,
         "watch_time_minutes": 1559,
         "avg_view_duration_seconds": 12,
         "avg_view_percentage": 157.62,
@@ -15047,7 +15128,7 @@
         "duration_formatted": "8s",
         "is_short": true,
         "statistics": {
-          "views": 17932,
+          "views": 17936,
           "likes": 1056,
           "comments": 48
         },
@@ -15056,9 +15137,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 75.7,
+        "vph": 75.3,
         "days_since_published": 9,
-        "views_per_day": 1964.3,
+        "views_per_day": 1964.1,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -15136,15 +15217,15 @@
       },
       {
         "video_id": "geVHYAgtmuQ",
-        "views": 17493,
-        "watch_time_minutes": 4986,
+        "views": 17524,
+        "watch_time_minutes": 4996,
         "avg_view_duration_seconds": 34,
-        "avg_view_percentage": 87.29,
+        "avg_view_percentage": 87.31,
         "subscribers_gained": 4,
         "likes": 860,
         "comments": 17,
         "shares": 27,
-        "engagement_rate": 5.17,
+        "engagement_rate": 5.16,
         "subscriber_conversion_rate": 0.023,
         "title": "Welcome to the swarm, Kamari Ramsey \u270c\ufe0f",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -15154,8 +15235,8 @@
         "duration_formatted": "39s",
         "is_short": true,
         "statistics": {
-          "views": 18358,
-          "likes": 900,
+          "views": 18387,
+          "likes": 901,
           "comments": 23
         },
         "content_status": {
@@ -15163,9 +15244,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 126.3,
+        "vph": 125.3,
         "days_since_published": 5,
-        "views_per_day": 3498.6,
+        "views_per_day": 3504.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -15247,15 +15328,15 @@
       },
       {
         "video_id": "6MI2yjtsvYY",
-        "views": 17401,
-        "watch_time_minutes": 4078,
+        "views": 17424,
+        "watch_time_minutes": 4086,
         "avg_view_duration_seconds": 26,
-        "avg_view_percentage": 82.94,
+        "avg_view_percentage": 82.97,
         "subscribers_gained": 5,
         "likes": 846,
         "comments": 13,
         "shares": 5,
-        "engagement_rate": 4.97,
+        "engagement_rate": 4.96,
         "subscriber_conversion_rate": 0.029,
         "title": "\"Let's go to work\" \ud83d\udcaa",
         "description": "Hear the call that made Lewis Bond a Texan. \nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -15265,8 +15346,8 @@
         "duration_formatted": "32s",
         "is_short": true,
         "statistics": {
-          "views": 18356,
-          "likes": 867,
+          "views": 18360,
+          "likes": 868,
           "comments": 14
         },
         "content_status": {
@@ -15282,9 +15363,9 @@
             }
           ]
         },
-        "vph": 129.1,
+        "vph": 128.0,
         "days_since_published": 5,
-        "views_per_day": 3480.2,
+        "views_per_day": 3484.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -15368,10 +15449,10 @@
       },
       {
         "video_id": "MbN4ZkShp20",
-        "views": 16511,
+        "views": 16512,
         "watch_time_minutes": 10422,
         "avg_view_duration_seconds": 63,
-        "avg_view_percentage": 66.46,
+        "avg_view_percentage": 66.47,
         "subscribers_gained": 15,
         "likes": 1724,
         "comments": 61,
@@ -15386,7 +15467,7 @@
         "duration_formatted": "1:35",
         "is_short": false,
         "statistics": {
-          "views": 16785,
+          "views": 16789,
           "likes": 1747,
           "comments": 70
         },
@@ -15395,9 +15476,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 68.6,
+        "vph": 68.2,
         "days_since_published": 10,
-        "views_per_day": 1651.1,
+        "views_per_day": 1651.2,
         "performance_status": "excellent",
         "seo_score": {
           "total_score": 50,
@@ -15469,15 +15550,15 @@
       },
       {
         "video_id": "1m0CO1_6TKs",
-        "views": 15166,
-        "watch_time_minutes": 1256,
+        "views": 15200,
+        "watch_time_minutes": 1258,
         "avg_view_duration_seconds": 11,
-        "avg_view_percentage": 139.79,
+        "avg_view_percentage": 139.85,
         "subscribers_gained": 0,
         "likes": 744,
         "comments": 30,
         "shares": 3,
-        "engagement_rate": 5.12,
+        "engagement_rate": 5.11,
         "subscriber_conversion_rate": 0.0,
         "title": "Houston we got a problem\u203c\ufe0f",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -15496,9 +15577,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 110.7,
+        "vph": 109.9,
         "days_since_published": 5,
-        "views_per_day": 3033.2,
+        "views_per_day": 3040.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -15577,10 +15658,10 @@
       },
       {
         "video_id": "k9amHI0v9Hc",
-        "views": 15005,
+        "views": 15008,
         "watch_time_minutes": 2744,
         "avg_view_duration_seconds": 21,
-        "avg_view_percentage": 95.84,
+        "avg_view_percentage": 95.85,
         "subscribers_gained": 5,
         "likes": 730,
         "comments": 42,
@@ -15595,8 +15676,8 @@
         "duration_formatted": "22s",
         "is_short": true,
         "statistics": {
-          "views": 15243,
-          "likes": 735,
+          "views": 15245,
+          "likes": 736,
           "comments": 39
         },
         "content_status": {
@@ -15604,9 +15685,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 57.2,
+        "vph": 56.9,
         "days_since_published": 10,
-        "views_per_day": 1500.5,
+        "views_per_day": 1500.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -15682,15 +15763,15 @@
       },
       {
         "video_id": "FuXzaVkHQ1A",
-        "views": 14464,
-        "watch_time_minutes": 5266,
+        "views": 14498,
+        "watch_time_minutes": 5275,
         "avg_view_duration_seconds": 39,
-        "avg_view_percentage": 64.71,
+        "avg_view_percentage": 64.73,
         "subscribers_gained": 8,
         "likes": 563,
         "comments": 13,
         "shares": 27,
-        "engagement_rate": 4.17,
+        "engagement_rate": 4.16,
         "subscriber_conversion_rate": 0.055,
         "title": "With the 123 overall pick we select..",
         "description": "The Houston Texans select Clemson Tigers linebacker Wade Woodaz in Round 4 of the 2026 NFL Draft with the No. 123 overall pick (via a trade with the Los Angeles Chargers).\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -15717,9 +15798,9 @@
             }
           ]
         },
-        "vph": 103.0,
+        "vph": 102.3,
         "days_since_published": 5,
-        "views_per_day": 2892.8,
+        "views_per_day": 2899.6,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -15737,7 +15818,7 @@
                 "angeles",
                 "the los"
               ],
-              "count": 23
+              "count": 28
             },
             "avoid_keywords": {
               "score": 0,
@@ -15803,7 +15884,12 @@
             "texans select",
             "texan",
             "overall",
-            "we select"
+            "we select",
+            "in round",
+            "the 2026",
+            "2026 nfl",
+            "draft with",
+            "overall pick"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -15824,15 +15910,15 @@
       },
       {
         "video_id": "L4-OdkQjzV4",
-        "views": 14438,
-        "watch_time_minutes": 888,
+        "views": 14475,
+        "watch_time_minutes": 890,
         "avg_view_duration_seconds": 8,
-        "avg_view_percentage": 149.05,
+        "avg_view_percentage": 149.11,
         "subscribers_gained": 3,
         "likes": 634,
         "comments": 28,
         "shares": 8,
-        "engagement_rate": 4.64,
+        "engagement_rate": 4.63,
         "subscriber_conversion_rate": 0.021,
         "title": "Hear from the newest Texan Wade Woodaz \ud83d\udc05",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -15859,9 +15945,9 @@
             }
           ]
         },
-        "vph": 104.2,
+        "vph": 103.4,
         "days_since_published": 5,
-        "views_per_day": 2887.6,
+        "views_per_day": 2895.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -15944,15 +16030,15 @@
       },
       {
         "video_id": "t5TqCPu2sWg",
-        "views": 14364,
-        "watch_time_minutes": 4933,
+        "views": 14397,
+        "watch_time_minutes": 4939,
         "avg_view_duration_seconds": 42,
-        "avg_view_percentage": 65.78,
+        "avg_view_percentage": 65.82,
         "subscribers_gained": 7,
         "likes": 476,
         "comments": 13,
         "shares": 3,
-        "engagement_rate": 3.43,
+        "engagement_rate": 3.42,
         "subscriber_conversion_rate": 0.049,
         "title": "With the 204th pick in the NFL Draft we select..",
         "description": "Texans select Lewis Bond with No. 204 pick in 2026 draft\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -15962,7 +16048,7 @@
         "duration_formatted": "1:04",
         "is_short": false,
         "statistics": {
-          "views": 14809,
+          "views": 14826,
           "likes": 489,
           "comments": 30
         },
@@ -15971,9 +16057,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 105.2,
+        "vph": 104.4,
         "days_since_published": 5,
-        "views_per_day": 2872.8,
+        "views_per_day": 2879.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 65,
@@ -16062,10 +16148,10 @@
       },
       {
         "video_id": "sR5F_n9K4ho",
-        "views": 14361,
+        "views": 14365,
         "watch_time_minutes": 2037,
         "avg_view_duration_seconds": 19,
-        "avg_view_percentage": 120.78,
+        "avg_view_percentage": 120.77,
         "subscribers_gained": 2,
         "likes": 698,
         "comments": 29,
@@ -16080,7 +16166,7 @@
         "duration_formatted": "16s",
         "is_short": true,
         "statistics": {
-          "views": 14828,
+          "views": 14834,
           "likes": 721,
           "comments": 26
         },
@@ -16097,9 +16183,9 @@
             }
           ]
         },
-        "vph": 66.8,
-        "days_since_published": 8,
-        "views_per_day": 1795.1,
+        "vph": 66.4,
+        "days_since_published": 9,
+        "views_per_day": 1596.1,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -16196,15 +16282,15 @@
       },
       {
         "video_id": "bALO9i-CXXc",
-        "views": 14255,
-        "watch_time_minutes": 3423,
+        "views": 14292,
+        "watch_time_minutes": 3430,
         "avg_view_duration_seconds": 28,
-        "avg_view_percentage": 99.41,
+        "avg_view_percentage": 99.42,
         "subscribers_gained": 3,
         "likes": 962,
         "comments": 54,
         "shares": 39,
-        "engagement_rate": 7.4,
+        "engagement_rate": 7.38,
         "subscriber_conversion_rate": 0.021,
         "title": "Febechi is ready to ball \ud83c\udfc8",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -16214,7 +16300,7 @@
         "duration_formatted": "29s",
         "is_short": true,
         "statistics": {
-          "views": 14585,
+          "views": 14605,
           "likes": 981,
           "comments": 58
         },
@@ -16231,9 +16317,9 @@
             }
           ]
         },
-        "vph": 101.5,
+        "vph": 100.8,
         "days_since_published": 5,
-        "views_per_day": 2851.0,
+        "views_per_day": 2858.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -16314,15 +16400,15 @@
       },
       {
         "video_id": "iXZJJBNdCKA",
-        "views": 13907,
-        "watch_time_minutes": 3564,
+        "views": 13929,
+        "watch_time_minutes": 3569,
         "avg_view_duration_seconds": 30,
-        "avg_view_percentage": 86.06,
+        "avg_view_percentage": 86.08,
         "subscribers_gained": 1,
         "likes": 783,
         "comments": 24,
         "shares": 24,
-        "engagement_rate": 5.98,
+        "engagement_rate": 5.97,
         "subscriber_conversion_rate": 0.007,
         "title": "Febechi Nwaiwu, YOU\u2019RE A TEXAN\u203c\ufe0f",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -16332,7 +16418,7 @@
         "duration_formatted": "36s",
         "is_short": true,
         "statistics": {
-          "views": 14484,
+          "views": 14490,
           "likes": 809,
           "comments": 25
         },
@@ -16341,9 +16427,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 100.4,
+        "vph": 99.6,
         "days_since_published": 5,
-        "views_per_day": 2781.4,
+        "views_per_day": 2785.8,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 55,
@@ -16417,15 +16503,15 @@
       },
       {
         "video_id": "VJt8kMdhb1A",
-        "views": 13870,
-        "watch_time_minutes": 3702,
+        "views": 13828,
+        "watch_time_minutes": 3686,
         "avg_view_duration_seconds": 28,
-        "avg_view_percentage": 88.28,
+        "avg_view_percentage": 88.21,
         "subscribers_gained": 6,
         "likes": 923,
         "comments": 30,
         "shares": 26,
-        "engagement_rate": 7.06,
+        "engagement_rate": 7.08,
         "subscriber_conversion_rate": 0.043,
         "title": "Houston Texans, Hallelujah \ud83d\ude4c",
         "description": "",
@@ -16435,7 +16521,7 @@
         "duration_formatted": "32s",
         "is_short": true,
         "statistics": {
-          "views": 14941,
+          "views": 14943,
           "likes": 965,
           "comments": 30
         },
@@ -16444,9 +16530,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 120.9,
+        "vph": 119.1,
         "days_since_published": 4,
-        "views_per_day": 3467.5,
+        "views_per_day": 3457.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 35,
@@ -16508,16 +16594,16 @@
       },
       {
         "video_id": "pLkZzPBVtps",
-        "views": 12980,
-        "watch_time_minutes": 3761,
+        "views": 12994,
+        "watch_time_minutes": 3764,
         "avg_view_duration_seconds": 31,
-        "avg_view_percentage": 81.86,
-        "subscribers_gained": 2,
+        "avg_view_percentage": 81.87,
+        "subscribers_gained": 1,
         "likes": 766,
         "comments": 16,
         "shares": 11,
-        "engagement_rate": 6.11,
-        "subscriber_conversion_rate": 0.015,
+        "engagement_rate": 6.1,
+        "subscriber_conversion_rate": 0.008,
         "title": "Wade Woodaz got the H-Town call \ud83d\udcde",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-25T19:23:13Z",
@@ -16543,10 +16629,10 @@
             }
           ]
         },
-        "vph": 93.7,
+        "vph": 92.9,
         "days_since_published": 5,
-        "views_per_day": 2596.0,
-        "performance_status": "average",
+        "views_per_day": 2598.8,
+        "performance_status": "poor",
         "seo_score": {
           "total_score": 55,
           "grade": "D",
@@ -16622,8 +16708,8 @@
       },
       {
         "video_id": "WXDZUmEZtV8",
-        "views": 12425,
-        "watch_time_minutes": 846,
+        "views": 12440,
+        "watch_time_minutes": 847,
         "avg_view_duration_seconds": 13,
         "avg_view_percentage": 87.17,
         "subscribers_gained": 0,
@@ -16675,7 +16761,7 @@
       },
       {
         "video_id": "-5dft1iiTd0",
-        "views": 12401,
+        "views": 12409,
         "watch_time_minutes": 1529,
         "avg_view_duration_seconds": 17,
         "avg_view_percentage": 154.95,
@@ -16694,7 +16780,7 @@
         "is_short": true,
         "statistics": {
           "views": 12612,
-          "likes": 513,
+          "likes": 514,
           "comments": 32
         },
         "content_status": {
@@ -16702,9 +16788,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 47.2,
+        "vph": 47.0,
         "days_since_published": 10,
-        "views_per_day": 1240.1,
+        "views_per_day": 1240.9,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -16778,16 +16864,16 @@
       },
       {
         "video_id": "aQQm1naiPKY",
-        "views": 12229,
-        "watch_time_minutes": 2690,
+        "views": 12250,
+        "watch_time_minutes": 2695,
         "avg_view_duration_seconds": 26,
         "avg_view_percentage": 97.09,
         "subscribers_gained": 3,
         "likes": 676,
         "comments": 21,
         "shares": 43,
-        "engagement_rate": 6.05,
-        "subscriber_conversion_rate": 0.025,
+        "engagement_rate": 6.04,
+        "subscriber_conversion_rate": 0.024,
         "title": "JUMPIN\u2019 FOR JOY \ud83e\udd18",
         "description": "The newest Texan meets Texans fans at the NFL Draft. \nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-04-25T00:02:15Z",
@@ -16796,7 +16882,7 @@
         "duration_formatted": "27s",
         "is_short": true,
         "statistics": {
-          "views": 12496,
+          "views": 12504,
           "likes": 694,
           "comments": 27
         },
@@ -16805,9 +16891,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 77.5,
+        "vph": 76.9,
         "days_since_published": 6,
-        "views_per_day": 2038.2,
+        "views_per_day": 2041.7,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -16898,10 +16984,10 @@
       },
       {
         "video_id": "LinQ1BAhvRg",
-        "views": 12226,
-        "watch_time_minutes": 877,
+        "views": 12238,
+        "watch_time_minutes": 878,
         "avg_view_duration_seconds": 10,
-        "avg_view_percentage": 67.41,
+        "avg_view_percentage": 67.42,
         "subscribers_gained": 0,
         "likes": 0,
         "comments": 0,
@@ -16951,15 +17037,15 @@
       },
       {
         "video_id": "wmBY8Gtb77E",
-        "views": 11543,
-        "watch_time_minutes": 757,
+        "views": 11570,
+        "watch_time_minutes": 758,
         "avg_view_duration_seconds": 9,
-        "avg_view_percentage": 128.99,
+        "avg_view_percentage": 128.98,
         "subscribers_gained": 0,
         "likes": 708,
         "comments": 34,
         "shares": 8,
-        "engagement_rate": 6.5,
+        "engagement_rate": 6.48,
         "subscriber_conversion_rate": 0.0,
         "title": "KAYDEN IS READY TO WORK!!",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -16986,9 +17072,9 @@
             }
           ]
         },
-        "vph": 73.6,
+        "vph": 73.1,
         "days_since_published": 6,
-        "views_per_day": 1923.8,
+        "views_per_day": 1928.3,
         "performance_status": "good",
         "seo_score": {
           "total_score": 50,
@@ -17068,10 +17154,10 @@
       },
       {
         "video_id": "vY_cbXwihbs",
-        "views": 11483,
-        "watch_time_minutes": 672,
+        "views": 11504,
+        "watch_time_minutes": 673,
         "avg_view_duration_seconds": 8,
-        "avg_view_percentage": 162.76,
+        "avg_view_percentage": 162.77,
         "subscribers_gained": 2,
         "likes": 543,
         "comments": 18,
@@ -17086,7 +17172,7 @@
         "duration_formatted": "5s",
         "is_short": true,
         "statistics": {
-          "views": 12079,
+          "views": 12084,
           "likes": 557,
           "comments": 17
         },
@@ -17095,9 +17181,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 84.8,
+        "vph": 84.1,
         "days_since_published": 5,
-        "views_per_day": 2296.6,
+        "views_per_day": 2300.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -17174,8 +17260,8 @@
       },
       {
         "video_id": "ozmiPKtD1VQ",
-        "views": 10964,
-        "watch_time_minutes": 4597,
+        "views": 10967,
+        "watch_time_minutes": 4598,
         "avg_view_duration_seconds": 44,
         "avg_view_percentage": 76.32,
         "subscribers_gained": 11,
@@ -17192,7 +17278,7 @@
         "duration_formatted": "58s",
         "is_short": true,
         "statistics": {
-          "views": 11231,
+          "views": 11229,
           "likes": 716,
           "comments": 17
         },
@@ -17201,9 +17287,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 61.4,
+        "vph": 60.9,
         "days_since_published": 7,
-        "views_per_day": 1566.3,
+        "views_per_day": 1566.7,
         "performance_status": "excellent",
         "seo_score": {
           "total_score": 60,
@@ -17284,10 +17370,10 @@
       },
       {
         "video_id": "frL7GN0fXms",
-        "views": 10404,
-        "watch_time_minutes": 1227,
+        "views": 10402,
+        "watch_time_minutes": 1225,
         "avg_view_duration_seconds": 14,
-        "avg_view_percentage": 97.66,
+        "avg_view_percentage": 97.59,
         "subscribers_gained": 0,
         "likes": 1,
         "comments": 0,
@@ -17337,10 +17423,10 @@
       },
       {
         "video_id": "gLKZkcwXd8g",
-        "views": 9794,
-        "watch_time_minutes": 1016,
+        "views": 9792,
+        "watch_time_minutes": 1007,
         "avg_view_duration_seconds": 14,
-        "avg_view_percentage": 131.42,
+        "avg_view_percentage": 130.12,
         "subscribers_gained": 0,
         "likes": 529,
         "comments": 16,
@@ -17364,9 +17450,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 61.9,
+        "vph": 61.4,
         "days_since_published": 6,
-        "views_per_day": 1632.3,
+        "views_per_day": 1632.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -17448,10 +17534,10 @@
       },
       {
         "video_id": "OPSY6H_rP-k",
-        "views": 9311,
-        "watch_time_minutes": 636,
+        "views": 9316,
+        "watch_time_minutes": 637,
         "avg_view_duration_seconds": 12,
-        "avg_view_percentage": 82.53,
+        "avg_view_percentage": 82.55,
         "subscribers_gained": 0,
         "likes": 0,
         "comments": 0,
@@ -17501,10 +17587,10 @@
       },
       {
         "video_id": "ZyjaNRFqpKA",
-        "views": 8757,
+        "views": 8774,
         "watch_time_minutes": 518,
         "avg_view_duration_seconds": 12,
-        "avg_view_percentage": 81.77,
+        "avg_view_percentage": 81.71,
         "subscribers_gained": 0,
         "likes": 0,
         "comments": 0,
@@ -17554,8 +17640,8 @@
       },
       {
         "video_id": "Ds8kVBVOQdk",
-        "views": 8657,
-        "watch_time_minutes": 58506,
+        "views": 8659,
+        "watch_time_minutes": 58491,
         "avg_view_duration_seconds": 405,
         "avg_view_percentage": 30.990000000000002,
         "subscribers_gained": 8,
@@ -17581,9 +17667,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 53.8,
+        "vph": 53.3,
         "days_since_published": 6,
-        "views_per_day": 1442.8,
+        "views_per_day": 1443.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 70,
@@ -17729,7 +17815,7 @@
       },
       {
         "video_id": "2yd1rTZIr7w",
-        "views": 8235,
+        "views": 8242,
         "watch_time_minutes": 552,
         "avg_view_duration_seconds": 12,
         "avg_view_percentage": 616.38,
@@ -17782,7 +17868,7 @@
       },
       {
         "video_id": "RZFaQfbfvq8",
-        "views": 8161,
+        "views": 8164,
         "watch_time_minutes": 656,
         "avg_view_duration_seconds": 14,
         "avg_view_percentage": 724.89,
@@ -18085,9 +18171,9 @@
         "start_date": "2026-04-17",
         "end_date": "2026-04-24",
         "analytics": {
-          "views": 586218,
-          "watch_time_minutes": 598954,
-          "watch_time_hours": 9982.57,
+          "views": 586115,
+          "watch_time_minutes": 598804,
+          "watch_time_hours": 9980.07,
           "avg_view_duration_seconds": 109,
           "subscribers_gained": 542,
           "subscribers_lost": 219,
@@ -18098,7 +18184,7 @@
           "engagement_total": 25985
         },
         "changes": {
-          "views": 83.8,
+          "views": 83.7,
           "watch_time_hours": 14.9,
           "net_subscribers": 59.4,
           "engagement_total": 62.5,
@@ -18124,7 +18210,7 @@
           "engagement_total": 26855
         },
         "changes": {
-          "views": 60.0,
+          "views": 59.9,
           "watch_time_hours": -40.8,
           "net_subscribers": -42.5,
           "engagement_total": 57.2,
@@ -18139,17 +18225,17 @@
         "start_date": "2026-04-01",
         "end_date": "2026-04-30",
         "analytics": {
-          "views": 1539203,
-          "watch_time_minutes": 1648292,
-          "watch_time_hours": 27471.53,
+          "views": 1537726,
+          "watch_time_minutes": 1646353,
+          "watch_time_hours": 27439.22,
           "avg_view_duration_seconds": 113,
           "subscribers_gained": 1534,
           "subscribers_lost": 674,
           "net_subscribers": 860,
-          "likes": 51215,
-          "comments": 2371,
-          "shares": 4361,
-          "engagement_total": 57947
+          "likes": 51218,
+          "comments": 2373,
+          "shares": 4360,
+          "engagement_total": 57951
         },
         "changes": {
           "views": 0.0,
@@ -18178,7 +18264,7 @@
           "engagement_total": 35012
         },
         "changes": {
-          "views": 54.6,
+          "views": 54.4,
           "watch_time_hours": -30.4,
           "net_subscribers": -41.6,
           "engagement_total": 65.5,
@@ -18206,7 +18292,7 @@
           "engagement_total": 36319
         },
         "changes": {
-          "views": 48.6,
+          "views": 48.5,
           "watch_time_hours": -32.9,
           "net_subscribers": -43.5,
           "engagement_total": 59.6,
