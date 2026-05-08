@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T22:57:25.787657-05:00",
-  "total_candidates": 14,
+  "generated_at": "2026-05-08T01:14:29.794868-05:00",
+  "total_candidates": 16,
   "candidates": [
     {
       "video_id": "BfXh2WSteEQ",
@@ -42,8 +42,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 8681,
-      "identified_at": "2026-05-07T22:53:54.141148-05:00",
+      "source_video_views": 8480,
+      "identified_at": "2026-05-08T01:10:33.388672-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -90,7 +90,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 259976,
-      "identified_at": "2026-05-07T22:55:14.217480-05:00",
+      "identified_at": "2026-05-08T01:12:08.127689-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -136,7 +136,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 13172,
-      "identified_at": "2026-05-07T22:53:22.094808-05:00",
+      "identified_at": "2026-05-08T01:09:03.377199-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -188,7 +188,7 @@
       ],
       "content_type": "practice",
       "source_video_views": 13347,
-      "identified_at": "2026-05-07T22:53:18.400319-05:00",
+      "identified_at": "2026-05-08T01:08:57.760880-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -234,7 +234,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 483233,
-      "identified_at": "2026-05-07T22:54:56.358043-05:00",
+      "identified_at": "2026-05-08T01:11:42.487487-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -279,7 +279,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 8157,
-      "identified_at": "2026-05-07T22:54:00.243609-05:00",
+      "identified_at": "2026-05-08T01:10:34.544936-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -324,7 +324,54 @@
       ],
       "content_type": "general",
       "source_video_views": 171696,
-      "identified_at": "2026-05-07T22:56:18.940864-05:00",
+      "identified_at": "2026-05-08T01:12:54.554065-05:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "Ln1eDCMPcGY",
+      "video_title": "How the Texans landed C.J. Stroud & Will Anderson Jr.",
+      "video_url": "https://youtube.com/watch?v=Ln1eDCMPcGY",
+      "timestamped_url": "https://youtube.com/watch?v=Ln1eDCMPcGY&t=132",
+      "start_seconds": 132,
+      "end_seconds": 192,
+      "start_formatted": "2:12",
+      "end_formatted": "3:12",
+      "clip_duration": 60,
+      "retention_score": 48.0,
+      "video_avg_retention": 32.2,
+      "retention_boost": 1.49,
+      "priority_score": 134.2,
+      "flags": [
+        {
+          "type": "content",
+          "name": "ad",
+          "emoji": "\ud83d\udcb0",
+          "note": "Sponsored content - use conservative titling",
+          "show_banner": false
+        }
+      ],
+      "suggested_title": {
+        "suggestion": "How did C.J. Stroud make this throw?!",
+        "alternatives": [
+          "C.J. Stroud is DIFFERENT \ud83d\udd25",
+          "This C.J. Stroud throw is INSANE \ud83d\ude31"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#CJStroud",
+        "#QB1",
+        "#Shorts"
+      ],
+      "content_type": "behind_the_scenes",
+      "source_video_views": 114333,
+      "identified_at": "2026-05-08T01:14:28.193250-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -362,7 +409,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 250194,
-      "identified_at": "2026-05-07T22:55:25.540798-05:00",
+      "identified_at": "2026-05-08T01:12:18.299598-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -399,7 +446,7 @@
       ],
       "content_type": "press_conference",
       "source_video_views": 8737,
-      "identified_at": "2026-05-07T22:53:39.345626-05:00",
+      "identified_at": "2026-05-08T01:10:10.777503-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -443,8 +490,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 11578,
-      "identified_at": "2026-05-07T22:53:24.862997-05:00",
+      "source_video_views": 9969,
+      "identified_at": "2026-05-08T01:09:33.388833-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -490,7 +537,7 @@
       ],
       "content_type": "general",
       "source_video_views": 7299,
-      "identified_at": "2026-05-07T22:54:35.615061-05:00",
+      "identified_at": "2026-05-08T01:10:57.542985-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -534,8 +581,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 10402,
-      "identified_at": "2026-05-07T22:53:26.700211-05:00",
+      "source_video_views": 9941,
+      "identified_at": "2026-05-08T01:09:43.264593-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -579,8 +626,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 428180,
-      "identified_at": "2026-05-07T22:52:30.936803-05:00",
+      "source_video_views": 420451,
+      "identified_at": "2026-05-08T01:07:56.996583-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -625,7 +672,52 @@
       ],
       "content_type": "general",
       "source_video_views": 146609,
-      "identified_at": "2026-05-07T22:56:36.154776-05:00",
+      "identified_at": "2026-05-08T01:13:18.883963-05:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "xr9Cv2H5lwo",
+      "video_title": "Nick Caserio and DeMeco Ryans Draft Day 3 Media Availability 2026 | Full Draft Night Q&A",
+      "video_url": "https://youtube.com/watch?v=xr9Cv2H5lwo",
+      "timestamped_url": "https://youtube.com/watch?v=xr9Cv2H5lwo&t=74",
+      "start_seconds": 74,
+      "end_seconds": 134,
+      "start_formatted": "1:14",
+      "end_formatted": "2:14",
+      "clip_duration": 60,
+      "retention_score": 67.0,
+      "video_avg_retention": 51.2,
+      "retention_boost": 1.31,
+      "priority_score": 117.8,
+      "flags": [
+        {
+          "type": "content",
+          "name": "ad",
+          "emoji": "\ud83d\udcb0",
+          "note": "Sponsored content - use conservative titling",
+          "show_banner": false
+        }
+      ],
+      "suggested_title": {
+        "suggestion": "Leadership like no other \ud83d\udc10",
+        "alternatives": [
+          "Coach DeMeco Ryans is HIM \ud83d\udd25",
+          "This is why we love DeMeco \ud83d\udcaa"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#Shorts"
+      ],
+      "content_type": "press_conference",
+      "source_video_views": 6755,
+      "identified_at": "2026-05-08T01:11:20.170452-05:00",
       "clip_created": false,
       "shorts_video_id": null
     }
