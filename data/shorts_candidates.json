@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T13:11:18.083317-05:00",
+  "generated_at": "2026-05-16T14:33:25.168158-05:00",
   "total_candidates": 14,
   "candidates": [
     {
@@ -42,8 +42,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 7731,
-      "identified_at": "2026-05-16T13:09:24.862273-05:00",
+      "source_video_views": 7784,
+      "identified_at": "2026-05-16T14:32:27.717795-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -89,8 +89,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 260030,
-      "identified_at": "2026-05-16T13:10:03.614699-05:00",
+      "source_video_views": 260035,
+      "identified_at": "2026-05-16T14:32:36.062584-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -104,7 +104,7 @@
       "start_formatted": "3:22",
       "end_formatted": "4:22",
       "clip_duration": 60,
-      "retention_score": 34.6,
+      "retention_score": 34.7,
       "video_avg_retention": 22.2,
       "retention_boost": 1.56,
       "priority_score": 140.4,
@@ -135,8 +135,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 14429,
-      "identified_at": "2026-05-16T13:08:36.034909-05:00",
+      "source_video_views": 14544,
+      "identified_at": "2026-05-16T14:32:13.358804-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -151,7 +151,7 @@
       "end_formatted": "0:38",
       "clip_duration": 21,
       "retention_score": 72.1,
-      "video_avg_retention": 52.4,
+      "video_avg_retention": 52.3,
       "retention_boost": 1.38,
       "priority_score": 137.8,
       "flags": [
@@ -181,8 +181,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 483502,
-      "identified_at": "2026-05-16T13:09:51.128164-05:00",
+      "source_video_views": 483554,
+      "identified_at": "2026-05-16T14:32:32.210306-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -226,8 +226,8 @@
         "#Shorts"
       ],
       "content_type": "behind_the_scenes",
-      "source_video_views": 8245,
-      "identified_at": "2026-05-16T13:09:09.106907-05:00",
+      "source_video_views": 8264,
+      "identified_at": "2026-05-16T14:32:23.978572-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -271,8 +271,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 171766,
-      "identified_at": "2026-05-16T13:10:38.068852-05:00",
+      "source_video_views": 171789,
+      "identified_at": "2026-05-16T14:32:54.353514-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -318,8 +318,45 @@
         "#Shorts"
       ],
       "content_type": "behind_the_scenes",
-      "source_video_views": 114403,
-      "identified_at": "2026-05-16T13:11:16.592735-05:00",
+      "source_video_views": 114411,
+      "identified_at": "2026-05-16T14:33:23.772106-05:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "Ds8kVBVOQdk",
+      "video_title": "LIVE: Keylan Rutledge Introductory Press Conference",
+      "video_url": "https://youtube.com/watch?v=Ds8kVBVOQdk",
+      "timestamped_url": "https://youtube.com/watch?v=Ds8kVBVOQdk&t=418",
+      "start_seconds": 418,
+      "end_seconds": 478,
+      "start_formatted": "6:58",
+      "end_formatted": "7:58",
+      "clip_duration": 60,
+      "retention_score": 51.4,
+      "video_avg_retention": 34.6,
+      "retention_boost": 1.49,
+      "priority_score": 133.9,
+      "flags": [],
+      "suggested_title": {
+        "suggestion": "Houston showed UP \ud83d\udd25",
+        "alternatives": [
+          "Houston is BUILT DIFFERENT \ud83d\udd25",
+          "H-Town Made \ud83d\udcaa"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#Shorts"
+      ],
+      "content_type": "press_conference",
+      "source_video_views": 8758,
+      "identified_at": "2026-05-16T14:32:19.829450-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -356,45 +393,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 250356,
-      "identified_at": "2026-05-16T13:10:13.468053-05:00",
-      "clip_created": false,
-      "shorts_video_id": null
-    },
-    {
-      "video_id": "Ds8kVBVOQdk",
-      "video_title": "LIVE: Keylan Rutledge Introductory Press Conference",
-      "video_url": "https://youtube.com/watch?v=Ds8kVBVOQdk",
-      "timestamped_url": "https://youtube.com/watch?v=Ds8kVBVOQdk&t=418",
-      "start_seconds": 418,
-      "end_seconds": 478,
-      "start_formatted": "6:58",
-      "end_formatted": "7:58",
-      "clip_duration": 60,
-      "retention_score": 51.4,
-      "video_avg_retention": 34.6,
-      "retention_boost": 1.49,
-      "priority_score": 133.8,
-      "flags": [],
-      "suggested_title": {
-        "suggestion": "Houston showed UP \ud83d\udd25",
-        "alternatives": [
-          "Houston is BUILT DIFFERENT \ud83d\udd25",
-          "H-Town Made \ud83d\udcaa"
-        ],
-        "confidence": "\ud83d\udcca Performance-based",
-        "note": "Based on title patterns from high-performing Texans content"
-      },
-      "suggested_hashtags": [
-        "#Texans",
-        "#NFL",
-        "#Houston",
-        "#HoustonTexans",
-        "#Shorts"
-      ],
-      "content_type": "press_conference",
-      "source_video_views": 8755,
-      "identified_at": "2026-05-16T13:09:02.294299-05:00",
+      "source_video_views": 250382,
+      "identified_at": "2026-05-16T14:32:37.768785-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -438,8 +438,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 493362,
-      "identified_at": "2026-05-16T13:09:38.692141-05:00",
+      "source_video_views": 493406,
+      "identified_at": "2026-05-16T14:32:30.074812-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -484,8 +484,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 7441,
-      "identified_at": "2026-05-16T13:09:25.447384-05:00",
+      "source_video_views": 7449,
+      "identified_at": "2026-05-16T14:32:28.319606-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -529,8 +529,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 8087,
-      "identified_at": "2026-05-16T13:09:17.587130-05:00",
+      "source_video_views": 8194,
+      "identified_at": "2026-05-16T14:32:25.872606-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -574,8 +574,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 395996,
-      "identified_at": "2026-05-16T13:07:53.612355-05:00",
+      "source_video_views": 400977,
+      "identified_at": "2026-05-16T14:31:58.274688-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -619,8 +619,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 147302,
-      "identified_at": "2026-05-16T13:10:45.044556-05:00",
+      "source_video_views": 147386,
+      "identified_at": "2026-05-16T14:33:06.244436-05:00",
       "clip_created": false,
       "shorts_video_id": null
     }
