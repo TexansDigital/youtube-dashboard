@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T09:07:03.181482-05:00",
-  "total_candidates": 12,
+  "generated_at": "2026-05-23T10:23:16.667525-05:00",
+  "total_candidates": 13,
   "candidates": [
     {
       "video_id": "BfXh2WSteEQ",
@@ -43,7 +43,7 @@
       ],
       "content_type": "atmosphere",
       "source_video_views": 149415,
-      "identified_at": "2026-05-23T09:05:56.895136-05:00",
+      "identified_at": "2026-05-23T10:22:27.524868-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -90,7 +90,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 260069,
-      "identified_at": "2026-05-23T09:05:11.751055-05:00",
+      "identified_at": "2026-05-23T10:21:41.805004-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -136,7 +136,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 14953,
-      "identified_at": "2026-05-23T09:03:28.231781-05:00",
+      "identified_at": "2026-05-23T10:20:10.313035-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -182,7 +182,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 483823,
-      "identified_at": "2026-05-23T09:04:44.726880-05:00",
+      "identified_at": "2026-05-23T10:21:01.646986-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -227,7 +227,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 8311,
-      "identified_at": "2026-05-23T09:04:27.935518-05:00",
+      "identified_at": "2026-05-23T10:20:37.437660-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -272,7 +272,7 @@
       ],
       "content_type": "general",
       "source_video_views": 171830,
-      "identified_at": "2026-05-23T09:05:45.773291-05:00",
+      "identified_at": "2026-05-23T10:22:02.170315-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -319,7 +319,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 114435,
-      "identified_at": "2026-05-23T09:06:50.396853-05:00",
+      "identified_at": "2026-05-23T10:23:03.804539-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -356,7 +356,7 @@
       ],
       "content_type": "press_conference",
       "source_video_views": 8765,
-      "identified_at": "2026-05-23T09:04:11.809480-05:00",
+      "identified_at": "2026-05-23T10:20:24.986886-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -394,7 +394,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 250520,
-      "identified_at": "2026-05-23T09:05:21.719857-05:00",
+      "identified_at": "2026-05-23T10:21:48.748561-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -439,7 +439,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 493683,
-      "identified_at": "2026-05-23T09:04:43.564237-05:00",
+      "identified_at": "2026-05-23T10:21:01.042889-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -484,7 +484,7 @@
       ],
       "content_type": "atmosphere",
       "source_video_views": 345688,
-      "identified_at": "2026-05-23T09:05:07.858611-05:00",
+      "identified_at": "2026-05-23T10:21:16.930863-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -529,7 +529,52 @@
       ],
       "content_type": "atmosphere",
       "source_video_views": 389226,
-      "identified_at": "2026-05-23T09:01:52.429236-05:00",
+      "identified_at": "2026-05-23T10:19:04.391365-05:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "H8mKyWxzxU0",
+      "video_title": "Navy's ELITE Silent Drill Team delivers INSANE precision \ud83d\udd25",
+      "video_url": "https://youtube.com/watch?v=H8mKyWxzxU0",
+      "timestamped_url": "https://youtube.com/watch?v=H8mKyWxzxU0&t=43",
+      "start_seconds": 43,
+      "end_seconds": 103,
+      "start_formatted": "0:43",
+      "end_formatted": "1:43",
+      "clip_duration": 60,
+      "retention_score": 53.8,
+      "video_avg_retention": 41.1,
+      "retention_boost": 1.31,
+      "priority_score": 118.0,
+      "flags": [
+        {
+          "type": "content",
+          "name": "ad",
+          "emoji": "\ud83d\udcb0",
+          "note": "Sponsored content - use conservative titling",
+          "show_banner": false
+        }
+      ],
+      "suggested_title": {
+        "suggestion": "H-Town Made \ud83d\udcaa",
+        "alternatives": [
+          "Houston is BUILT DIFFERENT \ud83d\udd25",
+          "The Swarm came to PLAY \ud83d\udc1d"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#Shorts"
+      ],
+      "content_type": "general",
+      "source_video_views": 148037,
+      "identified_at": "2026-05-23T10:22:28.996856-05:00",
       "clip_created": false,
       "shorts_video_id": null
     }
