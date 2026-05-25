@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T15:02:19.732961-05:00",
+  "generated_at": "2026-05-25T16:34:25.950470-05:00",
   "total_candidates": 13,
   "candidates": [
     {
@@ -42,8 +42,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 149560,
-      "identified_at": "2026-05-25T15:01:43.738817-05:00",
+      "source_video_views": 149643,
+      "identified_at": "2026-05-25T16:34:17.716624-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -89,8 +89,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 260089,
-      "identified_at": "2026-05-25T15:01:14.057938-05:00",
+      "source_video_views": 260092,
+      "identified_at": "2026-05-25T16:34:11.234932-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -104,10 +104,10 @@
       "start_formatted": "3:22",
       "end_formatted": "4:22",
       "clip_duration": 60,
-      "retention_score": 34.5,
+      "retention_score": 34.4,
       "video_avg_retention": 22.1,
       "retention_boost": 1.56,
-      "priority_score": 140.1,
+      "priority_score": 140.0,
       "flags": [
         {
           "type": "content",
@@ -135,8 +135,53 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 15064,
-      "identified_at": "2026-05-25T14:59:14.864564-05:00",
+      "source_video_views": 15104,
+      "identified_at": "2026-05-25T16:33:51.322070-05:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "fKlm45aumxM",
+      "video_title": "Wyatt Teller Is Built for H-Town | ISI Exclusive",
+      "video_url": "https://youtube.com/watch?v=fKlm45aumxM",
+      "timestamped_url": "https://youtube.com/watch?v=fKlm45aumxM&t=12",
+      "start_seconds": 12,
+      "end_seconds": 27,
+      "start_formatted": "0:12",
+      "end_formatted": "0:27",
+      "clip_duration": 15,
+      "retention_score": 75.0,
+      "video_avg_retention": 54.4,
+      "retention_boost": 1.38,
+      "priority_score": 137.8,
+      "flags": [
+        {
+          "type": "content",
+          "name": "ad",
+          "emoji": "\ud83d\udcb0",
+          "note": "Sponsored content - use conservative titling",
+          "show_banner": false
+        }
+      ],
+      "suggested_title": {
+        "suggestion": "The Texans way \ud83d\udcaa",
+        "alternatives": [
+          "Inside look at H-Town \ud83d\udc40",
+          "This is what you DON'T see \ud83d\udd25"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#Shorts"
+      ],
+      "content_type": "behind_the_scenes",
+      "source_video_views": 8320,
+      "identified_at": "2026-05-25T16:33:59.346422-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -181,53 +226,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 483907,
-      "identified_at": "2026-05-25T15:00:32.455509-05:00",
-      "clip_created": false,
-      "shorts_video_id": null
-    },
-    {
-      "video_id": "fKlm45aumxM",
-      "video_title": "Wyatt Teller Is Built for H-Town | ISI Exclusive",
-      "video_url": "https://youtube.com/watch?v=fKlm45aumxM",
-      "timestamped_url": "https://youtube.com/watch?v=fKlm45aumxM&t=12",
-      "start_seconds": 12,
-      "end_seconds": 27,
-      "start_formatted": "0:12",
-      "end_formatted": "0:27",
-      "clip_duration": 15,
-      "retention_score": 75.0,
-      "video_avg_retention": 54.5,
-      "retention_boost": 1.38,
-      "priority_score": 137.7,
-      "flags": [
-        {
-          "type": "content",
-          "name": "ad",
-          "emoji": "\ud83d\udcb0",
-          "note": "Sponsored content - use conservative titling",
-          "show_banner": false
-        }
-      ],
-      "suggested_title": {
-        "suggestion": "The Texans way \ud83d\udcaa",
-        "alternatives": [
-          "Inside look at H-Town \ud83d\udc40",
-          "This is what you DON'T see \ud83d\udd25"
-        ],
-        "confidence": "\ud83d\udcca Performance-based",
-        "note": "Based on title patterns from high-performing Texans content"
-      },
-      "suggested_hashtags": [
-        "#Texans",
-        "#NFL",
-        "#Houston",
-        "#HoustonTexans",
-        "#Shorts"
-      ],
-      "content_type": "behind_the_scenes",
-      "source_video_views": 8316,
-      "identified_at": "2026-05-25T15:00:06.587273-05:00",
+      "source_video_views": 483955,
+      "identified_at": "2026-05-25T16:34:05.030358-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -271,8 +271,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 171845,
-      "identified_at": "2026-05-25T15:01:35.814384-05:00",
+      "source_video_views": 171847,
+      "identified_at": "2026-05-25T16:34:16.332942-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -318,8 +318,8 @@
         "#Shorts"
       ],
       "content_type": "behind_the_scenes",
-      "source_video_views": 114445,
-      "identified_at": "2026-05-25T15:02:16.707434-05:00",
+      "source_video_views": 114449,
+      "identified_at": "2026-05-25T16:34:24.773224-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -355,8 +355,8 @@
         "#Shorts"
       ],
       "content_type": "press_conference",
-      "source_video_views": 8769,
-      "identified_at": "2026-05-25T15:00:00.917562-05:00",
+      "source_video_views": 8770,
+      "identified_at": "2026-05-25T16:33:57.566542-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -393,8 +393,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 250571,
-      "identified_at": "2026-05-25T15:01:17.318073-05:00",
+      "source_video_views": 250588,
+      "identified_at": "2026-05-25T16:34:11.977952-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -438,8 +438,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 493777,
-      "identified_at": "2026-05-25T15:00:22.212623-05:00",
+      "source_video_views": 493836,
+      "identified_at": "2026-05-25T16:34:01.046509-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -483,8 +483,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 345862,
-      "identified_at": "2026-05-25T15:00:49.963825-05:00",
+      "source_video_views": 345923,
+      "identified_at": "2026-05-25T16:34:06.604834-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -528,8 +528,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 394020,
-      "identified_at": "2026-05-25T14:57:47.365903-05:00",
+      "source_video_views": 402469,
+      "identified_at": "2026-05-25T16:33:42.002804-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -573,8 +573,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 148330,
-      "identified_at": "2026-05-25T15:01:44.189759-05:00",
+      "source_video_views": 148525,
+      "identified_at": "2026-05-25T16:34:18.948426-05:00",
       "clip_created": false,
       "shorts_video_id": null
     }
