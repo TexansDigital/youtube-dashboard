@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T18:17:10.158876-05:00",
-  "total_candidates": 12,
+  "generated_at": "2026-05-24T19:17:02.062459-05:00",
+  "total_candidates": 13,
   "candidates": [
     {
       "video_id": "BfXh2WSteEQ",
@@ -43,7 +43,7 @@
       ],
       "content_type": "atmosphere",
       "source_video_views": 149560,
-      "identified_at": "2026-05-24T18:16:50.344081-05:00",
+      "identified_at": "2026-05-24T19:16:27.338553-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -90,7 +90,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 260089,
-      "identified_at": "2026-05-24T18:15:59.704136-05:00",
+      "identified_at": "2026-05-24T19:15:58.725829-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -136,7 +136,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 15064,
-      "identified_at": "2026-05-24T18:14:40.604650-05:00",
+      "identified_at": "2026-05-24T19:14:53.543270-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -182,7 +182,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 483907,
-      "identified_at": "2026-05-24T18:15:52.368044-05:00",
+      "identified_at": "2026-05-24T19:15:40.052639-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -227,7 +227,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 8316,
-      "identified_at": "2026-05-24T18:15:29.481700-05:00",
+      "identified_at": "2026-05-24T19:15:34.633732-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -272,7 +272,7 @@
       ],
       "content_type": "general",
       "source_video_views": 171845,
-      "identified_at": "2026-05-24T18:16:45.187868-05:00",
+      "identified_at": "2026-05-24T19:16:19.868255-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -319,7 +319,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 114445,
-      "identified_at": "2026-05-24T18:17:09.504998-05:00",
+      "identified_at": "2026-05-24T19:16:59.137143-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -356,7 +356,7 @@
       ],
       "content_type": "press_conference",
       "source_video_views": 8769,
-      "identified_at": "2026-05-24T18:15:18.612092-05:00",
+      "identified_at": "2026-05-24T19:15:33.988925-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -394,7 +394,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 250571,
-      "identified_at": "2026-05-24T18:16:07.048428-05:00",
+      "identified_at": "2026-05-24T19:15:59.390743-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -439,7 +439,52 @@
       ],
       "content_type": "highlight",
       "source_video_views": 493777,
-      "identified_at": "2026-05-24T18:15:42.392020-05:00",
+      "identified_at": "2026-05-24T19:15:36.513999-05:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "NNNHyZXvfng",
+      "video_title": "Brian Cushing's Most Iconic (and BLOODY) Moments \ud83d\udc40 | The 53",
+      "video_url": "https://youtube.com/watch?v=NNNHyZXvfng",
+      "timestamped_url": "https://youtube.com/watch?v=NNNHyZXvfng&t=50",
+      "start_seconds": 50,
+      "end_seconds": 110,
+      "start_formatted": "0:50",
+      "end_formatted": "1:50",
+      "clip_duration": 60,
+      "retention_score": 68.8,
+      "video_avg_retention": 50.3,
+      "retention_boost": 1.37,
+      "priority_score": 123.2,
+      "flags": [
+        {
+          "type": "content",
+          "name": "ad",
+          "emoji": "\ud83d\udcb0",
+          "note": "Sponsored content - use conservative titling",
+          "show_banner": false
+        }
+      ],
+      "suggested_title": {
+        "suggestion": "NRG was ROCKING \ud83d\udcaa",
+        "alternatives": [
+          "The Swarm showed UP \ud83d\udc1d",
+          "Houston fans are DIFFERENT \ud83d\udd25"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#Shorts"
+      ],
+      "content_type": "atmosphere",
+      "source_video_views": 345862,
+      "identified_at": "2026-05-24T19:15:53.569375-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -484,7 +529,7 @@
       ],
       "content_type": "atmosphere",
       "source_video_views": 399475,
-      "identified_at": "2026-05-24T18:13:49.213742-05:00",
+      "identified_at": "2026-05-24T19:14:02.056246-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -529,7 +574,7 @@
       ],
       "content_type": "general",
       "source_video_views": 148330,
-      "identified_at": "2026-05-24T18:16:50.890153-05:00",
+      "identified_at": "2026-05-24T19:16:28.063636-05:00",
       "clip_created": false,
       "shorts_video_id": null
     }
