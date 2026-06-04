@@ -2009,7 +2009,17 @@
     "the terminator",
     "terminator strikes",
     "strikes again",
-    "again subscribe"
+    "again subscribe",
+    "29-10",
+    "then",
+    "happened",
+    "sllim",
+    "sivad",
+    "down 29-10",
+    "29-10 then",
+    "then this",
+    "this happened",
+    "happened dt"
   ],
   "avoid": [
     "watson",
@@ -3596,15 +3606,37 @@
     "football to",
     "to pittsburgh",
     "card win",
-    "iron episode"
+    "iron episode",
+    "trent",
+    "the stop",
+    "the ball",
+    "cleveland",
+    "browns"
   ],
-  "last_updated": "2026-06-04T11:28:36.598102-05:00",
+  "last_updated": "2026-06-04T14:30:27.879934-05:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
-    "new_boost_keywords": [],
-    "new_avoid_keywords": [],
-    "analysis_date": "2026-06-04T11:28:36.598067-05:00"
+    "new_boost_keywords": [
+      "29-10",
+      "then",
+      "happened",
+      "sllim",
+      "sivad",
+      "down 29-10",
+      "29-10 then",
+      "then this",
+      "this happened",
+      "happened dt"
+    ],
+    "new_avoid_keywords": [
+      "trent",
+      "the stop",
+      "the ball",
+      "cleveland",
+      "browns"
+    ],
+    "analysis_date": "2026-06-04T14:30:27.879899-05:00"
   }
 }
