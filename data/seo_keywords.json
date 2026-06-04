@@ -2003,7 +2003,13 @@
     "season subscribe",
     "first nfl",
     "nfl touchdown",
-    "in his"
+    "in his",
+    "terminator",
+    "strikes",
+    "the terminator",
+    "terminator strikes",
+    "strikes again",
+    "again subscribe"
   ],
   "avoid": [
     "watson",
@@ -3592,13 +3598,20 @@
     "card win",
     "iron episode"
   ],
-  "last_updated": "2026-06-03T18:59:28.598540-05:00",
+  "last_updated": "2026-06-04T00:03:20.394942-05:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
-    "new_boost_keywords": [],
+    "new_boost_keywords": [
+      "terminator",
+      "strikes",
+      "the terminator",
+      "terminator strikes",
+      "strikes again",
+      "again subscribe"
+    ],
     "new_avoid_keywords": [],
-    "analysis_date": "2026-06-03T18:59:28.598451-05:00"
+    "analysis_date": "2026-06-04T00:03:20.394900-05:00"
   }
 }
