@@ -2022,7 +2022,12 @@
     "happened dt",
     "dt sllim",
     "sllim sivad",
-    "sivad shorts"
+    "sivad shorts",
+    "raw",
+    "raw locker",
+    "room energy",
+    "energy before",
+    "kickoff subscribe"
   ],
   "avoid": [
     "watson",
@@ -3617,13 +3622,19 @@
     "browns",
     "cleveland browns"
   ],
-  "last_updated": "2026-06-04T23:45:48.894453-05:00",
+  "last_updated": "2026-06-05T03:51:47.249169-05:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
-    "new_boost_keywords": [],
+    "new_boost_keywords": [
+      "raw",
+      "raw locker",
+      "room energy",
+      "energy before",
+      "kickoff subscribe"
+    ],
     "new_avoid_keywords": [],
-    "analysis_date": "2026-06-04T23:45:48.894394-05:00"
+    "analysis_date": "2026-06-05T03:51:47.249116-05:00"
   }
 }
