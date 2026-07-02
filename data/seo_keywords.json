@@ -2090,7 +2090,10 @@
     "1 min",
     "min of",
     "of your",
-    "your time"
+    "your time",
+    "y'all like",
+    "like the",
+    "nicknames subscribe"
   ],
   "avoid": [
     "watson",
@@ -3729,21 +3732,30 @@
     "season watch",
     "watch every",
     "every key",
-    "key throw"
+    "key throw",
+    "throw every",
+    "every big",
+    "big play",
+    "play and",
+    "the game-winning"
   ],
-  "last_updated": "2026-07-01T19:20:24.107463-05:00",
+  "last_updated": "2026-07-02T00:08:58.338418-05:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
-    "new_boost_keywords": [],
-    "new_avoid_keywords": [
-      "2024 season",
-      "season watch",
-      "watch every",
-      "every key",
-      "key throw"
+    "new_boost_keywords": [
+      "y'all like",
+      "like the",
+      "nicknames subscribe"
     ],
-    "analysis_date": "2026-07-01T19:20:24.107433-05:00"
+    "new_avoid_keywords": [
+      "throw every",
+      "every big",
+      "big play",
+      "play and",
+      "the game-winning"
+    ],
+    "analysis_date": "2026-07-02T00:08:58.338335-05:00"
   }
 }
