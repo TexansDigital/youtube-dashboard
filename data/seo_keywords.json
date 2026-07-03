@@ -2104,7 +2104,8 @@
     "stay until",
     "until the",
     "the end",
-    "end subscribe"
+    "end subscribe",
+    "asked"
   ],
   "avoid": [
     "watson",
@@ -3806,15 +3807,20 @@
     "postseason relive",
     "relive it",
     "it here",
-    "here subscribe"
+    "here subscribe",
+    "yards and"
   ],
-  "last_updated": "2026-07-03T13:38:10.114582-05:00",
+  "last_updated": "2026-07-03T15:32:31.492302-05:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
-    "new_boost_keywords": [],
-    "new_avoid_keywords": [],
-    "analysis_date": "2026-07-03T13:38:10.114537-05:00"
+    "new_boost_keywords": [
+      "asked"
+    ],
+    "new_avoid_keywords": [
+      "yards and"
+    ],
+    "analysis_date": "2026-07-03T15:32:31.492269-05:00"
   }
 }
