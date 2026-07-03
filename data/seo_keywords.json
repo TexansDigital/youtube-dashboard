@@ -2099,7 +2099,12 @@
     "ingram on",
     "year 5",
     "run game",
-    "year 2"
+    "year 2",
+    "until",
+    "stay until",
+    "until the",
+    "the end",
+    "end subscribe"
   ],
   "avoid": [
     "watson",
@@ -3788,21 +3793,32 @@
     "a jaw-dropping",
     "jaw-dropping broken",
     "broken play",
-    "play where"
+    "play where",
+    "where c",
+    "stroud finds",
+    "finds xavier",
+    "xavier hutchinson",
+    "hutchinson for"
   ],
-  "last_updated": "2026-07-02T23:55:24.736119-05:00",
+  "last_updated": "2026-07-03T03:26:14.102114-05:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
-    "new_boost_keywords": [],
-    "new_avoid_keywords": [
-      "matchup featuring",
-      "a jaw-dropping",
-      "jaw-dropping broken",
-      "broken play",
-      "play where"
+    "new_boost_keywords": [
+      "until",
+      "stay until",
+      "until the",
+      "the end",
+      "end subscribe"
     ],
-    "analysis_date": "2026-07-02T23:55:24.736067-05:00"
+    "new_avoid_keywords": [
+      "where c",
+      "stroud finds",
+      "finds xavier",
+      "xavier hutchinson",
+      "hutchinson for"
+    ],
+    "analysis_date": "2026-07-03T03:26:14.102057-05:00"
   }
 }
