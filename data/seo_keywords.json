@@ -2107,7 +2107,8 @@
     "end subscribe",
     "asked",
     "inflatabull",
-    "inflatabull strikes"
+    "inflatabull strikes",
+    "that way"
   ],
   "avoid": [
     "watson",
@@ -3819,19 +3820,15 @@
     "be honest",
     "honest are"
   ],
-  "last_updated": "2026-07-07T00:05:19.577105-05:00",
+  "last_updated": "2026-07-07T03:40:32.021751-05:00",
   "analysis_stats": {
-    "videos_analyzed": 100,
-    "winners_analyzed": 20,
-    "losers_analyzed": 20,
-    "new_boost_keywords": [],
-    "new_avoid_keywords": [
-      "honest",
-      "everyday",
-      "cushing be",
-      "be honest",
-      "honest are"
+    "videos_analyzed": 150,
+    "winners_analyzed": 30,
+    "losers_analyzed": 30,
+    "new_boost_keywords": [
+      "that way"
     ],
-    "analysis_date": "2026-07-07T00:05:19.577056-05:00"
+    "new_avoid_keywords": [],
+    "analysis_date": "2026-07-07T03:40:32.021709-05:00"
   }
 }
