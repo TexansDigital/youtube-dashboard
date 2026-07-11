@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T16:03:59.859877-05:00",
+  "generated_at": "2026-07-11T17:06:26.206920-05:00",
   "channel": {
     "channel_id": "UCa_FcpOBe8G6VAR18RYS-aA",
     "title": "Houston Texans",
@@ -9,9 +9,9 @@
     "statistics": {
       "subscribers": 166000,
       "total_views": 76974346,
-      "video_count": 6023
+      "video_count": 6024
     },
-    "fetched_at": "2026-07-11T16:04:00.192031-05:00"
+    "fetched_at": "2026-07-11T17:06:26.426047-05:00"
   },
   "periods": {
     "past_7_days": {
@@ -19,17 +19,17 @@
       "start_date": "2026-07-04",
       "end_date": "2026-07-11",
       "analytics": {
-        "views": 141807,
-        "watch_time_minutes": 375562,
-        "watch_time_hours": 6259.37,
+        "views": 142071,
+        "watch_time_minutes": 376124,
+        "watch_time_hours": 6268.73,
         "avg_view_duration_seconds": 192,
         "subscribers_gained": 219,
         "subscribers_lost": 134,
         "net_subscribers": 85,
-        "likes": 851,
-        "comments": 141,
+        "likes": 862,
+        "comments": 138,
         "shares": 483,
-        "engagement_total": 1475
+        "engagement_total": 1483
       }
     },
     "past_month": {
@@ -37,17 +37,17 @@
       "start_date": "2026-06-11",
       "end_date": "2026-07-11",
       "analytics": {
-        "views": 945655,
-        "watch_time_minutes": 1525921,
-        "watch_time_hours": 25432.02,
+        "views": 947326,
+        "watch_time_minutes": 1528022,
+        "watch_time_hours": 25467.03,
         "avg_view_duration_seconds": 139,
         "subscribers_gained": 1242,
-        "subscribers_lost": 650,
-        "net_subscribers": 592,
-        "likes": 28801,
-        "comments": 1324,
-        "shares": 2690,
-        "engagement_total": 32815
+        "subscribers_lost": 649,
+        "net_subscribers": 593,
+        "likes": 28831,
+        "comments": 1316,
+        "shares": 2695,
+        "engagement_total": 32842
       }
     },
     "current_fy": {
@@ -55,17 +55,17 @@
       "start_date": "2026-04-01",
       "end_date": "2026-07-11",
       "analytics": {
-        "views": 5073077,
-        "watch_time_minutes": 6658663,
-        "watch_time_hours": 110977.72,
+        "views": 5075050,
+        "watch_time_minutes": 6662236,
+        "watch_time_hours": 111037.27,
         "avg_view_duration_seconds": 126,
         "subscribers_gained": 5735,
-        "subscribers_lost": 2451,
-        "net_subscribers": 3284,
-        "likes": 150296,
-        "comments": 6383,
-        "shares": 13189,
-        "engagement_total": 169868
+        "subscribers_lost": 2450,
+        "net_subscribers": 3285,
+        "likes": 150326,
+        "comments": 6375,
+        "shares": 13194,
+        "engagement_total": 169895
       }
     }
   },
@@ -91,8 +91,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 12342581,
-          "likes": 167440,
+          "views": 12342772,
+          "likes": 167441,
           "comments": 8781
         },
         "content_status": {
@@ -109,7 +109,7 @@
           ]
         },
         "vph": 0.6,
-        "days_since_published": 2422,
+        "days_since_published": 2423,
         "views_per_day": 14.9,
         "performance_status": "poor",
         "seo_score": {
@@ -805,7 +805,7 @@
           ]
         },
         "vph": 1.0,
-        "days_since_published": 394,
+        "days_since_published": 395,
         "views_per_day": 24.4,
         "performance_status": "poor",
         "seo_score": {
@@ -1042,8 +1042,8 @@
         "duration_formatted": "44s",
         "is_short": true,
         "statistics": {
-          "views": 14362,
-          "likes": 546,
+          "views": 14389,
+          "likes": 547,
           "comments": 11
         },
         "content_status": {
@@ -1051,7 +1051,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 48.8,
+        "vph": 48.5,
         "days_since_published": 8,
         "views_per_day": 1202.1,
         "performance_status": "average",
@@ -1416,7 +1416,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 46.2,
+        "vph": 45.9,
         "days_since_published": 7,
         "views_per_day": 1154.7,
         "performance_status": "good",
@@ -1527,7 +1527,7 @@
             }
           ]
         },
-        "vph": 47.5,
+        "vph": 47.0,
         "days_since_published": 4,
         "views_per_day": 1177.2,
         "performance_status": "good",
@@ -1761,8 +1761,8 @@
           "flags": []
         },
         "vph": 0.4,
-        "days_since_published": 240,
-        "views_per_day": 10.1,
+        "days_since_published": 241,
+        "views_per_day": 10.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 80,
@@ -1983,9 +1983,9 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 158121,
+          "views": 158328,
           "likes": 1643,
-          "comments": 118
+          "comments": 119
         },
         "content_status": {
           "is_blocked": false,
@@ -2420,7 +2420,7 @@
         "duration_formatted": "48s",
         "is_short": true,
         "statistics": {
-          "views": 12993,
+          "views": 13007,
           "likes": 829,
           "comments": 25
         },
@@ -2429,7 +2429,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 6.9,
+        "vph": 6.8,
         "days_since_published": 13,
         "views_per_day": 168.2,
         "performance_status": "excellent",
@@ -2997,7 +2997,7 @@
         "duration_formatted": "2:02",
         "is_short": false,
         "statistics": {
-          "views": 26009,
+          "views": 26036,
           "likes": 927,
           "comments": 29
         },
@@ -3015,7 +3015,7 @@
           ]
         },
         "vph": 0.1,
-        "days_since_published": 562,
+        "days_since_published": 563,
         "views_per_day": 2.4,
         "performance_status": "good",
         "seo_score": {
@@ -3325,8 +3325,8 @@
         "duration_formatted": "16:37",
         "is_short": false,
         "statistics": {
-          "views": 1583,
-          "likes": 82,
+          "views": 1592,
+          "likes": 83,
           "comments": 14
         },
         "content_status": {
@@ -3342,7 +3342,7 @@
             }
           ]
         },
-        "vph": 23.6,
+        "vph": 23.2,
         "days_since_published": 2,
         "views_per_day": 603.5,
         "performance_status": "good",
@@ -3539,8 +3539,8 @@
         "duration_formatted": "8:26",
         "is_short": false,
         "statistics": {
-          "views": 2304687,
-          "likes": 17406,
+          "views": 2304694,
+          "likes": 17407,
           "comments": 1477
         },
         "content_status": {
@@ -4031,7 +4031,7 @@
         "duration_formatted": "2:07",
         "is_short": false,
         "statistics": {
-          "views": 8799,
+          "views": 8805,
           "likes": 786,
           "comments": 33
         },
@@ -4480,7 +4480,7 @@
         "duration_formatted": "6:28",
         "is_short": false,
         "statistics": {
-          "views": 27190,
+          "views": 27180,
           "likes": 318,
           "comments": 34
         },
@@ -4907,7 +4907,7 @@
         "duration_formatted": "10:23",
         "is_short": false,
         "statistics": {
-          "views": 2380,
+          "views": 2382,
           "likes": 98,
           "comments": 13
         },
@@ -5142,7 +5142,7 @@
           ]
         },
         "vph": 0.1,
-        "days_since_published": 226,
+        "days_since_published": 227,
         "views_per_day": 2.8,
         "performance_status": "poor",
         "seo_score": {
@@ -6545,7 +6545,7 @@
           ]
         },
         "vph": 0.0,
-        "days_since_published": 877,
+        "days_since_published": 878,
         "views_per_day": 0.6,
         "performance_status": "poor",
         "seo_score": {
@@ -8089,7 +8089,7 @@
           ]
         },
         "vph": 0.1,
-        "days_since_published": 359,
+        "days_since_published": 360,
         "views_per_day": 1.3,
         "performance_status": "poor",
         "seo_score": {
@@ -8394,8 +8394,8 @@
           "flags": []
         },
         "vph": 0.6,
-        "days_since_published": 30,
-        "views_per_day": 14.0,
+        "days_since_published": 31,
+        "views_per_day": 13.5,
         "performance_status": "excellent",
         "seo_score": {
           "total_score": 55,
@@ -8494,7 +8494,7 @@
         "duration_formatted": "1:07",
         "is_short": false,
         "statistics": {
-          "views": 5088,
+          "views": 5090,
           "likes": 251,
           "comments": 12
         },
@@ -8804,7 +8804,7 @@
         "duration_formatted": "1:57",
         "is_short": false,
         "statistics": {
-          "views": 8852,
+          "views": 8858,
           "likes": 694,
           "comments": 17
         },
@@ -9112,7 +9112,7 @@
         "duration_formatted": "47s",
         "is_short": true,
         "statistics": {
-          "views": 15534,
+          "views": 15542,
           "likes": 1134,
           "comments": 32
         },
@@ -9505,8 +9505,8 @@
         "duration_formatted": "12:06",
         "is_short": false,
         "statistics": {
-          "views": 228740,
-          "likes": 3566,
+          "views": 228742,
+          "likes": 3567,
           "comments": 318
         },
         "content_status": {
@@ -9515,7 +9515,7 @@
           "flags": []
         },
         "vph": 0.1,
-        "days_since_published": 176,
+        "days_since_published": 177,
         "views_per_day": 1.9,
         "performance_status": "poor",
         "seo_score": {
@@ -9669,7 +9669,7 @@
         "duration_formatted": "1:08",
         "is_short": false,
         "statistics": {
-          "views": 11197,
+          "views": 11188,
           "likes": 799,
           "comments": 29
         },
@@ -10422,8 +10422,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 12342581,
-          "likes": 167440,
+          "views": 12342772,
+          "likes": 167441,
           "comments": 8781
         },
         "content_status": {
@@ -10440,7 +10440,7 @@
           ]
         },
         "vph": 2.5,
-        "days_since_published": 2422,
+        "days_since_published": 2423,
         "views_per_day": 60.7,
         "performance_status": "excellent",
         "seo_score": {
@@ -11380,7 +11380,7 @@
         "duration_formatted": "11:56",
         "is_short": false,
         "statistics": {
-          "views": 111365,
+          "views": 111358,
           "likes": 1044,
           "comments": 56
         },
@@ -11398,8 +11398,8 @@
           ]
         },
         "vph": 2.1,
-        "days_since_published": 394,
-        "views_per_day": 50.4,
+        "days_since_published": 395,
+        "views_per_day": 50.3,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -12185,8 +12185,8 @@
         "duration_formatted": "44s",
         "is_short": true,
         "statistics": {
-          "views": 14362,
-          "likes": 546,
+          "views": 14389,
+          "likes": 547,
           "comments": 11
         },
         "content_status": {
@@ -12194,7 +12194,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 69.5,
+        "vph": 69.1,
         "days_since_published": 8,
         "views_per_day": 1711.8,
         "performance_status": "poor",
@@ -12288,7 +12288,7 @@
         "duration_formatted": "5s",
         "is_short": true,
         "statistics": {
-          "views": 25972,
+          "views": 25981,
           "likes": 548,
           "comments": 10
         },
@@ -12298,8 +12298,8 @@
           "flags": []
         },
         "vph": 18.2,
-        "days_since_published": 30,
-        "views_per_day": 451.7,
+        "days_since_published": 31,
+        "views_per_day": 437.2,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -12509,7 +12509,7 @@
         "duration_formatted": "1:06",
         "is_short": false,
         "statistics": {
-          "views": 12953,
+          "views": 12956,
           "likes": 756,
           "comments": 23
         },
@@ -12626,7 +12626,7 @@
         "duration_formatted": "48s",
         "is_short": true,
         "statistics": {
-          "views": 12993,
+          "views": 13007,
           "likes": 829,
           "comments": 25
         },
@@ -12635,7 +12635,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 38.8,
+        "vph": 38.7,
         "days_since_published": 13,
         "views_per_day": 950.6,
         "performance_status": "good",
@@ -12833,7 +12833,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 34.3,
+        "vph": 34.1,
         "days_since_published": 12,
         "views_per_day": 842.3,
         "performance_status": "good",
@@ -12929,7 +12929,7 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 238722,
+          "views": 238778,
           "likes": 2432,
           "comments": 189
         },
@@ -12939,8 +12939,8 @@
           "flags": []
         },
         "vph": 1.7,
-        "days_since_published": 240,
-        "views_per_day": 41.5,
+        "days_since_published": 241,
+        "views_per_day": 41.4,
         "performance_status": "good",
         "seo_score": {
           "total_score": 80,
@@ -13317,7 +13317,7 @@
         "duration_formatted": "25s",
         "is_short": true,
         "statistics": {
-          "views": 9520,
+          "views": 9530,
           "likes": 421,
           "comments": 25
         },
@@ -13537,7 +13537,7 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 29986,
+          "views": 29998,
           "likes": 1153,
           "comments": 36
         },
@@ -13760,7 +13760,7 @@
         "duration_formatted": "1:57",
         "is_short": false,
         "statistics": {
-          "views": 8855,
+          "views": 8858,
           "likes": 694,
           "comments": 17
         },
@@ -13847,7 +13847,7 @@
         "duration_formatted": "24s",
         "is_short": true,
         "statistics": {
-          "views": 8835,
+          "views": 8855,
           "likes": 459,
           "comments": 6
         },
@@ -13945,7 +13945,7 @@
         "duration_formatted": "14s",
         "is_short": true,
         "statistics": {
-          "views": 8726,
+          "views": 8729,
           "likes": 291,
           "comments": 8
         },
@@ -14059,7 +14059,7 @@
         "duration_formatted": "2:07",
         "is_short": false,
         "statistics": {
-          "views": 8799,
+          "views": 8805,
           "likes": 786,
           "comments": 33
         },
@@ -14068,7 +14068,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 23.6,
+        "vph": 23.5,
         "days_since_published": 15,
         "views_per_day": 569.7,
         "performance_status": "good",
@@ -14192,7 +14192,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 46.2,
+        "vph": 45.9,
         "days_since_published": 7,
         "views_per_day": 1154.7,
         "performance_status": "good",
@@ -14286,7 +14286,7 @@
         "duration_formatted": "4s",
         "is_short": true,
         "statistics": {
-          "views": 8054,
+          "views": 8053,
           "likes": 274,
           "comments": 11
         },
@@ -14295,7 +14295,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 11.5,
+        "vph": 11.4,
         "days_since_published": 29,
         "views_per_day": 277.4,
         "performance_status": "good",
@@ -14392,7 +14392,7 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 8086,
+          "views": 8093,
           "likes": 365,
           "comments": 25
         },
@@ -14508,7 +14508,7 @@
         "duration_formatted": "30s",
         "is_short": true,
         "statistics": {
-          "views": 7722,
+          "views": 7724,
           "likes": 505,
           "comments": 27
         },
@@ -14615,7 +14615,7 @@
         "duration_formatted": "40s",
         "is_short": true,
         "statistics": {
-          "views": 7556,
+          "views": 7557,
           "likes": 570,
           "comments": 18
         },
@@ -14735,7 +14735,7 @@
         "duration_formatted": "20s",
         "is_short": true,
         "statistics": {
-          "views": 7073,
+          "views": 7077,
           "likes": 317,
           "comments": 7
         },
@@ -14849,7 +14849,7 @@
         "duration_formatted": "10s",
         "is_short": true,
         "statistics": {
-          "views": 6990,
+          "views": 6996,
           "likes": 303,
           "comments": 11
         },
@@ -15056,7 +15056,7 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 6777,
+          "views": 6783,
           "likes": 366,
           "comments": 7
         },
@@ -15065,7 +15065,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 12.2,
+        "vph": 12.1,
         "days_since_published": 23,
         "views_per_day": 292.9,
         "performance_status": "average",
@@ -15449,7 +15449,7 @@
         "duration_formatted": "17s",
         "is_short": true,
         "statistics": {
-          "views": 6373,
+          "views": 6375,
           "likes": 304,
           "comments": 7
         },
@@ -15586,7 +15586,7 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 6305,
+          "views": 6312,
           "likes": 378,
           "comments": 8
         },
@@ -15596,8 +15596,8 @@
           "flags": []
         },
         "vph": 10.1,
-        "days_since_published": 25,
-        "views_per_day": 251.9,
+        "days_since_published": 26,
+        "views_per_day": 242.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 50,
@@ -15691,7 +15691,7 @@
         "duration_formatted": "19s",
         "is_short": true,
         "statistics": {
-          "views": 6018,
+          "views": 6019,
           "likes": 300,
           "comments": 7
         },
@@ -15892,7 +15892,7 @@
         "duration_formatted": "18s",
         "is_short": true,
         "statistics": {
-          "views": 12463,
+          "views": 12461,
           "likes": 645,
           "comments": 36
         },
@@ -16005,7 +16005,7 @@
         "duration_formatted": "30s",
         "is_short": true,
         "statistics": {
-          "views": 5638,
+          "views": 5640,
           "likes": 174,
           "comments": 8
         },
@@ -16120,7 +16120,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 8.2,
+        "vph": 8.1,
         "days_since_published": 28,
         "views_per_day": 197.5,
         "performance_status": "good",
@@ -16218,7 +16218,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 19.7,
+        "vph": 19.6,
         "days_since_published": 11,
         "views_per_day": 501.5,
         "performance_status": "good",
@@ -16316,7 +16316,7 @@
         "duration_formatted": "29s",
         "is_short": true,
         "statistics": {
-          "views": 5384,
+          "views": 5387,
           "likes": 286,
           "comments": 3
         },
@@ -16417,7 +16417,7 @@
         "duration_formatted": "1:04",
         "is_short": false,
         "statistics": {
-          "views": 5318,
+          "views": 5323,
           "likes": 318,
           "comments": 14
         },
@@ -16793,7 +16793,7 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 5164,
+          "views": 5165,
           "likes": 234,
           "comments": 5
         },
@@ -16898,7 +16898,7 @@
         "duration_formatted": "55s",
         "is_short": true,
         "statistics": {
-          "views": 745816,
+          "views": 745825,
           "likes": 17220,
           "comments": 275
         },
@@ -16907,7 +16907,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 584.1,
+        "vph": 583.6,
         "days_since_published": 53,
         "views_per_day": 14071.0,
         "performance_status": "poor",
@@ -17052,8 +17052,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 12342581,
-          "likes": 167440,
+          "views": 12342772,
+          "likes": 167441,
           "comments": 8781
         },
         "content_status": {
@@ -17070,7 +17070,7 @@
           ]
         },
         "vph": 8.5,
-        "days_since_published": 2422,
+        "days_since_published": 2423,
         "views_per_day": 204.7,
         "performance_status": "good",
         "seo_score": {
@@ -17748,7 +17748,7 @@
         "duration_formatted": "50s",
         "is_short": true,
         "statistics": {
-          "views": 97972,
+          "views": 97973,
           "likes": 3891,
           "comments": 159
         },
@@ -17765,7 +17765,7 @@
             }
           ]
         },
-        "vph": 51.9,
+        "vph": 51.8,
         "days_since_published": 78,
         "views_per_day": 1255.8,
         "performance_status": "good",
@@ -17889,7 +17889,7 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 53757,
+          "views": 53755,
           "likes": 1165,
           "comments": 53
         },
@@ -18051,7 +18051,7 @@
             }
           ]
         },
-        "vph": 25.3,
+        "vph": 25.2,
         "days_since_published": 78,
         "views_per_day": 612.0,
         "performance_status": "average",
@@ -18160,7 +18160,7 @@
         "duration_formatted": "48s",
         "is_short": true,
         "statistics": {
-          "views": 46624,
+          "views": 46623,
           "likes": 1407,
           "comments": 103
         },
@@ -18286,7 +18286,7 @@
         "duration_formatted": "24s",
         "is_short": true,
         "statistics": {
-          "views": 46236,
+          "views": 46240,
           "likes": 1182,
           "comments": 39
         },
@@ -18546,7 +18546,7 @@
         "duration_formatted": "10:09",
         "is_short": false,
         "statistics": {
-          "views": 40446,
+          "views": 40453,
           "likes": 1456,
           "comments": 81
         },
@@ -18807,7 +18807,7 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 39312,
+          "views": 39316,
           "likes": 1796,
           "comments": 63
         },
@@ -19280,7 +19280,7 @@
         "duration_formatted": "27s",
         "is_short": true,
         "statistics": {
-          "views": 35654,
+          "views": 35656,
           "likes": 1408,
           "comments": 104
         },
@@ -19398,7 +19398,7 @@
         "duration_formatted": "13:40",
         "is_short": false,
         "statistics": {
-          "views": 527992,
+          "views": 527989,
           "likes": 2567,
           "comments": 172
         },
@@ -19660,7 +19660,7 @@
         "duration_formatted": "19s",
         "is_short": true,
         "statistics": {
-          "views": 33512,
+          "views": 33517,
           "likes": 1556,
           "comments": 33
         },
@@ -19796,8 +19796,8 @@
           "flags": []
         },
         "vph": 17.3,
-        "days_since_published": 76,
-        "views_per_day": 420.5,
+        "days_since_published": 77,
+        "views_per_day": 415.1,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -20007,7 +20007,7 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 29986,
+          "views": 29998,
           "likes": 1153,
           "comments": 36
         },
@@ -20214,8 +20214,8 @@
         "duration_formatted": "1:06",
         "is_short": false,
         "statistics": {
-          "views": 27704,
-          "likes": 1323,
+          "views": 27706,
+          "likes": 1322,
           "comments": 79
         },
         "content_status": {
@@ -20318,7 +20318,7 @@
         "duration_formatted": "2:01",
         "is_short": false,
         "statistics": {
-          "views": 26677,
+          "views": 26680,
           "likes": 1989,
           "comments": 97
         },
@@ -20754,7 +20754,7 @@
         "duration_formatted": "5s",
         "is_short": true,
         "statistics": {
-          "views": 25972,
+          "views": 25981,
           "likes": 548,
           "comments": 10
         },
@@ -20763,9 +20763,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 34.9,
-        "days_since_published": 30,
-        "views_per_day": 864.3,
+        "vph": 34.8,
+        "days_since_published": 31,
+        "views_per_day": 836.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -20864,7 +20864,7 @@
         "duration_formatted": "1:35",
         "is_short": false,
         "statistics": {
-          "views": 25377,
+          "views": 25380,
           "likes": 1576,
           "comments": 52
         },
@@ -20971,7 +20971,7 @@
         "is_short": false,
         "statistics": {
           "views": 25192,
-          "likes": 857,
+          "likes": 858,
           "comments": 54
         },
         "content_status": {
@@ -21299,7 +21299,7 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 24079,
+          "views": 24078,
           "likes": 929,
           "comments": 62
         },
@@ -21408,7 +21408,7 @@
         "duration_formatted": "21s",
         "is_short": true,
         "statistics": {
-          "views": 24061,
+          "views": 24065,
           "likes": 1003,
           "comments": 24
         },
@@ -21545,7 +21545,7 @@
         "duration_formatted": "5s",
         "is_short": true,
         "statistics": {
-          "views": 23300,
+          "views": 23310,
           "likes": 600,
           "comments": 12
         },
@@ -21554,7 +21554,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 22.0,
+        "vph": 21.9,
         "days_since_published": 44,
         "views_per_day": 529.5,
         "performance_status": "good",
@@ -21647,7 +21647,7 @@
         "is_short": true,
         "statistics": {
           "views": 22409,
-          "likes": 897,
+          "likes": 898,
           "comments": 118
         },
         "content_status": {
@@ -21663,7 +21663,7 @@
             }
           ]
         },
-        "vph": 11.4,
+        "vph": 11.3,
         "days_since_published": 82,
         "views_per_day": 273.2,
         "performance_status": "good",
@@ -22243,7 +22243,7 @@
         "duration_formatted": "11:56",
         "is_short": false,
         "statistics": {
-          "views": 111384,
+          "views": 111358,
           "likes": 1044,
           "comments": 56
         },
@@ -22261,8 +22261,8 @@
           ]
         },
         "vph": 2.2,
-        "days_since_published": 394,
-        "views_per_day": 52.0,
+        "days_since_published": 395,
+        "views_per_day": 51.8,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -22613,7 +22613,7 @@
         "duration_formatted": "39s",
         "is_short": true,
         "statistics": {
-          "views": 20231,
+          "views": 20234,
           "likes": 940,
           "comments": 24
         },
@@ -22724,7 +22724,7 @@
         "duration_formatted": "32s",
         "is_short": true,
         "statistics": {
-          "views": 19853,
+          "views": 19857,
           "likes": 901,
           "comments": 17
         },
@@ -22741,7 +22741,7 @@
             }
           ]
         },
-        "vph": 10.8,
+        "vph": 10.7,
         "days_since_published": 76,
         "views_per_day": 261.1,
         "performance_status": "average",
@@ -22868,7 +22868,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 26.7,
+        "vph": 26.6,
         "days_since_published": 30,
         "views_per_day": 659.0,
         "performance_status": "poor",
@@ -23314,8 +23314,8 @@
         "duration_formatted": "8:26",
         "is_short": false,
         "statistics": {
-          "views": 2304687,
-          "likes": 17406,
+          "views": 2304694,
+          "likes": 17407,
           "comments": 1477
         },
         "content_status": {
@@ -23796,7 +23796,7 @@
         "duration_formatted": "13s",
         "is_short": true,
         "statistics": {
-          "views": 18217,
+          "views": 18220,
           "likes": 796,
           "comments": 48
         },
@@ -23805,7 +23805,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 21.0,
+        "vph": 20.9,
         "days_since_published": 36,
         "views_per_day": 505.6,
         "performance_status": "good",
@@ -24237,25 +24237,25 @@
         "start_date": "2026-06-27",
         "end_date": "2026-07-04",
         "analytics": {
-          "views": 206151,
-          "watch_time_minutes": 470552,
-          "watch_time_hours": 7842.53,
+          "views": 206389,
+          "watch_time_minutes": 470561,
+          "watch_time_hours": 7842.68,
           "avg_view_duration_seconds": 174,
           "subscribers_gained": 336,
           "subscribers_lost": 193,
           "net_subscribers": 143,
           "likes": 5020,
-          "comments": 197,
-          "shares": 772,
-          "engagement_total": 5989
+          "comments": 200,
+          "shares": 771,
+          "engagement_total": 5991
         },
         "changes": {
           "views": -31.2,
-          "watch_time_hours": -20.2,
+          "watch_time_hours": -20.1,
           "net_subscribers": -40.6,
-          "engagement_total": -75.4,
+          "engagement_total": -75.2,
           "avg_view_duration_seconds": 10.3,
-          "likes": -83.0
+          "likes": -82.8
         }
       },
       "same_7_days_ly": {
@@ -24276,12 +24276,12 @@
           "engagement_total": 3438
         },
         "changes": {
-          "views": -11.1,
-          "watch_time_hours": -24.2,
+          "views": -10.9,
+          "watch_time_hours": -24.1,
           "net_subscribers": -72.4,
-          "engagement_total": -57.1,
+          "engagement_total": -56.9,
           "avg_view_duration_seconds": -7.2,
-          "likes": -70.3
+          "likes": -69.9
         }
       }
     },
@@ -24291,25 +24291,25 @@
         "start_date": "2026-06-01",
         "end_date": "2026-06-30",
         "analytics": {
-          "views": 1353642,
-          "watch_time_minutes": 1714818,
-          "watch_time_hours": 28580.3,
+          "views": 1355049,
+          "watch_time_minutes": 1716356,
+          "watch_time_hours": 28605.93,
           "avg_view_duration_seconds": 124,
           "subscribers_gained": 1515,
-          "subscribers_lost": 716,
-          "net_subscribers": 799,
-          "likes": 44143,
-          "comments": 1871,
-          "shares": 3080,
-          "engagement_total": 49094
+          "subscribers_lost": 715,
+          "net_subscribers": 800,
+          "likes": 44162,
+          "comments": 1866,
+          "shares": 3085,
+          "engagement_total": 49113
         },
         "changes": {
           "views": -30.1,
           "watch_time_hours": -11.0,
           "net_subscribers": -25.9,
-          "engagement_total": -33.2,
+          "engagement_total": -33.1,
           "avg_view_duration_seconds": 12.1,
-          "likes": -34.8
+          "likes": -34.7
         }
       },
       "same_month_ly": {
@@ -24330,12 +24330,12 @@
           "engagement_total": 22139
         },
         "changes": {
-          "views": 24.8,
-          "watch_time_hours": -32.2,
-          "net_subscribers": -59.5,
-          "engagement_total": 48.2,
+          "views": 25.0,
+          "watch_time_hours": -32.1,
+          "net_subscribers": -59.4,
+          "engagement_total": 48.3,
           "avg_view_duration_seconds": -34.1,
-          "likes": 53.4
+          "likes": 53.6
         }
       }
     },
@@ -24358,12 +24358,12 @@
           "engagement_total": 81120
         },
         "changes": {
-          "views": 62.5,
-          "watch_time_hours": -14.4,
+          "views": 62.6,
+          "watch_time_hours": -14.3,
           "net_subscribers": -31.5,
           "engagement_total": 109.4,
           "avg_view_duration_seconds": -27.6,
-          "likes": 122.9
+          "likes": 123.0
         }
       }
     }
