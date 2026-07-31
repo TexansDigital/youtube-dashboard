@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T22:57:51.343809-05:00",
+  "generated_at": "2026-07-31T02:16:29.180893-05:00",
   "total_candidates": 13,
   "candidates": [
     {
@@ -43,7 +43,7 @@
       ],
       "content_type": "atmosphere",
       "source_video_views": 152795,
-      "identified_at": "2026-07-30T22:56:37.653273-05:00",
+      "identified_at": "2026-07-31T02:15:51.527019-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -90,7 +90,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 260465,
-      "identified_at": "2026-07-30T22:55:46.066496-05:00",
+      "identified_at": "2026-07-31T02:15:23.628750-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -127,38 +127,30 @@
       ],
       "content_type": "general",
       "source_video_views": 12995,
-      "identified_at": "2026-07-30T22:53:21.323875-05:00",
+      "identified_at": "2026-07-31T02:13:40.011328-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
     {
-      "video_id": "6Rx8gFNZeIs",
-      "video_title": "Every Pick, Every Highlight | 2026 Houston Texans Draft Class",
-      "video_url": "https://youtube.com/watch?v=6Rx8gFNZeIs",
-      "timestamped_url": "https://youtube.com/watch?v=6Rx8gFNZeIs&t=202",
-      "start_seconds": 202,
-      "end_seconds": 262,
-      "start_formatted": "3:22",
-      "end_formatted": "4:22",
-      "clip_duration": 60,
-      "retention_score": 33.8,
-      "video_avg_retention": 21.7,
-      "retention_boost": 1.56,
-      "priority_score": 140.4,
-      "flags": [
-        {
-          "type": "content",
-          "name": "ad",
-          "emoji": "\ud83d\udcb0",
-          "note": "Sponsored content - use conservative titling",
-          "show_banner": false
-        }
-      ],
+      "video_id": "FZHYnk-wAhE",
+      "video_title": "C.J. Stroud Delivers in His Playoff Debut \ud83d\udcaa",
+      "video_url": "https://youtube.com/watch?v=FZHYnk-wAhE",
+      "timestamped_url": "https://youtube.com/watch?v=FZHYnk-wAhE&t=18",
+      "start_seconds": 18,
+      "end_seconds": 34,
+      "start_formatted": "0:18",
+      "end_formatted": "0:34",
+      "clip_duration": 16,
+      "retention_score": 59.1,
+      "video_avg_retention": 41.7,
+      "retention_boost": 1.42,
+      "priority_score": 141.8,
+      "flags": [],
       "suggested_title": {
-        "suggestion": "How did they pull this off?! \ud83d\udd25",
+        "suggestion": "C.J. Stroud doing C.J. Stroud things \ud83d\ude24",
         "alternatives": [
-          "This play is UNBELIEVABLE \ud83d\ude31",
-          "H-Town made a STATEMENT \ud83d\udcaa"
+          "C.J. Stroud is DIFFERENT \ud83d\udd25",
+          "This C.J. Stroud throw is INSANE \ud83d\ude31"
         ],
         "confidence": "\ud83d\udcca Performance-based",
         "note": "Based on title patterns from high-performing Texans content"
@@ -168,12 +160,14 @@
         "#NFL",
         "#Houston",
         "#HoustonTexans",
+        "#CJStroud",
+        "#QB1",
         "#NFLHighlights",
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 7870,
-      "identified_at": "2026-07-30T22:54:38.841648-05:00",
+      "source_video_views": 7691,
+      "identified_at": "2026-07-31T02:14:42.800951-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -219,7 +213,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 485555,
-      "identified_at": "2026-07-30T22:54:54.997866-05:00",
+      "identified_at": "2026-07-31T02:15:03.209188-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -264,7 +258,7 @@
       ],
       "content_type": "general",
       "source_video_views": 172564,
-      "identified_at": "2026-07-30T22:56:18.545281-05:00",
+      "identified_at": "2026-07-31T02:15:33.101124-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -311,7 +305,7 @@
       ],
       "content_type": "behind_the_scenes",
       "source_video_views": 114675,
-      "identified_at": "2026-07-30T22:57:35.081505-05:00",
+      "identified_at": "2026-07-31T02:16:28.708151-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -349,7 +343,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 251508,
-      "identified_at": "2026-07-30T22:55:57.640092-05:00",
+      "identified_at": "2026-07-31T02:15:24.224100-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -394,7 +388,7 @@
       ],
       "content_type": "highlight",
       "source_video_views": 499261,
-      "identified_at": "2026-07-30T22:54:48.639242-05:00",
+      "identified_at": "2026-07-31T02:15:02.561176-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -438,8 +432,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 7990,
-      "identified_at": "2026-07-30T22:54:25.060767-05:00",
+      "source_video_views": 7933,
+      "identified_at": "2026-07-31T02:14:42.235410-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -484,7 +478,7 @@
       ],
       "content_type": "atmosphere",
       "source_video_views": 351006,
-      "identified_at": "2026-07-30T22:55:09.978446-05:00",
+      "identified_at": "2026-07-31T02:15:19.567343-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -528,8 +522,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 422973,
-      "identified_at": "2026-07-30T22:52:22.885992-05:00",
+      "source_video_views": 419315,
+      "identified_at": "2026-07-31T02:12:23.126609-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -573,8 +567,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 74374,
-      "identified_at": "2026-07-30T22:52:23.816616-05:00",
+      "source_video_views": 74338,
+      "identified_at": "2026-07-31T02:12:23.842080-05:00",
       "clip_created": false,
       "shorts_video_id": null
     }
