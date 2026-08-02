@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T16:09:11.863470-05:00",
+  "generated_at": "2026-08-02T17:09:04.857418-05:00",
   "channel": {
     "channel_id": "UCa_FcpOBe8G6VAR18RYS-aA",
     "title": "Houston Texans",
@@ -11,7 +11,7 @@
       "total_views": 77638306,
       "video_count": 6107
     },
-    "fetched_at": "2026-08-02T16:09:12.043002-05:00"
+    "fetched_at": "2026-08-02T17:09:05.157000-05:00"
   },
   "periods": {
     "past_7_days": {
@@ -19,17 +19,17 @@
       "start_date": "2026-07-26",
       "end_date": "2026-08-02",
       "analytics": {
-        "views": 315486,
-        "watch_time_minutes": 721817,
-        "watch_time_hours": 12030.28,
+        "views": 314805,
+        "watch_time_minutes": 721022,
+        "watch_time_hours": 12017.03,
         "avg_view_duration_seconds": 203,
         "subscribers_gained": 582,
         "subscribers_lost": 197,
         "net_subscribers": 385,
         "likes": 10513,
-        "comments": 598,
+        "comments": 599,
         "shares": 920,
-        "engagement_total": 12031
+        "engagement_total": 12032
       }
     },
     "past_month": {
@@ -37,17 +37,17 @@
       "start_date": "2026-07-03",
       "end_date": "2026-08-02",
       "analytics": {
-        "views": 997333,
-        "watch_time_minutes": 2075472,
-        "watch_time_hours": 34591.2,
+        "views": 997352,
+        "watch_time_minutes": 2076028,
+        "watch_time_hours": 34600.47,
         "avg_view_duration_seconds": 170,
         "subscribers_gained": 1582,
         "subscribers_lost": 726,
         "net_subscribers": 856,
-        "likes": 25631,
-        "comments": 1464,
-        "shares": 2513,
-        "engagement_total": 29608
+        "likes": 25640,
+        "comments": 1462,
+        "shares": 2515,
+        "engagement_total": 29617
       }
     },
     "current_fy": {
@@ -55,17 +55,17 @@
       "start_date": "2026-04-01",
       "end_date": "2026-08-02",
       "analytics": {
-        "views": 5899834,
-        "watch_time_minutes": 8280097,
-        "watch_time_hours": 138001.62,
+        "views": 5900585,
+        "watch_time_minutes": 8281958,
+        "watch_time_hours": 138032.63,
         "avg_view_duration_seconds": 132,
         "subscribers_gained": 7051,
         "subscribers_lost": 3025,
         "net_subscribers": 4026,
-        "likes": 174506,
-        "comments": 7691,
-        "shares": 15098,
-        "engagement_total": 197295
+        "likes": 174515,
+        "comments": 7686,
+        "shares": 15101,
+        "engagement_total": 197302
       }
     }
   },
@@ -91,8 +91,8 @@
         "duration_formatted": "52s",
         "is_short": true,
         "statistics": {
-          "views": 82944,
-          "likes": 2068,
+          "views": 83207,
+          "likes": 2071,
           "comments": 43
         },
         "content_status": {
@@ -108,7 +108,7 @@
             }
           ]
         },
-        "vph": 889.3,
+        "vph": 873.2,
         "days_since_published": 2,
         "views_per_day": 24138.5,
         "performance_status": "good",
@@ -206,8 +206,8 @@
         "duration_formatted": "32s",
         "is_short": true,
         "statistics": {
-          "views": 30506,
-          "likes": 995,
+          "views": 30644,
+          "likes": 997,
           "comments": 22
         },
         "content_status": {
@@ -215,7 +215,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 343.6,
+        "vph": 336.8,
         "days_since_published": 2,
         "views_per_day": 8518.5,
         "performance_status": "good",
@@ -312,8 +312,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 12396351,
-          "likes": 167717,
+          "views": 12396489,
+          "likes": 167718,
           "comments": 8793
         },
         "content_status": {
@@ -330,7 +330,7 @@
           ]
         },
         "vph": 0.3,
-        "days_since_published": 2444,
+        "days_since_published": 2445,
         "views_per_day": 6.8,
         "performance_status": "poor",
         "seo_score": {
@@ -1012,8 +1012,8 @@
         "duration_formatted": "22:46",
         "is_short": false,
         "statistics": {
-          "views": 13526,
-          "likes": 579,
+          "views": 13610,
+          "likes": 582,
           "comments": 52
         },
         "content_status": {
@@ -1029,7 +1029,7 @@
             }
           ]
         },
-        "vph": 92.4,
+        "vph": 91.6,
         "days_since_published": 5,
         "views_per_day": 2348.8,
         "performance_status": "good",
@@ -1362,8 +1362,8 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 225934,
-          "likes": 2203,
+          "views": 226029,
+          "likes": 2205,
           "comments": 171
         },
         "content_status": {
@@ -1648,9 +1648,14 @@
                 "commitment to",
                 "to perfection",
                 "perfection mirrors",
-                "mirrors the"
+                "mirrors the",
+                "values we",
+                "we hold",
+                "hold dear",
+                "dear in",
+                "houston -"
               ],
-              "penalty": 2450
+              "penalty": 2500
             },
             "title": {
               "score": 20,
@@ -1670,7 +1675,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine, watch as, san, unit, as these, team's, men, serve, country, proud, drill team's, excellence that, men and, women who, who serve, serve our, our country, speechless, demonstrates, demonstrates the, who s, our houston, nation, their performance, military heroes, the values, of excellence, coordination, armed, forces, our armed, armed forces, to honor, honor our, proud to, this performance, more incredible, the incredible, service, team delivers, stat, and military, military excellence, level of, this elite, and their, texans a, meet, talent, america, leave, navy's, artistry, audiences, nationwide, dedicated, execute, complex, maneuvers, timing, attention, exceptional, within, pursuit, defines, commitment, perfection, mirrors, hold, dear, representing, bigger, yourself, sailors, embody, spirit, testament, distinction, silentdrillteam, navy's elite, elite silent, delivers insane, insane precision, the u, s navy, delivers flawless, will leave, leave you, you speechless, elite discipline, discipline meets, meets incredible, incredible artistry, presents an, mesmerizing performance, elite unit, unit showcases, of military, military precision, and coordination, coordination through, through their, their silent, routine that, has captivated, captivated audiences, audiences nationwide, these dedicated, dedicated servicemen, servicemen execute, execute complex, complex maneuvers, maneuvers with, with flawless, flawless timing, timing and, and incredible, incredible attention, attention to, to detail, are proud, heroes and, and showcase, showcase the, the exceptional, exceptional talent, talent within, within our, performance demonstrates, same dedication, and pursuit, pursuit of, that defines, defines both, both military, military service, service and, and professional, professional football, team's commitment, commitment to, to perfection, perfection mirrors, mirrors the"
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine, watch as, san, unit, as these, team's, men, serve, country, proud, drill team's, excellence that, men and, women who, who serve, serve our, our country, speechless, demonstrates, demonstrates the, who s, our houston, nation, their performance, military heroes, the values, of excellence, coordination, armed, forces, our armed, armed forces, to honor, honor our, proud to, this performance, more incredible, the incredible, service, team delivers, stat, and military, military excellence, level of, this elite, and their, texans a, meet, talent, america, leave, navy's, artistry, audiences, nationwide, dedicated, execute, complex, maneuvers, timing, attention, exceptional, within, pursuit, defines, commitment, perfection, mirrors, hold, dear, representing, bigger, yourself, sailors, embody, spirit, testament, distinction, silentdrillteam, navy's elite, elite silent, delivers insane, insane precision, the u, s navy, delivers flawless, will leave, leave you, you speechless, elite discipline, discipline meets, meets incredible, incredible artistry, presents an, mesmerizing performance, elite unit, unit showcases, of military, military precision, and coordination, coordination through, through their, their silent, routine that, has captivated, captivated audiences, audiences nationwide, these dedicated, dedicated servicemen, servicemen execute, execute complex, complex maneuvers, maneuvers with, with flawless, flawless timing, timing and, and incredible, incredible attention, attention to, to detail, are proud, heroes and, and showcase, showcase the, the exceptional, exceptional talent, talent within, within our, performance demonstrates, same dedication, and pursuit, pursuit of, that defines, defines both, both military, military service, service and, and professional, professional football, team's commitment, commitment to, to perfection, perfection mirrors, mirrors the, values we, we hold, hold dear, dear in, houston -"
           ],
           "boost_keywords_found": [
             "texans",
@@ -1963,7 +1968,12 @@
             "commitment to",
             "to perfection",
             "perfection mirrors",
-            "mirrors the"
+            "mirrors the",
+            "values we",
+            "we hold",
+            "hold dear",
+            "dear in",
+            "houston -"
           ]
         }
       },
@@ -1987,8 +1997,8 @@
         "duration_formatted": "1:44",
         "is_short": false,
         "statistics": {
-          "views": 13856,
-          "likes": 929,
+          "views": 13926,
+          "likes": 933,
           "comments": 59
         },
         "content_status": {
@@ -1996,7 +2006,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 112.4,
+        "vph": 111.2,
         "days_since_published": 3,
         "views_per_day": 3521.7,
         "performance_status": "good",
@@ -2120,7 +2130,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 11166,
+          "views": 11184,
           "likes": 409,
           "comments": 39
         },
@@ -2129,7 +2139,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 83.7,
+        "vph": 83.0,
         "days_since_published": 5,
         "views_per_day": 2105.2,
         "performance_status": "excellent",
@@ -2233,7 +2243,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 78.7,
+        "vph": 78.0,
         "days_since_published": 5,
         "views_per_day": 1978.4,
         "performance_status": "good",
@@ -2329,8 +2339,8 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 7737,
-          "likes": 364,
+          "views": 7764,
+          "likes": 365,
           "comments": 26
         },
         "content_status": {
@@ -2338,7 +2348,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 87.3,
+        "vph": 86.2,
         "days_since_published": 3,
         "views_per_day": 2274.7,
         "performance_status": "good",
@@ -2436,8 +2446,8 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 6367,
-          "likes": 388,
+          "views": 6387,
+          "likes": 389,
           "comments": 18
         },
         "content_status": {
@@ -2445,7 +2455,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 73.6,
+        "vph": 72.7,
         "days_since_published": 3,
         "views_per_day": 1919.3,
         "performance_status": "excellent",
@@ -2539,7 +2549,7 @@
         "duration_formatted": "24s",
         "is_short": true,
         "statistics": {
-          "views": 5662,
+          "views": 5669,
           "likes": 361,
           "comments": 18
         },
@@ -2548,7 +2558,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 42.8,
+        "vph": 42.4,
         "days_since_published": 5,
         "views_per_day": 1076.0,
         "performance_status": "average",
@@ -2664,7 +2674,7 @@
             }
           ]
         },
-        "vph": 26.3,
+        "vph": 26.2,
         "days_since_published": 8,
         "views_per_day": 651.1,
         "performance_status": "average",
@@ -2990,8 +3000,8 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 7458,
-          "likes": 313,
+          "views": 7469,
+          "likes": 315,
           "comments": 14
         },
         "content_status": {
@@ -2999,7 +3009,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 108.1,
+        "vph": 105.9,
         "days_since_published": 1,
         "views_per_day": 5010.0,
         "performance_status": "good",
@@ -3102,7 +3112,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 52.6,
+        "vph": 52.0,
         "days_since_published": 3,
         "views_per_day": 1648.0,
         "performance_status": "good",
@@ -3199,7 +3209,7 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 5164,
+          "views": 5177,
           "likes": 320,
           "comments": 13
         },
@@ -3208,7 +3218,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 38.7,
+        "vph": 38.4,
         "days_since_published": 5,
         "views_per_day": 973.6,
         "performance_status": "good",
@@ -3302,7 +3312,7 @@
         "duration_formatted": "9:29",
         "is_short": false,
         "statistics": {
-          "views": 5197,
+          "views": 5236,
           "likes": 157,
           "comments": 48
         },
@@ -3319,7 +3329,7 @@
             }
           ]
         },
-        "vph": 48.9,
+        "vph": 48.4,
         "days_since_published": 4,
         "views_per_day": 1187.8,
         "performance_status": "poor",
@@ -3582,7 +3592,7 @@
             }
           ]
         },
-        "vph": 44.5,
+        "vph": 44.1,
         "days_since_published": 4,
         "views_per_day": 1114.5,
         "performance_status": "average",
@@ -3749,8 +3759,8 @@
         "duration_formatted": "51s",
         "is_short": true,
         "statistics": {
-          "views": 5302,
-          "likes": 359,
+          "views": 5353,
+          "likes": 361,
           "comments": 12
         },
         "content_status": {
@@ -3758,7 +3768,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 63.7,
+        "vph": 62.8,
         "days_since_published": 2,
         "views_per_day": 2186.5,
         "performance_status": "good",
@@ -3778,7 +3788,7 @@
                 "six",
                 "called"
               ],
-              "count": 13
+              "count": 22
             },
             "avoid_keywords": {
               "score": 0,
@@ -3829,7 +3839,16 @@
             "texan",
             "shorts",
             "happened",
-            "bullock"
+            "bullock",
+            "shot",
+            "predicted",
+            "pick-six",
+            "receipts",
+            "included",
+            "he called",
+            "called his",
+            "his shot",
+            "bullock predicted"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -3863,8 +3882,8 @@
         "duration_formatted": "14s",
         "is_short": true,
         "statistics": {
-          "views": 4559,
-          "likes": 312,
+          "views": 4572,
+          "likes": 313,
           "comments": 11
         },
         "content_status": {
@@ -3872,7 +3891,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 67.3,
+        "vph": 66.1,
         "days_since_published": 2,
         "views_per_day": 1778.5,
         "performance_status": "excellent",
@@ -3968,8 +3987,8 @@
         "duration_formatted": "25s",
         "is_short": true,
         "statistics": {
-          "views": 12623,
-          "likes": 407,
+          "views": 12672,
+          "likes": 408,
           "comments": 12
         },
         "content_status": {
@@ -3977,7 +3996,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 81.6,
+        "vph": 79.8,
         "days_since_published": 1,
         "views_per_day": 3493.0,
         "performance_status": "good",
@@ -4071,7 +4090,7 @@
         "duration_formatted": "6:25",
         "is_short": false,
         "statistics": {
-          "views": 3347,
+          "views": 3355,
           "likes": 48,
           "comments": 1
         },
@@ -4088,7 +4107,7 @@
             }
           ]
         },
-        "vph": 19.5,
+        "vph": 19.4,
         "days_since_published": 7,
         "views_per_day": 472.1,
         "performance_status": "poor",
@@ -4230,8 +4249,8 @@
         "duration_formatted": "13:40",
         "is_short": false,
         "statistics": {
-          "views": 545221,
-          "likes": 2657,
+          "views": 545293,
+          "likes": 2658,
           "comments": 179
         },
         "content_status": {
@@ -4510,7 +4529,7 @@
             }
           ]
         },
-        "vph": 49.4,
+        "vph": 48.7,
         "days_since_published": 2,
         "views_per_day": 1593.0,
         "performance_status": "good",
@@ -4677,8 +4696,8 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 3644,
-          "likes": 143,
+          "views": 3651,
+          "likes": 144,
           "comments": 3
         },
         "content_status": {
@@ -4686,7 +4705,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 43.3,
+        "vph": 42.7,
         "days_since_published": 2,
         "views_per_day": 1514.0,
         "performance_status": "average",
@@ -4789,7 +4808,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 38.3,
+        "vph": 37.8,
         "days_since_published": 3,
         "views_per_day": 998.7,
         "performance_status": "excellent",
@@ -4894,7 +4913,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 39.3,
+        "vph": 38.7,
         "days_since_published": 2,
         "views_per_day": 1374.5,
         "performance_status": "good",
@@ -5012,7 +5031,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 13.6,
+        "vph": 13.5,
         "days_since_published": 8,
         "views_per_day": 335.9,
         "performance_status": "average",
@@ -5129,9 +5148,9 @@
             }
           ]
         },
-        "vph": 37.4,
-        "days_since_published": 2,
-        "views_per_day": 1329.0,
+        "vph": 36.9,
+        "days_since_published": 3,
+        "views_per_day": 886.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 70,
@@ -5408,8 +5427,8 @@
         "duration_formatted": "44s",
         "is_short": true,
         "statistics": {
-          "views": 2909,
-          "likes": 193,
+          "views": 2917,
+          "likes": 194,
           "comments": 7
         },
         "content_status": {
@@ -5417,7 +5436,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 32.7,
+        "vph": 32.2,
         "days_since_published": 3,
         "views_per_day": 851.3,
         "performance_status": "good",
@@ -5520,7 +5539,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 31.3,
+        "vph": 31.0,
         "days_since_published": 3,
         "views_per_day": 817.3,
         "performance_status": "good",
@@ -5616,7 +5635,7 @@
         "duration_formatted": "25:33",
         "is_short": false,
         "statistics": {
-          "views": 2402,
+          "views": 2404,
           "likes": 92,
           "comments": 6
         },
@@ -5633,7 +5652,7 @@
             }
           ]
         },
-        "vph": 23.6,
+        "vph": 23.4,
         "days_since_published": 4,
         "views_per_day": 608.0,
         "performance_status": "good",
@@ -5818,9 +5837,9 @@
             }
           ]
         },
-        "vph": 31.9,
-        "days_since_published": 2,
-        "views_per_day": 1136.0,
+        "vph": 31.5,
+        "days_since_published": 3,
+        "views_per_day": 757.3,
         "performance_status": "average",
         "seo_score": {
           "total_score": 70,
@@ -6024,8 +6043,8 @@
         "duration_formatted": "47:45",
         "is_short": false,
         "statistics": {
-          "views": 2285,
-          "likes": 88,
+          "views": 2286,
+          "likes": 89,
           "comments": 13
         },
         "content_status": {
@@ -6041,7 +6060,7 @@
             }
           ]
         },
-        "vph": 42.3,
+        "vph": 41.5,
         "days_since_published": 2,
         "views_per_day": 1111.0,
         "performance_status": "poor",
@@ -6197,8 +6216,8 @@
         "duration_formatted": "17s",
         "is_short": true,
         "statistics": {
-          "views": 17781,
-          "likes": 592,
+          "views": 17797,
+          "likes": 593,
           "comments": 19
         },
         "content_status": {
@@ -6215,8 +6234,8 @@
           ]
         },
         "vph": 3.9,
-        "days_since_published": 21,
-        "views_per_day": 97.6,
+        "days_since_published": 22,
+        "views_per_day": 93.1,
         "performance_status": "average",
         "seo_score": {
           "total_score": 70,
@@ -6435,8 +6454,8 @@
         "duration_formatted": "6:17",
         "is_short": false,
         "statistics": {
-          "views": 501731,
-          "likes": 9213,
+          "views": 501805,
+          "likes": 9215,
           "comments": 891
         },
         "content_status": {
@@ -6453,7 +6472,7 @@
           ]
         },
         "vph": 0.1,
-        "days_since_published": 899,
+        "days_since_published": 900,
         "views_per_day": 2.1,
         "performance_status": "poor",
         "seo_score": {
@@ -6980,7 +6999,7 @@
             }
           ]
         },
-        "vph": 18.2,
+        "vph": 18.0,
         "days_since_published": 4,
         "views_per_day": 442.2,
         "performance_status": "average",
@@ -7185,7 +7204,7 @@
         "duration_formatted": "11:56",
         "is_short": false,
         "statistics": {
-          "views": 162141,
+          "views": 162163,
           "likes": 1164,
           "comments": 62
         },
@@ -7203,7 +7222,7 @@
           ]
         },
         "vph": 0.2,
-        "days_since_published": 416,
+        "days_since_published": 417,
         "views_per_day": 4.0,
         "performance_status": "poor",
         "seo_score": {
@@ -7442,7 +7461,7 @@
         "duration_formatted": "9:13",
         "is_short": false,
         "statistics": {
-          "views": 79291,
+          "views": 79296,
           "likes": 743,
           "comments": 55
         },
@@ -7990,7 +8009,7 @@
         "duration_formatted": "16:56",
         "is_short": false,
         "statistics": {
-          "views": 1748,
+          "views": 1764,
           "likes": 56,
           "comments": 3
         },
@@ -8007,7 +8026,7 @@
             }
           ]
         },
-        "vph": 17.0,
+        "vph": 16.9,
         "days_since_published": 4,
         "views_per_day": 413.8,
         "performance_status": "average",
@@ -8267,8 +8286,8 @@
         "duration_formatted": "30s",
         "is_short": true,
         "statistics": {
-          "views": 9611,
-          "likes": 652,
+          "views": 9620,
+          "likes": 653,
           "comments": 44
         },
         "content_status": {
@@ -8397,8 +8416,8 @@
           "flags": []
         },
         "vph": 0.2,
-        "days_since_published": 262,
-        "views_per_day": 5.5,
+        "days_since_published": 263,
+        "views_per_day": 5.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 80,
@@ -8619,8 +8638,8 @@
         "duration_formatted": "13s",
         "is_short": true,
         "statistics": {
-          "views": 17654,
-          "likes": 815,
+          "views": 17756,
+          "likes": 818,
           "comments": 41
         },
         "content_status": {
@@ -8741,7 +8760,7 @@
             }
           ]
         },
-        "vph": 18.6,
+        "vph": 18.4,
         "days_since_published": 2,
         "views_per_day": 653.5,
         "performance_status": "average",
@@ -8928,8 +8947,8 @@
         "duration_formatted": "1:18",
         "is_short": false,
         "statistics": {
-          "views": 32378,
-          "likes": 1737,
+          "views": 32400,
+          "likes": 1738,
           "comments": 81
         },
         "content_status": {
@@ -9547,7 +9566,7 @@
         "duration_formatted": "35:04",
         "is_short": false,
         "statistics": {
-          "views": 63093,
+          "views": 63137,
           "likes": 1221,
           "comments": 72
         },
@@ -10201,8 +10220,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 12396351,
-          "likes": 167717,
+          "views": 12396489,
+          "likes": 167718,
           "comments": 8793
         },
         "content_status": {
@@ -10219,7 +10238,7 @@
           ]
         },
         "vph": 1.7,
-        "days_since_published": 2444,
+        "days_since_published": 2445,
         "views_per_day": 41.4,
         "performance_status": "average",
         "seo_score": {
@@ -10901,8 +10920,8 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 225934,
-          "likes": 2203,
+          "views": 226029,
+          "likes": 2205,
           "comments": 171
         },
         "content_status": {
@@ -11187,9 +11206,14 @@
                 "commitment to",
                 "to perfection",
                 "perfection mirrors",
-                "mirrors the"
+                "mirrors the",
+                "values we",
+                "we hold",
+                "hold dear",
+                "dear in",
+                "houston -"
               ],
-              "penalty": 2450
+              "penalty": 2500
             },
             "title": {
               "score": 20,
@@ -11209,7 +11233,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine, watch as, san, unit, as these, team's, men, serve, country, proud, drill team's, excellence that, men and, women who, who serve, serve our, our country, speechless, demonstrates, demonstrates the, who s, our houston, nation, their performance, military heroes, the values, of excellence, coordination, armed, forces, our armed, armed forces, to honor, honor our, proud to, this performance, more incredible, the incredible, service, team delivers, stat, and military, military excellence, level of, this elite, and their, texans a, meet, talent, america, leave, navy's, artistry, audiences, nationwide, dedicated, execute, complex, maneuvers, timing, attention, exceptional, within, pursuit, defines, commitment, perfection, mirrors, hold, dear, representing, bigger, yourself, sailors, embody, spirit, testament, distinction, silentdrillteam, navy's elite, elite silent, delivers insane, insane precision, the u, s navy, delivers flawless, will leave, leave you, you speechless, elite discipline, discipline meets, meets incredible, incredible artistry, presents an, mesmerizing performance, elite unit, unit showcases, of military, military precision, and coordination, coordination through, through their, their silent, routine that, has captivated, captivated audiences, audiences nationwide, these dedicated, dedicated servicemen, servicemen execute, execute complex, complex maneuvers, maneuvers with, with flawless, flawless timing, timing and, and incredible, incredible attention, attention to, to detail, are proud, heroes and, and showcase, showcase the, the exceptional, exceptional talent, talent within, within our, performance demonstrates, same dedication, and pursuit, pursuit of, that defines, defines both, both military, military service, service and, and professional, professional football, team's commitment, commitment to, to perfection, perfection mirrors, mirrors the"
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine, watch as, san, unit, as these, team's, men, serve, country, proud, drill team's, excellence that, men and, women who, who serve, serve our, our country, speechless, demonstrates, demonstrates the, who s, our houston, nation, their performance, military heroes, the values, of excellence, coordination, armed, forces, our armed, armed forces, to honor, honor our, proud to, this performance, more incredible, the incredible, service, team delivers, stat, and military, military excellence, level of, this elite, and their, texans a, meet, talent, america, leave, navy's, artistry, audiences, nationwide, dedicated, execute, complex, maneuvers, timing, attention, exceptional, within, pursuit, defines, commitment, perfection, mirrors, hold, dear, representing, bigger, yourself, sailors, embody, spirit, testament, distinction, silentdrillteam, navy's elite, elite silent, delivers insane, insane precision, the u, s navy, delivers flawless, will leave, leave you, you speechless, elite discipline, discipline meets, meets incredible, incredible artistry, presents an, mesmerizing performance, elite unit, unit showcases, of military, military precision, and coordination, coordination through, through their, their silent, routine that, has captivated, captivated audiences, audiences nationwide, these dedicated, dedicated servicemen, servicemen execute, execute complex, complex maneuvers, maneuvers with, with flawless, flawless timing, timing and, and incredible, incredible attention, attention to, to detail, are proud, heroes and, and showcase, showcase the, the exceptional, exceptional talent, talent within, within our, performance demonstrates, same dedication, and pursuit, pursuit of, that defines, defines both, both military, military service, service and, and professional, professional football, team's commitment, commitment to, to perfection, perfection mirrors, mirrors the, values we, we hold, hold dear, dear in, houston -"
           ],
           "boost_keywords_found": [
             "texans",
@@ -11502,7 +11526,12 @@
             "commitment to",
             "to perfection",
             "perfection mirrors",
-            "mirrors the"
+            "mirrors the",
+            "values we",
+            "we hold",
+            "hold dear",
+            "dear in",
+            "houston -"
           ]
         }
       },
@@ -11526,7 +11555,7 @@
         "duration_formatted": "11:56",
         "is_short": false,
         "statistics": {
-          "views": 162141,
+          "views": 162163,
           "likes": 1164,
           "comments": 62
         },
@@ -11544,8 +11573,8 @@
           ]
         },
         "vph": 6.3,
-        "days_since_published": 416,
-        "views_per_day": 152.1,
+        "days_since_published": 417,
+        "views_per_day": 151.8,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -11783,8 +11812,8 @@
         "duration_formatted": "52s",
         "is_short": true,
         "statistics": {
-          "views": 82944,
-          "likes": 2068,
+          "views": 83207,
+          "likes": 2071,
           "comments": 43
         },
         "content_status": {
@@ -11800,7 +11829,7 @@
             }
           ]
         },
-        "vph": 889.3,
+        "vph": 873.2,
         "days_since_published": 2,
         "views_per_day": 24138.5,
         "performance_status": "good",
@@ -11898,8 +11927,8 @@
         "duration_formatted": "13:40",
         "is_short": false,
         "statistics": {
-          "views": 545221,
-          "likes": 2657,
+          "views": 545293,
+          "likes": 2658,
           "comments": 179
         },
         "content_status": {
@@ -12161,7 +12190,7 @@
         "duration_formatted": "44s",
         "is_short": true,
         "statistics": {
-          "views": 18527,
+          "views": 18537,
           "likes": 722,
           "comments": 14
         },
@@ -12264,8 +12293,8 @@
         "duration_formatted": "32s",
         "is_short": true,
         "statistics": {
-          "views": 30506,
-          "likes": 995,
+          "views": 30644,
+          "likes": 997,
           "comments": 22
         },
         "content_status": {
@@ -12273,7 +12302,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 343.6,
+        "vph": 336.8,
         "days_since_published": 2,
         "views_per_day": 8518.5,
         "performance_status": "good",
@@ -12370,8 +12399,8 @@
         "duration_formatted": "17s",
         "is_short": true,
         "statistics": {
-          "views": 17781,
-          "likes": 592,
+          "views": 17797,
+          "likes": 593,
           "comments": 19
         },
         "content_status": {
@@ -12387,9 +12416,9 @@
             }
           ]
         },
-        "vph": 32.2,
-        "days_since_published": 21,
-        "views_per_day": 808.6,
+        "vph": 32.1,
+        "days_since_published": 22,
+        "views_per_day": 771.9,
         "performance_status": "average",
         "seo_score": {
           "total_score": 70,
@@ -12501,8 +12530,8 @@
         "duration_formatted": "13s",
         "is_short": true,
         "statistics": {
-          "views": 17654,
-          "likes": 815,
+          "views": 17756,
+          "likes": 818,
           "comments": 41
         },
         "content_status": {
@@ -12659,8 +12688,8 @@
         "duration_formatted": "22:46",
         "is_short": false,
         "statistics": {
-          "views": 13526,
-          "likes": 579,
+          "views": 13610,
+          "likes": 582,
           "comments": 52
         },
         "content_status": {
@@ -12676,7 +12705,7 @@
             }
           ]
         },
-        "vph": 92.4,
+        "vph": 91.6,
         "days_since_published": 5,
         "views_per_day": 2348.8,
         "performance_status": "good",
@@ -13019,8 +13048,8 @@
           "flags": []
         },
         "vph": 1.7,
-        "days_since_published": 262,
-        "views_per_day": 41.8,
+        "days_since_published": 263,
+        "views_per_day": 41.6,
         "performance_status": "average",
         "seo_score": {
           "total_score": 80,
@@ -13330,8 +13359,8 @@
         "duration_formatted": "1:44",
         "is_short": false,
         "statistics": {
-          "views": 13856,
-          "likes": 929,
+          "views": 13926,
+          "likes": 933,
           "comments": 59
         },
         "content_status": {
@@ -13339,7 +13368,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 112.4,
+        "vph": 111.2,
         "days_since_published": 3,
         "views_per_day": 3521.7,
         "performance_status": "good",
@@ -13463,7 +13492,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 11173,
+          "views": 11184,
           "likes": 409,
           "comments": 39
         },
@@ -13472,7 +13501,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 83.7,
+        "vph": 83.0,
         "days_since_published": 5,
         "views_per_day": 2105.2,
         "performance_status": "excellent",
@@ -13576,7 +13605,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 78.7,
+        "vph": 78.0,
         "days_since_published": 5,
         "views_per_day": 1978.4,
         "performance_status": "good",
@@ -13672,7 +13701,7 @@
         "duration_formatted": "14s",
         "is_short": true,
         "statistics": {
-          "views": 9964,
+          "views": 9972,
           "likes": 439,
           "comments": 9
         },
@@ -13681,7 +13710,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 14.1,
+        "vph": 14.0,
         "days_since_published": 29,
         "views_per_day": 340.9,
         "performance_status": "average",
@@ -13775,8 +13804,8 @@
         "duration_formatted": "30s",
         "is_short": true,
         "statistics": {
-          "views": 9606,
-          "likes": 652,
+          "views": 9620,
+          "likes": 653,
           "comments": 44
         },
         "content_status": {
@@ -13792,7 +13821,7 @@
             }
           ]
         },
-        "vph": 24.3,
+        "vph": 24.2,
         "days_since_published": 16,
         "views_per_day": 583.7,
         "performance_status": "good",
@@ -13904,7 +13933,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 16.6,
+        "vph": 16.5,
         "days_since_published": 22,
         "views_per_day": 414.5,
         "performance_status": "average",
@@ -14120,7 +14149,7 @@
             }
           ]
         },
-        "vph": 43.0,
+        "vph": 42.8,
         "days_since_published": 8,
         "views_per_day": 1065.2,
         "performance_status": "good",
@@ -14393,8 +14422,8 @@
         "duration_formatted": "9:16",
         "is_short": false,
         "statistics": {
-          "views": 35048,
-          "likes": 528,
+          "views": 35059,
+          "likes": 529,
           "comments": 58
         },
         "content_status": {
@@ -14615,7 +14644,7 @@
         "duration_formatted": "12:05",
         "is_short": false,
         "statistics": {
-          "views": 29641,
+          "views": 29640,
           "likes": 477,
           "comments": 63
         },
@@ -14770,8 +14799,8 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 7737,
-          "likes": 364,
+          "views": 7764,
+          "likes": 365,
           "comments": 26
         },
         "content_status": {
@@ -14779,7 +14808,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 87.3,
+        "vph": 86.2,
         "days_since_published": 3,
         "views_per_day": 2274.7,
         "performance_status": "good",
@@ -14877,7 +14906,7 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 6918,
+          "views": 6919,
           "likes": 252,
           "comments": 15
         },
@@ -14992,8 +15021,8 @@
           "flags": []
         },
         "vph": 12.2,
-        "days_since_published": 22,
-        "views_per_day": 306.2,
+        "days_since_published": 23,
+        "views_per_day": 292.9,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -15087,7 +15116,7 @@
         "duration_formatted": "8s",
         "is_short": true,
         "statistics": {
-          "views": 6592,
+          "views": 6591,
           "likes": 260,
           "comments": 3
         },
@@ -15227,8 +15256,8 @@
         "duration_formatted": "1:18",
         "is_short": false,
         "statistics": {
-          "views": 32378,
-          "likes": 1737,
+          "views": 32400,
+          "likes": 1738,
           "comments": 81
         },
         "content_status": {
@@ -15738,7 +15767,7 @@
         "duration_formatted": "35s",
         "is_short": true,
         "statistics": {
-          "views": 6250,
+          "views": 6253,
           "likes": 308,
           "comments": 17
         },
@@ -15755,7 +15784,7 @@
             }
           ]
         },
-        "vph": 11.3,
+        "vph": 11.2,
         "days_since_published": 22,
         "views_per_day": 281.6,
         "performance_status": "good",
@@ -15873,7 +15902,7 @@
             }
           ]
         },
-        "vph": 9.8,
+        "vph": 9.7,
         "days_since_published": 26,
         "views_per_day": 235.2,
         "performance_status": "good",
@@ -16099,7 +16128,7 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 6125,
+          "views": 6134,
           "likes": 328,
           "comments": 11
         },
@@ -16108,7 +16137,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 30.1,
+        "vph": 30.0,
         "days_since_published": 8,
         "views_per_day": 744.5,
         "performance_status": "good",
@@ -16208,8 +16237,8 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 6367,
-          "likes": 388,
+          "views": 6387,
+          "likes": 389,
           "comments": 18
         },
         "content_status": {
@@ -16217,7 +16246,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 73.6,
+        "vph": 72.7,
         "days_since_published": 3,
         "views_per_day": 1919.3,
         "performance_status": "excellent",
@@ -16311,7 +16340,7 @@
         "duration_formatted": "3:00",
         "is_short": false,
         "statistics": {
-          "views": 24961,
+          "views": 24963,
           "likes": 1966,
           "comments": 23
         },
@@ -16508,7 +16537,7 @@
         "duration_formatted": "24s",
         "is_short": true,
         "statistics": {
-          "views": 5662,
+          "views": 5669,
           "likes": 361,
           "comments": 18
         },
@@ -16517,7 +16546,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 42.8,
+        "vph": 42.4,
         "days_since_published": 5,
         "views_per_day": 1076.0,
         "performance_status": "average",
@@ -16616,7 +16645,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 5434,
+          "views": 5437,
           "likes": 295,
           "comments": 12
         },
@@ -16882,8 +16911,8 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 7458,
-          "likes": 313,
+          "views": 7469,
+          "likes": 315,
           "comments": 14
         },
         "content_status": {
@@ -16891,7 +16920,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 108.1,
+        "vph": 105.8,
         "days_since_published": 1,
         "views_per_day": 5010.0,
         "performance_status": "good",
@@ -16994,7 +17023,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 52.6,
+        "vph": 52.0,
         "days_since_published": 3,
         "views_per_day": 1648.0,
         "performance_status": "good",
@@ -17201,7 +17230,7 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 5164,
+          "views": 5177,
           "likes": 320,
           "comments": 13
         },
@@ -17210,7 +17239,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 38.7,
+        "vph": 38.4,
         "days_since_published": 5,
         "views_per_day": 973.6,
         "performance_status": "good",
@@ -17852,7 +17881,7 @@
         "duration_formatted": "9:29",
         "is_short": false,
         "statistics": {
-          "views": 5197,
+          "views": 5236,
           "likes": 157,
           "comments": 48
         },
@@ -17869,7 +17898,7 @@
             }
           ]
         },
-        "vph": 48.9,
+        "vph": 48.4,
         "days_since_published": 4,
         "views_per_day": 1187.8,
         "performance_status": "poor",
@@ -18115,7 +18144,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 4669,
+          "views": 4670,
           "likes": 255,
           "comments": 13
         },
@@ -18381,7 +18410,7 @@
         "duration_formatted": "46:39",
         "is_short": false,
         "statistics": {
-          "views": 4430,
+          "views": 4431,
           "likes": 165,
           "comments": 21
         },
@@ -18398,7 +18427,7 @@
             }
           ]
         },
-        "vph": 44.5,
+        "vph": 44.1,
         "days_since_published": 4,
         "views_per_day": 1114.5,
         "performance_status": "good",
@@ -18565,8 +18594,8 @@
         "duration_formatted": "51s",
         "is_short": true,
         "statistics": {
-          "views": 5302,
-          "likes": 359,
+          "views": 5353,
+          "likes": 361,
           "comments": 12
         },
         "content_status": {
@@ -18574,7 +18603,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 63.7,
+        "vph": 62.8,
         "days_since_published": 2,
         "views_per_day": 2186.5,
         "performance_status": "good",
@@ -18594,7 +18623,7 @@
                 "six",
                 "called"
               ],
-              "count": 13
+              "count": 22
             },
             "avoid_keywords": {
               "score": 0,
@@ -18645,7 +18674,16 @@
             "texan",
             "shorts",
             "happened",
-            "bullock"
+            "bullock",
+            "shot",
+            "predicted",
+            "pick-six",
+            "receipts",
+            "included",
+            "he called",
+            "called his",
+            "his shot",
+            "bullock predicted"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -18679,8 +18717,8 @@
         "duration_formatted": "6:17",
         "is_short": false,
         "statistics": {
-          "views": 501731,
-          "likes": 9213,
+          "views": 501805,
+          "likes": 9215,
           "comments": 891
         },
         "content_status": {
@@ -18697,7 +18735,7 @@
           ]
         },
         "vph": 0.2,
-        "days_since_published": 899,
+        "days_since_published": 900,
         "views_per_day": 4.7,
         "performance_status": "poor",
         "seo_score": {
@@ -19310,7 +19348,7 @@
         "duration_formatted": "55s",
         "is_short": true,
         "statistics": {
-          "views": 746605,
+          "views": 746606,
           "likes": 17228,
           "comments": 274
         },
@@ -19319,7 +19357,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 413.6,
+        "vph": 413.4,
         "days_since_published": 75,
         "views_per_day": 9954.2,
         "performance_status": "poor",
@@ -19464,8 +19502,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 12396351,
-          "likes": 167717,
+          "views": 12396489,
+          "likes": 167718,
           "comments": 8793
         },
         "content_status": {
@@ -19482,8 +19520,8 @@
           ]
         },
         "vph": 9.4,
-        "days_since_published": 2444,
-        "views_per_day": 225.2,
+        "days_since_published": 2445,
+        "views_per_day": 225.1,
         "performance_status": "average",
         "seo_score": {
           "total_score": 70,
@@ -20164,7 +20202,7 @@
         "duration_formatted": "50s",
         "is_short": true,
         "statistics": {
-          "views": 98164,
+          "views": 98165,
           "likes": 3893,
           "comments": 159
         },
@@ -20305,8 +20343,8 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 225934,
-          "likes": 2203,
+          "views": 226029,
+          "likes": 2205,
           "comments": 171
         },
         "content_status": {
@@ -20591,9 +20629,14 @@
                 "commitment to",
                 "to perfection",
                 "perfection mirrors",
-                "mirrors the"
+                "mirrors the",
+                "values we",
+                "we hold",
+                "hold dear",
+                "dear in",
+                "houston -"
               ],
-              "penalty": 2450
+              "penalty": 2500
             },
             "title": {
               "score": 20,
@@ -20613,7 +20656,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine, watch as, san, unit, as these, team's, men, serve, country, proud, drill team's, excellence that, men and, women who, who serve, serve our, our country, speechless, demonstrates, demonstrates the, who s, our houston, nation, their performance, military heroes, the values, of excellence, coordination, armed, forces, our armed, armed forces, to honor, honor our, proud to, this performance, more incredible, the incredible, service, team delivers, stat, and military, military excellence, level of, this elite, and their, texans a, meet, talent, america, leave, navy's, artistry, audiences, nationwide, dedicated, execute, complex, maneuvers, timing, attention, exceptional, within, pursuit, defines, commitment, perfection, mirrors, hold, dear, representing, bigger, yourself, sailors, embody, spirit, testament, distinction, silentdrillteam, navy's elite, elite silent, delivers insane, insane precision, the u, s navy, delivers flawless, will leave, leave you, you speechless, elite discipline, discipline meets, meets incredible, incredible artistry, presents an, mesmerizing performance, elite unit, unit showcases, of military, military precision, and coordination, coordination through, through their, their silent, routine that, has captivated, captivated audiences, audiences nationwide, these dedicated, dedicated servicemen, servicemen execute, execute complex, complex maneuvers, maneuvers with, with flawless, flawless timing, timing and, and incredible, incredible attention, attention to, to detail, are proud, heroes and, and showcase, showcase the, the exceptional, exceptional talent, talent within, within our, performance demonstrates, same dedication, and pursuit, pursuit of, that defines, defines both, both military, military service, service and, and professional, professional football, team's commitment, commitment to, to perfection, perfection mirrors, mirrors the"
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine, watch as, san, unit, as these, team's, men, serve, country, proud, drill team's, excellence that, men and, women who, who serve, serve our, our country, speechless, demonstrates, demonstrates the, who s, our houston, nation, their performance, military heroes, the values, of excellence, coordination, armed, forces, our armed, armed forces, to honor, honor our, proud to, this performance, more incredible, the incredible, service, team delivers, stat, and military, military excellence, level of, this elite, and their, texans a, meet, talent, america, leave, navy's, artistry, audiences, nationwide, dedicated, execute, complex, maneuvers, timing, attention, exceptional, within, pursuit, defines, commitment, perfection, mirrors, hold, dear, representing, bigger, yourself, sailors, embody, spirit, testament, distinction, silentdrillteam, navy's elite, elite silent, delivers insane, insane precision, the u, s navy, delivers flawless, will leave, leave you, you speechless, elite discipline, discipline meets, meets incredible, incredible artistry, presents an, mesmerizing performance, elite unit, unit showcases, of military, military precision, and coordination, coordination through, through their, their silent, routine that, has captivated, captivated audiences, audiences nationwide, these dedicated, dedicated servicemen, servicemen execute, execute complex, complex maneuvers, maneuvers with, with flawless, flawless timing, timing and, and incredible, incredible attention, attention to, to detail, are proud, heroes and, and showcase, showcase the, the exceptional, exceptional talent, talent within, within our, performance demonstrates, same dedication, and pursuit, pursuit of, that defines, defines both, both military, military service, service and, and professional, professional football, team's commitment, commitment to, to perfection, perfection mirrors, mirrors the, values we, we hold, hold dear, dear in, houston -"
           ],
           "boost_keywords_found": [
             "texans",
@@ -20906,7 +20949,12 @@
             "commitment to",
             "to perfection",
             "perfection mirrors",
-            "mirrors the"
+            "mirrors the",
+            "values we",
+            "we hold",
+            "hold dear",
+            "dear in",
+            "houston -"
           ]
         }
       },
@@ -20930,7 +20978,7 @@
         "duration_formatted": "11:56",
         "is_short": false,
         "statistics": {
-          "views": 162141,
+          "views": 162163,
           "likes": 1164,
           "comments": 62
         },
@@ -20948,8 +20996,8 @@
           ]
         },
         "vph": 7.3,
-        "days_since_published": 416,
-        "views_per_day": 175.8,
+        "days_since_published": 417,
+        "views_per_day": 175.4,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -21332,8 +21380,8 @@
         "duration_formatted": "13:40",
         "is_short": false,
         "statistics": {
-          "views": 545221,
-          "likes": 2657,
+          "views": 545293,
+          "likes": 2658,
           "comments": 179
         },
         "content_status": {
@@ -21595,8 +21643,8 @@
         "duration_formatted": "52s",
         "is_short": true,
         "statistics": {
-          "views": 82944,
-          "likes": 2068,
+          "views": 83207,
+          "likes": 2071,
           "comments": 43
         },
         "content_status": {
@@ -21612,7 +21660,7 @@
             }
           ]
         },
-        "vph": 889.3,
+        "vph": 873.2,
         "days_since_published": 2,
         "views_per_day": 24138.5,
         "performance_status": "excellent",
@@ -22079,7 +22127,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 28.9,
+        "vph": 28.8,
         "days_since_published": 61,
         "views_per_day": 694.6,
         "performance_status": "average",
@@ -22222,7 +22270,7 @@
         "duration_formatted": "10:09",
         "is_short": false,
         "statistics": {
-          "views": 41126,
+          "views": 41127,
           "likes": 1462,
           "comments": 81
         },
@@ -22380,7 +22428,7 @@
         "duration_formatted": "7s",
         "is_short": true,
         "statistics": {
-          "views": 40439,
+          "views": 40440,
           "likes": 1546,
           "comments": 80
         },
@@ -22483,7 +22531,7 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 39881,
+          "views": 39882,
           "likes": 1804,
           "comments": 65
         },
@@ -23211,8 +23259,8 @@
           "flags": []
         },
         "vph": 13.5,
-        "days_since_published": 98,
-        "views_per_day": 326.5,
+        "days_since_published": 99,
+        "views_per_day": 323.2,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -23422,7 +23470,7 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 31021,
+          "views": 31036,
           "likes": 1185,
           "comments": 36
         },
@@ -23526,7 +23574,7 @@
         "duration_formatted": "4s",
         "is_short": true,
         "statistics": {
-          "views": 29446,
+          "views": 29448,
           "likes": 781,
           "comments": 23
         },
@@ -23743,8 +23791,8 @@
           "flags": []
         },
         "vph": 21.7,
-        "days_since_published": 52,
-        "views_per_day": 530.9,
+        "days_since_published": 53,
+        "views_per_day": 520.9,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -24164,7 +24212,7 @@
         "duration_formatted": "17s",
         "is_short": true,
         "statistics": {
-          "views": 26037,
+          "views": 26041,
           "likes": 1032,
           "comments": 23
         },
@@ -24577,8 +24625,8 @@
           "flags": []
         },
         "vph": 4.0,
-        "days_since_published": 262,
-        "views_per_day": 96.3,
+        "days_since_published": 263,
+        "views_per_day": 95.9,
         "performance_status": "good",
         "seo_score": {
           "total_score": 80,
@@ -24946,7 +24994,7 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 24362,
+          "views": 24363,
           "likes": 928,
           "comments": 62
         },
@@ -24955,7 +25003,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 10.2,
+        "vph": 10.1,
         "days_since_published": 99,
         "views_per_day": 245.7,
         "performance_status": "average",
@@ -25413,7 +25461,7 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 22093,
+          "views": 22095,
           "likes": 888,
           "comments": 42
         },
@@ -25422,7 +25470,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 11.1,
+        "vph": 11.0,
         "days_since_published": 83,
         "views_per_day": 266.0,
         "performance_status": "average",
@@ -25891,7 +25939,7 @@
         "duration_formatted": "8:26",
         "is_short": false,
         "statistics": {
-          "views": 2306487,
+          "views": 2306491,
           "likes": 17429,
           "comments": 1478
         },
@@ -26144,7 +26192,7 @@
         "duration_formatted": "39s",
         "is_short": true,
         "statistics": {
-          "views": 20406,
+          "views": 20407,
           "likes": 941,
           "comments": 24
         },
@@ -26264,7 +26312,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 8.6,
+        "vph": 8.5,
         "days_since_published": 99,
         "views_per_day": 205.6,
         "performance_status": "average",
@@ -26370,7 +26418,7 @@
         "duration_formatted": "32s",
         "is_short": true,
         "statistics": {
-          "views": 20020,
+          "views": 20014,
           "likes": 907,
           "comments": 17
         },
@@ -26616,7 +26664,7 @@
         "duration_formatted": "49s",
         "is_short": true,
         "statistics": {
-          "views": 19839,
+          "views": 19838,
           "likes": 1014,
           "comments": 30
         },
@@ -27329,25 +27377,25 @@
         "start_date": "2026-07-19",
         "end_date": "2026-07-26",
         "analytics": {
-          "views": 163045,
-          "watch_time_minutes": 420665,
-          "watch_time_hours": 7011.08,
+          "views": 162975,
+          "watch_time_minutes": 420717,
+          "watch_time_hours": 7011.95,
           "avg_view_duration_seconds": 188,
           "subscribers_gained": 332,
           "subscribers_lost": 194,
           "net_subscribers": 138,
-          "likes": 3336,
+          "likes": 3333,
           "comments": 137,
           "shares": 408,
-          "engagement_total": 3881
+          "engagement_total": 3878
         },
         "changes": {
-          "views": 93.5,
-          "watch_time_hours": 71.6,
+          "views": 93.2,
+          "watch_time_hours": 71.4,
           "net_subscribers": 179.0,
-          "engagement_total": 210.0,
+          "engagement_total": 210.3,
           "avg_view_duration_seconds": 8.0,
-          "likes": 215.1
+          "likes": 215.4
         }
       },
       "same_7_days_ly": {
@@ -27368,7 +27416,7 @@
           "engagement_total": 22377
         },
         "changes": {
-          "views": -45.2,
+          "views": -45.3,
           "watch_time_hours": -45.7,
           "net_subscribers": -41.1,
           "engagement_total": -46.2,
@@ -27383,17 +27431,17 @@
         "start_date": "2026-07-01",
         "end_date": "2026-07-31",
         "analytics": {
-          "views": 1038320,
-          "watch_time_minutes": 2188493,
-          "watch_time_hours": 36474.88,
+          "views": 1038339,
+          "watch_time_minutes": 2189049,
+          "watch_time_hours": 36484.15,
           "avg_view_duration_seconds": 171,
           "subscribers_gained": 1657,
           "subscribers_lost": 771,
           "net_subscribers": 886,
-          "likes": 26266,
-          "comments": 1500,
-          "shares": 2720,
-          "engagement_total": 30486
+          "likes": 26275,
+          "comments": 1498,
+          "shares": 2722,
+          "engagement_total": 30495
         },
         "changes": {
           "views": -3.9,
@@ -27423,9 +27471,9 @@
         },
         "changes": {
           "views": -0.3,
-          "watch_time_hours": -23.6,
+          "watch_time_hours": -23.5,
           "net_subscribers": -46.4,
-          "engagement_total": -5.3,
+          "engagement_total": -5.2,
           "avg_view_duration_seconds": -16.7,
           "likes": -8.4
         }
