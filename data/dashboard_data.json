@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T14:33:11.245972-05:00",
+  "generated_at": "2026-08-02T16:09:11.863470-05:00",
   "channel": {
     "channel_id": "UCa_FcpOBe8G6VAR18RYS-aA",
     "title": "Houston Texans",
@@ -9,9 +9,9 @@
     "statistics": {
       "subscribers": 167000,
       "total_views": 77638306,
-      "video_count": 6106
+      "video_count": 6107
     },
-    "fetched_at": "2026-08-02T14:33:11.589528-05:00"
+    "fetched_at": "2026-08-02T16:09:12.043002-05:00"
   },
   "periods": {
     "past_7_days": {
@@ -19,17 +19,17 @@
       "start_date": "2026-07-26",
       "end_date": "2026-08-02",
       "analytics": {
-        "views": 315184,
-        "watch_time_minutes": 721476,
-        "watch_time_hours": 12024.6,
+        "views": 315486,
+        "watch_time_minutes": 721817,
+        "watch_time_hours": 12030.28,
         "avg_view_duration_seconds": 203,
         "subscribers_gained": 582,
         "subscribers_lost": 197,
         "net_subscribers": 385,
-        "likes": 10512,
+        "likes": 10513,
         "comments": 598,
         "shares": 920,
-        "engagement_total": 12030
+        "engagement_total": 12031
       }
     },
     "past_month": {
@@ -37,17 +37,17 @@
       "start_date": "2026-07-03",
       "end_date": "2026-08-02",
       "analytics": {
-        "views": 997731,
-        "watch_time_minutes": 2076482,
-        "watch_time_hours": 34608.03,
+        "views": 997333,
+        "watch_time_minutes": 2075472,
+        "watch_time_hours": 34591.2,
         "avg_view_duration_seconds": 170,
         "subscribers_gained": 1582,
         "subscribers_lost": 726,
         "net_subscribers": 856,
-        "likes": 25639,
-        "comments": 1461,
-        "shares": 2515,
-        "engagement_total": 29615
+        "likes": 25631,
+        "comments": 1464,
+        "shares": 2513,
+        "engagement_total": 29608
       }
     },
     "current_fy": {
@@ -55,17 +55,17 @@
       "start_date": "2026-04-01",
       "end_date": "2026-08-02",
       "analytics": {
-        "views": 5901473,
-        "watch_time_minutes": 8282917,
-        "watch_time_hours": 138048.62,
+        "views": 5899834,
+        "watch_time_minutes": 8280097,
+        "watch_time_hours": 138001.62,
         "avg_view_duration_seconds": 132,
         "subscribers_gained": 7051,
         "subscribers_lost": 3025,
         "net_subscribers": 4026,
-        "likes": 174514,
-        "comments": 7684,
-        "shares": 15102,
-        "engagement_total": 197300
+        "likes": 174506,
+        "comments": 7691,
+        "shares": 15098,
+        "engagement_total": 197295
       }
     }
   },
@@ -91,9 +91,9 @@
         "duration_formatted": "52s",
         "is_short": true,
         "statistics": {
-          "views": 82587,
-          "likes": 2064,
-          "comments": 42
+          "views": 82944,
+          "likes": 2068,
+          "comments": 43
         },
         "content_status": {
           "is_blocked": false,
@@ -108,7 +108,7 @@
             }
           ]
         },
-        "vph": 916.3,
+        "vph": 889.3,
         "days_since_published": 2,
         "views_per_day": 24138.5,
         "performance_status": "good",
@@ -206,8 +206,8 @@
         "duration_formatted": "32s",
         "is_short": true,
         "statistics": {
-          "views": 30341,
-          "likes": 990,
+          "views": 30506,
+          "likes": 995,
           "comments": 22
         },
         "content_status": {
@@ -215,9 +215,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 355.1,
-        "days_since_published": 1,
-        "views_per_day": 17037.0,
+        "vph": 343.6,
+        "days_since_published": 2,
+        "views_per_day": 8518.5,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -294,8 +294,8 @@
       },
       {
         "video_id": "0xvXMEnwyYM",
-        "views": 16529,
-        "watch_time_minutes": 58318,
+        "views": 16566,
+        "watch_time_minutes": 58312,
         "avg_view_duration_seconds": 212,
         "avg_view_percentage": 32.59,
         "subscribers_gained": 22,
@@ -312,8 +312,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 12396176,
-          "likes": 167712,
+          "views": 12396351,
+          "likes": 167717,
           "comments": 8793
         },
         "content_status": {
@@ -1012,7 +1012,7 @@
         "duration_formatted": "22:46",
         "is_short": false,
         "statistics": {
-          "views": 13390,
+          "views": 13526,
           "likes": 579,
           "comments": 52
         },
@@ -1029,7 +1029,7 @@
             }
           ]
         },
-        "vph": 93.5,
+        "vph": 92.4,
         "days_since_published": 5,
         "views_per_day": 2348.8,
         "performance_status": "good",
@@ -1344,15 +1344,15 @@
       },
       {
         "video_id": "H8mKyWxzxU0",
-        "views": 10650,
-        "watch_time_minutes": 25402,
-        "avg_view_duration_seconds": 144,
-        "avg_view_percentage": 33.2,
+        "views": 10701,
+        "watch_time_minutes": 25403,
+        "avg_view_duration_seconds": 143,
+        "avg_view_percentage": 33.17,
         "subscribers_gained": 19,
         "likes": 94,
         "comments": 7,
         "shares": 29,
-        "engagement_rate": 1.22,
+        "engagement_rate": 1.21,
         "subscriber_conversion_rate": 0.178,
         "title": "Navy's ELITE Silent Drill Team delivers INSANE precision \ud83d\udd25",
         "description": "The U.S. Navy Academy Silent Drill Team delivers flawless precision and military excellence that will leave you speechless! \ud83d\udd25 Elite discipline meets incredible artistry.\n\nStrike Fighter Squadron 103 (VFA-103), nicknamed the Jolly Rogers, presents an absolutely mesmerizing performance from the United States Navy Academy Silent Drill Team. This elite unit showcases the highest level of military precision, discipline, and coordination through their silent drill routine that has captivated audiences nationwide. Watch as these dedicated servicemen execute complex maneuvers with flawless timing and incredible attention to detail. The Houston Texans are proud to honor our military heroes and showcase the exceptional talent within our armed forces. This performance demonstrates the same dedication, teamwork, and pursuit of excellence that defines both military service and professional football. The Silent Drill Team's commitment to perfection mirrors the values we hold dear in Houston - hard work, precision, and representing something bigger than yourself. These sailors embody the spirit of service that makes America great, and their performance is a testament to the incredible men and women who serve our country with honor and distinction.\n\n\ud83d\udd14 Join The Swarm and subscribe for more incredible content from your Houston Texans!\n\ud83d\udc49 SUBSCRIBE: https://www.youtube.com/c/HoustonTexans?sub_confirmation=1\n\n\ud83d\udcf1 Follow the Houston Texans:\nTwitter: https://twitter.com/HoustonTexans\nInstagram: https://instagram.com/HoustonTexans\nFacebook: https://facebook.com/HoustonTexans\nTikTok: https://tiktok.com/@HoustonTexans\nWebsite: https://www.HoustonTexans.com\n\n#Texans #HoustonTexans #Military #SilentDrillTeam #Navy",
@@ -1362,7 +1362,7 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 225904,
+          "views": 225934,
           "likes": 2203,
           "comments": 171
         },
@@ -1643,9 +1643,14 @@
                 "military service",
                 "service and",
                 "and professional",
-                "professional football"
+                "professional football",
+                "team's commitment",
+                "commitment to",
+                "to perfection",
+                "perfection mirrors",
+                "mirrors the"
               ],
-              "penalty": 2400
+              "penalty": 2450
             },
             "title": {
               "score": 20,
@@ -1665,7 +1670,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine, watch as, san, unit, as these, team's, men, serve, country, proud, drill team's, excellence that, men and, women who, who serve, serve our, our country, speechless, demonstrates, demonstrates the, who s, our houston, nation, their performance, military heroes, the values, of excellence, coordination, armed, forces, our armed, armed forces, to honor, honor our, proud to, this performance, more incredible, the incredible, service, team delivers, stat, and military, military excellence, level of, this elite, and their, texans a, meet, talent, america, leave, navy's, artistry, audiences, nationwide, dedicated, execute, complex, maneuvers, timing, attention, exceptional, within, pursuit, defines, commitment, perfection, mirrors, hold, dear, representing, bigger, yourself, sailors, embody, spirit, testament, distinction, silentdrillteam, navy's elite, elite silent, delivers insane, insane precision, the u, s navy, delivers flawless, will leave, leave you, you speechless, elite discipline, discipline meets, meets incredible, incredible artistry, presents an, mesmerizing performance, elite unit, unit showcases, of military, military precision, and coordination, coordination through, through their, their silent, routine that, has captivated, captivated audiences, audiences nationwide, these dedicated, dedicated servicemen, servicemen execute, execute complex, complex maneuvers, maneuvers with, with flawless, flawless timing, timing and, and incredible, incredible attention, attention to, to detail, are proud, heroes and, and showcase, showcase the, the exceptional, exceptional talent, talent within, within our, performance demonstrates, same dedication, and pursuit, pursuit of, that defines, defines both, both military, military service, service and, and professional, professional football"
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine, watch as, san, unit, as these, team's, men, serve, country, proud, drill team's, excellence that, men and, women who, who serve, serve our, our country, speechless, demonstrates, demonstrates the, who s, our houston, nation, their performance, military heroes, the values, of excellence, coordination, armed, forces, our armed, armed forces, to honor, honor our, proud to, this performance, more incredible, the incredible, service, team delivers, stat, and military, military excellence, level of, this elite, and their, texans a, meet, talent, america, leave, navy's, artistry, audiences, nationwide, dedicated, execute, complex, maneuvers, timing, attention, exceptional, within, pursuit, defines, commitment, perfection, mirrors, hold, dear, representing, bigger, yourself, sailors, embody, spirit, testament, distinction, silentdrillteam, navy's elite, elite silent, delivers insane, insane precision, the u, s navy, delivers flawless, will leave, leave you, you speechless, elite discipline, discipline meets, meets incredible, incredible artistry, presents an, mesmerizing performance, elite unit, unit showcases, of military, military precision, and coordination, coordination through, through their, their silent, routine that, has captivated, captivated audiences, audiences nationwide, these dedicated, dedicated servicemen, servicemen execute, execute complex, complex maneuvers, maneuvers with, with flawless, flawless timing, timing and, and incredible, incredible attention, attention to, to detail, are proud, heroes and, and showcase, showcase the, the exceptional, exceptional talent, talent within, within our, performance demonstrates, same dedication, and pursuit, pursuit of, that defines, defines both, both military, military service, service and, and professional, professional football, team's commitment, commitment to, to perfection, perfection mirrors, mirrors the"
           ],
           "boost_keywords_found": [
             "texans",
@@ -1953,7 +1958,12 @@
             "military service",
             "service and",
             "and professional",
-            "professional football"
+            "professional football",
+            "team's commitment",
+            "commitment to",
+            "to perfection",
+            "perfection mirrors",
+            "mirrors the"
           ]
         }
       },
@@ -1977,8 +1987,8 @@
         "duration_formatted": "1:44",
         "is_short": false,
         "statistics": {
-          "views": 13780,
-          "likes": 919,
+          "views": 13856,
+          "likes": 929,
           "comments": 59
         },
         "content_status": {
@@ -1986,7 +1996,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 114.3,
+        "vph": 112.4,
         "days_since_published": 3,
         "views_per_day": 3521.7,
         "performance_status": "good",
@@ -2110,7 +2120,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 11154,
+          "views": 11166,
           "likes": 409,
           "comments": 39
         },
@@ -2119,7 +2129,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 84.8,
+        "vph": 83.7,
         "days_since_published": 5,
         "views_per_day": 2105.2,
         "performance_status": "excellent",
@@ -2214,7 +2224,7 @@
         "duration_formatted": "10s",
         "is_short": true,
         "statistics": {
-          "views": 10377,
+          "views": 10398,
           "likes": 594,
           "comments": 32
         },
@@ -2223,7 +2233,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 79.7,
+        "vph": 78.7,
         "days_since_published": 5,
         "views_per_day": 1978.4,
         "performance_status": "good",
@@ -2319,8 +2329,8 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 7692,
-          "likes": 360,
+          "views": 7737,
+          "likes": 364,
           "comments": 26
         },
         "content_status": {
@@ -2328,7 +2338,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 89.1,
+        "vph": 87.3,
         "days_since_published": 3,
         "views_per_day": 2274.7,
         "performance_status": "good",
@@ -2426,8 +2436,8 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 6301,
-          "likes": 386,
+          "views": 6367,
+          "likes": 388,
           "comments": 18
         },
         "content_status": {
@@ -2435,7 +2445,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 75.1,
+        "vph": 73.6,
         "days_since_published": 3,
         "views_per_day": 1919.3,
         "performance_status": "excellent",
@@ -2529,7 +2539,7 @@
         "duration_formatted": "24s",
         "is_short": true,
         "statistics": {
-          "views": 5659,
+          "views": 5662,
           "likes": 361,
           "comments": 18
         },
@@ -2538,7 +2548,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 43.3,
+        "vph": 42.8,
         "days_since_published": 5,
         "views_per_day": 1076.0,
         "performance_status": "average",
@@ -2558,7 +2568,7 @@
                 "subscribe",
                 "texan"
               ],
-              "count": 9
+              "count": 11
             },
             "avoid_keywords": {
               "score": 0,
@@ -2603,7 +2613,9 @@
             "tickets",
             "subscribe",
             "texan",
-            "waj"
+            "waj",
+            "year 4",
+            "4 waj"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -2617,15 +2629,15 @@
       },
       {
         "video_id": "YfbIancsvsk",
-        "views": 5188,
-        "watch_time_minutes": 50461,
+        "views": 5209,
+        "watch_time_minutes": 50515,
         "avg_view_duration_seconds": 584,
-        "avg_view_percentage": 43.26,
+        "avg_view_percentage": 43.24,
         "subscribers_gained": 8,
         "likes": 136,
         "comments": 7,
         "shares": 4,
-        "engagement_rate": 2.83,
+        "engagement_rate": 2.82,
         "subscriber_conversion_rate": 0.154,
         "title": "Texans 2026 Season Preview: Offense, Defense and Schedule | Texans Playbook",
         "description": "What will determine how far the Texans go in 2026? This Texans Playbook season preview starts with the offense, including the rebuilt line, David Montgomery and Woody Marks in the backfield, a deep tight end room and the development of Jayden Higgins and Jaylin Noel. Then Mark Vandermeer and John Harris turn to a defense led by Will Anderson Jr., Danielle Hunter, Derek Stingley Jr. and Kamari Lassiter. They finish with the toughest stretches of the schedule and the special moments ahead during the franchise\u2019s 25th season.\n\n00:00 Texans\u2019 25th season preview begins\n00:49 Why the offensive line is the first question\n02:30 David Montgomery and the Texans\u2019 running game\n04:10 A deeper, more versatile tight end room\n05:36 Jayden Higgins, Jaylin Noel and the wide receivers\n07:21 C.J. Stroud enters Year 4 with more support\n08:19 Previewing the Texans defense\n08:47 Why the defensive line remains the engine\n11:20 The competition to become Houston\u2019s third pass rusher\n12:47 Linebacker depth after the loss of E.J. Speed\n14:40 Derek Stingley Jr., Kamari Lassiter and the secondary\n16:50 Breaking down the 2026 schedule\n17:17 Buffalo, Cincinnati, Indianapolis and Dallas to open\n18:17 A difficult road-heavy second half\n20:28 Janice McNair\u2019s legacy and the Texans\u2019 25th season\n21:23 The 25th anniversary game against Dallas\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -2635,8 +2647,8 @@
         "duration_formatted": "22:32",
         "is_short": false,
         "statistics": {
-          "views": 8598,
-          "likes": 289,
+          "views": 8607,
+          "likes": 290,
           "comments": 33
         },
         "content_status": {
@@ -2652,9 +2664,9 @@
             }
           ]
         },
-        "vph": 26.4,
+        "vph": 26.3,
         "days_since_published": 8,
-        "views_per_day": 648.5,
+        "views_per_day": 651.1,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -2672,7 +2684,7 @@
                 "pass",
                 "play"
               ],
-              "count": 74
+              "count": 75
             },
             "avoid_keywords": {
               "score": 0,
@@ -2837,7 +2849,8 @@
             "secondary",
             "then",
             "the c",
-            "min"
+            "min",
+            "year 4"
           ],
           "avoid_keywords_found": [
             "loss",
@@ -2977,8 +2990,8 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 7368,
-          "likes": 312,
+          "views": 7458,
+          "likes": 313,
           "comments": 14
         },
         "content_status": {
@@ -2986,7 +2999,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 112.0,
+        "vph": 108.1,
         "days_since_published": 1,
         "views_per_day": 5010.0,
         "performance_status": "good",
@@ -3080,7 +3093,7 @@
         "duration_formatted": "13s",
         "is_short": true,
         "statistics": {
-          "views": 5329,
+          "views": 5340,
           "likes": 345,
           "comments": 14
         },
@@ -3089,7 +3102,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 53.5,
+        "vph": 52.6,
         "days_since_published": 3,
         "views_per_day": 1648.0,
         "performance_status": "good",
@@ -3186,7 +3199,7 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 5163,
+          "views": 5164,
           "likes": 320,
           "comments": 13
         },
@@ -3195,7 +3208,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 39.2,
+        "vph": 38.7,
         "days_since_published": 5,
         "views_per_day": 973.6,
         "performance_status": "good",
@@ -3306,9 +3319,9 @@
             }
           ]
         },
-        "vph": 49.7,
-        "days_since_published": 3,
-        "views_per_day": 1583.7,
+        "vph": 48.9,
+        "days_since_published": 4,
+        "views_per_day": 1187.8,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -3326,7 +3339,7 @@
                 "play",
                 "football"
               ],
-              "count": 71
+              "count": 73
             },
             "avoid_keywords": {
               "score": 0,
@@ -3475,7 +3488,9 @@
             "talks about",
             "about c",
             "year 2",
-            "line and"
+            "line and",
+            "tank dell",
+            "year 4"
           ],
           "avoid_keywords_found": [
             "new",
@@ -3550,7 +3565,7 @@
         "duration_formatted": "46:39",
         "is_short": false,
         "statistics": {
-          "views": 4429,
+          "views": 4431,
           "likes": 165,
           "comments": 21
         },
@@ -3567,7 +3582,7 @@
             }
           ]
         },
-        "vph": 45.3,
+        "vph": 44.5,
         "days_since_published": 4,
         "views_per_day": 1114.5,
         "performance_status": "average",
@@ -3734,8 +3749,8 @@
         "duration_formatted": "51s",
         "is_short": true,
         "statistics": {
-          "views": 5237,
-          "likes": 354,
+          "views": 5302,
+          "likes": 359,
           "comments": 12
         },
         "content_status": {
@@ -3743,7 +3758,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 65.2,
+        "vph": 63.7,
         "days_since_published": 2,
         "views_per_day": 2186.5,
         "performance_status": "good",
@@ -3848,8 +3863,8 @@
         "duration_formatted": "14s",
         "is_short": true,
         "statistics": {
-          "views": 4532,
-          "likes": 311,
+          "views": 4559,
+          "likes": 312,
           "comments": 11
         },
         "content_status": {
@@ -3857,7 +3872,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 69.4,
+        "vph": 67.3,
         "days_since_published": 2,
         "views_per_day": 1778.5,
         "performance_status": "excellent",
@@ -3953,8 +3968,8 @@
         "duration_formatted": "25s",
         "is_short": true,
         "statistics": {
-          "views": 12558,
-          "likes": 405,
+          "views": 12623,
+          "likes": 407,
           "comments": 12
         },
         "content_status": {
@@ -3962,7 +3977,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 84.8,
+        "vph": 81.6,
         "days_since_published": 1,
         "views_per_day": 3493.0,
         "performance_status": "good",
@@ -4038,15 +4053,15 @@
       },
       {
         "video_id": "SNogR8GPI_A",
-        "views": 3291,
-        "watch_time_minutes": 6270,
+        "views": 3305,
+        "watch_time_minutes": 6283,
         "avg_view_duration_seconds": 114,
-        "avg_view_percentage": 29.799999999999997,
+        "avg_view_percentage": 29.81,
         "subscribers_gained": 1,
         "likes": 48,
         "comments": 3,
         "shares": 27,
-        "engagement_rate": 2.37,
+        "engagement_rate": 2.36,
         "subscriber_conversion_rate": 0.03,
         "title": "NFL Girls Flag Semifinal 2026 | Texans' STUNNING Throws & Highlights",
         "description": "Highlights from the High School Girls Division Semifinals at the 2026 NFL FLAG Championships.\n\nAs the Texans look to Make Texans Next and sanction Girls Flag in Texas schools, a Texans representative knocked off Lace Up Junior in the NFL Flag semifinal. \n\nAdd your voice to help Make Texas Next: https://web.houstontexans.com/girls-flag-support-map",
@@ -4056,7 +4071,7 @@
         "duration_formatted": "6:25",
         "is_short": false,
         "statistics": {
-          "views": 3348,
+          "views": 3347,
           "likes": 48,
           "comments": 1
         },
@@ -4073,9 +4088,9 @@
             }
           ]
         },
-        "vph": 19.6,
-        "days_since_published": 6,
-        "views_per_day": 548.5,
+        "vph": 19.5,
+        "days_since_published": 7,
+        "views_per_day": 472.1,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -4197,10 +4212,10 @@
       },
       {
         "video_id": "UfycvP7u15o",
-        "views": 3267,
-        "watch_time_minutes": 17297,
-        "avg_view_duration_seconds": 319,
-        "avg_view_percentage": 38.91,
+        "views": 3273,
+        "watch_time_minutes": 17308,
+        "avg_view_duration_seconds": 318,
+        "avg_view_percentage": 38.89,
         "subscribers_gained": 0,
         "likes": 7,
         "comments": 0,
@@ -4215,7 +4230,7 @@
         "duration_formatted": "13:40",
         "is_short": false,
         "statistics": {
-          "views": 545117,
+          "views": 545221,
           "likes": 2657,
           "comments": 179
         },
@@ -4495,7 +4510,7 @@
             }
           ]
         },
-        "vph": 50.7,
+        "vph": 49.4,
         "days_since_published": 2,
         "views_per_day": 1593.0,
         "performance_status": "good",
@@ -4662,8 +4677,8 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 3619,
-          "likes": 141,
+          "views": 3644,
+          "likes": 143,
           "comments": 3
         },
         "content_status": {
@@ -4671,7 +4686,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 44.3,
+        "vph": 43.3,
         "days_since_published": 2,
         "views_per_day": 1514.0,
         "performance_status": "average",
@@ -4765,7 +4780,7 @@
         "duration_formatted": "20s",
         "is_short": true,
         "statistics": {
-          "views": 3263,
+          "views": 3269,
           "likes": 193,
           "comments": 11
         },
@@ -4774,7 +4789,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 39.1,
+        "vph": 38.3,
         "days_since_published": 3,
         "views_per_day": 998.7,
         "performance_status": "excellent",
@@ -4870,8 +4885,8 @@
         "duration_formatted": "25s",
         "is_short": true,
         "statistics": {
-          "views": 3274,
-          "likes": 212,
+          "views": 3297,
+          "likes": 213,
           "comments": 4
         },
         "content_status": {
@@ -4879,7 +4894,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 40.2,
+        "vph": 39.3,
         "days_since_published": 2,
         "views_per_day": 1374.5,
         "performance_status": "good",
@@ -4970,15 +4985,15 @@
       },
       {
         "video_id": "jcEjSRd4mUs",
-        "views": 2680,
-        "watch_time_minutes": 695,
+        "views": 2687,
+        "watch_time_minutes": 696,
         "avg_view_duration_seconds": 24,
-        "avg_view_percentage": 73.03,
+        "avg_view_percentage": 73.01,
         "subscribers_gained": 1,
         "likes": 116,
         "comments": 6,
         "shares": 1,
-        "engagement_rate": 4.59,
+        "engagement_rate": 4.58,
         "subscriber_conversion_rate": 0.037,
         "title": "Couldn\u2019t have said it better Pat",
         "description": "@ThePatMcAfeeShow is right, Texas is a football state. Let\u2019s get flag football sanctioned in Texas.",
@@ -4988,7 +5003,7 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 6126,
+          "views": 6125,
           "likes": 328,
           "comments": 11
         },
@@ -4997,9 +5012,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 13.7,
+        "vph": 13.6,
         "days_since_published": 8,
-        "views_per_day": 335.0,
+        "views_per_day": 335.9,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -5097,8 +5112,8 @@
         "duration_formatted": "11:25",
         "is_short": false,
         "statistics": {
-          "views": 2998,
-          "likes": 104,
+          "views": 3014,
+          "likes": 105,
           "comments": 9
         },
         "content_status": {
@@ -5114,7 +5129,7 @@
             }
           ]
         },
-        "vph": 38.2,
+        "vph": 37.4,
         "days_since_published": 2,
         "views_per_day": 1329.0,
         "performance_status": "average",
@@ -5393,8 +5408,8 @@
         "duration_formatted": "44s",
         "is_short": true,
         "statistics": {
-          "views": 2882,
-          "likes": 191,
+          "views": 2909,
+          "likes": 193,
           "comments": 7
         },
         "content_status": {
@@ -5402,7 +5417,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 33.3,
+        "vph": 32.7,
         "days_since_published": 3,
         "views_per_day": 851.3,
         "performance_status": "good",
@@ -5496,8 +5511,8 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 2723,
-          "likes": 168,
+          "views": 2744,
+          "likes": 169,
           "comments": 3
         },
         "content_status": {
@@ -5505,7 +5520,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 32.0,
+        "vph": 31.3,
         "days_since_published": 3,
         "views_per_day": 817.3,
         "performance_status": "good",
@@ -5618,7 +5633,7 @@
             }
           ]
         },
-        "vph": 24.0,
+        "vph": 23.6,
         "days_since_published": 4,
         "views_per_day": 608.0,
         "performance_status": "good",
@@ -5803,7 +5818,7 @@
             }
           ]
         },
-        "vph": 32.7,
+        "vph": 31.9,
         "days_since_published": 2,
         "views_per_day": 1136.0,
         "performance_status": "average",
@@ -6009,7 +6024,7 @@
         "duration_formatted": "47:45",
         "is_short": false,
         "statistics": {
-          "views": 2284,
+          "views": 2285,
           "likes": 88,
           "comments": 13
         },
@@ -6026,7 +6041,7 @@
             }
           ]
         },
-        "vph": 43.6,
+        "vph": 42.3,
         "days_since_published": 2,
         "views_per_day": 1111.0,
         "performance_status": "poor",
@@ -6164,15 +6179,15 @@
       },
       {
         "video_id": "A2s1Mr_Sapg",
-        "views": 2046,
+        "views": 2049,
         "watch_time_minutes": 374,
         "avg_view_duration_seconds": 20,
-        "avg_view_percentage": 122.41,
+        "avg_view_percentage": 122.24,
         "subscribers_gained": 1,
         "likes": 61,
         "comments": 2,
         "shares": 2,
-        "engagement_rate": 3.18,
+        "engagement_rate": 3.17,
         "subscriber_conversion_rate": 0.049,
         "title": "how did he fit that in?! \ud83e\udd2f",
         "description": "Third down and 8, two defenders closing in, and Stroud threads the needle to Nico Collins in tight coverage. This is why he's our franchise QB! #HoustonTexans #NFL #Texans #Shorts",
@@ -6182,8 +6197,8 @@
         "duration_formatted": "17s",
         "is_short": true,
         "statistics": {
-          "views": 17728,
-          "likes": 588,
+          "views": 17781,
+          "likes": 592,
           "comments": 19
         },
         "content_status": {
@@ -6201,7 +6216,7 @@
         },
         "vph": 3.9,
         "days_since_published": 21,
-        "views_per_day": 97.4,
+        "views_per_day": 97.6,
         "performance_status": "average",
         "seo_score": {
           "total_score": 70,
@@ -6295,10 +6310,10 @@
       },
       {
         "video_id": "wUMzmRCzyTU",
-        "views": 1931,
+        "views": 1930,
         "watch_time_minutes": 763,
         "avg_view_duration_seconds": 40,
-        "avg_view_percentage": 84.91,
+        "avg_view_percentage": 84.97,
         "subscribers_gained": 0,
         "likes": 100,
         "comments": 1,
@@ -6313,8 +6328,8 @@
         "duration_formatted": "48s",
         "is_short": true,
         "statistics": {
-          "views": 19011,
-          "likes": 1213,
+          "views": 19045,
+          "likes": 1214,
           "comments": 33
         },
         "content_status": {
@@ -6324,7 +6339,7 @@
         },
         "vph": 2.3,
         "days_since_published": 35,
-        "views_per_day": 55.2,
+        "views_per_day": 55.1,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -6402,15 +6417,15 @@
       },
       {
         "video_id": "afeVkaCtOA8",
-        "views": 1915,
-        "watch_time_minutes": 4633,
+        "views": 1920,
+        "watch_time_minutes": 4642,
         "avg_view_duration_seconds": 146,
-        "avg_view_percentage": 38.83,
+        "avg_view_percentage": 38.84,
         "subscribers_gained": 1,
         "likes": 17,
         "comments": 2,
         "shares": 2,
-        "engagement_rate": 1.1,
+        "engagement_rate": 1.09,
         "subscriber_conversion_rate": 0.052,
         "title": "WATCH: Andre Johnson gets \u2018The Knock\u2019 from Cris Carter",
         "description": "Texans legend Andre Johnson receives the life-changing call from Cris Carter informing him of his Pro Football Hall of Fame induction. An emotional moment you have to see.\n\nWatch the incredible moment Houston Texans legend Andre Johnson gets 'The Knock' from Pro Football Hall of Fame selector Cris Carter, officially notifying him of his induction into the Pro Football Hall of Fame Class of 2024. This emotional and historic moment captures Johnson's genuine reaction to achieving football's highest honor. Andre Johnson spent 12 legendary seasons with the Houston Texans from 2003-2014, becoming the franchise's all-time leading receiver and one of the greatest wide receivers in NFL history. Johnson's 1,012 career receptions, 14,185 receiving yards, and 64 touchdowns with the Texans made him a cornerstone of the franchise and a beloved figure in H-Town. The seven-time Pro Bowl selection and two-time All-Pro was known for his incredible hands, route-running precision, and leadership both on and off the field. This historic phone call represents the culmination of an outstanding NFL career and cements Johnson's legacy among the greatest players to ever wear a Texans uniform. A truly special moment for Andre Johnson, the Houston Texans organization, and all of Texans Nation who watched number 80 dominate for over a decade.\n\n\ud83d\udd14 Subscribe to never miss historic Texans moments like this!\n\ud83d\udc49 SUBSCRIBE: https://www.youtube.com/c/HoustonTexans?sub_confirmation=1\n\n\ud83d\udcf1 Follow the Houston Texans:\nTwitter: https://twitter.com/HoustonTexans\nInstagram: https://instagram.com/HoustonTexans\nFacebook: https://facebook.com/HoustonTexans\nTikTok: https://tiktok.com/@HoustonTexans\nWebsite: https://www.HoustonTexans.com\n\n#Texans #HoustonTexans #NFL #HallOfFame #AndreJohnson",
@@ -6420,9 +6435,9 @@
         "duration_formatted": "6:17",
         "is_short": false,
         "statistics": {
-          "views": 501619,
-          "likes": 9212,
-          "comments": 893
+          "views": 501731,
+          "likes": 9213,
+          "comments": 891
         },
         "content_status": {
           "is_blocked": false,
@@ -6948,7 +6963,7 @@
         "duration_formatted": "19:03",
         "is_short": false,
         "statistics": {
-          "views": 1924,
+          "views": 1938,
           "likes": 48,
           "comments": 2
         },
@@ -6965,10 +6980,10 @@
             }
           ]
         },
-        "vph": 18.5,
-        "days_since_published": 3,
-        "views_per_day": 589.7,
-        "performance_status": "good",
+        "vph": 18.2,
+        "days_since_published": 4,
+        "views_per_day": 442.2,
+        "performance_status": "average",
         "seo_score": {
           "total_score": 70,
           "grade": "B",
@@ -6985,7 +7000,7 @@
                 "over",
                 "open"
               ],
-              "count": 59
+              "count": 60
             },
             "avoid_keywords": {
               "score": 0,
@@ -7108,7 +7123,8 @@
             "lead",
             "possible",
             "young",
-            "quarterbacks"
+            "quarterbacks",
+            "tank dell"
           ],
           "avoid_keywords_found": [
             "injury",
@@ -7150,11 +7166,268 @@
         }
       },
       {
+        "video_id": "h_5d3jvdB-g",
+        "views": 1673,
+        "watch_time_minutes": 5429,
+        "avg_view_duration_seconds": 195,
+        "avg_view_percentage": 27.37,
+        "subscribers_gained": 1,
+        "likes": -1,
+        "comments": 0,
+        "shares": 0,
+        "engagement_rate": -0.06,
+        "subscriber_conversion_rate": 0.06,
+        "title": "C.J. Stroud's IMPOSSIBLE escape leads to INSANE Hutch catch \ud83e\udd2f",
+        "description": "Watch the full game-changing drive from the Texans vs. Chargers Wild Card matchup, featuring a jaw-dropping broken play where C.J. Stroud finds Xavier Hutchinson for an unbelievable catch. One of the most clutch moments of the postseason\u2014relive it here!\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
+        "published_at": "2025-06-11T21:40:27Z",
+        "thumbnail": "https://i.ytimg.com/vi/h_5d3jvdB-g/hqdefault.jpg",
+        "duration_seconds": 716,
+        "duration_formatted": "11:56",
+        "is_short": false,
+        "statistics": {
+          "views": 162141,
+          "likes": 1164,
+          "comments": 62
+        },
+        "content_status": {
+          "is_blocked": false,
+          "block_reason": null,
+          "flags": [
+            {
+              "type": "content",
+              "name": "ad",
+              "emoji": "\ud83d\udcb0",
+              "note": "Sponsored content - use conservative titling",
+              "show_banner": false
+            }
+          ]
+        },
+        "vph": 0.2,
+        "days_since_published": 416,
+        "views_per_day": 4.0,
+        "performance_status": "poor",
+        "seo_score": {
+          "total_score": 70,
+          "grade": "B",
+          "breakdown": {
+            "boost_keywords": {
+              "score": 40,
+              "found": [
+                "texans",
+                "houston",
+                "stroud",
+                "c.j.",
+                "catch",
+                "play",
+                "insane",
+                "unbelievable"
+              ],
+              "count": 21
+            },
+            "avoid_keywords": {
+              "score": 0,
+              "found": [
+                "full game",
+                "watch",
+                "houstontexans",
+                "com",
+                "www",
+                "from",
+                "tex",
+                "full",
+                "from the",
+                "texans vs",
+                "drive",
+                "one",
+                "charge",
+                "moment",
+                "season",
+                "the texans",
+                "moments",
+                "watch the",
+                "the full",
+                "game",
+                "one of",
+                "wild",
+                "leads",
+                "card",
+                "relive",
+                "wild card",
+                "find",
+                "dropping",
+                "finds",
+                "hutchinson",
+                "featuring",
+                "featuring a",
+                "most clutch",
+                "clutch moments",
+                "here",
+                "https",
+                "stroud's",
+                "san",
+                "men",
+                "impossible",
+                "escape",
+                "hutch",
+                "game-changing",
+                "jaw-dropping",
+                "broken",
+                "xavier",
+                "stroud's impossible",
+                "impossible escape",
+                "escape leads",
+                "leads to",
+                "to insane",
+                "insane hutch",
+                "hutch catch",
+                "full game-changing",
+                "game-changing drive",
+                "drive from",
+                "chargers wild",
+                "card matchup",
+                "a jaw-dropping",
+                "jaw-dropping broken",
+                "broken play",
+                "play where",
+                "where c",
+                "stroud finds",
+                "finds xavier",
+                "xavier hutchinson",
+                "hutchinson for",
+                "an unbelievable",
+                "unbelievable catch",
+                "moments of",
+                "relive it",
+                "it here"
+              ],
+              "penalty": 720
+            },
+            "title": {
+              "score": 20,
+              "length": 61,
+              "optimal_range": [
+                40,
+                70
+              ]
+            },
+            "description": {
+              "score": 10,
+              "length": 337
+            },
+            "hashtags": {
+              "score": 0,
+              "count": 0
+            }
+          },
+          "suggestions": [
+            "Consider removing: full game, watch, houstontexans, com, www, from, tex, full, from the, texans vs, drive, one, charge, moment, season, the texans, moments, watch the, the full, game, one of, wild, leads, card, relive, wild card, find, dropping, finds, hutchinson, featuring, featuring a, most clutch, clutch moments, here, https, stroud's, san, men, impossible, escape, hutch, game-changing, jaw-dropping, broken, xavier, stroud's impossible, impossible escape, escape leads, leads to, to insane, insane hutch, hutch catch, full game-changing, game-changing drive, drive from, chargers wild, card matchup, a jaw-dropping, jaw-dropping broken, broken play, play where, where c, stroud finds, finds xavier, xavier hutchinson, hutchinson for, an unbelievable, unbelievable catch, moments of, relive it, it here",
+            "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
+          ],
+          "boost_keywords_found": [
+            "texans",
+            "houston",
+            "stroud",
+            "c.j.",
+            "catch",
+            "play",
+            "insane",
+            "unbelievable",
+            "clutch",
+            "matchup",
+            "chargers",
+            "postseason",
+            "the postseason",
+            "bit",
+            "3uh7n0e",
+            "tickets",
+            "subscribe",
+            "texan",
+            "live",
+            "lead",
+            "possible"
+          ],
+          "avoid_keywords_found": [
+            "full game",
+            "watch",
+            "houstontexans",
+            "com",
+            "www",
+            "from",
+            "tex",
+            "full",
+            "from the",
+            "texans vs",
+            "drive",
+            "one",
+            "charge",
+            "moment",
+            "season",
+            "the texans",
+            "moments",
+            "watch the",
+            "the full",
+            "game",
+            "one of",
+            "wild",
+            "leads",
+            "card",
+            "relive",
+            "wild card",
+            "find",
+            "dropping",
+            "finds",
+            "hutchinson",
+            "featuring",
+            "featuring a",
+            "most clutch",
+            "clutch moments",
+            "here",
+            "https",
+            "stroud's",
+            "san",
+            "men",
+            "impossible",
+            "escape",
+            "hutch",
+            "game-changing",
+            "jaw-dropping",
+            "broken",
+            "xavier",
+            "stroud's impossible",
+            "impossible escape",
+            "escape leads",
+            "leads to",
+            "to insane",
+            "insane hutch",
+            "hutch catch",
+            "full game-changing",
+            "game-changing drive",
+            "drive from",
+            "chargers wild",
+            "card matchup",
+            "a jaw-dropping",
+            "jaw-dropping broken",
+            "broken play",
+            "play where",
+            "where c",
+            "stroud finds",
+            "finds xavier",
+            "xavier hutchinson",
+            "hutchinson for",
+            "an unbelievable",
+            "unbelievable catch",
+            "moments of",
+            "relive it",
+            "it here"
+          ]
+        }
+      },
+      {
         "video_id": "7UbR96SWcPc",
         "views": 1668,
-        "watch_time_minutes": 5422,
+        "watch_time_minutes": 5418,
         "avg_view_duration_seconds": 196,
-        "avg_view_percentage": 35.59,
+        "avg_view_percentage": 35.58,
         "subscribers_gained": 1,
         "likes": 16,
         "comments": 4,
@@ -7169,7 +7442,7 @@
         "duration_formatted": "9:13",
         "is_short": false,
         "statistics": {
-          "views": 79255,
+          "views": 79291,
           "likes": 743,
           "comments": 55
         },
@@ -7698,263 +7971,6 @@
         }
       },
       {
-        "video_id": "h_5d3jvdB-g",
-        "views": 1665,
-        "watch_time_minutes": 5428,
-        "avg_view_duration_seconds": 196,
-        "avg_view_percentage": 27.399999999999995,
-        "subscribers_gained": 1,
-        "likes": -1,
-        "comments": 0,
-        "shares": 0,
-        "engagement_rate": -0.06,
-        "subscriber_conversion_rate": 0.06,
-        "title": "C.J. Stroud's IMPOSSIBLE escape leads to INSANE Hutch catch \ud83e\udd2f",
-        "description": "Watch the full game-changing drive from the Texans vs. Chargers Wild Card matchup, featuring a jaw-dropping broken play where C.J. Stroud finds Xavier Hutchinson for an unbelievable catch. One of the most clutch moments of the postseason\u2014relive it here!\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
-        "published_at": "2025-06-11T21:40:27Z",
-        "thumbnail": "https://i.ytimg.com/vi/h_5d3jvdB-g/hqdefault.jpg",
-        "duration_seconds": 716,
-        "duration_formatted": "11:56",
-        "is_short": false,
-        "statistics": {
-          "views": 162139,
-          "likes": 1164,
-          "comments": 62
-        },
-        "content_status": {
-          "is_blocked": false,
-          "block_reason": null,
-          "flags": [
-            {
-              "type": "content",
-              "name": "ad",
-              "emoji": "\ud83d\udcb0",
-              "note": "Sponsored content - use conservative titling",
-              "show_banner": false
-            }
-          ]
-        },
-        "vph": 0.2,
-        "days_since_published": 416,
-        "views_per_day": 4.0,
-        "performance_status": "poor",
-        "seo_score": {
-          "total_score": 70,
-          "grade": "B",
-          "breakdown": {
-            "boost_keywords": {
-              "score": 40,
-              "found": [
-                "texans",
-                "houston",
-                "stroud",
-                "c.j.",
-                "catch",
-                "play",
-                "insane",
-                "unbelievable"
-              ],
-              "count": 21
-            },
-            "avoid_keywords": {
-              "score": 0,
-              "found": [
-                "full game",
-                "watch",
-                "houstontexans",
-                "com",
-                "www",
-                "from",
-                "tex",
-                "full",
-                "from the",
-                "texans vs",
-                "drive",
-                "one",
-                "charge",
-                "moment",
-                "season",
-                "the texans",
-                "moments",
-                "watch the",
-                "the full",
-                "game",
-                "one of",
-                "wild",
-                "leads",
-                "card",
-                "relive",
-                "wild card",
-                "find",
-                "dropping",
-                "finds",
-                "hutchinson",
-                "featuring",
-                "featuring a",
-                "most clutch",
-                "clutch moments",
-                "here",
-                "https",
-                "stroud's",
-                "san",
-                "men",
-                "impossible",
-                "escape",
-                "hutch",
-                "game-changing",
-                "jaw-dropping",
-                "broken",
-                "xavier",
-                "stroud's impossible",
-                "impossible escape",
-                "escape leads",
-                "leads to",
-                "to insane",
-                "insane hutch",
-                "hutch catch",
-                "full game-changing",
-                "game-changing drive",
-                "drive from",
-                "chargers wild",
-                "card matchup",
-                "a jaw-dropping",
-                "jaw-dropping broken",
-                "broken play",
-                "play where",
-                "where c",
-                "stroud finds",
-                "finds xavier",
-                "xavier hutchinson",
-                "hutchinson for",
-                "an unbelievable",
-                "unbelievable catch",
-                "moments of",
-                "relive it",
-                "it here"
-              ],
-              "penalty": 720
-            },
-            "title": {
-              "score": 20,
-              "length": 61,
-              "optimal_range": [
-                40,
-                70
-              ]
-            },
-            "description": {
-              "score": 10,
-              "length": 337
-            },
-            "hashtags": {
-              "score": 0,
-              "count": 0
-            }
-          },
-          "suggestions": [
-            "Consider removing: full game, watch, houstontexans, com, www, from, tex, full, from the, texans vs, drive, one, charge, moment, season, the texans, moments, watch the, the full, game, one of, wild, leads, card, relive, wild card, find, dropping, finds, hutchinson, featuring, featuring a, most clutch, clutch moments, here, https, stroud's, san, men, impossible, escape, hutch, game-changing, jaw-dropping, broken, xavier, stroud's impossible, impossible escape, escape leads, leads to, to insane, insane hutch, hutch catch, full game-changing, game-changing drive, drive from, chargers wild, card matchup, a jaw-dropping, jaw-dropping broken, broken play, play where, where c, stroud finds, finds xavier, xavier hutchinson, hutchinson for, an unbelievable, unbelievable catch, moments of, relive it, it here",
-            "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
-          ],
-          "boost_keywords_found": [
-            "texans",
-            "houston",
-            "stroud",
-            "c.j.",
-            "catch",
-            "play",
-            "insane",
-            "unbelievable",
-            "clutch",
-            "matchup",
-            "chargers",
-            "postseason",
-            "the postseason",
-            "bit",
-            "3uh7n0e",
-            "tickets",
-            "subscribe",
-            "texan",
-            "live",
-            "lead",
-            "possible"
-          ],
-          "avoid_keywords_found": [
-            "full game",
-            "watch",
-            "houstontexans",
-            "com",
-            "www",
-            "from",
-            "tex",
-            "full",
-            "from the",
-            "texans vs",
-            "drive",
-            "one",
-            "charge",
-            "moment",
-            "season",
-            "the texans",
-            "moments",
-            "watch the",
-            "the full",
-            "game",
-            "one of",
-            "wild",
-            "leads",
-            "card",
-            "relive",
-            "wild card",
-            "find",
-            "dropping",
-            "finds",
-            "hutchinson",
-            "featuring",
-            "featuring a",
-            "most clutch",
-            "clutch moments",
-            "here",
-            "https",
-            "stroud's",
-            "san",
-            "men",
-            "impossible",
-            "escape",
-            "hutch",
-            "game-changing",
-            "jaw-dropping",
-            "broken",
-            "xavier",
-            "stroud's impossible",
-            "impossible escape",
-            "escape leads",
-            "leads to",
-            "to insane",
-            "insane hutch",
-            "hutch catch",
-            "full game-changing",
-            "game-changing drive",
-            "drive from",
-            "chargers wild",
-            "card matchup",
-            "a jaw-dropping",
-            "jaw-dropping broken",
-            "broken play",
-            "play where",
-            "where c",
-            "stroud finds",
-            "finds xavier",
-            "xavier hutchinson",
-            "hutchinson for",
-            "an unbelievable",
-            "unbelievable catch",
-            "moments of",
-            "relive it",
-            "it here"
-          ]
-        }
-      },
-      {
         "video_id": "ogd9IOk2s-s",
         "views": 1655,
         "watch_time_minutes": 14433,
@@ -7991,9 +8007,9 @@
             }
           ]
         },
-        "vph": 17.3,
-        "days_since_published": 3,
-        "views_per_day": 551.7,
+        "vph": 17.0,
+        "days_since_published": 4,
+        "views_per_day": 413.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 70,
@@ -8011,7 +8027,7 @@
                 "anderson",
                 "ryans"
               ],
-              "count": 75
+              "count": 77
             },
             "avoid_keywords": {
               "score": 0,
@@ -8169,7 +8185,9 @@
             "lead",
             "the line",
             "quarterbacks",
-            "line and"
+            "line and",
+            "tank dell",
+            "year 4"
           ],
           "avoid_keywords_found": [
             "new",
@@ -8231,7 +8249,7 @@
       },
       {
         "video_id": "s2QZgBO_8js",
-        "views": 1457,
+        "views": 1456,
         "watch_time_minutes": 285,
         "avg_view_duration_seconds": 25,
         "avg_view_percentage": 84.3,
@@ -8267,8 +8285,8 @@
           ]
         },
         "vph": 3.8,
-        "days_since_published": 15,
-        "views_per_day": 97.1,
+        "days_since_published": 16,
+        "views_per_day": 91.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 65,
@@ -8351,10 +8369,10 @@
       },
       {
         "video_id": "RVMAf8bsfLM",
-        "views": 1425,
-        "watch_time_minutes": 4751,
-        "avg_view_duration_seconds": 201,
-        "avg_view_percentage": 54.63,
+        "views": 1429,
+        "watch_time_minutes": 4745,
+        "avg_view_duration_seconds": 200,
+        "avg_view_percentage": 54.56999999999999,
         "subscribers_gained": 2,
         "likes": 15,
         "comments": 0,
@@ -8369,7 +8387,7 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 246644,
+          "views": 246657,
           "likes": 2540,
           "comments": 191
         },
@@ -8380,7 +8398,7 @@
         },
         "vph": 0.2,
         "days_since_published": 262,
-        "views_per_day": 5.4,
+        "views_per_day": 5.5,
         "performance_status": "average",
         "seo_score": {
           "total_score": 80,
@@ -8583,7 +8601,7 @@
       },
       {
         "video_id": "qFn71WHk-Uo",
-        "views": 1360,
+        "views": 1359,
         "watch_time_minutes": 196,
         "avg_view_duration_seconds": 15,
         "avg_view_percentage": 122.55,
@@ -8601,8 +8619,8 @@
         "duration_formatted": "13s",
         "is_short": true,
         "statistics": {
-          "views": 17614,
-          "likes": 812,
+          "views": 17654,
+          "likes": 815,
           "comments": 41
         },
         "content_status": {
@@ -8611,8 +8629,8 @@
           "flags": []
         },
         "vph": 2.6,
-        "days_since_published": 21,
-        "views_per_day": 64.8,
+        "days_since_published": 22,
+        "views_per_day": 61.8,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -8706,7 +8724,7 @@
         "duration_formatted": "5:23",
         "is_short": false,
         "statistics": {
-          "views": 1388,
+          "views": 1397,
           "likes": 63,
           "comments": 7
         },
@@ -8723,7 +8741,7 @@
             }
           ]
         },
-        "vph": 19.1,
+        "vph": 18.6,
         "days_since_published": 2,
         "views_per_day": 653.5,
         "performance_status": "average",
@@ -8892,7 +8910,7 @@
       },
       {
         "video_id": "e7vEqWPX59g",
-        "views": 1248,
+        "views": 1252,
         "watch_time_minutes": 1005,
         "avg_view_duration_seconds": 69,
         "avg_view_percentage": 89,
@@ -8900,7 +8918,7 @@
         "likes": 79,
         "comments": 4,
         "shares": 12,
-        "engagement_rate": 7.61,
+        "engagement_rate": 7.59,
         "subscriber_conversion_rate": 0.16,
         "title": "C.J. Stroud throws 5 TDs in INSANE rookie comeback \ud83d\udd25",
         "description": "C.J. Stroud threw 5 TDs and 470 yards in the GREATEST rookie comeback in NFL history! The Houston Texans stunned Tampa Bay in this instant classic.\n\nWhat a moment for Houston Texans history! C.J. Stroud delivered the performance of a lifetime, throwing for 470 yards and 5 touchdowns to lead the Texans back from a massive deficit against the Tampa Bay Buccaneers in 2023. This wasn't just any comeback \u2014 it was the largest comeback in franchise history and one of the most incredible rookie performances the NFL has ever seen. With the game on the line and time running out, Stroud showed the poise of a veteran, orchestrating a game-winning drive that had NRG Stadium absolutely electric. The Swarm witnessed something special that day as our rookie quarterback announced himself to the league in the most dramatic way possible. From the clutch throws to Nico Collins and Tank Dell to the ice-cold composure under pressure, this is why C.J. Stroud is already being mentioned among the elite young quarterbacks in the NFL. Relive every magical moment of this historic Houston Texans comeback victory that proved our future is incredibly bright in H-Town.\n\n\ud83d\udd14 Subscribe for more incredible Houston Texans moments and never miss the action!\n\ud83d\udc49 SUBSCRIBE: https://www.youtube.com/c/HoustonTexans?sub_confirmation=1\n\n\ud83d\udcf1 Follow the Houston Texans:\nTwitter: https://twitter.com/HoustonTexans\nInstagram: https://instagram.com/HoustonTexans\nFacebook: https://facebook.com/HoustonTexans\nTikTok: https://tiktok.com/@HoustonTexans\nWebsite: https://www.HoustonTexans.com\n\n#Texans #HoustonTexans #NFL #CJStroud #Comeback",
@@ -8910,8 +8928,8 @@
         "duration_formatted": "1:18",
         "is_short": false,
         "statistics": {
-          "views": 32346,
-          "likes": 1734,
+          "views": 32378,
+          "likes": 1737,
           "comments": 81
         },
         "content_status": {
@@ -8947,7 +8965,7 @@
                 "c.j.",
                 "cj"
               ],
-              "count": 208
+              "count": 214
             },
             "avoid_keywords": {
               "score": 0,
@@ -9286,7 +9304,13 @@
             "incredibly bright",
             "bright in",
             "incredible houston",
-            "moments and"
+            "moments and",
+            "and 5",
+            "5 touchdowns",
+            "the tampa",
+            "bay buccaneers",
+            "buccaneers in",
+            "tank dell"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -9415,8 +9439,8 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 5333,
-          "likes": 250,
+          "views": 5335,
+          "likes": 251,
           "comments": 13
         },
         "content_status": {
@@ -9505,16 +9529,16 @@
       },
       {
         "video_id": "B4S6YnagVns",
-        "views": 1053,
-        "watch_time_minutes": 20902,
+        "views": 1057,
+        "watch_time_minutes": 20950,
         "avg_view_duration_seconds": 1191,
-        "avg_view_percentage": 56.61000000000001,
+        "avg_view_percentage": 56.63,
         "subscribers_gained": 2,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "engagement_rate": 0.09,
-        "subscriber_conversion_rate": 0.19,
+        "subscriber_conversion_rate": 0.189,
         "title": "How the Texans built UNSTOPPABLE December momentum \ud83d\udc40",
         "description": "Winning in December requires more than talent. It requires belief.\nEpisode 10 of Iron Sharpens Iron follows the Texans through three important wins, starting with a statement performance against the Chiefs and continuing with victories over the Cardinals and Raiders.\nAs the playoff picture tightens, the team stays locked in on details, physicality, and finishing every game the right way. The episode captures the urgency, accountability, and mindset that drive success late in the season.\nMomentum is earned. Purpose is sustained.\nIron Sharpens Iron Episode 10 is available now.\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-01-01T15:55:00Z",
@@ -9523,7 +9547,7 @@
         "duration_formatted": "35:04",
         "is_short": false,
         "statistics": {
-          "views": 63089,
+          "views": 63093,
           "likes": 1221,
           "comments": 72
         },
@@ -9534,7 +9558,7 @@
         },
         "vph": 0.2,
         "days_since_published": 213,
-        "views_per_day": 4.9,
+        "views_per_day": 5.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 70,
@@ -9727,28 +9751,28 @@
         }
       },
       {
-        "video_id": "PixBVxbNoD4",
-        "views": 1039,
-        "watch_time_minutes": 4578,
-        "avg_view_duration_seconds": 266,
-        "avg_view_percentage": 53.339999999999996,
-        "subscribers_gained": 1,
-        "likes": 41,
-        "comments": 7,
-        "shares": 0,
-        "engagement_rate": 4.62,
-        "subscriber_conversion_rate": 0.096,
-        "title": "What Will Define the Texans Offense in 2026? | Texans Radio",
-        "description": "The Texans offense enters training camp with new pieces, increased depth and major expectations. Mark Vandermeer and John Harris break down the competition across the offensive line, how David Montgomery and Woody Marks could reshape the running game, and why the tight end room may be one of Houston\u2019s deepest position groups. They also discuss breakout potential for Jayden Higgins and Jaylin Noel and whether C.J. Stroud has the best supporting cast of his Texans career.\n\n00:00 Why the offensive line is the first training camp storyline\n00:25 Building chemistry before the pads come on\n00:52 More experience and depth across the O-line\n01:41 David Montgomery and Woody Marks reshape the run game\n03:27 Why the tight end room deserves more attention\n04:24 Dalton Schultz, Foster Moreau and the young tight ends\n04:51 Evaluating the Texans wide receiver group\n05:47 Breakout potential for Jayden Higgins and Jaylin Noel\n06:43 C.J. Stroud enters Year 4 with high expectations\n07:10 Is this C.J. Stroud\u2019s best supporting cast yet?\n07:40 Davis Mills and the Texans\u2019 quarterback depth\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
-        "published_at": "2026-07-31T22:20:03Z",
-        "thumbnail": "https://i.ytimg.com/vi/PixBVxbNoD4/hqdefault.jpg",
-        "duration_seconds": 500,
-        "duration_formatted": "8:20",
+        "video_id": "0R5GZjOfdn0",
+        "views": 1040,
+        "watch_time_minutes": 2639,
+        "avg_view_duration_seconds": 153,
+        "avg_view_percentage": 39.5,
+        "subscribers_gained": 2,
+        "likes": 15,
+        "comments": 0,
+        "shares": 8,
+        "engagement_rate": 2.21,
+        "subscriber_conversion_rate": 0.192,
+        "title": "Silent Drill Platoon leaves 70K fans SPEECHLESS \ud83e\udd2f",
+        "description": "The Marine Corps Silent Drill Platoon delivered an absolutely incredible halftime performance that had all 70,000 Houston Texans fans on their feet! \ud83c\uddfa\ud83c\uddf8\n\nWhat an incredible honor to have the Marine Barracks Washington DC Silent Drill Platoon perform at NRG Stadium during our Houston Texans game! This world-renowned precision drill team left our entire fanbase speechless with their flawless choreography and military excellence.\n\nThe Silent Drill Platoon's performance showcased the highest level of discipline, teamwork, and dedication - values that align perfectly with what we strive for as the Houston Texans organization. Watching 70,000 fans rise to their feet in appreciation for these Marines was truly a special moment at NRG Stadium.\n\nThis elite 24-member platoon from Marine Barracks Washington DC has been performing ceremonial duties since 1956, and their visit to H-Town was absolutely unforgettable. From their synchronized rifle movements to their picture-perfect formations, every single movement demonstrated why they're considered the finest drill team in the world.\n\nThank you to all the brave men and women who serve our country, and thank you to the Silent Drill Platoon for this amazing halftime show that our fans will never forget!\n\n\ud83d\udd14 Hit that subscribe button to catch every incredible moment from NRG Stadium!\n\ud83d\udc49 SUBSCRIBE: https://www.youtube.com/c/HoustonTexans?sub_confirmation=1\n\n\ud83d\udcf1 Follow the Houston Texans:\nTwitter: https://twitter.com/HoustonTexans\nInstagram: https://instagram.com/HoustonTexans\nFacebook: https://facebook.com/HoustonTexans\nTikTok: https://tiktok.com/@HoustonTexans\nWebsite: https://www.HoustonTexans.com\n\n#Texans #HoustonTexans #NFL #SilentDrillPlatoon #Marines",
+        "published_at": "2024-11-24T20:53:58Z",
+        "thumbnail": "https://i.ytimg.com/vi/0R5GZjOfdn0/hqdefault.jpg",
+        "duration_seconds": 388,
+        "duration_formatted": "6:28",
         "is_short": false,
         "statistics": {
-          "views": 1587,
-          "likes": 61,
-          "comments": 8
+          "views": 29898,
+          "likes": 352,
+          "comments": 34
         },
         "content_status": {
           "is_blocked": false,
@@ -9763,83 +9787,191 @@
             }
           ]
         },
-        "vph": 23.0,
-        "days_since_published": 1,
-        "views_per_day": 1039.0,
+        "vph": 0.1,
+        "days_since_published": 616,
+        "views_per_day": 1.7,
         "performance_status": "average",
         "seo_score": {
-          "total_score": 70,
-          "grade": "B",
+          "total_score": 80,
+          "grade": "A",
           "breakdown": {
             "boost_keywords": {
               "score": 40,
               "found": [
                 "texans",
                 "houston",
-                "stroud",
-                "c.j.",
-                "run",
-                "best",
-                "room",
-                "major"
+                "h-town",
+                "nrg",
+                "td",
+                "catch",
+                "incredible",
+                "amazing"
               ],
-              "count": 57
+              "count": 30
             },
             "avoid_keywords": {
               "score": 0,
               "found": [
-                "new",
+                "watch",
                 "houstontexans",
                 "com",
                 "www",
+                "team",
+                "from",
                 "tex",
                 "his",
-                "down",
+                "follow",
+                "houston texans",
+                "instagram",
+                "facebook",
+                "twitter",
                 "out",
-                "one",
-                "quarter",
-                "davis",
-                "mills",
-                "davis mills",
-                "break",
-                "s texans",
-                "break down",
-                "the texans",
+                "the houston",
+                "from the",
+                "get",
+                "their",
+                "silent",
+                "drill",
+                "platoon",
+                "marine",
+                "silent drill",
+                "drill platoon",
+                "hit",
+                "never",
+                "ever",
+                "moment",
                 "as the",
-                "offense",
+                "time",
+                "stadium",
                 "game",
-                "experience",
-                "one of",
-                "define",
-                "off",
-                "down the",
-                "before",
+                "nrg stadium",
+                "at nrg",
+                "highest",
+                "level",
+                "the highest",
+                "highest level",
+                "barracks",
+                "washington",
+                "precision",
+                "performance",
+                "corps",
+                "youtube",
+                "the marine",
+                "marine barracks",
+                "barracks washington",
+                "washington dc",
+                "marine corps",
+                "corps silent",
+                "follow the",
+                "halftime",
+                "left",
+                "texans game",
+                "fans",
+                "drill team",
                 "https",
-                "dalton",
-                "the best",
-                "come",
-                "stroud has",
-                "o-line",
-                "2026",
-                "career",
-                "whether",
-                "of his",
+                "tiktok",
+                "during",
+                "elite",
+                "sub_confirmation",
+                "website",
+                "perfectly",
+                "the silent",
+                "special",
+                "red",
+                "military",
+                "unforgettable",
+                "performance that",
+                "excellence",
+                "halftime show",
+                "absolutely",
+                "feet",
+                "dedication",
+                "thank",
+                "marines",
+                "their feet",
+                "an incredible",
+                "and dedication",
+                "thank you",
+                "finest",
+                "texans fans",
+                "show",
+                "honor",
+                "discipline",
+                "women",
+                "teamwork",
+                "an absolutely",
+                "halftime performance",
+                "on their",
+                "and women",
+                "incredible halftime",
+                "showcased",
+                "fan",
+                "flawless",
+                "perform",
+                "ceremonial",
+                "synchronized",
+                "movements",
+                "rifle",
+                "values",
+                "strive",
+                "forget",
+                "incredible honor",
+                "honor to",
+                "dc silent",
+                "stadium during",
+                "during our",
+                "show that",
+                "delivered",
+                "button",
+                "hit that",
+                "subscribe button",
+                "button to",
+                "texans organization",
+                "incredible moment",
+                "special moment",
+                "men",
                 "serve",
-                "receiver",
-                "support",
-                "end",
+                "country",
+                "men and",
+                "women who",
+                "who serve",
+                "serve our",
+                "our country",
+                "speechless",
+                "who s",
+                "brave",
+                "our houston",
+                "with their",
+                "demonstrated",
+                "delivered an",
+                "to h-town",
+                "we strive",
+                "strive for",
+                "for as",
+                "platoon for",
+                "that our",
+                "our fans",
+                "will never",
+                "never forget",
+                "and military",
+                "military excellence",
+                "level of",
+                "this elite",
+                "and their",
+                "to catch",
+                "from nrg",
+                "rise",
+                "they're",
+                "to their",
+                "why they're",
                 "hey",
-                "pad",
-                "running",
-                "yea",
-                "yet",
-                "attention"
+                "leave"
               ],
-              "penalty": 460
+              "penalty": 1540
             },
             "title": {
               "score": 20,
-              "length": 59,
+              "length": 49,
               "optimal_range": [
                 40,
                 70
@@ -9847,123 +9979,203 @@
             },
             "description": {
               "score": 10,
-              "length": 1167
+              "length": 1713
             },
             "hashtags": {
-              "score": 0,
-              "count": 0
+              "score": 10,
+              "count": 5
             }
           },
           "suggestions": [
-            "Consider removing: new, houstontexans, com, www, tex, his, down, out, one, quarter, davis, mills, davis mills, break, s texans, break down, the texans, as the, offense, game, experience, one of, define, off, down the, before, https, dalton, the best, come, stroud has, o-line, 2026, career, whether, of his, serve, receiver, support, end, hey, pad, running, yea, yet, attention",
-            "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, get, their, silent, drill, platoon, marine, silent drill, drill platoon, hit, never, ever, moment, as the, time, stadium, game, nrg stadium, at nrg, highest, level, the highest, highest level, barracks, washington, precision, performance, corps, youtube, the marine, marine barracks, barracks washington, washington dc, marine corps, corps silent, follow the, halftime, left, texans game, fans, drill team, https, tiktok, during, elite, sub_confirmation, website, perfectly, the silent, special, red, military, unforgettable, performance that, excellence, halftime show, absolutely, feet, dedication, thank, marines, their feet, an incredible, and dedication, thank you, finest, texans fans, show, honor, discipline, women, teamwork, an absolutely, halftime performance, on their, and women, incredible halftime, showcased, fan, flawless, perform, ceremonial, synchronized, movements, rifle, values, strive, forget, incredible honor, honor to, dc silent, stadium during, during our, show that, delivered, button, hit that, subscribe button, button to, texans organization, incredible moment, special moment, men, serve, country, men and, women who, who serve, serve our, our country, speechless, who s, brave, our houston, with their, demonstrated, delivered an, to h-town, we strive, strive for, for as, platoon for, that our, our fans, will never, never forget, and military, military excellence, level of, this elite, and their, to catch, from nrg, rise, they're, to their, why they're, hey, leave"
           ],
           "boost_keywords_found": [
             "texans",
             "houston",
-            "stroud",
-            "c.j.",
-            "run",
-            "best",
-            "room",
-            "major",
-            "build",
-            "building",
-            "year",
-            "bit",
-            "3uh7n0e",
-            "harris",
-            "mark",
-            "radio",
-            "vandermeer",
-            "texans radio",
-            "back",
+            "h-town",
+            "nrg",
+            "td",
+            "catch",
+            "incredible",
+            "amazing",
+            "nfl",
+            "speech",
+            "work",
+            "man",
+            "entire",
+            "that subscribe",
+            "our",
             "line",
-            "training",
-            "jaylin",
-            "noel",
-            "first",
-            "jaylin noel",
-            "mark vandermeer",
-            "john",
-            "john harris",
-            "wide",
-            "tickets",
-            "david",
-            "montgomery",
-            "david montgomery",
-            "across",
-            "chemistry",
-            "schultz",
-            "evaluating",
-            "dalton schultz",
+            "organization",
+            "showcase",
+            "000",
+            "as a",
+            "side",
+            "world",
             "high",
-            "foster",
-            "of houston",
-            "quarterback",
-            "moreau",
-            "foster moreau",
-            "offensive",
-            "woody",
-            "marks",
-            "the offensive",
-            "offensive line",
-            "woody marks",
+            "isi",
+            "00 houston",
+            "truly",
             "subscribe",
             "texan",
-            "story",
-            "re a",
-            "the c",
-            "run game",
-            "young"
+            "live",
+            "min"
           ],
           "avoid_keywords_found": [
-            "new",
+            "watch",
             "houstontexans",
             "com",
             "www",
+            "team",
+            "from",
             "tex",
             "his",
-            "down",
+            "follow",
+            "houston texans",
+            "instagram",
+            "facebook",
+            "twitter",
             "out",
-            "one",
-            "quarter",
-            "davis",
-            "mills",
-            "davis mills",
-            "break",
-            "s texans",
-            "break down",
-            "the texans",
+            "the houston",
+            "from the",
+            "get",
+            "their",
+            "silent",
+            "drill",
+            "platoon",
+            "marine",
+            "silent drill",
+            "drill platoon",
+            "hit",
+            "never",
+            "ever",
+            "moment",
             "as the",
-            "offense",
+            "time",
+            "stadium",
             "game",
-            "experience",
-            "one of",
-            "define",
-            "off",
-            "down the",
-            "before",
+            "nrg stadium",
+            "at nrg",
+            "highest",
+            "level",
+            "the highest",
+            "highest level",
+            "barracks",
+            "washington",
+            "precision",
+            "performance",
+            "corps",
+            "youtube",
+            "the marine",
+            "marine barracks",
+            "barracks washington",
+            "washington dc",
+            "marine corps",
+            "corps silent",
+            "follow the",
+            "halftime",
+            "left",
+            "texans game",
+            "fans",
+            "drill team",
             "https",
-            "dalton",
-            "the best",
-            "come",
-            "stroud has",
-            "o-line",
-            "2026",
-            "career",
-            "whether",
-            "of his",
+            "tiktok",
+            "during",
+            "elite",
+            "sub_confirmation",
+            "website",
+            "perfectly",
+            "the silent",
+            "special",
+            "red",
+            "military",
+            "unforgettable",
+            "performance that",
+            "excellence",
+            "halftime show",
+            "absolutely",
+            "feet",
+            "dedication",
+            "thank",
+            "marines",
+            "their feet",
+            "an incredible",
+            "and dedication",
+            "thank you",
+            "finest",
+            "texans fans",
+            "show",
+            "honor",
+            "discipline",
+            "women",
+            "teamwork",
+            "an absolutely",
+            "halftime performance",
+            "on their",
+            "and women",
+            "incredible halftime",
+            "showcased",
+            "fan",
+            "flawless",
+            "perform",
+            "ceremonial",
+            "synchronized",
+            "movements",
+            "rifle",
+            "values",
+            "strive",
+            "forget",
+            "incredible honor",
+            "honor to",
+            "dc silent",
+            "stadium during",
+            "during our",
+            "show that",
+            "delivered",
+            "button",
+            "hit that",
+            "subscribe button",
+            "button to",
+            "texans organization",
+            "incredible moment",
+            "special moment",
+            "men",
             "serve",
-            "receiver",
-            "support",
-            "end",
+            "country",
+            "men and",
+            "women who",
+            "who serve",
+            "serve our",
+            "our country",
+            "speechless",
+            "who s",
+            "brave",
+            "our houston",
+            "with their",
+            "demonstrated",
+            "delivered an",
+            "to h-town",
+            "we strive",
+            "strive for",
+            "for as",
+            "platoon for",
+            "that our",
+            "our fans",
+            "will never",
+            "never forget",
+            "and military",
+            "military excellence",
+            "level of",
+            "this elite",
+            "and their",
+            "to catch",
+            "from nrg",
+            "rise",
+            "they're",
+            "to their",
+            "why they're",
             "hey",
-            "pad",
-            "running",
-            "yea",
-            "yet",
-            "attention"
+            "leave"
           ]
         }
       }
@@ -9971,8 +10183,8 @@
     "past_month": [
       {
         "video_id": "0xvXMEnwyYM",
-        "views": 101124,
-        "watch_time_minutes": 387447,
+        "views": 101161,
+        "watch_time_minutes": 387439,
         "avg_view_duration_seconds": 230,
         "avg_view_percentage": 35.23,
         "subscribers_gained": 139,
@@ -9989,8 +10201,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 12396176,
-          "likes": 167712,
+          "views": 12396351,
+          "likes": 167717,
           "comments": 8793
         },
         "content_status": {
@@ -10671,8 +10883,8 @@
       },
       {
         "video_id": "H8mKyWxzxU0",
-        "views": 71169,
-        "watch_time_minutes": 171723,
+        "views": 71221,
+        "watch_time_minutes": 171721,
         "avg_view_duration_seconds": 144,
         "avg_view_percentage": 33.39,
         "subscribers_gained": 81,
@@ -10689,7 +10901,7 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 225904,
+          "views": 225934,
           "likes": 2203,
           "comments": 171
         },
@@ -10708,7 +10920,7 @@
         },
         "vph": 2.2,
         "days_since_published": 1347,
-        "views_per_day": 52.8,
+        "views_per_day": 52.9,
         "performance_status": "average",
         "seo_score": {
           "total_score": 80,
@@ -10970,9 +11182,14 @@
                 "military service",
                 "service and",
                 "and professional",
-                "professional football"
+                "professional football",
+                "team's commitment",
+                "commitment to",
+                "to perfection",
+                "perfection mirrors",
+                "mirrors the"
               ],
-              "penalty": 2400
+              "penalty": 2450
             },
             "title": {
               "score": 20,
@@ -10992,7 +11209,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine, watch as, san, unit, as these, team's, men, serve, country, proud, drill team's, excellence that, men and, women who, who serve, serve our, our country, speechless, demonstrates, demonstrates the, who s, our houston, nation, their performance, military heroes, the values, of excellence, coordination, armed, forces, our armed, armed forces, to honor, honor our, proud to, this performance, more incredible, the incredible, service, team delivers, stat, and military, military excellence, level of, this elite, and their, texans a, meet, talent, america, leave, navy's, artistry, audiences, nationwide, dedicated, execute, complex, maneuvers, timing, attention, exceptional, within, pursuit, defines, commitment, perfection, mirrors, hold, dear, representing, bigger, yourself, sailors, embody, spirit, testament, distinction, silentdrillteam, navy's elite, elite silent, delivers insane, insane precision, the u, s navy, delivers flawless, will leave, leave you, you speechless, elite discipline, discipline meets, meets incredible, incredible artistry, presents an, mesmerizing performance, elite unit, unit showcases, of military, military precision, and coordination, coordination through, through their, their silent, routine that, has captivated, captivated audiences, audiences nationwide, these dedicated, dedicated servicemen, servicemen execute, execute complex, complex maneuvers, maneuvers with, with flawless, flawless timing, timing and, and incredible, incredible attention, attention to, to detail, are proud, heroes and, and showcase, showcase the, the exceptional, exceptional talent, talent within, within our, performance demonstrates, same dedication, and pursuit, pursuit of, that defines, defines both, both military, military service, service and, and professional, professional football"
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine, watch as, san, unit, as these, team's, men, serve, country, proud, drill team's, excellence that, men and, women who, who serve, serve our, our country, speechless, demonstrates, demonstrates the, who s, our houston, nation, their performance, military heroes, the values, of excellence, coordination, armed, forces, our armed, armed forces, to honor, honor our, proud to, this performance, more incredible, the incredible, service, team delivers, stat, and military, military excellence, level of, this elite, and their, texans a, meet, talent, america, leave, navy's, artistry, audiences, nationwide, dedicated, execute, complex, maneuvers, timing, attention, exceptional, within, pursuit, defines, commitment, perfection, mirrors, hold, dear, representing, bigger, yourself, sailors, embody, spirit, testament, distinction, silentdrillteam, navy's elite, elite silent, delivers insane, insane precision, the u, s navy, delivers flawless, will leave, leave you, you speechless, elite discipline, discipline meets, meets incredible, incredible artistry, presents an, mesmerizing performance, elite unit, unit showcases, of military, military precision, and coordination, coordination through, through their, their silent, routine that, has captivated, captivated audiences, audiences nationwide, these dedicated, dedicated servicemen, servicemen execute, execute complex, complex maneuvers, maneuvers with, with flawless, flawless timing, timing and, and incredible, incredible attention, attention to, to detail, are proud, heroes and, and showcase, showcase the, the exceptional, exceptional talent, talent within, within our, performance demonstrates, same dedication, and pursuit, pursuit of, that defines, defines both, both military, military service, service and, and professional, professional football, team's commitment, commitment to, to perfection, perfection mirrors, mirrors the"
           ],
           "boost_keywords_found": [
             "texans",
@@ -11280,14 +11497,19 @@
             "military service",
             "service and",
             "and professional",
-            "professional football"
+            "professional football",
+            "team's commitment",
+            "commitment to",
+            "to perfection",
+            "perfection mirrors",
+            "mirrors the"
           ]
         }
       },
       {
         "video_id": "h_5d3jvdB-g",
-        "views": 63271,
-        "watch_time_minutes": 153704,
+        "views": 63283,
+        "watch_time_minutes": 153706,
         "avg_view_duration_seconds": 145,
         "avg_view_percentage": 20.36,
         "subscribers_gained": 26,
@@ -11304,7 +11526,7 @@
         "duration_formatted": "11:56",
         "is_short": false,
         "statistics": {
-          "views": 162139,
+          "views": 162141,
           "likes": 1164,
           "comments": 62
         },
@@ -11561,9 +11783,9 @@
         "duration_formatted": "52s",
         "is_short": true,
         "statistics": {
-          "views": 82587,
-          "likes": 2064,
-          "comments": 42
+          "views": 82944,
+          "likes": 2068,
+          "comments": 43
         },
         "content_status": {
           "is_blocked": false,
@@ -11578,7 +11800,7 @@
             }
           ]
         },
-        "vph": 916.3,
+        "vph": 889.3,
         "days_since_published": 2,
         "views_per_day": 24138.5,
         "performance_status": "good",
@@ -11658,8 +11880,8 @@
       },
       {
         "video_id": "UfycvP7u15o",
-        "views": 28090,
-        "watch_time_minutes": 122543,
+        "views": 28096,
+        "watch_time_minutes": 122551,
         "avg_view_duration_seconds": 261,
         "avg_view_percentage": 31.94,
         "subscribers_gained": 24,
@@ -11676,7 +11898,7 @@
         "duration_formatted": "13:40",
         "is_short": false,
         "statistics": {
-          "views": 545117,
+          "views": 545221,
           "likes": 2657,
           "comments": 179
         },
@@ -11921,10 +12143,10 @@
       },
       {
         "video_id": "AuRaLiSf55Q",
-        "views": 17838,
-        "watch_time_minutes": 6359,
+        "views": 17840,
+        "watch_time_minutes": 6360,
         "avg_view_duration_seconds": 38,
-        "avg_view_percentage": 87.02,
+        "avg_view_percentage": 87.03,
         "subscribers_gained": 3,
         "likes": 687,
         "comments": 13,
@@ -11939,8 +12161,8 @@
         "duration_formatted": "44s",
         "is_short": true,
         "statistics": {
-          "views": 18483,
-          "likes": 721,
+          "views": 18527,
+          "likes": 722,
           "comments": 14
         },
         "content_status": {
@@ -11948,9 +12170,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 24.7,
+        "vph": 24.6,
         "days_since_published": 30,
-        "views_per_day": 594.6,
+        "views_per_day": 594.7,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 50,
@@ -12042,8 +12264,8 @@
         "duration_formatted": "32s",
         "is_short": true,
         "statistics": {
-          "views": 30341,
-          "likes": 990,
+          "views": 30506,
+          "likes": 995,
           "comments": 22
         },
         "content_status": {
@@ -12051,9 +12273,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 355.1,
-        "days_since_published": 1,
-        "views_per_day": 17037.0,
+        "vph": 343.6,
+        "days_since_published": 2,
+        "views_per_day": 8518.5,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -12130,10 +12352,10 @@
       },
       {
         "video_id": "A2s1Mr_Sapg",
-        "views": 16978,
+        "views": 16981,
         "watch_time_minutes": 2952,
         "avg_view_duration_seconds": 20,
-        "avg_view_percentage": 120.57,
+        "avg_view_percentage": 120.55,
         "subscribers_gained": 2,
         "likes": 560,
         "comments": 15,
@@ -12148,8 +12370,8 @@
         "duration_formatted": "17s",
         "is_short": true,
         "statistics": {
-          "views": 17728,
-          "likes": 588,
+          "views": 17781,
+          "likes": 592,
           "comments": 19
         },
         "content_status": {
@@ -12165,9 +12387,9 @@
             }
           ]
         },
-        "vph": 32.3,
+        "vph": 32.2,
         "days_since_published": 21,
-        "views_per_day": 808.5,
+        "views_per_day": 808.6,
         "performance_status": "average",
         "seo_score": {
           "total_score": 70,
@@ -12261,7 +12483,7 @@
       },
       {
         "video_id": "qFn71WHk-Uo",
-        "views": 16338,
+        "views": 16339,
         "watch_time_minutes": 2750,
         "avg_view_duration_seconds": 20,
         "avg_view_percentage": 155.01,
@@ -12279,8 +12501,8 @@
         "duration_formatted": "13s",
         "is_short": true,
         "statistics": {
-          "views": 17614,
-          "likes": 812,
+          "views": 17654,
+          "likes": 815,
           "comments": 41
         },
         "content_status": {
@@ -12288,9 +12510,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 31.0,
-        "days_since_published": 21,
-        "views_per_day": 778.0,
+        "vph": 30.9,
+        "days_since_published": 22,
+        "views_per_day": 742.7,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -12437,7 +12659,7 @@
         "duration_formatted": "22:46",
         "is_short": false,
         "statistics": {
-          "views": 13390,
+          "views": 13526,
           "likes": 579,
           "comments": 52
         },
@@ -12454,7 +12676,7 @@
             }
           ]
         },
-        "vph": 93.5,
+        "vph": 92.4,
         "days_since_published": 5,
         "views_per_day": 2348.8,
         "performance_status": "good",
@@ -12769,10 +12991,10 @@
       },
       {
         "video_id": "RVMAf8bsfLM",
-        "views": 10937,
-        "watch_time_minutes": 32035,
+        "views": 10940,
+        "watch_time_minutes": 32026,
         "avg_view_duration_seconds": 175,
-        "avg_view_percentage": 47.79,
+        "avg_view_percentage": 47.78,
         "subscribers_gained": 15,
         "likes": 140,
         "comments": 4,
@@ -12798,7 +13020,7 @@
         },
         "vph": 1.7,
         "days_since_published": 262,
-        "views_per_day": 41.7,
+        "views_per_day": 41.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 80,
@@ -13001,7 +13223,7 @@
       },
       {
         "video_id": "TuhxWhQkPhU",
-        "views": 10840,
+        "views": 10843,
         "watch_time_minutes": 619,
         "avg_view_duration_seconds": 9,
         "avg_view_percentage": 188.47,
@@ -13019,7 +13241,7 @@
         "duration_formatted": "5s",
         "is_short": true,
         "statistics": {
-          "views": 10944,
+          "views": 10950,
           "likes": 340,
           "comments": 2
         },
@@ -13028,9 +13250,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 21.6,
-        "days_since_published": 20,
-        "views_per_day": 542.0,
+        "vph": 21.5,
+        "days_since_published": 21,
+        "views_per_day": 516.3,
         "performance_status": "good",
         "seo_score": {
           "total_score": 35,
@@ -13108,8 +13330,8 @@
         "duration_formatted": "1:44",
         "is_short": false,
         "statistics": {
-          "views": 13780,
-          "likes": 919,
+          "views": 13856,
+          "likes": 929,
           "comments": 59
         },
         "content_status": {
@@ -13117,7 +13339,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 114.3,
+        "vph": 112.4,
         "days_since_published": 3,
         "views_per_day": 3521.7,
         "performance_status": "good",
@@ -13241,7 +13463,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 11154,
+          "views": 11173,
           "likes": 409,
           "comments": 39
         },
@@ -13250,7 +13472,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 84.8,
+        "vph": 83.7,
         "days_since_published": 5,
         "views_per_day": 2105.2,
         "performance_status": "excellent",
@@ -13345,7 +13567,7 @@
         "duration_formatted": "10s",
         "is_short": true,
         "statistics": {
-          "views": 10377,
+          "views": 10398,
           "likes": 594,
           "comments": 32
         },
@@ -13354,7 +13576,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 79.7,
+        "vph": 78.7,
         "days_since_published": 5,
         "views_per_day": 1978.4,
         "performance_status": "good",
@@ -13535,8 +13757,8 @@
       },
       {
         "video_id": "s2QZgBO_8js",
-        "views": 9340,
-        "watch_time_minutes": 2387,
+        "views": 9339,
+        "watch_time_minutes": 2386,
         "avg_view_duration_seconds": 29,
         "avg_view_percentage": 96.82,
         "subscribers_gained": 3,
@@ -13553,7 +13775,7 @@
         "duration_formatted": "30s",
         "is_short": true,
         "statistics": {
-          "views": 9611,
+          "views": 9606,
           "likes": 652,
           "comments": 44
         },
@@ -13570,9 +13792,9 @@
             }
           ]
         },
-        "vph": 24.4,
-        "days_since_published": 15,
-        "views_per_day": 622.7,
+        "vph": 24.3,
+        "days_since_published": 16,
+        "views_per_day": 583.7,
         "performance_status": "good",
         "seo_score": {
           "total_score": 65,
@@ -13756,10 +13978,10 @@
       },
       {
         "video_id": "wUMzmRCzyTU",
-        "views": 8561,
+        "views": 8560,
         "watch_time_minutes": 3423,
         "avg_view_duration_seconds": 40,
-        "avg_view_percentage": 85.23,
+        "avg_view_percentage": 85.24,
         "subscribers_gained": 2,
         "likes": 510,
         "comments": 8,
@@ -13774,8 +13996,8 @@
         "duration_formatted": "48s",
         "is_short": true,
         "statistics": {
-          "views": 19011,
-          "likes": 1213,
+          "views": 19045,
+          "likes": 1214,
           "comments": 33
         },
         "content_status": {
@@ -13863,10 +14085,10 @@
       },
       {
         "video_id": "YfbIancsvsk",
-        "views": 8501,
-        "watch_time_minutes": 83590,
+        "views": 8522,
+        "watch_time_minutes": 83644,
         "avg_view_duration_seconds": 590,
-        "avg_view_percentage": 43.69,
+        "avg_view_percentage": 43.68,
         "subscribers_gained": 13,
         "likes": 288,
         "comments": 31,
@@ -13881,8 +14103,8 @@
         "duration_formatted": "22:32",
         "is_short": false,
         "statistics": {
-          "views": 8598,
-          "likes": 289,
+          "views": 8607,
+          "likes": 290,
           "comments": 33
         },
         "content_status": {
@@ -13898,9 +14120,9 @@
             }
           ]
         },
-        "vph": 43.3,
+        "vph": 43.0,
         "days_since_published": 8,
-        "views_per_day": 1062.6,
+        "views_per_day": 1065.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -13918,7 +14140,7 @@
                 "pass",
                 "play"
               ],
-              "count": 74
+              "count": 75
             },
             "avoid_keywords": {
               "score": 0,
@@ -14083,7 +14305,8 @@
             "secondary",
             "then",
             "the c",
-            "min"
+            "min",
+            "year 4"
           ],
           "avoid_keywords_found": [
             "loss",
@@ -14152,8 +14375,8 @@
       },
       {
         "video_id": "5pbCFOpkjCY",
-        "views": 8147,
-        "watch_time_minutes": 33438,
+        "views": 8150,
+        "watch_time_minutes": 33449,
         "avg_view_duration_seconds": 246,
         "avg_view_percentage": 44.31,
         "subscribers_gained": 1,
@@ -14170,9 +14393,9 @@
         "duration_formatted": "9:16",
         "is_short": false,
         "statistics": {
-          "views": 35031,
+          "views": 35048,
           "likes": 528,
-          "comments": 57
+          "comments": 58
         },
         "content_status": {
           "is_blocked": false,
@@ -14188,8 +14411,8 @@
           ]
         },
         "vph": 0.9,
-        "days_since_published": 374,
-        "views_per_day": 21.8,
+        "days_since_published": 375,
+        "views_per_day": 21.7,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 80,
@@ -14207,7 +14430,7 @@
                 "tank",
                 "highlights"
               ],
-              "count": 41
+              "count": 47
             },
             "avoid_keywords": {
               "score": 0,
@@ -14318,7 +14541,13 @@
             "tampa",
             "bay",
             "tampa bay",
-            "yards in"
+            "yards in",
+            "and 5",
+            "5 touchdowns",
+            "the tampa",
+            "bay buccaneers",
+            "buccaneers in",
+            "tank dell"
           ],
           "avoid_keywords_found": [
             "watch",
@@ -14368,10 +14597,10 @@
       },
       {
         "video_id": "tXV4UG_PhCY",
-        "views": 6832,
-        "watch_time_minutes": 25851,
+        "views": 6837,
+        "watch_time_minutes": 25873,
         "avg_view_duration_seconds": 227,
-        "avg_view_percentage": 31.319999999999997,
+        "avg_view_percentage": 31.33,
         "subscribers_gained": 0,
         "likes": 43,
         "comments": 1,
@@ -14386,7 +14615,7 @@
         "duration_formatted": "12:05",
         "is_short": false,
         "statistics": {
-          "views": 29636,
+          "views": 29641,
           "likes": 477,
           "comments": 63
         },
@@ -14541,8 +14770,8 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 7692,
-          "likes": 360,
+          "views": 7737,
+          "likes": 364,
           "comments": 26
         },
         "content_status": {
@@ -14550,7 +14779,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 89.1,
+        "vph": 87.3,
         "days_since_published": 3,
         "views_per_day": 2274.7,
         "performance_status": "good",
@@ -14648,7 +14877,7 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 6909,
+          "views": 6918,
           "likes": 252,
           "comments": 15
         },
@@ -14657,7 +14886,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 13.3,
+        "vph": 13.2,
         "days_since_published": 21,
         "views_per_day": 322.3,
         "performance_status": "average",
@@ -14762,7 +14991,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 12.3,
+        "vph": 12.2,
         "days_since_published": 22,
         "views_per_day": 306.2,
         "performance_status": "average",
@@ -14858,7 +15087,7 @@
         "duration_formatted": "8s",
         "is_short": true,
         "statistics": {
-          "views": 6587,
+          "views": 6592,
           "likes": 260,
           "comments": 3
         },
@@ -14876,8 +15105,8 @@
           ]
         },
         "vph": 12.9,
-        "days_since_published": 20,
-        "views_per_day": 325.6,
+        "days_since_published": 21,
+        "views_per_day": 310.1,
         "performance_status": "good",
         "seo_score": {
           "total_score": 80,
@@ -14980,7 +15209,7 @@
       },
       {
         "video_id": "e7vEqWPX59g",
-        "views": 6433,
+        "views": 6437,
         "watch_time_minutes": 4993,
         "avg_view_duration_seconds": 63,
         "avg_view_percentage": 80.95,
@@ -14988,7 +15217,7 @@
         "likes": 587,
         "comments": 21,
         "shares": 34,
-        "engagement_rate": 9.98,
+        "engagement_rate": 9.97,
         "subscriber_conversion_rate": 0.078,
         "title": "C.J. Stroud throws 5 TDs in INSANE rookie comeback \ud83d\udd25",
         "description": "C.J. Stroud threw 5 TDs and 470 yards in the GREATEST rookie comeback in NFL history! The Houston Texans stunned Tampa Bay in this instant classic.\n\nWhat a moment for Houston Texans history! C.J. Stroud delivered the performance of a lifetime, throwing for 470 yards and 5 touchdowns to lead the Texans back from a massive deficit against the Tampa Bay Buccaneers in 2023. This wasn't just any comeback \u2014 it was the largest comeback in franchise history and one of the most incredible rookie performances the NFL has ever seen. With the game on the line and time running out, Stroud showed the poise of a veteran, orchestrating a game-winning drive that had NRG Stadium absolutely electric. The Swarm witnessed something special that day as our rookie quarterback announced himself to the league in the most dramatic way possible. From the clutch throws to Nico Collins and Tank Dell to the ice-cold composure under pressure, this is why C.J. Stroud is already being mentioned among the elite young quarterbacks in the NFL. Relive every magical moment of this historic Houston Texans comeback victory that proved our future is incredibly bright in H-Town.\n\n\ud83d\udd14 Subscribe for more incredible Houston Texans moments and never miss the action!\n\ud83d\udc49 SUBSCRIBE: https://www.youtube.com/c/HoustonTexans?sub_confirmation=1\n\n\ud83d\udcf1 Follow the Houston Texans:\nTwitter: https://twitter.com/HoustonTexans\nInstagram: https://instagram.com/HoustonTexans\nFacebook: https://facebook.com/HoustonTexans\nTikTok: https://tiktok.com/@HoustonTexans\nWebsite: https://www.HoustonTexans.com\n\n#Texans #HoustonTexans #NFL #CJStroud #Comeback",
@@ -14998,8 +15227,8 @@
         "duration_formatted": "1:18",
         "is_short": false,
         "statistics": {
-          "views": 32346,
-          "likes": 1734,
+          "views": 32378,
+          "likes": 1737,
           "comments": 81
         },
         "content_status": {
@@ -15035,7 +15264,7 @@
                 "c.j.",
                 "cj"
               ],
-              "count": 208
+              "count": 214
             },
             "avoid_keywords": {
               "score": 0,
@@ -15374,7 +15603,13 @@
             "incredibly bright",
             "bright in",
             "incredible houston",
-            "moments and"
+            "moments and",
+            "and 5",
+            "5 touchdowns",
+            "the tampa",
+            "bay buccaneers",
+            "buccaneers in",
+            "tank dell"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -15485,10 +15720,10 @@
       },
       {
         "video_id": "bQJ-85AmTRE",
-        "views": 6193,
+        "views": 6195,
         "watch_time_minutes": 1809,
         "avg_view_duration_seconds": 32,
-        "avg_view_percentage": 91.88,
+        "avg_view_percentage": 91.89,
         "subscribers_gained": 0,
         "likes": 306,
         "comments": 20,
@@ -15503,7 +15738,7 @@
         "duration_formatted": "35s",
         "is_short": true,
         "statistics": {
-          "views": 6243,
+          "views": 6250,
           "likes": 308,
           "comments": 17
         },
@@ -15522,7 +15757,7 @@
         },
         "vph": 11.3,
         "days_since_published": 22,
-        "views_per_day": 281.5,
+        "views_per_day": 281.6,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -15603,8 +15838,8 @@
       },
       {
         "video_id": "LEI-Ra0utmA",
-        "views": 6114,
-        "watch_time_minutes": 35246,
+        "views": 6116,
+        "watch_time_minutes": 35247,
         "avg_view_duration_seconds": 345,
         "avg_view_percentage": 42.86,
         "subscribers_gained": 7,
@@ -15621,9 +15856,9 @@
         "duration_formatted": "13:27",
         "is_short": false,
         "statistics": {
-          "views": 6124,
+          "views": 6127,
           "likes": 228,
-          "comments": 96
+          "comments": 97
         },
         "content_status": {
           "is_blocked": false,
@@ -15846,10 +16081,10 @@
       },
       {
         "video_id": "jcEjSRd4mUs",
-        "views": 5949,
+        "views": 5956,
         "watch_time_minutes": 1443,
         "avg_view_duration_seconds": 23,
-        "avg_view_percentage": 67.71,
+        "avg_view_percentage": 67.7,
         "subscribers_gained": 5,
         "likes": 316,
         "comments": 11,
@@ -15864,7 +16099,7 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 6126,
+          "views": 6125,
           "likes": 328,
           "comments": 11
         },
@@ -15873,9 +16108,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 30.3,
+        "vph": 30.1,
         "days_since_published": 8,
-        "views_per_day": 743.6,
+        "views_per_day": 744.5,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -15973,8 +16208,8 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 6301,
-          "likes": 386,
+          "views": 6367,
+          "likes": 388,
           "comments": 18
         },
         "content_status": {
@@ -15982,7 +16217,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 75.1,
+        "vph": 73.6,
         "days_since_published": 3,
         "views_per_day": 1919.3,
         "performance_status": "excellent",
@@ -16076,8 +16311,8 @@
         "duration_formatted": "3:00",
         "is_short": false,
         "statistics": {
-          "views": 24940,
-          "likes": 1962,
+          "views": 24961,
+          "likes": 1966,
           "comments": 23
         },
         "content_status": {
@@ -16086,8 +16321,8 @@
           "flags": []
         },
         "vph": 0.7,
-        "days_since_published": 359,
-        "views_per_day": 15.8,
+        "days_since_published": 360,
+        "views_per_day": 15.7,
         "performance_status": "good",
         "seo_score": {
           "total_score": 80,
@@ -16273,7 +16508,7 @@
         "duration_formatted": "24s",
         "is_short": true,
         "statistics": {
-          "views": 5659,
+          "views": 5662,
           "likes": 361,
           "comments": 18
         },
@@ -16282,7 +16517,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 43.3,
+        "vph": 42.8,
         "days_since_published": 5,
         "views_per_day": 1076.0,
         "performance_status": "average",
@@ -16302,7 +16537,7 @@
                 "subscribe",
                 "texan"
               ],
-              "count": 9
+              "count": 11
             },
             "avoid_keywords": {
               "score": 0,
@@ -16347,7 +16582,9 @@
             "tickets",
             "subscribe",
             "texan",
-            "waj"
+            "waj",
+            "year 4",
+            "4 waj"
           ],
           "avoid_keywords_found": [
             "houstontexans",
@@ -16379,7 +16616,7 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 5432,
+          "views": 5434,
           "likes": 295,
           "comments": 12
         },
@@ -16388,9 +16625,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 11.2,
-        "days_since_published": 19,
-        "views_per_day": 280.9,
+        "vph": 11.1,
+        "days_since_published": 20,
+        "views_per_day": 266.9,
         "performance_status": "excellent",
         "seo_score": {
           "total_score": 50,
@@ -16484,8 +16721,8 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 5333,
-          "likes": 250,
+          "views": 5335,
+          "likes": 251,
           "comments": 13
         },
         "content_status": {
@@ -16493,7 +16730,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 13.2,
+        "vph": 13.1,
         "days_since_published": 16,
         "views_per_day": 320.1,
         "performance_status": "good",
@@ -16645,8 +16882,8 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 7368,
-          "likes": 312,
+          "views": 7458,
+          "likes": 313,
           "comments": 14
         },
         "content_status": {
@@ -16654,7 +16891,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 112.0,
+        "vph": 108.1,
         "days_since_published": 1,
         "views_per_day": 5010.0,
         "performance_status": "good",
@@ -16748,7 +16985,7 @@
         "duration_formatted": "13s",
         "is_short": true,
         "statistics": {
-          "views": 5329,
+          "views": 5340,
           "likes": 345,
           "comments": 14
         },
@@ -16757,7 +16994,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 53.5,
+        "vph": 52.6,
         "days_since_published": 3,
         "views_per_day": 1648.0,
         "performance_status": "good",
@@ -16854,7 +17091,7 @@
         "duration_formatted": "30s",
         "is_short": true,
         "statistics": {
-          "views": 4917,
+          "views": 4916,
           "likes": 202,
           "comments": 3
         },
@@ -16964,7 +17201,7 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 5163,
+          "views": 5164,
           "likes": 320,
           "comments": 13
         },
@@ -16973,7 +17210,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 39.2,
+        "vph": 38.7,
         "days_since_published": 5,
         "views_per_day": 973.6,
         "performance_status": "good",
@@ -17050,9 +17287,9 @@
       {
         "video_id": "7UbR96SWcPc",
         "views": 4789,
-        "watch_time_minutes": 16661,
+        "watch_time_minutes": 16648,
         "avg_view_duration_seconds": 209,
-        "avg_view_percentage": 37.85,
+        "avg_view_percentage": 37.84,
         "subscribers_gained": 4,
         "likes": 50,
         "comments": 5,
@@ -17067,7 +17304,7 @@
         "duration_formatted": "9:13",
         "is_short": false,
         "statistics": {
-          "views": 79255,
+          "views": 79296,
           "likes": 743,
           "comments": 55
         },
@@ -17632,9 +17869,9 @@
             }
           ]
         },
-        "vph": 49.7,
-        "days_since_published": 3,
-        "views_per_day": 1583.7,
+        "vph": 48.9,
+        "days_since_published": 4,
+        "views_per_day": 1187.8,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -17652,7 +17889,7 @@
                 "play",
                 "football"
               ],
-              "count": 71
+              "count": 73
             },
             "avoid_keywords": {
               "score": 0,
@@ -17801,7 +18038,9 @@
             "talks about",
             "about c",
             "year 2",
-            "line and"
+            "line and",
+            "tank dell",
+            "year 4"
           ],
           "avoid_keywords_found": [
             "new",
@@ -18011,10 +18250,10 @@
       },
       {
         "video_id": "5NyUSV4KXmo",
-        "views": 4516,
-        "watch_time_minutes": 1826,
+        "views": 4519,
+        "watch_time_minutes": 1827,
         "avg_view_duration_seconds": 44,
-        "avg_view_percentage": 88.84,
+        "avg_view_percentage": 88.81,
         "subscribers_gained": 2,
         "likes": 80,
         "comments": 0,
@@ -18029,7 +18268,7 @@
         "duration_formatted": "50s",
         "is_short": true,
         "statistics": {
-          "views": 150698,
+          "views": 150702,
           "likes": 5449,
           "comments": 190
         },
@@ -18142,7 +18381,7 @@
         "duration_formatted": "46:39",
         "is_short": false,
         "statistics": {
-          "views": 4429,
+          "views": 4430,
           "likes": 165,
           "comments": 21
         },
@@ -18159,7 +18398,7 @@
             }
           ]
         },
-        "vph": 45.3,
+        "vph": 44.5,
         "days_since_published": 4,
         "views_per_day": 1114.5,
         "performance_status": "good",
@@ -18326,8 +18565,8 @@
         "duration_formatted": "51s",
         "is_short": true,
         "statistics": {
-          "views": 5237,
-          "likes": 354,
+          "views": 5302,
+          "likes": 359,
           "comments": 12
         },
         "content_status": {
@@ -18335,7 +18574,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 65.2,
+        "vph": 63.7,
         "days_since_published": 2,
         "views_per_day": 2186.5,
         "performance_status": "good",
@@ -18422,8 +18661,8 @@
       },
       {
         "video_id": "afeVkaCtOA8",
-        "views": 4243,
-        "watch_time_minutes": 10661,
+        "views": 4248,
+        "watch_time_minutes": 10670,
         "avg_view_duration_seconds": 151,
         "avg_view_percentage": 40.14,
         "subscribers_gained": 4,
@@ -18440,9 +18679,9 @@
         "duration_formatted": "6:17",
         "is_short": false,
         "statistics": {
-          "views": 501619,
-          "likes": 9212,
-          "comments": 893
+          "views": 501731,
+          "likes": 9213,
+          "comments": 891
         },
         "content_status": {
           "is_blocked": false,
@@ -18968,7 +19207,7 @@
         "duration_formatted": "27s",
         "is_short": true,
         "statistics": {
-          "views": 4192,
+          "views": 4193,
           "likes": 183,
           "comments": 3
         },
@@ -18977,7 +19216,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 8.1,
+        "vph": 8.0,
         "days_since_published": 21,
         "views_per_day": 195.8,
         "performance_status": "average",
@@ -19080,7 +19319,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 414.0,
+        "vph": 413.6,
         "days_since_published": 75,
         "views_per_day": 9954.2,
         "performance_status": "poor",
@@ -19207,8 +19446,8 @@
       },
       {
         "video_id": "0xvXMEnwyYM",
-        "views": 550422,
-        "watch_time_minutes": 2032889,
+        "views": 550459,
+        "watch_time_minutes": 2032881,
         "avg_view_duration_seconds": 221,
         "avg_view_percentage": 33.94,
         "subscribers_gained": 722,
@@ -19225,8 +19464,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 12396176,
-          "likes": 167712,
+          "views": 12396351,
+          "likes": 167717,
           "comments": 8793
         },
         "content_status": {
@@ -20048,8 +20287,8 @@
       },
       {
         "video_id": "H8mKyWxzxU0",
-        "views": 79419,
-        "watch_time_minutes": 195060,
+        "views": 79471,
+        "watch_time_minutes": 195057,
         "avg_view_duration_seconds": 147,
         "avg_view_percentage": 33.98,
         "subscribers_gained": 91,
@@ -20066,7 +20305,7 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 225904,
+          "views": 225934,
           "likes": 2203,
           "comments": 171
         },
@@ -20347,9 +20586,14 @@
                 "military service",
                 "service and",
                 "and professional",
-                "professional football"
+                "professional football",
+                "team's commitment",
+                "commitment to",
+                "to perfection",
+                "perfection mirrors",
+                "mirrors the"
               ],
-              "penalty": 2400
+              "penalty": 2450
             },
             "title": {
               "score": 20,
@@ -20369,7 +20613,7 @@
             }
           },
           "suggestions": [
-            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine, watch as, san, unit, as these, team's, men, serve, country, proud, drill team's, excellence that, men and, women who, who serve, serve our, our country, speechless, demonstrates, demonstrates the, who s, our houston, nation, their performance, military heroes, the values, of excellence, coordination, armed, forces, our armed, armed forces, to honor, honor our, proud to, this performance, more incredible, the incredible, service, team delivers, stat, and military, military excellence, level of, this elite, and their, texans a, meet, talent, america, leave, navy's, artistry, audiences, nationwide, dedicated, execute, complex, maneuvers, timing, attention, exceptional, within, pursuit, defines, commitment, perfection, mirrors, hold, dear, representing, bigger, yourself, sailors, embody, spirit, testament, distinction, silentdrillteam, navy's elite, elite silent, delivers insane, insane precision, the u, s navy, delivers flawless, will leave, leave you, you speechless, elite discipline, discipline meets, meets incredible, incredible artistry, presents an, mesmerizing performance, elite unit, unit showcases, of military, military precision, and coordination, coordination through, through their, their silent, routine that, has captivated, captivated audiences, audiences nationwide, these dedicated, dedicated servicemen, servicemen execute, execute complex, complex maneuvers, maneuvers with, with flawless, flawless timing, timing and, and incredible, incredible attention, attention to, to detail, are proud, heroes and, and showcase, showcase the, the exceptional, exceptional talent, talent within, within our, performance demonstrates, same dedication, and pursuit, pursuit of, that defines, defines both, both military, military service, service and, and professional, professional football"
+            "Consider removing: watch, houstontexans, com, www, team, from, tex, his, follow, houston texans, instagram, facebook, twitter, out, the houston, from the, their, silent, drill, silent drill, big, fight, the swarm, as the, define, highest, level, that define, content, the highest, highest level, presents, precision, performance, united, states, youtube, presents a, performance from, the united, united states, follow the, old, texans are, pro, academy, jolly, rogers, academy silent, drill team, the jolly, jolly rogers, https, strike, fighter, squadron, 103, vfa-103, nicknamed, navy, u s, strike fighter, fighter squadron, squadron 103, nicknamed the, states navy, navy academy, through, tiktok, elite, sub_confirmation, website, the silent, red, military, excellence, showcases, absolutely, dedication, in houston, precision and, showcases the, show, honor, discipline, women, teamwork, an absolutely, and women, our military, mesmerizing, flawless, perform, values, absolutely mesmerizing, delivers, routine, servicemen, captivated, heroes, flawless precision, drill routine, watch as, san, unit, as these, team's, men, serve, country, proud, drill team's, excellence that, men and, women who, who serve, serve our, our country, speechless, demonstrates, demonstrates the, who s, our houston, nation, their performance, military heroes, the values, of excellence, coordination, armed, forces, our armed, armed forces, to honor, honor our, proud to, this performance, more incredible, the incredible, service, team delivers, stat, and military, military excellence, level of, this elite, and their, texans a, meet, talent, america, leave, navy's, artistry, audiences, nationwide, dedicated, execute, complex, maneuvers, timing, attention, exceptional, within, pursuit, defines, commitment, perfection, mirrors, hold, dear, representing, bigger, yourself, sailors, embody, spirit, testament, distinction, silentdrillteam, navy's elite, elite silent, delivers insane, insane precision, the u, s navy, delivers flawless, will leave, leave you, you speechless, elite discipline, discipline meets, meets incredible, incredible artistry, presents an, mesmerizing performance, elite unit, unit showcases, of military, military precision, and coordination, coordination through, through their, their silent, routine that, has captivated, captivated audiences, audiences nationwide, these dedicated, dedicated servicemen, servicemen execute, execute complex, complex maneuvers, maneuvers with, with flawless, flawless timing, timing and, and incredible, incredible attention, attention to, to detail, are proud, heroes and, and showcase, showcase the, the exceptional, exceptional talent, talent within, within our, performance demonstrates, same dedication, and pursuit, pursuit of, that defines, defines both, both military, military service, service and, and professional, professional football, team's commitment, commitment to, to perfection, perfection mirrors, mirrors the"
           ],
           "boost_keywords_found": [
             "texans",
@@ -20657,14 +20901,19 @@
             "military service",
             "service and",
             "and professional",
-            "professional football"
+            "professional football",
+            "team's commitment",
+            "commitment to",
+            "to perfection",
+            "perfection mirrors",
+            "mirrors the"
           ]
         }
       },
       {
         "video_id": "h_5d3jvdB-g",
-        "views": 73123,
-        "watch_time_minutes": 193253,
+        "views": 73135,
+        "watch_time_minutes": 193255,
         "avg_view_duration_seconds": 158,
         "avg_view_percentage": 22.15,
         "subscribers_gained": 28,
@@ -20681,7 +20930,7 @@
         "duration_formatted": "11:56",
         "is_short": false,
         "statistics": {
-          "views": 162139,
+          "views": 162141,
           "likes": 1164,
           "comments": 62
         },
@@ -21065,8 +21314,8 @@
       },
       {
         "video_id": "UfycvP7u15o",
-        "views": 52510,
-        "watch_time_minutes": 247408,
+        "views": 52516,
+        "watch_time_minutes": 247415,
         "avg_view_duration_seconds": 282,
         "avg_view_percentage": 34.48,
         "subscribers_gained": 40,
@@ -21083,7 +21332,7 @@
         "duration_formatted": "13:40",
         "is_short": false,
         "statistics": {
-          "views": 545117,
+          "views": 545221,
           "likes": 2657,
           "comments": 179
         },
@@ -21346,9 +21595,9 @@
         "duration_formatted": "52s",
         "is_short": true,
         "statistics": {
-          "views": 82587,
-          "likes": 2064,
-          "comments": 42
+          "views": 82944,
+          "likes": 2068,
+          "comments": 43
         },
         "content_status": {
           "is_blocked": false,
@@ -21363,7 +21612,7 @@
             }
           ]
         },
-        "vph": 916.3,
+        "vph": 889.3,
         "days_since_published": 2,
         "views_per_day": 24138.5,
         "performance_status": "excellent",
@@ -21587,8 +21836,8 @@
         "duration_formatted": "24s",
         "is_short": true,
         "statistics": {
-          "views": 47605,
-          "likes": 1230,
+          "views": 47611,
+          "likes": 1231,
           "comments": 39
         },
         "content_status": {
@@ -21973,7 +22222,7 @@
         "duration_formatted": "10:09",
         "is_short": false,
         "statistics": {
-          "views": 41120,
+          "views": 41126,
           "likes": 1462,
           "comments": 81
         },
@@ -22131,7 +22380,7 @@
         "duration_formatted": "7s",
         "is_short": true,
         "statistics": {
-          "views": 40440,
+          "views": 40439,
           "likes": 1546,
           "comments": 80
         },
@@ -22234,7 +22483,7 @@
         "duration_formatted": "23s",
         "is_short": true,
         "statistics": {
-          "views": 39880,
+          "views": 39881,
           "likes": 1804,
           "comments": 65
         },
@@ -22576,7 +22825,7 @@
         "avg_view_duration_seconds": 67,
         "avg_view_percentage": 75.35,
         "subscribers_gained": 3,
-        "likes": 351,
+        "likes": 352,
         "comments": 16,
         "shares": 18,
         "engagement_rate": 1.02,
@@ -22808,7 +23057,7 @@
       },
       {
         "video_id": "WlEUSO8HWbQ",
-        "views": 35192,
+        "views": 35191,
         "watch_time_minutes": 7349,
         "avg_view_duration_seconds": 27,
         "avg_view_percentage": 143.49,
@@ -22826,7 +23075,7 @@
         "duration_formatted": "19s",
         "is_short": true,
         "statistics": {
-          "views": 35302,
+          "views": 35304,
           "likes": 1602,
           "comments": 34
         },
@@ -23173,7 +23422,7 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 31019,
+          "views": 31021,
           "likes": 1185,
           "comments": 36
         },
@@ -23389,7 +23638,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 19.3,
+        "vph": 19.2,
         "days_since_published": 60,
         "views_per_day": 462.7,
         "performance_status": "average",
@@ -23594,7 +23843,7 @@
         "duration_formatted": "2:01",
         "is_short": false,
         "statistics": {
-          "views": 26946,
+          "views": 26949,
           "likes": 1995,
           "comments": 97
         },
@@ -23611,7 +23860,7 @@
             }
           ]
         },
-        "vph": 14.1,
+        "vph": 14.0,
         "days_since_published": 79,
         "views_per_day": 340.9,
         "performance_status": "excellent",
@@ -24012,7 +24261,7 @@
       },
       {
         "video_id": "8HGqejUl5Tc",
-        "views": 25819,
+        "views": 25820,
         "watch_time_minutes": 87164,
         "avg_view_duration_seconds": 202,
         "avg_view_percentage": 57.07,
@@ -24030,7 +24279,7 @@
         "duration_formatted": "5:55",
         "is_short": false,
         "statistics": {
-          "views": 25899,
+          "views": 25901,
           "likes": 865,
           "comments": 54
         },
@@ -24221,7 +24470,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 18.4,
+        "vph": 18.3,
         "days_since_published": 58,
         "views_per_day": 441.6,
         "performance_status": "good",
@@ -24300,8 +24549,8 @@
       },
       {
         "video_id": "RVMAf8bsfLM",
-        "views": 25215,
-        "watch_time_minutes": 80899,
+        "views": 25218,
+        "watch_time_minutes": 80890,
         "avg_view_duration_seconds": 192,
         "avg_view_percentage": 52.32,
         "subscribers_gained": 37,
@@ -24329,7 +24578,7 @@
         },
         "vph": 4.0,
         "days_since_published": 262,
-        "views_per_day": 96.2,
+        "views_per_day": 96.3,
         "performance_status": "good",
         "seo_score": {
           "total_score": 80,
@@ -24788,7 +25037,7 @@
       },
       {
         "video_id": "zBGiIqoSsck",
-        "views": 24241,
+        "views": 24243,
         "watch_time_minutes": 4820,
         "avg_view_duration_seconds": 22,
         "avg_view_percentage": 108.15,
@@ -25394,7 +25643,7 @@
         "is_short": false,
         "statistics": {
           "views": 21569,
-          "likes": 1137,
+          "likes": 1138,
           "comments": 72
         },
         "content_status": {
@@ -25624,15 +25873,15 @@
       },
       {
         "video_id": "AbylW2cKvZM",
-        "views": 20526,
-        "watch_time_minutes": 59818,
+        "views": 20529,
+        "watch_time_minutes": 59820,
         "avg_view_duration_seconds": 174,
         "avg_view_percentage": 34.56,
         "subscribers_gained": 20,
         "likes": 180,
         "comments": 6,
         "shares": 86,
-        "engagement_rate": 1.33,
+        "engagement_rate": 1.32,
         "subscriber_conversion_rate": 0.097,
         "title": "INSANE Marine precision | Silent Drill Platoon",
         "description": "The United States Marine Corps Silent Drill Platoon performed during the halftime show at the Houston Texans home game against the New York Jets in November of 2015.\n\nSubscribe to the Houston Texans YouTube Channel: tex.nz/youtubesubscribe\n\n#WeAreTexans #Texans #NFL\n\nFOLLOW THE TEAM\nhttps://www.facebook.com/HoustonTexans/\nhttps://twitter.com/HoustonTexans\nhttps://www.instagram.com/houstontexans/\n\nGET TO KNOW THE TEAM\nhttps://www.HoustonTexans.com\nhttps://www.houstontexans.com/team/pl...\nhttps://www.houstontexans.com/team/st...\nhttps://www.houstontexans.com/team/te...\nhttps://www.houstontexans.com/team/st...\nhttps://www.houstontexans.com/schedule/",
@@ -25642,7 +25891,7 @@
         "duration_formatted": "8:26",
         "is_short": false,
         "statistics": {
-          "views": 2306478,
+          "views": 2306487,
           "likes": 17429,
           "comments": 1478
         },
@@ -25895,7 +26144,7 @@
         "duration_formatted": "39s",
         "is_short": true,
         "statistics": {
-          "views": 20407,
+          "views": 20406,
           "likes": 941,
           "comments": 24
         },
@@ -26121,7 +26370,7 @@
         "duration_formatted": "32s",
         "is_short": true,
         "statistics": {
-          "views": 20014,
+          "views": 20020,
           "likes": 907,
           "comments": 17
         },
@@ -26367,7 +26616,7 @@
         "duration_formatted": "49s",
         "is_short": true,
         "statistics": {
-          "views": 19838,
+          "views": 19839,
           "likes": 1014,
           "comments": 30
         },
@@ -26495,7 +26744,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 8.2,
+        "vph": 8.1,
         "days_since_published": 100,
         "views_per_day": 196.9,
         "performance_status": "good",
@@ -26607,8 +26856,8 @@
           "flags": []
         },
         "vph": 7.7,
-        "days_since_published": 102,
-        "views_per_day": 185.5,
+        "days_since_published": 103,
+        "views_per_day": 183.7,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -26819,53 +27068,53 @@
     "past_7_days": [
       {
         "source": "SHORTS",
-        "views": 119978,
-        "watch_time_minutes": 31066
+        "views": 119923,
+        "watch_time_minutes": 31052
       },
       {
         "source": "SUBSCRIBER",
-        "views": 81416,
-        "watch_time_minutes": 323257
+        "views": 81345,
+        "watch_time_minutes": 323506
       },
       {
         "source": "YT_SEARCH",
-        "views": 36840,
-        "watch_time_minutes": 65069
+        "views": 36834,
+        "watch_time_minutes": 65152
       },
       {
         "source": "YT_CHANNEL",
-        "views": 28469,
-        "watch_time_minutes": 23198
+        "views": 28456,
+        "watch_time_minutes": 23209
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 22676,
-        "watch_time_minutes": 200450
+        "views": 22709,
+        "watch_time_minutes": 201170
       },
       {
         "source": "NOTIFICATION",
-        "views": 9818,
-        "watch_time_minutes": 10384
+        "views": 9817,
+        "watch_time_minutes": 10383
       },
       {
         "source": "EXT_URL",
-        "views": 5911,
-        "watch_time_minutes": 12693
+        "views": 5914,
+        "watch_time_minutes": 12696
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 5343,
-        "watch_time_minutes": 33199
+        "views": 5165,
+        "watch_time_minutes": 31689
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 3018,
-        "watch_time_minutes": 15532
+        "views": 3027,
+        "watch_time_minutes": 15580
       },
       {
         "source": "PLAYLIST",
-        "views": 830,
-        "watch_time_minutes": 4502
+        "views": 828,
+        "watch_time_minutes": 4511
       },
       {
         "source": "END_SCREEN",
@@ -26884,7 +27133,7 @@
       },
       {
         "source": "HASHTAGS",
-        "views": 38,
+        "views": 39,
         "watch_time_minutes": 5
       },
       {
@@ -26901,53 +27150,53 @@
     "past_month": [
       {
         "source": "SUBSCRIBER",
-        "views": 376938,
-        "watch_time_minutes": 1088358
+        "views": 376867,
+        "watch_time_minutes": 1088608
       },
       {
         "source": "SHORTS",
-        "views": 262625,
-        "watch_time_minutes": 58115
+        "views": 262570,
+        "watch_time_minutes": 58101
       },
       {
         "source": "YT_SEARCH",
-        "views": 128250,
-        "watch_time_minutes": 195750
+        "views": 128244,
+        "watch_time_minutes": 195834
       },
       {
         "source": "YT_CHANNEL",
-        "views": 72455,
-        "watch_time_minutes": 43196
+        "views": 72442,
+        "watch_time_minutes": 43207
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 67620,
-        "watch_time_minutes": 507247
+        "views": 67653,
+        "watch_time_minutes": 507967
       },
       {
         "source": "NOTIFICATION",
-        "views": 36539,
-        "watch_time_minutes": 20342
+        "views": 36538,
+        "watch_time_minutes": 20341
       },
       {
         "source": "EXT_URL",
-        "views": 22933,
-        "watch_time_minutes": 37657
+        "views": 22936,
+        "watch_time_minutes": 37660
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 12817,
-        "watch_time_minutes": 55019
+        "views": 12639,
+        "watch_time_minutes": 53509
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 9019,
-        "watch_time_minutes": 39249
+        "views": 9028,
+        "watch_time_minutes": 39297
       },
       {
         "source": "PLAYLIST",
-        "views": 5166,
-        "watch_time_minutes": 22365
+        "views": 5164,
+        "watch_time_minutes": 22375
       },
       {
         "source": "END_SCREEN",
@@ -26966,7 +27215,7 @@
       },
       {
         "source": "HASHTAGS",
-        "views": 137,
+        "views": 138,
         "watch_time_minutes": 67
       },
       {
@@ -26983,33 +27232,33 @@
     "current_fy": [
       {
         "source": "SHORTS",
-        "views": 2238157,
-        "watch_time_minutes": 557114
+        "views": 2238102,
+        "watch_time_minutes": 557101
       },
       {
         "source": "SUBSCRIBER",
-        "views": 1460525,
-        "watch_time_minutes": 3824404
+        "views": 1460454,
+        "watch_time_minutes": 3824654
       },
       {
         "source": "YT_SEARCH",
-        "views": 748935,
-        "watch_time_minutes": 904254
+        "views": 748929,
+        "watch_time_minutes": 904337
       },
       {
         "source": "YT_CHANNEL",
-        "views": 497287,
-        "watch_time_minutes": 266483
+        "views": 497274,
+        "watch_time_minutes": 266494
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 293269,
-        "watch_time_minutes": 1913278
+        "views": 293302,
+        "watch_time_minutes": 1913998
       },
       {
         "source": "NOTIFICATION",
-        "views": 185382,
-        "watch_time_minutes": 115758
+        "views": 185381,
+        "watch_time_minutes": 115757
       },
       {
         "source": "ADVERTISING",
@@ -27018,23 +27267,23 @@
       },
       {
         "source": "EXT_URL",
-        "views": 159284,
-        "watch_time_minutes": 210952
+        "views": 159287,
+        "watch_time_minutes": 210955
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 54228,
-        "watch_time_minutes": 149369
+        "views": 54237,
+        "watch_time_minutes": 149417
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 48294,
-        "watch_time_minutes": 179871
+        "views": 48116,
+        "watch_time_minutes": 178361
       },
       {
         "source": "PLAYLIST",
-        "views": 22195,
-        "watch_time_minutes": 77983
+        "views": 22193,
+        "watch_time_minutes": 77992
       },
       {
         "source": "END_SCREEN",
@@ -27053,7 +27302,7 @@
       },
       {
         "source": "HASHTAGS",
-        "views": 340,
+        "views": 341,
         "watch_time_minutes": 129
       },
       {
@@ -27080,25 +27329,25 @@
         "start_date": "2026-07-19",
         "end_date": "2026-07-26",
         "analytics": {
-          "views": 162975,
-          "watch_time_minutes": 420717,
-          "watch_time_hours": 7011.95,
+          "views": 163045,
+          "watch_time_minutes": 420665,
+          "watch_time_hours": 7011.08,
           "avg_view_duration_seconds": 188,
           "subscribers_gained": 332,
           "subscribers_lost": 194,
           "net_subscribers": 138,
-          "likes": 3333,
+          "likes": 3336,
           "comments": 137,
           "shares": 408,
-          "engagement_total": 3878
+          "engagement_total": 3881
         },
         "changes": {
-          "views": 93.4,
-          "watch_time_hours": 71.5,
+          "views": 93.5,
+          "watch_time_hours": 71.6,
           "net_subscribers": 179.0,
-          "engagement_total": 210.2,
+          "engagement_total": 210.0,
           "avg_view_duration_seconds": 8.0,
-          "likes": 215.4
+          "likes": 215.1
         }
       },
       "same_7_days_ly": {
@@ -27134,17 +27383,17 @@
         "start_date": "2026-07-01",
         "end_date": "2026-07-31",
         "analytics": {
-          "views": 1038718,
-          "watch_time_minutes": 2189503,
-          "watch_time_hours": 36491.72,
+          "views": 1038320,
+          "watch_time_minutes": 2188493,
+          "watch_time_hours": 36474.88,
           "avg_view_duration_seconds": 171,
           "subscribers_gained": 1657,
           "subscribers_lost": 771,
           "net_subscribers": 886,
-          "likes": 26274,
-          "comments": 1497,
-          "shares": 2722,
-          "engagement_total": 30493
+          "likes": 26266,
+          "comments": 1500,
+          "shares": 2720,
+          "engagement_total": 30486
         },
         "changes": {
           "views": -3.9,
@@ -27173,10 +27422,10 @@
           "engagement_total": 31254
         },
         "changes": {
-          "views": -0.2,
-          "watch_time_hours": -23.5,
+          "views": -0.3,
+          "watch_time_hours": -23.6,
           "net_subscribers": -46.4,
-          "engagement_total": -5.2,
+          "engagement_total": -5.3,
           "avg_view_duration_seconds": -16.7,
           "likes": -8.4
         }
@@ -27201,7 +27450,7 @@
           "engagement_total": 112978
         },
         "changes": {
-          "views": 45.9,
+          "views": 45.8,
           "watch_time_hours": -18.4,
           "net_subscribers": -33.6,
           "engagement_total": 74.6,
