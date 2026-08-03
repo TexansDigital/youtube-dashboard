@@ -2342,7 +2342,11 @@
     "that mode",
     "mode subscribe",
     "hey tank",
-    "tank subscribe"
+    "tank subscribe",
+    "camp",
+    "texans training",
+    "training camp",
+    "started"
   ],
   "avoid": [
     "watson",
@@ -4209,21 +4213,31 @@
     "a performance",
     "that left",
     "entire crowd",
-    "in awe"
+    "in awe",
+    "preview",
+    "season preview",
+    "tight",
+    "jayden",
+    "higgins"
   ],
-  "last_updated": "2026-08-03T12:19:32.875297-05:00",
+  "last_updated": "2026-08-03T14:55:59.968613-05:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
-    "new_boost_keywords": [],
-    "new_avoid_keywords": [
-      "skill in",
-      "a performance",
-      "that left",
-      "entire crowd",
-      "in awe"
+    "new_boost_keywords": [
+      "camp",
+      "texans training",
+      "training camp",
+      "started"
     ],
-    "analysis_date": "2026-08-03T12:19:32.875254-05:00"
+    "new_avoid_keywords": [
+      "preview",
+      "season preview",
+      "tight",
+      "jayden",
+      "higgins"
+    ],
+    "analysis_date": "2026-08-03T14:55:59.968570-05:00"
   }
 }
