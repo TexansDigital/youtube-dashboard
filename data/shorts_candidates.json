@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:06:00.177860-05:00",
+  "generated_at": "2026-08-26T14:25:27.516412-05:00",
   "total_candidates": 16,
   "candidates": [
     {
@@ -42,8 +42,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 154177,
-      "identified_at": "2026-08-26T12:04:53.754789-05:00",
+      "source_video_views": 154237,
+      "identified_at": "2026-08-26T14:24:47.529338-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -58,9 +58,9 @@
       "end_formatted": "1:13",
       "clip_duration": 35,
       "retention_score": 60.8,
-      "video_avg_retention": 46.1,
+      "video_avg_retention": 46.0,
       "retention_boost": 1.32,
-      "priority_score": 158.3,
+      "priority_score": 158.4,
       "flags": [
         {
           "type": "content",
@@ -87,8 +87,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 14937,
-      "identified_at": "2026-08-26T12:01:53.094761-05:00",
+      "source_video_views": 15397,
+      "identified_at": "2026-08-26T14:21:36.116424-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -134,8 +134,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 260649,
-      "identified_at": "2026-08-26T12:03:40.095508-05:00",
+      "source_video_views": 260656,
+      "identified_at": "2026-08-26T14:23:28.795290-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -172,7 +172,7 @@
       ],
       "content_type": "general",
       "source_video_views": 13072,
-      "identified_at": "2026-08-26T12:02:30.368100-05:00",
+      "identified_at": "2026-08-26T14:22:13.634925-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -187,7 +187,7 @@
       "end_formatted": "0:34",
       "clip_duration": 16,
       "retention_score": 58.1,
-      "video_avg_retention": 40.7,
+      "video_avg_retention": 40.6,
       "retention_boost": 1.43,
       "priority_score": 143.0,
       "flags": [],
@@ -211,53 +211,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 15750,
-      "identified_at": "2026-08-26T12:01:04.593254-05:00",
-      "clip_created": false,
-      "shorts_video_id": null
-    },
-    {
-      "video_id": "ERthT_mJT9c",
-      "video_title": "Will Anderson Jr. on Myles Garrett, Clowney and Keylan Rutledge",
-      "video_url": "https://youtube.com/watch?v=ERthT_mJT9c",
-      "timestamped_url": "https://youtube.com/watch?v=ERthT_mJT9c&t=17",
-      "start_seconds": 17,
-      "end_seconds": 35,
-      "start_formatted": "0:17",
-      "end_formatted": "0:35",
-      "clip_duration": 18,
-      "retention_score": 68.1,
-      "video_avg_retention": 48.6,
-      "retention_boost": 1.4,
-      "priority_score": 140.0,
-      "flags": [
-        {
-          "type": "content",
-          "name": "ad",
-          "emoji": "\ud83d\udcb0",
-          "note": "Sponsored content - use conservative titling",
-          "show_banner": false
-        }
-      ],
-      "suggested_title": {
-        "suggestion": "Real talk from the squad \ud83c\udf99\ufe0f",
-        "alternatives": [
-          "This interview hits DIFFERENT \ud83d\udcaf",
-          "You need to hear this \ud83d\udc40"
-        ],
-        "confidence": "\ud83d\udcca Performance-based",
-        "note": "Based on title patterns from high-performing Texans content"
-      },
-      "suggested_hashtags": [
-        "#Texans",
-        "#NFL",
-        "#Houston",
-        "#HoustonTexans",
-        "#Shorts"
-      ],
-      "content_type": "interview",
-      "source_video_views": 14887,
-      "identified_at": "2026-08-26T12:01:55.031448-05:00",
+      "source_video_views": 15849,
+      "identified_at": "2026-08-26T14:20:56.401612-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -271,10 +226,10 @@
       "start_formatted": "0:14",
       "end_formatted": "0:34",
       "clip_duration": 20,
-      "retention_score": 70.8,
-      "video_avg_retention": 50.7,
-      "retention_boost": 1.4,
-      "priority_score": 139.6,
+      "retention_score": 70.4,
+      "video_avg_retention": 50.0,
+      "retention_boost": 1.41,
+      "priority_score": 140.6,
       "flags": [
         {
           "type": "content",
@@ -303,8 +258,53 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 17831,
-      "identified_at": "2026-08-26T12:00:23.181083-05:00",
+      "source_video_views": 22498,
+      "identified_at": "2026-08-26T14:19:51.407057-05:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "ERthT_mJT9c",
+      "video_title": "Will Anderson Jr. on Myles Garrett, Clowney and Keylan Rutledge",
+      "video_url": "https://youtube.com/watch?v=ERthT_mJT9c",
+      "timestamped_url": "https://youtube.com/watch?v=ERthT_mJT9c&t=17",
+      "start_seconds": 17,
+      "end_seconds": 35,
+      "start_formatted": "0:17",
+      "end_formatted": "0:35",
+      "clip_duration": 18,
+      "retention_score": 67.7,
+      "video_avg_retention": 48.2,
+      "retention_boost": 1.41,
+      "priority_score": 140.6,
+      "flags": [
+        {
+          "type": "content",
+          "name": "ad",
+          "emoji": "\ud83d\udcb0",
+          "note": "Sponsored content - use conservative titling",
+          "show_banner": false
+        }
+      ],
+      "suggested_title": {
+        "suggestion": "Real talk from the squad \ud83c\udf99\ufe0f",
+        "alternatives": [
+          "This interview hits DIFFERENT \ud83d\udcaf",
+          "You need to hear this \ud83d\udc40"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#Shorts"
+      ],
+      "content_type": "interview",
+      "source_video_views": 15768,
+      "identified_at": "2026-08-26T14:21:06.402052-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -349,8 +349,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 486559,
-      "identified_at": "2026-08-26T12:02:54.730272-05:00",
+      "source_video_views": 486606,
+      "identified_at": "2026-08-26T14:22:51.776595-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -394,8 +394,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 172815,
-      "identified_at": "2026-08-26T12:04:26.414523-05:00",
+      "source_video_views": 172817,
+      "identified_at": "2026-08-26T14:24:16.320065-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -441,8 +441,8 @@
         "#Shorts"
       ],
       "content_type": "behind_the_scenes",
-      "source_video_views": 114802,
-      "identified_at": "2026-08-26T12:06:00.177600-05:00",
+      "source_video_views": 114812,
+      "identified_at": "2026-08-26T14:25:27.516180-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -479,8 +479,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 252076,
-      "identified_at": "2026-08-26T12:03:54.310703-05:00",
+      "source_video_views": 252103,
+      "identified_at": "2026-08-26T14:23:40.390095-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -524,8 +524,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 29978,
-      "identified_at": "2026-08-26T11:59:36.922493-05:00",
+      "source_video_views": 30267,
+      "identified_at": "2026-08-26T14:19:18.796006-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -569,8 +569,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 16487,
-      "identified_at": "2026-08-26T12:01:03.597610-05:00",
+      "source_video_views": 16637,
+      "identified_at": "2026-08-26T14:20:39.449672-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -614,8 +614,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 353763,
-      "identified_at": "2026-08-26T12:03:04.364073-05:00",
+      "source_video_views": 354015,
+      "identified_at": "2026-08-26T14:23:05.900619-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -659,8 +659,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 348295,
-      "identified_at": "2026-08-26T11:58:16.184070-05:00",
+      "source_video_views": 351388,
+      "identified_at": "2026-08-26T14:18:21.691182-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -704,8 +704,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 115713,
-      "identified_at": "2026-08-26T11:58:30.045067-05:00",
+      "source_video_views": 116428,
+      "identified_at": "2026-08-26T14:18:27.102284-05:00",
       "clip_created": false,
       "shorts_video_id": null
     }
