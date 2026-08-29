@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T09:27:33.544026-05:00",
+  "generated_at": "2026-08-29T13:26:48.457208-05:00",
   "channel": {
     "channel_id": "UCa_FcpOBe8G6VAR18RYS-aA",
     "title": "Houston Texans",
@@ -9,9 +9,9 @@
     "statistics": {
       "subscribers": 170000,
       "total_views": 80681632,
-      "video_count": 6308
+      "video_count": 6309
     },
-    "fetched_at": "2026-08-29T09:27:33.811530-05:00"
+    "fetched_at": "2026-08-29T13:26:48.669576-05:00"
   },
   "periods": {
     "past_7_days": {
@@ -19,17 +19,17 @@
       "start_date": "2026-08-22",
       "end_date": "2026-08-29",
       "analytics": {
-        "views": 556355,
-        "watch_time_minutes": 650537,
-        "watch_time_hours": 10842.28,
+        "views": 555046,
+        "watch_time_minutes": 650267,
+        "watch_time_hours": 10837.78,
         "avg_view_duration_seconds": 110,
         "subscribers_gained": 1150,
         "subscribers_lost": 265,
         "net_subscribers": 885,
-        "likes": 25517,
+        "likes": 25518,
         "comments": 1383,
-        "shares": 7863,
-        "engagement_total": 34763
+        "shares": 7860,
+        "engagement_total": 34761
       }
     },
     "past_month": {
@@ -37,17 +37,17 @@
       "start_date": "2026-07-30",
       "end_date": "2026-08-29",
       "analytics": {
-        "views": 2908784,
-        "watch_time_minutes": 4612103,
-        "watch_time_hours": 76868.38,
+        "views": 2908689,
+        "watch_time_minutes": 4612862,
+        "watch_time_hours": 76881.03,
         "avg_view_duration_seconds": 146,
         "subscribers_gained": 4940,
         "subscribers_lost": 1235,
         "net_subscribers": 3705,
         "likes": 95335,
         "comments": 4833,
-        "shares": 12298,
-        "engagement_total": 112466
+        "shares": 12295,
+        "engagement_total": 112463
       }
     },
     "current_fy": {
@@ -55,17 +55,17 @@
       "start_date": "2026-04-01",
       "end_date": "2026-08-29",
       "analytics": {
-        "views": 8622433,
-        "watch_time_minutes": 12594427,
-        "watch_time_hours": 209907.12,
+        "views": 8622338,
+        "watch_time_minutes": 12595187,
+        "watch_time_hours": 209919.78,
         "avg_view_duration_seconds": 136,
         "subscribers_gained": 11667,
         "subscribers_lost": 4171,
         "net_subscribers": 7496,
         "likes": 263186,
         "comments": 12202,
-        "shares": 27033,
-        "engagement_total": 302421
+        "shares": 27030,
+        "engagement_total": 302418
       }
     }
   },
@@ -91,16 +91,16 @@
         "duration_formatted": "54s",
         "is_short": true,
         "statistics": {
-          "views": 37552,
-          "likes": 3250,
-          "comments": 261
+          "views": 37705,
+          "likes": 3260,
+          "comments": 262
         },
         "content_status": {
           "is_blocked": false,
           "block_reason": null,
           "flags": []
         },
-        "vph": 346.8,
+        "vph": 333.0,
         "days_since_published": 4,
         "views_per_day": 8331.2,
         "performance_status": "excellent",
@@ -201,8 +201,8 @@
         "duration_formatted": "58s",
         "is_short": true,
         "statistics": {
-          "views": 34319,
-          "likes": 2345,
+          "views": 34441,
+          "likes": 2350,
           "comments": 82
         },
         "content_status": {
@@ -210,9 +210,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 322.0,
-        "days_since_published": 3,
-        "views_per_day": 10253.3,
+        "vph": 309.1,
+        "days_since_published": 4,
+        "views_per_day": 7690.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -291,15 +291,15 @@
       },
       {
         "video_id": "DQuZFlZ46ns",
-        "views": 26304,
-        "watch_time_minutes": 2804,
+        "views": 26165,
+        "watch_time_minutes": 2803,
         "avg_view_duration_seconds": 15,
         "avg_view_percentage": 189.72,
         "subscribers_gained": 6,
         "likes": 667,
         "comments": 28,
         "shares": 99,
-        "engagement_rate": 3.02,
+        "engagement_rate": 3.03,
         "subscriber_conversion_rate": 0.023,
         "title": "Take a look behind the scenes with Nico \ud83d\udc40",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -309,8 +309,8 @@
         "duration_formatted": "8s",
         "is_short": true,
         "statistics": {
-          "views": 26879,
-          "likes": 676,
+          "views": 26904,
+          "likes": 678,
           "comments": 28
         },
         "content_status": {
@@ -318,9 +318,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 190.7,
+        "vph": 184.4,
         "days_since_published": 5,
-        "views_per_day": 5260.8,
+        "views_per_day": 5233.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -421,8 +421,8 @@
         "duration_formatted": "6:05",
         "is_short": false,
         "statistics": {
-          "views": 35665,
-          "likes": 1429,
+          "views": 35780,
+          "likes": 1431,
           "comments": 131
         },
         "content_status": {
@@ -430,7 +430,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 269.9,
+        "vph": 259.2,
         "days_since_published": 4,
         "views_per_day": 6507.8,
         "performance_status": "good",
@@ -527,15 +527,15 @@
       },
       {
         "video_id": "cUbvnPa2kn0",
-        "views": 24026,
-        "watch_time_minutes": 4198,
+        "views": 23979,
+        "watch_time_minutes": 4197,
         "avg_view_duration_seconds": 25,
         "avg_view_percentage": 169.15,
         "subscribers_gained": 8,
         "likes": 941,
         "comments": 42,
         "shares": 92,
-        "engagement_rate": 4.47,
+        "engagement_rate": 4.48,
         "subscriber_conversion_rate": 0.033,
         "title": "No peekingggg \ud83d\udc40",
         "description": "houstontexans.com/rivalries\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -545,8 +545,8 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 24953,
-          "likes": 966,
+          "views": 25027,
+          "likes": 968,
           "comments": 53
         },
         "content_status": {
@@ -554,9 +554,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 142.6,
+        "vph": 139.0,
         "days_since_published": 7,
-        "views_per_day": 3432.3,
+        "views_per_day": 3425.6,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -648,8 +648,8 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 23811,
-          "likes": 1262,
+          "views": 24310,
+          "likes": 1270,
           "comments": 93
         },
         "content_status": {
@@ -657,7 +657,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 226.9,
+        "vph": 217.4,
         "days_since_published": 3,
         "views_per_day": 6884.7,
         "performance_status": "good",
@@ -758,8 +758,8 @@
         "duration_formatted": "31s",
         "is_short": true,
         "statistics": {
-          "views": 25135,
-          "likes": 1652,
+          "views": 25336,
+          "likes": 1662,
           "comments": 73
         },
         "content_status": {
@@ -767,9 +767,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 209.5,
-        "days_since_published": 3,
-        "views_per_day": 6559.0,
+        "vph": 201.0,
+        "days_since_published": 4,
+        "views_per_day": 4919.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 45,
@@ -859,8 +859,8 @@
         "duration_formatted": "31s",
         "is_short": true,
         "statistics": {
-          "views": 19882,
-          "likes": 1313,
+          "views": 19983,
+          "likes": 1321,
           "comments": 76
         },
         "content_status": {
@@ -868,9 +868,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 194.5,
-        "days_since_published": 3,
-        "views_per_day": 6107.3,
+        "vph": 186.6,
+        "days_since_published": 4,
+        "views_per_day": 4580.5,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -964,8 +964,8 @@
         "duration_formatted": "1:21",
         "is_short": false,
         "statistics": {
-          "views": 20263,
-          "likes": 1191,
+          "views": 20356,
+          "likes": 1192,
           "comments": 137
         },
         "content_status": {
@@ -981,7 +981,7 @@
             }
           ]
         },
-        "vph": 184.6,
+        "vph": 177.3,
         "days_since_published": 4,
         "views_per_day": 4449.5,
         "performance_status": "excellent",
@@ -1150,16 +1150,16 @@
       },
       {
         "video_id": "uz2hNUi1pb4",
-        "views": 17407,
-        "watch_time_minutes": 7516,
+        "views": 17321,
+        "watch_time_minutes": 7521,
         "avg_view_duration_seconds": 41,
         "avg_view_percentage": 73.05,
-        "subscribers_gained": 12,
+        "subscribers_gained": 13,
         "likes": 1125,
         "comments": 45,
         "shares": 144,
-        "engagement_rate": 7.55,
-        "subscriber_conversion_rate": 0.069,
+        "engagement_rate": 7.59,
+        "subscriber_conversion_rate": 0.075,
         "title": "Volume up\u2026",
         "description": "HoustonTexans.com/rivalries\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-08-23T13:01:48Z",
@@ -1168,8 +1168,8 @@
         "duration_formatted": "57s",
         "is_short": true,
         "statistics": {
-          "views": 18277,
-          "likes": 1163,
+          "views": 18308,
+          "likes": 1165,
           "comments": 53
         },
         "content_status": {
@@ -1177,9 +1177,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 119.7,
+        "vph": 115.9,
         "days_since_published": 6,
-        "views_per_day": 2901.2,
+        "views_per_day": 2886.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -1271,16 +1271,16 @@
         "duration_formatted": "1:21",
         "is_short": false,
         "statistics": {
-          "views": 21149,
-          "likes": 2227,
-          "comments": 132
+          "views": 21457,
+          "likes": 2245,
+          "comments": 133
         },
         "content_status": {
           "is_blocked": false,
           "block_reason": null,
           "flags": []
         },
-        "vph": 175.7,
+        "vph": 168.7,
         "days_since_published": 4,
         "views_per_day": 4219.2,
         "performance_status": "excellent",
@@ -1365,16 +1365,16 @@
       },
       {
         "video_id": "0xvXMEnwyYM",
-        "views": 16761,
-        "watch_time_minutes": 57965,
+        "views": 16672,
+        "watch_time_minutes": 57898,
         "avg_view_duration_seconds": 209,
         "avg_view_percentage": 32.04,
         "subscribers_gained": 21,
         "likes": 72,
         "comments": 2,
         "shares": 76,
-        "engagement_rate": 0.89,
-        "subscriber_conversion_rate": 0.125,
+        "engagement_rate": 0.9,
+        "subscriber_conversion_rate": 0.126,
         "title": "Silent Drill Platoon Performs at Halftime on Thursday Night Football | Texans vs. Colts",
         "description": "The United States Marine Corps Silent Drill Platoon delivers an absolutely mesmerizing halftime performance that had NRG Stadium on their feet during Thursday Night Football.\n\nWhat an incredible honor to host the Marine Barracks Washington DC Silent Drill Platoon at NRG Stadium during our Thursday Night Football matchup against the Indianapolis Colts. This video captures the Marines' flawless precision and discipline as they perform their signature silent drill routine in front of our home crowd in Houston.\n\nThe Silent Drill Platoon is one of the most elite ceremonial units in the United States military, known for their perfectly synchronized movements and rifle handling without any verbal commands. Their performance was a powerful tribute to our nation's servicemen and women, and the entire stadium was captivated by their skill and dedication.\n\nThis Thursday Night Football game was made even more special by this incredible halftime show that honored our military heroes. The Marines' precision and professionalism perfectly embodied the values of excellence and teamwork that we strive for as the Houston Texans.\n\nA huge thank you to the Marine Barracks Washington DC and the Silent Drill Platoon for this unforgettable performance that our fans and players will never forget.\n\n\ud83d\udd14 Subscribe to stay connected with the Houston Texans and never miss moments like these!\n\ud83d\udc49 SUBSCRIBE: https://www.youtube.com/c/HoustonTexans?sub_confirmation=1\n\n\ud83d\udcf1 Follow the Houston Texans:\nTwitter: https://twitter.com/HoustonTexans\nInstagram: https://instagram.com/HoustonTexans\nFacebook: https://facebook.com/HoustonTexans\nTikTok: https://tiktok.com/@HoustonTexans\nWebsite: https://www.HoustonTexans.com\n\n#Texans #HoustonTexans #NFL #ThursdayNightFootball #Marines",
         "published_at": "2019-11-22T22:03:23Z",
@@ -1383,8 +1383,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 12489692,
-          "likes": 168122,
+          "views": 12490315,
+          "likes": 168125,
           "comments": 8816
         },
         "content_status": {
@@ -1402,7 +1402,7 @@
         },
         "vph": 0.3,
         "days_since_published": 2471,
-        "views_per_day": 6.8,
+        "views_per_day": 6.7,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -2087,8 +2087,8 @@
         "duration_formatted": "7s",
         "is_short": true,
         "statistics": {
-          "views": 25472,
-          "likes": 628,
+          "views": 25536,
+          "likes": 630,
           "comments": 25
         },
         "content_status": {
@@ -2096,7 +2096,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 217.6,
+        "vph": 205.1,
         "days_since_published": 2,
         "views_per_day": 7088.5,
         "performance_status": "good",
@@ -2173,16 +2173,16 @@
       },
       {
         "video_id": "ZOeD9_wGdc4",
-        "views": 11848,
-        "watch_time_minutes": 2140,
+        "views": 11702,
+        "watch_time_minutes": 2128,
         "avg_view_duration_seconds": 21,
         "avg_view_percentage": 144.77,
         "subscribers_gained": 1,
         "likes": 731,
         "comments": 45,
-        "shares": 210,
-        "engagement_rate": 8.32,
-        "subscriber_conversion_rate": 0.008,
+        "shares": 207,
+        "engagement_rate": 8.4,
+        "subscriber_conversion_rate": 0.009,
         "title": "Welcome to the land where it just don't stop.",
         "description": "houstontexans.com/rivalries\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-08-24T12:15:11Z",
@@ -2191,8 +2191,8 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 12056,
-          "likes": 742,
+          "views": 12061,
+          "likes": 743,
           "comments": 52
         },
         "content_status": {
@@ -2200,10 +2200,10 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 97.0,
+        "vph": 92.7,
         "days_since_published": 5,
-        "views_per_day": 2369.6,
-        "performance_status": "average",
+        "views_per_day": 2340.4,
+        "performance_status": "good",
         "seo_score": {
           "total_score": 65,
           "grade": "C",
@@ -2302,8 +2302,8 @@
         "duration_formatted": "42s",
         "is_short": true,
         "statistics": {
-          "views": 12776,
-          "likes": 1026,
+          "views": 12816,
+          "likes": 1032,
           "comments": 76
         },
         "content_status": {
@@ -2311,7 +2311,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 118.1,
+        "vph": 113.4,
         "days_since_published": 4,
         "views_per_day": 2837.2,
         "performance_status": "good",
@@ -2388,16 +2388,16 @@
       },
       {
         "video_id": "v9VFbEUYzZA",
-        "views": 11274,
-        "watch_time_minutes": 9686,
+        "views": 11198,
+        "watch_time_minutes": 9676,
         "avg_view_duration_seconds": 63,
         "avg_view_percentage": 44.69,
         "subscribers_gained": 12,
         "likes": 775,
         "comments": 22,
         "shares": 3,
-        "engagement_rate": 7.1,
-        "subscriber_conversion_rate": 0.106,
+        "engagement_rate": 7.14,
+        "subscriber_conversion_rate": 0.107,
         "title": "C.J. Stroud on Keylan Rutledge and Texans Offensive Growth",
         "description": "C.J. Stroud joins the broadcast during Texans vs. Raiders after leading Houston on a touchdown drive in his only series of the night. Stroud discusses the offense\u2019s execution, his increased comfort in Year 2 of Nick Caley\u2019s system and why the group has found its identity. He also shares what Keylan Rutledge, Woody Marks and David Montgomery bring to the offense.\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-08-21T02:15:36Z",
@@ -2406,8 +2406,8 @@
         "duration_formatted": "2:23",
         "is_short": false,
         "statistics": {
-          "views": 26589,
-          "likes": 1983,
+          "views": 26635,
+          "likes": 1987,
           "comments": 93
         },
         "content_status": {
@@ -2423,9 +2423,9 @@
             }
           ]
         },
-        "vph": 55.2,
+        "vph": 53.8,
         "days_since_published": 8,
-        "views_per_day": 1409.2,
+        "views_per_day": 1399.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 70,
@@ -2583,8 +2583,8 @@
         "duration_formatted": "20s",
         "is_short": true,
         "statistics": {
-          "views": 20204,
-          "likes": 842,
+          "views": 20306,
+          "likes": 847,
           "comments": 26
         },
         "content_status": {
@@ -2592,7 +2592,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 171.0,
+        "vph": 161.1,
         "days_since_published": 2,
         "views_per_day": 5566.5,
         "performance_status": "average",
@@ -2721,16 +2721,16 @@
       },
       {
         "video_id": "mrLddeyRRVM",
-        "views": 9312,
-        "watch_time_minutes": 81330,
+        "views": 9266,
+        "watch_time_minutes": 81276,
         "avg_view_duration_seconds": 529,
         "avg_view_percentage": 37,
         "subscribers_gained": 62,
         "likes": 134,
         "comments": 3,
         "shares": 21,
-        "engagement_rate": 1.7,
-        "subscriber_conversion_rate": 0.666,
+        "engagement_rate": 1.71,
+        "subscriber_conversion_rate": 0.669,
         "title": "Ranch Life, BBQ & Training Camp | Iron Sharpens Iron Ep. 1",
         "description": "What are you doing when nobody\u2019s watching? Episode 1 of Iron Sharpens Iron explores the preparation and relationships behind the Texans as training camp gets underway. Trent Brown shares another side of his life at the ranch, while Wyatt Teller and Aireontae Ersery talk football, food and the bond forming inside Houston\u2019s offensive line room.\n\n00:00 Episode Preview\n01:02 Trent Brown Ranch\n06:04 Welcome Back to Training Camp\n10:36 Building a physical offensive line\n12:57 Teller & Ersery BBQ Visit\n18:50 Why Teller chose Houston\n21:36 Practice Wrap Up\n23:30 Taking the Texans somewhere they\u2019ve never been\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-08-12T20:55:06Z",
@@ -2739,8 +2739,8 @@
         "duration_formatted": "23:51",
         "is_short": false,
         "statistics": {
-          "views": 79432,
-          "likes": 2086,
+          "views": 79640,
+          "likes": 2088,
           "comments": 136
         },
         "content_status": {
@@ -2748,9 +2748,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 23.2,
+        "vph": 22.8,
         "days_since_published": 16,
-        "views_per_day": 582.0,
+        "views_per_day": 579.1,
         "performance_status": "excellent",
         "seo_score": {
           "total_score": 70,
@@ -2917,16 +2917,16 @@
       },
       {
         "video_id": "ERthT_mJT9c",
-        "views": 8488,
-        "watch_time_minutes": 8588,
+        "views": 8436,
+        "watch_time_minutes": 8580,
         "avg_view_duration_seconds": 77,
         "avg_view_percentage": 43.28,
         "subscribers_gained": 8,
         "likes": 507,
         "comments": 9,
         "shares": 13,
-        "engagement_rate": 6.23,
-        "subscriber_conversion_rate": 0.094,
+        "engagement_rate": 6.27,
+        "subscriber_conversion_rate": 0.095,
         "title": "Will Anderson Jr. on Myles Garrett, Clowney and Keylan Rutledge",
         "description": "Will Anderson Jr. joins the broadcast during Texans vs. Raiders to discuss how Houston\u2019s defense can take another step this season. Anderson explains why greater precision and discipline have been major points of emphasis and how continuity has strengthened the unit. He also talks about offseason workouts with Myles Garrett and what Jadeveon Clowney has brought to the locker room.",
         "published_at": "2026-08-21T02:32:59Z",
@@ -2935,7 +2935,7 @@
         "duration_formatted": "2:59",
         "is_short": false,
         "statistics": {
-          "views": 19030,
+          "views": 19078,
           "likes": 1308,
           "comments": 27
         },
@@ -2952,9 +2952,9 @@
             }
           ]
         },
-        "vph": 41.6,
+        "vph": 40.6,
         "days_since_published": 8,
-        "views_per_day": 1061.0,
+        "views_per_day": 1054.5,
         "performance_status": "average",
         "seo_score": {
           "total_score": 70,
@@ -3098,16 +3098,16 @@
       },
       {
         "video_id": "mBQfXW2CauU",
-        "views": 8250,
-        "watch_time_minutes": 2238,
+        "views": 8210,
+        "watch_time_minutes": 2234,
         "avg_view_duration_seconds": 26,
         "avg_view_percentage": 76.62,
         "subscribers_gained": 4,
         "likes": 318,
         "comments": 10,
         "shares": 14,
-        "engagement_rate": 4.15,
-        "subscriber_conversion_rate": 0.048,
+        "engagement_rate": 4.17,
+        "subscriber_conversion_rate": 0.049,
         "title": "Kayden McDonald gets to Mendoza",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-08-21T01:00:01Z",
@@ -3116,8 +3116,8 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 36071,
-          "likes": 1737,
+          "views": 36095,
+          "likes": 1739,
           "comments": 72
         },
         "content_status": {
@@ -3125,9 +3125,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 40.2,
+        "vph": 39.2,
         "days_since_published": 8,
-        "views_per_day": 1031.2,
+        "views_per_day": 1026.2,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 50,
@@ -3282,8 +3282,8 @@
         "duration_formatted": "8s",
         "is_short": true,
         "statistics": {
-          "views": 13096,
-          "likes": 400,
+          "views": 13215,
+          "likes": 405,
           "comments": 8
         },
         "content_status": {
@@ -3291,7 +3291,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 92.8,
+        "vph": 87.5,
         "days_since_published": 2,
         "views_per_day": 3022.5,
         "performance_status": "good",
@@ -3387,8 +3387,8 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 14920,
-          "likes": 433,
+          "views": 15003,
+          "likes": 437,
           "comments": 10
         },
         "content_status": {
@@ -3396,7 +3396,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 82.7,
+        "vph": 77.9,
         "days_since_published": 2,
         "views_per_day": 2694.0,
         "performance_status": "good",
@@ -3474,15 +3474,15 @@
       },
       {
         "video_id": "TTpDI1Y2TsQ",
-        "views": 5284,
-        "watch_time_minutes": 1916,
+        "views": 5245,
+        "watch_time_minutes": 1914,
         "avg_view_duration_seconds": 36,
         "avg_view_percentage": 89.33,
         "subscribers_gained": 1,
         "likes": 262,
         "comments": 11,
         "shares": 28,
-        "engagement_rate": 5.7,
+        "engagement_rate": 5.74,
         "subscriber_conversion_rate": 0.019,
         "title": "Houston, this one\u2019s for you \ud83e\udd18",
         "description": "https://www.houstontexans.com/rivalries\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -3492,8 +3492,8 @@
         "duration_formatted": "41s",
         "is_short": true,
         "statistics": {
-          "views": 11946,
-          "likes": 815,
+          "views": 12002,
+          "likes": 817,
           "comments": 47
         },
         "content_status": {
@@ -3501,9 +3501,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 27.2,
+        "vph": 26.5,
         "days_since_published": 8,
-        "views_per_day": 660.5,
+        "views_per_day": 655.6,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 60,
@@ -3601,8 +3601,8 @@
         "duration_formatted": "5:34",
         "is_short": false,
         "statistics": {
-          "views": 11378,
-          "likes": 305,
+          "views": 11437,
+          "likes": 306,
           "comments": 20
         },
         "content_status": {
@@ -3618,7 +3618,7 @@
             }
           ]
         },
-        "vph": 80.1,
+        "vph": 75.5,
         "days_since_published": 2,
         "views_per_day": 2621.5,
         "performance_status": "average",
@@ -3799,7 +3799,7 @@
       },
       {
         "video_id": "o0El-6lde-4",
-        "views": 5172,
+        "views": 5170,
         "watch_time_minutes": 532,
         "avg_view_duration_seconds": 14,
         "avg_view_percentage": 177.93,
@@ -3817,8 +3817,8 @@
         "duration_formatted": "8s",
         "is_short": true,
         "statistics": {
-          "views": 120120,
-          "likes": 2927,
+          "views": 120250,
+          "likes": 2929,
           "comments": 114
         },
         "content_status": {
@@ -3835,7 +3835,7 @@
           ]
         },
         "vph": 0.2,
-        "days_since_published": 1125,
+        "days_since_published": 1126,
         "views_per_day": 4.6,
         "performance_status": "good",
         "seo_score": {
@@ -3943,15 +3943,15 @@
       },
       {
         "video_id": "As2t-TGLevY",
-        "views": 5019,
-        "watch_time_minutes": 1806,
+        "views": 5002,
+        "watch_time_minutes": 1805,
         "avg_view_duration_seconds": 36,
         "avg_view_percentage": 69.99,
         "subscribers_gained": 4,
         "likes": 69,
         "comments": 0,
         "shares": 0,
-        "engagement_rate": 1.37,
+        "engagement_rate": 1.38,
         "subscriber_conversion_rate": 0.08,
         "title": "Admin signed up for this \ud83e\udd23",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -3961,8 +3961,8 @@
         "duration_formatted": "52s",
         "is_short": true,
         "statistics": {
-          "views": 286163,
-          "likes": 5397,
+          "views": 286192,
+          "likes": 5399,
           "comments": 77
         },
         "content_status": {
@@ -3978,9 +3978,9 @@
             }
           ]
         },
-        "vph": 7.2,
-        "days_since_published": 28,
-        "views_per_day": 179.2,
+        "vph": 7.1,
+        "days_since_published": 29,
+        "views_per_day": 172.5,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 55,
@@ -4086,7 +4086,7 @@
         "duration_formatted": "42s",
         "is_short": true,
         "statistics": {
-          "views": 5529,
+          "views": 5516,
           "likes": 211,
           "comments": 32
         },
@@ -4103,7 +4103,7 @@
             }
           ]
         },
-        "vph": 51.0,
+        "vph": 49.0,
         "days_since_published": 4,
         "views_per_day": 1227.8,
         "performance_status": "good",
@@ -4262,7 +4262,7 @@
         "duration_formatted": "54s",
         "is_short": true,
         "statistics": {
-          "views": 5479,
+          "views": 5504,
           "likes": 226,
           "comments": 33
         },
@@ -4279,7 +4279,7 @@
             }
           ]
         },
-        "vph": 49.6,
+        "vph": 47.6,
         "days_since_published": 4,
         "views_per_day": 1193.5,
         "performance_status": "good",
@@ -4508,8 +4508,8 @@
         "duration_formatted": "8s",
         "is_short": true,
         "statistics": {
-          "views": 9876,
-          "likes": 305,
+          "views": 9951,
+          "likes": 307,
           "comments": 9
         },
         "content_status": {
@@ -4517,7 +4517,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 72.0,
+        "vph": 67.8,
         "days_since_published": 2,
         "views_per_day": 2344.0,
         "performance_status": "average",
@@ -4594,7 +4594,7 @@
       },
       {
         "video_id": "RB50CtS103g",
-        "views": 4257,
+        "views": 4248,
         "watch_time_minutes": 295,
         "avg_view_duration_seconds": 11,
         "avg_view_percentage": 68.77,
@@ -4647,16 +4647,16 @@
       },
       {
         "video_id": "H8mKyWxzxU0",
-        "views": 3808,
-        "watch_time_minutes": 9226,
+        "views": 3782,
+        "watch_time_minutes": 9219,
         "avg_view_duration_seconds": 146,
         "avg_view_percentage": 33.84,
         "subscribers_gained": 4,
         "likes": 29,
         "comments": 1,
         "shares": 13,
-        "engagement_rate": 1.13,
-        "subscriber_conversion_rate": 0.105,
+        "engagement_rate": 1.14,
+        "subscriber_conversion_rate": 0.106,
         "title": "Navy's ELITE Silent Drill Team delivers INSANE precision \ud83d\udd25",
         "description": "The U.S. Navy Academy Silent Drill Team delivers flawless precision and military excellence that will leave you speechless! \ud83d\udd25 Elite discipline meets incredible artistry.\n\nStrike Fighter Squadron 103 (VFA-103), nicknamed the Jolly Rogers, presents an absolutely mesmerizing performance from the United States Navy Academy Silent Drill Team. This elite unit showcases the highest level of military precision, discipline, and coordination through their silent drill routine that has captivated audiences nationwide. Watch as these dedicated servicemen execute complex maneuvers with flawless timing and incredible attention to detail. The Houston Texans are proud to honor our military heroes and showcase the exceptional talent within our armed forces. This performance demonstrates the same dedication, teamwork, and pursuit of excellence that defines both military service and professional football. The Silent Drill Team's commitment to perfection mirrors the values we hold dear in Houston - hard work, precision, and representing something bigger than yourself. These sailors embody the spirit of service that makes America great, and their performance is a testament to the incredible men and women who serve our country with honor and distinction.\n\n\ud83d\udd14 Join The Swarm and subscribe for more incredible content from your Houston Texans!\n\ud83d\udc49 SUBSCRIBE: https://www.youtube.com/c/HoustonTexans?sub_confirmation=1\n\n\ud83d\udcf1 Follow the Houston Texans:\nTwitter: https://twitter.com/HoustonTexans\nInstagram: https://instagram.com/HoustonTexans\nFacebook: https://facebook.com/HoustonTexans\nTikTok: https://tiktok.com/@HoustonTexans\nWebsite: https://www.HoustonTexans.com\n\n#Texans #HoustonTexans #Military #SilentDrillTeam #Navy",
         "published_at": "2022-11-24T14:00:11Z",
@@ -4665,8 +4665,8 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 269292,
-          "likes": 2493,
+          "views": 269657,
+          "likes": 2494,
           "comments": 199
         },
         "content_status": {
@@ -5411,8 +5411,8 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 8793,
-          "likes": 478,
+          "views": 9069,
+          "likes": 492,
           "comments": 18
         },
         "content_status": {
@@ -5420,7 +5420,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 53.6,
+        "vph": 50.5,
         "days_since_published": 2,
         "views_per_day": 1747.0,
         "performance_status": "excellent",
@@ -5502,15 +5502,15 @@
       },
       {
         "video_id": "cPobTdLqgUE",
-        "views": 3036,
-        "watch_time_minutes": 5178,
+        "views": 3016,
+        "watch_time_minutes": 5200,
         "avg_view_duration_seconds": 103,
         "avg_view_percentage": 25.61,
         "subscribers_gained": 2,
         "likes": 24,
         "comments": 8,
         "shares": 25,
-        "engagement_rate": 1.88,
+        "engagement_rate": 1.89,
         "subscriber_conversion_rate": 0.066,
         "title": "Jaylen Reed's INSANE highlights that got him drafted \ud83d\udd25",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -5520,7 +5520,7 @@
         "duration_formatted": "6:43",
         "is_short": false,
         "statistics": {
-          "views": 24963,
+          "views": 24968,
           "likes": 348,
           "comments": 62
         },
@@ -5634,8 +5634,8 @@
         "duration_formatted": "26s",
         "is_short": true,
         "statistics": {
-          "views": 4843,
-          "likes": 237,
+          "views": 4875,
+          "likes": 241,
           "comments": 2
         },
         "content_status": {
@@ -5651,7 +5651,7 @@
             }
           ]
         },
-        "vph": 42.9,
+        "vph": 40.4,
         "days_since_published": 2,
         "views_per_day": 1397.0,
         "performance_status": "poor",
@@ -5749,8 +5749,8 @@
         "duration_formatted": "17s",
         "is_short": true,
         "statistics": {
-          "views": 10231,
-          "likes": 443,
+          "views": 10332,
+          "likes": 447,
           "comments": 23
         },
         "content_status": {
@@ -5758,7 +5758,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 42.4,
+        "vph": 39.9,
         "days_since_published": 2,
         "views_per_day": 1381.0,
         "performance_status": "good",
@@ -5832,8 +5832,8 @@
       },
       {
         "video_id": "R5Bh-0ns42g",
-        "views": 2755,
-        "watch_time_minutes": 21229,
+        "views": 2751,
+        "watch_time_minutes": 21251,
         "avg_view_duration_seconds": 463,
         "avg_view_percentage": 26.780000000000005,
         "subscribers_gained": 5,
@@ -5841,7 +5841,7 @@
         "comments": 13,
         "shares": 7,
         "engagement_rate": 4.07,
-        "subscriber_conversion_rate": 0.181,
+        "subscriber_conversion_rate": 0.182,
         "title": "LIVE: The Houston Texans address the media",
         "description": "Subscribe to the Houston Texans YouTube Channel: tex.nz/youtubesubscribe\n\nFOLLOW THE TEAM\nhttps://www.facebook.com/HoustonTexans/\nhttps://twitter.com/HoustonTexans\nhttps://www.instagram.com/houstontexans/\n\nGET TO KNOW THE TEAM\nhttps://www.HoustonTexans.com\nhttps://www.houstontexans.com/team/players-roster/\nhttps://www.houstontexans.com/team/stats/\nhttps://www.houstontexans.com/team/team-history\nhttps://www.houstontexans.com/team/standings/\nhttps://www.houstontexans.com/schedule/",
         "published_at": "2026-08-22T18:18:09Z",
@@ -5850,7 +5850,7 @@
         "duration_formatted": "28:49",
         "is_short": false,
         "statistics": {
-          "views": 2791,
+          "views": 2792,
           "likes": 93,
           "comments": 11
         },
@@ -5867,9 +5867,9 @@
             }
           ]
         },
-        "vph": 16.8,
-        "days_since_published": 6,
-        "views_per_day": 459.2,
+        "vph": 16.4,
+        "days_since_published": 7,
+        "views_per_day": 393.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 70,
@@ -6007,15 +6007,15 @@
       },
       {
         "video_id": "Az9md9w-ZaM",
-        "views": 2755,
-        "watch_time_minutes": 22860,
+        "views": 2730,
+        "watch_time_minutes": 22753,
         "avg_view_duration_seconds": 500,
         "avg_view_percentage": 29.69,
         "subscribers_gained": 2,
         "likes": 106,
         "comments": 11,
         "shares": 14,
-        "engagement_rate": 4.75,
+        "engagement_rate": 4.8,
         "subscriber_conversion_rate": 0.073,
         "title": "LIVE: The Houston Texans address the media",
         "description": "Subscribe to the Houston Texans YouTube Channel: tex.nz/youtubesubscribe\n\nFOLLOW THE TEAM\nhttps://www.facebook.com/HoustonTexans/\nhttps://twitter.com/HoustonTexans\nhttps://www.instagram.com/houstontexans/\n\nGET TO KNOW THE TEAM\nhttps://www.HoustonTexans.com\nhttps://www.houstontexans.com/team/players-roster/\nhttps://www.houstontexans.com/team/stats/\nhttps://www.houstontexans.com/team/team-history\nhttps://www.houstontexans.com/team/standings/\nhttps://www.houstontexans.com/schedule/",
@@ -6025,7 +6025,7 @@
         "duration_formatted": "33:38",
         "is_short": false,
         "statistics": {
-          "views": 2771,
+          "views": 2772,
           "likes": 107,
           "comments": 11
         },
@@ -6042,9 +6042,9 @@
             }
           ]
         },
-        "vph": 26.1,
+        "vph": 24.9,
         "days_since_published": 4,
-        "views_per_day": 688.8,
+        "views_per_day": 682.5,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -6182,8 +6182,8 @@
       },
       {
         "video_id": "FXjZcbA2juc",
-        "views": 2691,
-        "watch_time_minutes": 30261,
+        "views": 2685,
+        "watch_time_minutes": 30266,
         "avg_view_duration_seconds": 676,
         "avg_view_percentage": 49.52,
         "subscribers_gained": 4,
@@ -6200,8 +6200,8 @@
         "duration_formatted": "22:46",
         "is_short": false,
         "statistics": {
-          "views": 30054,
-          "likes": 830,
+          "views": 30145,
+          "likes": 831,
           "comments": 66
         },
         "content_status": {
@@ -6219,7 +6219,7 @@
         },
         "vph": 3.5,
         "days_since_published": 32,
-        "views_per_day": 84.1,
+        "views_per_day": 83.9,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -6535,7 +6535,7 @@
       },
       {
         "video_id": "0R5GZjOfdn0",
-        "views": 2610,
+        "views": 2601,
         "watch_time_minutes": 6095,
         "avg_view_duration_seconds": 141,
         "avg_view_percentage": 36.39,
@@ -6553,8 +6553,8 @@
         "duration_formatted": "6:28",
         "is_short": false,
         "statistics": {
-          "views": 42820,
-          "likes": 463,
+          "views": 42907,
+          "likes": 464,
           "comments": 40
         },
         "content_status": {
@@ -6985,7 +6985,7 @@
         "duration_formatted": "6:34",
         "is_short": false,
         "statistics": {
-          "views": 2854,
+          "views": 2856,
           "likes": 105,
           "comments": 3
         },
@@ -7002,9 +7002,9 @@
             }
           ]
         },
-        "vph": 36.3,
-        "days_since_published": 2,
-        "views_per_day": 1252.5,
+        "vph": 34.3,
+        "days_since_published": 3,
+        "views_per_day": 835.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 70,
@@ -7160,8 +7160,8 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 7787,
-          "likes": 329,
+          "views": 7993,
+          "likes": 337,
           "comments": 3
         },
         "content_status": {
@@ -7169,7 +7169,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 37.9,
+        "vph": 35.7,
         "days_since_published": 2,
         "views_per_day": 1234.0,
         "performance_status": "average",
@@ -7263,8 +7263,8 @@
         "duration_formatted": "20s",
         "is_short": true,
         "statistics": {
-          "views": 4430,
-          "likes": 220,
+          "views": 4473,
+          "likes": 222,
           "comments": 11
         },
         "content_status": {
@@ -7280,7 +7280,7 @@
             }
           ]
         },
-        "vph": 34.9,
+        "vph": 32.9,
         "days_since_published": 2,
         "views_per_day": 1138.0,
         "performance_status": "good",
@@ -7387,8 +7387,8 @@
         "duration_formatted": "10s",
         "is_short": true,
         "statistics": {
-          "views": 4959,
-          "likes": 255,
+          "views": 4987,
+          "likes": 256,
           "comments": 10
         },
         "content_status": {
@@ -7396,7 +7396,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 32.0,
+        "vph": 30.2,
         "days_since_published": 2,
         "views_per_day": 1044.5,
         "performance_status": "good",
@@ -7470,16 +7470,16 @@
       },
       {
         "video_id": "3X9LmCJpN_w",
-        "views": 1982,
-        "watch_time_minutes": 1290,
+        "views": 1971,
+        "watch_time_minutes": 1288,
         "avg_view_duration_seconds": 58,
         "avg_view_percentage": 55.96,
         "subscribers_gained": 1,
         "likes": 119,
         "comments": 1,
         "shares": 2,
-        "engagement_rate": 6.16,
-        "subscriber_conversion_rate": 0.05,
+        "engagement_rate": 6.19,
+        "subscriber_conversion_rate": 0.051,
         "title": "Some pretty confident answers here \ud83e\udd23",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-08-19T23:00:31Z",
@@ -7488,8 +7488,8 @@
         "duration_formatted": "1:45",
         "is_short": false,
         "statistics": {
-          "views": 10450,
-          "likes": 579,
+          "views": 10454,
+          "likes": 580,
           "comments": 26
         },
         "content_status": {
@@ -7497,9 +7497,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 8.6,
+        "vph": 8.4,
         "days_since_published": 9,
-        "views_per_day": 220.2,
+        "views_per_day": 219.0,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 50,
@@ -7681,8 +7681,8 @@
     "past_month": [
       {
         "video_id": "As2t-TGLevY",
-        "views": 285365,
-        "watch_time_minutes": 104823,
+        "views": 285348,
+        "watch_time_minutes": 104822,
         "avg_view_duration_seconds": 35,
         "avg_view_percentage": 69.22,
         "subscribers_gained": 406,
@@ -7699,8 +7699,8 @@
         "duration_formatted": "52s",
         "is_short": true,
         "statistics": {
-          "views": 286169,
-          "likes": 5397,
+          "views": 286192,
+          "likes": 5399,
           "comments": 77
         },
         "content_status": {
@@ -7716,9 +7716,9 @@
             }
           ]
         },
-        "vph": 410.2,
-        "days_since_published": 28,
-        "views_per_day": 10191.6,
+        "vph": 407.9,
+        "days_since_published": 29,
+        "views_per_day": 9839.6,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -7806,8 +7806,8 @@
       },
       {
         "video_id": "0xvXMEnwyYM",
-        "views": 93321,
-        "watch_time_minutes": 328979,
+        "views": 93232,
+        "watch_time_minutes": 328912,
         "avg_view_duration_seconds": 211,
         "avg_view_percentage": 32.44,
         "subscribers_gained": 108,
@@ -7824,8 +7824,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 12489692,
-          "likes": 168122,
+          "views": 12490315,
+          "likes": 168125,
           "comments": 8816
         },
         "content_status": {
@@ -7843,7 +7843,7 @@
         },
         "vph": 1.6,
         "days_since_published": 2471,
-        "views_per_day": 37.8,
+        "views_per_day": 37.7,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -8510,8 +8510,8 @@
       },
       {
         "video_id": "mrLddeyRRVM",
-        "views": 72985,
-        "watch_time_minutes": 733422,
+        "views": 72939,
+        "watch_time_minutes": 733368,
         "avg_view_duration_seconds": 603,
         "avg_view_percentage": 42.19,
         "subscribers_gained": 331,
@@ -8528,8 +8528,8 @@
         "duration_formatted": "23:51",
         "is_short": false,
         "statistics": {
-          "views": 79426,
-          "likes": 2086,
+          "views": 79640,
+          "likes": 2088,
           "comments": 136
         },
         "content_status": {
@@ -8537,9 +8537,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 181.8,
+        "vph": 179.9,
         "days_since_published": 16,
-        "views_per_day": 4561.6,
+        "views_per_day": 4558.7,
         "performance_status": "excellent",
         "seo_score": {
           "total_score": 70,
@@ -8706,7 +8706,7 @@
       },
       {
         "video_id": "o0El-6lde-4",
-        "views": 70891,
+        "views": 70889,
         "watch_time_minutes": 8281,
         "avg_view_duration_seconds": 17,
         "avg_view_percentage": 220.48000000000002,
@@ -8724,8 +8724,8 @@
         "duration_formatted": "8s",
         "is_short": true,
         "statistics": {
-          "views": 120120,
-          "likes": 2927,
+          "views": 120250,
+          "likes": 2929,
           "comments": 114
         },
         "content_status": {
@@ -8742,7 +8742,7 @@
           ]
         },
         "vph": 2.6,
-        "days_since_published": 1125,
+        "days_since_published": 1126,
         "views_per_day": 63.0,
         "performance_status": "good",
         "seo_score": {
@@ -8850,8 +8850,8 @@
       },
       {
         "video_id": "H8mKyWxzxU0",
-        "views": 45193,
-        "watch_time_minutes": 111901,
+        "views": 45167,
+        "watch_time_minutes": 111894,
         "avg_view_duration_seconds": 148,
         "avg_view_percentage": 34.26,
         "subscribers_gained": 60,
@@ -8868,8 +8868,8 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 269292,
-          "likes": 2493,
+          "views": 269657,
+          "likes": 2494,
           "comments": 199
         },
         "content_status": {
@@ -9570,7 +9570,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 58.6,
+        "vph": 58.2,
         "days_since_published": 28,
         "views_per_day": 1444.9,
         "performance_status": "average",
@@ -9667,7 +9667,7 @@
         "duration_formatted": "24s",
         "is_short": true,
         "statistics": {
-          "views": 36808,
+          "views": 36809,
           "likes": 1226,
           "comments": 87
         },
@@ -9676,7 +9676,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 70.8,
+        "vph": 70.3,
         "days_since_published": 21,
         "views_per_day": 1750.0,
         "performance_status": "poor",
@@ -9750,7 +9750,7 @@
       },
       {
         "video_id": "z002_tMAiJA",
-        "views": 35658,
+        "views": 35657,
         "watch_time_minutes": 154112,
         "avg_view_duration_seconds": 263,
         "avg_view_percentage": 52.51,
@@ -9768,7 +9768,7 @@
         "duration_formatted": "8:22",
         "is_short": false,
         "statistics": {
-          "views": 35883,
+          "views": 35884,
           "likes": 853,
           "comments": 53
         },
@@ -9785,7 +9785,7 @@
             }
           ]
         },
-        "vph": 62.5,
+        "vph": 62.1,
         "days_since_published": 23,
         "views_per_day": 1550.3,
         "performance_status": "good",
@@ -9941,8 +9941,8 @@
       },
       {
         "video_id": "mBQfXW2CauU",
-        "views": 34915,
-        "watch_time_minutes": 9475,
+        "views": 34875,
+        "watch_time_minutes": 9470,
         "avg_view_duration_seconds": 26,
         "avg_view_percentage": 76.61,
         "subscribers_gained": 14,
@@ -9959,8 +9959,8 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 36071,
-          "likes": 1737,
+          "views": 36095,
+          "likes": 1739,
           "comments": 72
         },
         "content_status": {
@@ -9968,9 +9968,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 169.9,
+        "vph": 166.5,
         "days_since_published": 8,
-        "views_per_day": 4364.4,
+        "views_per_day": 4359.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -10072,16 +10072,16 @@
         "duration_formatted": "54s",
         "is_short": true,
         "statistics": {
-          "views": 37552,
-          "likes": 3250,
-          "comments": 261
+          "views": 37705,
+          "likes": 3260,
+          "comments": 262
         },
         "content_status": {
           "is_blocked": false,
           "block_reason": null,
           "flags": []
         },
-        "vph": 346.8,
+        "vph": 333.0,
         "days_since_published": 4,
         "views_per_day": 8331.2,
         "performance_status": "excellent",
@@ -10182,8 +10182,8 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 34016,
-          "likes": 787,
+          "views": 34100,
+          "likes": 789,
           "comments": 14
         },
         "content_status": {
@@ -10191,7 +10191,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 63.5,
+        "vph": 63.0,
         "days_since_published": 21,
         "views_per_day": 1567.4,
         "performance_status": "average",
@@ -10287,8 +10287,8 @@
         "duration_formatted": "25s",
         "is_short": true,
         "statistics": {
-          "views": 32356,
-          "likes": 825,
+          "views": 32371,
+          "likes": 826,
           "comments": 22
         },
         "content_status": {
@@ -10296,7 +10296,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 47.0,
+        "vph": 46.7,
         "days_since_published": 28,
         "views_per_day": 1148.7,
         "performance_status": "poor",
@@ -10390,8 +10390,8 @@
         "duration_formatted": "58s",
         "is_short": true,
         "statistics": {
-          "views": 34319,
-          "likes": 2345,
+          "views": 34441,
+          "likes": 2350,
           "comments": 82
         },
         "content_status": {
@@ -10399,9 +10399,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 322.0,
-        "days_since_published": 3,
-        "views_per_day": 10253.3,
+        "vph": 309.1,
+        "days_since_published": 4,
+        "views_per_day": 7690.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 50,
@@ -10480,7 +10480,7 @@
       },
       {
         "video_id": "utDeHyMML-A",
-        "views": 29445,
+        "views": 29444,
         "watch_time_minutes": 19353,
         "avg_view_duration_seconds": 64,
         "avg_view_percentage": 67.71,
@@ -10498,7 +10498,7 @@
         "duration_formatted": "1:35",
         "is_short": false,
         "statistics": {
-          "views": 29509,
+          "views": 29511,
           "likes": 1657,
           "comments": 44
         },
@@ -10507,7 +10507,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 59.6,
+        "vph": 59.1,
         "days_since_published": 20,
         "views_per_day": 1472.2,
         "performance_status": "average",
@@ -10601,8 +10601,8 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 28904,
-          "likes": 988,
+          "views": 28915,
+          "likes": 990,
           "comments": 42
         },
         "content_status": {
@@ -10610,9 +10610,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 42.4,
-        "days_since_published": 27,
-        "views_per_day": 1053.6,
+        "vph": 42.2,
+        "days_since_published": 28,
+        "views_per_day": 1016.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -10710,7 +10710,7 @@
         "duration_formatted": "1:44",
         "is_short": false,
         "statistics": {
-          "views": 33139,
+          "views": 33141,
           "likes": 1252,
           "comments": 72
         },
@@ -10719,7 +10719,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 38.4,
+        "vph": 38.2,
         "days_since_published": 30,
         "views_per_day": 941.4,
         "performance_status": "poor",
@@ -10843,7 +10843,7 @@
         "duration_formatted": "39s",
         "is_short": true,
         "statistics": {
-          "views": 26408,
+          "views": 26410,
           "likes": 781,
           "comments": 23
         },
@@ -10852,7 +10852,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 53.5,
+        "vph": 53.1,
         "days_since_published": 20,
         "views_per_day": 1319.5,
         "performance_status": "poor",
@@ -10931,16 +10931,117 @@
         }
       },
       {
+        "video_id": "G0j3z-8z9_o",
+        "views": 26189,
+        "watch_time_minutes": 5181,
+        "avg_view_duration_seconds": 24,
+        "avg_view_percentage": 188.02,
+        "subscribers_gained": 7,
+        "likes": 1050,
+        "comments": 35,
+        "shares": 37,
+        "engagement_rate": 4.28,
+        "subscriber_conversion_rate": 0.027,
+        "title": "THAT\u2019S A DOT \ud83c\udfaf",
+        "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
+        "published_at": "2026-08-09T01:27:57Z",
+        "thumbnail": "https://i.ytimg.com/vi/G0j3z-8z9_o/hqdefault.jpg",
+        "duration_seconds": 13,
+        "duration_formatted": "13s",
+        "is_short": true,
+        "statistics": {
+          "views": 27671,
+          "likes": 1086,
+          "comments": 71
+        },
+        "content_status": {
+          "is_blocked": false,
+          "block_reason": null,
+          "flags": []
+        },
+        "vph": 52.7,
+        "days_since_published": 20,
+        "views_per_day": 1309.5,
+        "performance_status": "good",
+        "seo_score": {
+          "total_score": 50,
+          "grade": "D",
+          "breakdown": {
+            "boost_keywords": {
+              "score": 35,
+              "found": [
+                "texans",
+                "houston",
+                "bit",
+                "3uh7n0e",
+                "tickets",
+                "subscribe",
+                "texan"
+              ],
+              "count": 7
+            },
+            "avoid_keywords": {
+              "score": 0,
+              "found": [
+                "houstontexans",
+                "com",
+                "www",
+                "tex",
+                "https"
+              ],
+              "penalty": 50
+            },
+            "title": {
+              "score": 15,
+              "length": 14,
+              "optimal_range": [
+                40,
+                70
+              ]
+            },
+            "description": {
+              "score": 0,
+              "length": 82
+            },
+            "hashtags": {
+              "score": 0,
+              "count": 0
+            }
+          },
+          "suggestions": [
+            "Consider removing: houstontexans, com, www, tex, https",
+            "Title is short (14 chars). Aim for 40-70 chars.",
+            "Description is too short. Add context, links, and keywords."
+          ],
+          "boost_keywords_found": [
+            "texans",
+            "houston",
+            "bit",
+            "3uh7n0e",
+            "tickets",
+            "subscribe",
+            "texan"
+          ],
+          "avoid_keywords_found": [
+            "houstontexans",
+            "com",
+            "www",
+            "tex",
+            "https"
+          ]
+        }
+      },
+      {
         "video_id": "DQuZFlZ46ns",
-        "views": 26304,
-        "watch_time_minutes": 2804,
+        "views": 26165,
+        "watch_time_minutes": 2803,
         "avg_view_duration_seconds": 15,
         "avg_view_percentage": 189.72,
         "subscribers_gained": 6,
         "likes": 667,
         "comments": 28,
         "shares": 99,
-        "engagement_rate": 3.02,
+        "engagement_rate": 3.03,
         "subscriber_conversion_rate": 0.023,
         "title": "Take a look behind the scenes with Nico \ud83d\udc40",
         "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -10950,8 +11051,8 @@
         "duration_formatted": "8s",
         "is_short": true,
         "statistics": {
-          "views": 26877,
-          "likes": 676,
+          "views": 26904,
+          "likes": 678,
           "comments": 28
         },
         "content_status": {
@@ -10959,9 +11060,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 190.7,
+        "vph": 184.4,
         "days_since_published": 5,
-        "views_per_day": 5260.8,
+        "views_per_day": 5233.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -11043,107 +11144,6 @@
         }
       },
       {
-        "video_id": "G0j3z-8z9_o",
-        "views": 26191,
-        "watch_time_minutes": 5181,
-        "avg_view_duration_seconds": 24,
-        "avg_view_percentage": 188.02,
-        "subscribers_gained": 7,
-        "likes": 1050,
-        "comments": 35,
-        "shares": 37,
-        "engagement_rate": 4.28,
-        "subscriber_conversion_rate": 0.027,
-        "title": "THAT\u2019S A DOT \ud83c\udfaf",
-        "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
-        "published_at": "2026-08-09T01:27:57Z",
-        "thumbnail": "https://i.ytimg.com/vi/G0j3z-8z9_o/hqdefault.jpg",
-        "duration_seconds": 13,
-        "duration_formatted": "13s",
-        "is_short": true,
-        "statistics": {
-          "views": 27615,
-          "likes": 1083,
-          "comments": 71
-        },
-        "content_status": {
-          "is_blocked": false,
-          "block_reason": null,
-          "flags": []
-        },
-        "vph": 53.1,
-        "days_since_published": 20,
-        "views_per_day": 1309.5,
-        "performance_status": "good",
-        "seo_score": {
-          "total_score": 50,
-          "grade": "D",
-          "breakdown": {
-            "boost_keywords": {
-              "score": 35,
-              "found": [
-                "texans",
-                "houston",
-                "bit",
-                "3uh7n0e",
-                "tickets",
-                "subscribe",
-                "texan"
-              ],
-              "count": 7
-            },
-            "avoid_keywords": {
-              "score": 0,
-              "found": [
-                "houstontexans",
-                "com",
-                "www",
-                "tex",
-                "https"
-              ],
-              "penalty": 50
-            },
-            "title": {
-              "score": 15,
-              "length": 14,
-              "optimal_range": [
-                40,
-                70
-              ]
-            },
-            "description": {
-              "score": 0,
-              "length": 82
-            },
-            "hashtags": {
-              "score": 0,
-              "count": 0
-            }
-          },
-          "suggestions": [
-            "Consider removing: houstontexans, com, www, tex, https",
-            "Title is short (14 chars). Aim for 40-70 chars.",
-            "Description is too short. Add context, links, and keywords."
-          ],
-          "boost_keywords_found": [
-            "texans",
-            "houston",
-            "bit",
-            "3uh7n0e",
-            "tickets",
-            "subscribe",
-            "texan"
-          ],
-          "avoid_keywords_found": [
-            "houstontexans",
-            "com",
-            "www",
-            "tex",
-            "https"
-          ]
-        }
-      },
-      {
         "video_id": "Z6g8w5qtdjk",
         "views": 26031,
         "watch_time_minutes": 84927,
@@ -11163,8 +11163,8 @@
         "duration_formatted": "6:05",
         "is_short": false,
         "statistics": {
-          "views": 35665,
-          "likes": 1429,
+          "views": 35780,
+          "likes": 1431,
           "comments": 131
         },
         "content_status": {
@@ -11172,7 +11172,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 269.9,
+        "vph": 259.2,
         "days_since_published": 4,
         "views_per_day": 6507.8,
         "performance_status": "excellent",
@@ -11269,16 +11269,16 @@
       },
       {
         "video_id": "v9VFbEUYzZA",
-        "views": 25741,
-        "watch_time_minutes": 23547,
+        "views": 25665,
+        "watch_time_minutes": 23537,
         "avg_view_duration_seconds": 68,
         "avg_view_percentage": 48.1,
         "subscribers_gained": 24,
         "likes": 1943,
         "comments": 72,
         "shares": 18,
-        "engagement_rate": 7.9,
-        "subscriber_conversion_rate": 0.093,
+        "engagement_rate": 7.92,
+        "subscriber_conversion_rate": 0.094,
         "title": "C.J. Stroud on Keylan Rutledge and Texans Offensive Growth",
         "description": "C.J. Stroud joins the broadcast during Texans vs. Raiders after leading Houston on a touchdown drive in his only series of the night. Stroud discusses the offense\u2019s execution, his increased comfort in Year 2 of Nick Caley\u2019s system and why the group has found its identity. He also shares what Keylan Rutledge, Woody Marks and David Montgomery bring to the offense.\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-08-21T02:15:36Z",
@@ -11287,8 +11287,8 @@
         "duration_formatted": "2:23",
         "is_short": false,
         "statistics": {
-          "views": 26589,
-          "likes": 1983,
+          "views": 26635,
+          "likes": 1987,
           "comments": 93
         },
         "content_status": {
@@ -11304,9 +11304,9 @@
             }
           ]
         },
-        "vph": 126.1,
+        "vph": 123.3,
         "days_since_published": 8,
-        "views_per_day": 3217.6,
+        "views_per_day": 3208.1,
         "performance_status": "good",
         "seo_score": {
           "total_score": 70,
@@ -11446,8 +11446,8 @@
       },
       {
         "video_id": "afeVkaCtOA8",
-        "views": 25459,
-        "watch_time_minutes": 56872,
+        "views": 25450,
+        "watch_time_minutes": 56869,
         "avg_view_duration_seconds": 134,
         "avg_view_percentage": 35.59,
         "subscribers_gained": 17,
@@ -11464,7 +11464,7 @@
         "duration_formatted": "6:17",
         "is_short": false,
         "statistics": {
-          "views": 525812,
+          "views": 525836,
           "likes": 9499,
           "comments": 912
         },
@@ -12160,15 +12160,15 @@
       },
       {
         "video_id": "cUbvnPa2kn0",
-        "views": 24026,
-        "watch_time_minutes": 4198,
+        "views": 23979,
+        "watch_time_minutes": 4197,
         "avg_view_duration_seconds": 25,
         "avg_view_percentage": 169.15,
         "subscribers_gained": 8,
         "likes": 941,
         "comments": 42,
         "shares": 92,
-        "engagement_rate": 4.47,
+        "engagement_rate": 4.48,
         "subscriber_conversion_rate": 0.033,
         "title": "No peekingggg \ud83d\udc40",
         "description": "houstontexans.com/rivalries\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -12178,8 +12178,8 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 24953,
-          "likes": 966,
+          "views": 25027,
+          "likes": 968,
           "comments": 53
         },
         "content_status": {
@@ -12187,9 +12187,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 142.6,
+        "vph": 139.0,
         "days_since_published": 7,
-        "views_per_day": 3432.3,
+        "views_per_day": 3425.6,
         "performance_status": "average",
         "seo_score": {
           "total_score": 60,
@@ -12263,7 +12263,7 @@
       },
       {
         "video_id": "ehDRM_z3wIk",
-        "views": 22856,
+        "views": 22855,
         "watch_time_minutes": 3635,
         "avg_view_duration_seconds": 18,
         "avg_view_percentage": 157.4,
@@ -12281,7 +12281,7 @@
         "duration_formatted": "12s",
         "is_short": true,
         "statistics": {
-          "views": 22957,
+          "views": 22960,
           "likes": 747,
           "comments": 28
         },
@@ -12290,7 +12290,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 40.0,
+        "vph": 39.7,
         "days_since_published": 23,
         "views_per_day": 993.7,
         "performance_status": "average",
@@ -12404,7 +12404,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 44.5,
+        "vph": 44.1,
         "days_since_published": 19,
         "views_per_day": 1111.7,
         "performance_status": "poor",
@@ -12507,7 +12507,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 31.5,
+        "vph": 31.3,
         "days_since_published": 27,
         "views_per_day": 777.8,
         "performance_status": "average",
@@ -12625,7 +12625,7 @@
             }
           ]
         },
-        "vph": 35.3,
+        "vph": 35.1,
         "days_since_published": 24,
         "views_per_day": 869.0,
         "performance_status": "average",
@@ -12715,8 +12715,8 @@
       },
       {
         "video_id": "FXjZcbA2juc",
-        "views": 20828,
-        "watch_time_minutes": 217391,
+        "views": 20822,
+        "watch_time_minutes": 217397,
         "avg_view_duration_seconds": 626,
         "avg_view_percentage": 45.86,
         "subscribers_gained": 37,
@@ -12733,8 +12733,8 @@
         "duration_formatted": "22:46",
         "is_short": false,
         "statistics": {
-          "views": 30054,
-          "likes": 830,
+          "views": 30145,
+          "likes": 831,
           "comments": 66
         },
         "content_status": {
@@ -12750,9 +12750,9 @@
             }
           ]
         },
-        "vph": 27.1,
+        "vph": 27.0,
         "days_since_published": 32,
-        "views_per_day": 650.9,
+        "views_per_day": 650.7,
         "performance_status": "good",
         "seo_score": {
           "total_score": 70,
@@ -13086,8 +13086,8 @@
         "duration_formatted": "6s",
         "is_short": true,
         "statistics": {
-          "views": 23811,
-          "likes": 1262,
+          "views": 24310,
+          "likes": 1270,
           "comments": 93
         },
         "content_status": {
@@ -13095,7 +13095,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 226.9,
+        "vph": 217.4,
         "days_since_published": 3,
         "views_per_day": 6884.7,
         "performance_status": "good",
@@ -13196,8 +13196,8 @@
         "duration_formatted": "31s",
         "is_short": true,
         "statistics": {
-          "views": 25135,
-          "likes": 1652,
+          "views": 25336,
+          "likes": 1662,
           "comments": 73
         },
         "content_status": {
@@ -13205,9 +13205,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 209.5,
-        "days_since_published": 3,
-        "views_per_day": 6559.0,
+        "vph": 201.0,
+        "days_since_published": 4,
+        "views_per_day": 4919.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 45,
@@ -13297,8 +13297,8 @@
         "duration_formatted": "15s",
         "is_short": true,
         "statistics": {
-          "views": 19737,
-          "likes": 632,
+          "views": 19751,
+          "likes": 633,
           "comments": 13
         },
         "content_status": {
@@ -13306,9 +13306,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 29.4,
-        "days_since_published": 27,
-        "views_per_day": 728.3,
+        "vph": 29.2,
+        "days_since_published": 28,
+        "views_per_day": 702.2,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -13382,8 +13382,8 @@
       },
       {
         "video_id": "UfycvP7u15o",
-        "views": 19523,
-        "watch_time_minutes": 93441,
+        "views": 19517,
+        "watch_time_minutes": 93442,
         "avg_view_duration_seconds": 287,
         "avg_view_percentage": 35.04,
         "subscribers_gained": 26,
@@ -13400,7 +13400,7 @@
         "duration_formatted": "13:40",
         "is_short": false,
         "statistics": {
-          "views": 563065,
+          "views": 563091,
           "likes": 2796,
           "comments": 191
         },
@@ -13419,7 +13419,7 @@
         },
         "vph": 2.1,
         "days_since_published": 394,
-        "views_per_day": 49.6,
+        "views_per_day": 49.5,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -13646,7 +13646,7 @@
       },
       {
         "video_id": "D0jfEJ7EIoU",
-        "views": 19276,
+        "views": 19274,
         "watch_time_minutes": 1870,
         "avg_view_duration_seconds": 14,
         "avg_view_percentage": 208.93,
@@ -13673,9 +13673,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 33.7,
+        "vph": 33.5,
         "days_since_published": 23,
-        "views_per_day": 838.1,
+        "views_per_day": 838.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 50,
@@ -13749,8 +13749,8 @@
       },
       {
         "video_id": "mXc83Ls2s-w",
-        "views": 19038,
-        "watch_time_minutes": 3036,
+        "views": 19028,
+        "watch_time_minutes": 3035,
         "avg_view_duration_seconds": 17,
         "avg_view_percentage": 125.1,
         "subscribers_gained": 3,
@@ -13767,8 +13767,8 @@
         "duration_formatted": "14s",
         "is_short": true,
         "statistics": {
-          "views": 19175,
-          "likes": 696,
+          "views": 19177,
+          "likes": 697,
           "comments": 45
         },
         "content_status": {
@@ -13776,9 +13776,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 72.6,
-        "days_since_published": 10,
-        "views_per_day": 1903.8,
+        "vph": 71.5,
+        "days_since_published": 11,
+        "views_per_day": 1729.8,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -13885,9 +13885,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 29.4,
-        "days_since_published": 25,
-        "views_per_day": 733.1,
+        "vph": 29.2,
+        "days_since_published": 26,
+        "views_per_day": 704.9,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -13986,8 +13986,8 @@
         "duration_formatted": "31s",
         "is_short": true,
         "statistics": {
-          "views": 19882,
-          "likes": 1313,
+          "views": 19983,
+          "likes": 1321,
           "comments": 76
         },
         "content_status": {
@@ -13995,9 +13995,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 194.5,
-        "days_since_published": 3,
-        "views_per_day": 6107.3,
+        "vph": 186.6,
+        "days_since_published": 4,
+        "views_per_day": 4580.5,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -14073,16 +14073,16 @@
       },
       {
         "video_id": "ERthT_mJT9c",
-        "views": 18196,
-        "watch_time_minutes": 19394,
+        "views": 18144,
+        "watch_time_minutes": 19387,
         "avg_view_duration_seconds": 82,
         "avg_view_percentage": 46.03,
         "subscribers_gained": 17,
         "likes": 1265,
         "comments": 30,
         "shares": 33,
-        "engagement_rate": 7.3,
-        "subscriber_conversion_rate": 0.093,
+        "engagement_rate": 7.32,
+        "subscriber_conversion_rate": 0.094,
         "title": "Will Anderson Jr. on Myles Garrett, Clowney and Keylan Rutledge",
         "description": "Will Anderson Jr. joins the broadcast during Texans vs. Raiders to discuss how Houston\u2019s defense can take another step this season. Anderson explains why greater precision and discipline have been major points of emphasis and how continuity has strengthened the unit. He also talks about offseason workouts with Myles Garrett and what Jadeveon Clowney has brought to the locker room.",
         "published_at": "2026-08-21T02:32:59Z",
@@ -14091,7 +14091,7 @@
         "duration_formatted": "2:59",
         "is_short": false,
         "statistics": {
-          "views": 19030,
+          "views": 19078,
           "likes": 1308,
           "comments": 27
         },
@@ -14108,9 +14108,9 @@
             }
           ]
         },
-        "vph": 89.2,
+        "vph": 87.3,
         "days_since_published": 8,
-        "views_per_day": 2274.5,
+        "views_per_day": 2268.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 70,
@@ -14272,8 +14272,8 @@
         "duration_formatted": "1:21",
         "is_short": false,
         "statistics": {
-          "views": 20263,
-          "likes": 1191,
+          "views": 20356,
+          "likes": 1192,
           "comments": 137
         },
         "content_status": {
@@ -14289,7 +14289,7 @@
             }
           ]
         },
-        "vph": 184.6,
+        "vph": 177.3,
         "days_since_published": 4,
         "views_per_day": 4449.5,
         "performance_status": "excellent",
@@ -14485,7 +14485,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 30.9,
+        "vph": 30.7,
         "days_since_published": 23,
         "views_per_day": 768.0,
         "performance_status": "average",
@@ -14610,7 +14610,7 @@
             }
           ]
         },
-        "vph": 29.4,
+        "vph": 29.2,
         "days_since_published": 24,
         "views_per_day": 728.2,
         "performance_status": "average",
@@ -15000,16 +15000,16 @@
       },
       {
         "video_id": "uz2hNUi1pb4",
-        "views": 17407,
-        "watch_time_minutes": 7516,
+        "views": 17321,
+        "watch_time_minutes": 7521,
         "avg_view_duration_seconds": 41,
         "avg_view_percentage": 73.05,
-        "subscribers_gained": 12,
+        "subscribers_gained": 13,
         "likes": 1125,
         "comments": 45,
         "shares": 144,
-        "engagement_rate": 7.55,
-        "subscriber_conversion_rate": 0.069,
+        "engagement_rate": 7.59,
+        "subscriber_conversion_rate": 0.075,
         "title": "Volume up\u2026",
         "description": "HoustonTexans.com/rivalries\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
         "published_at": "2026-08-23T13:01:48Z",
@@ -15018,8 +15018,8 @@
         "duration_formatted": "57s",
         "is_short": true,
         "statistics": {
-          "views": 18278,
-          "likes": 1163,
+          "views": 18308,
+          "likes": 1165,
           "comments": 53
         },
         "content_status": {
@@ -15027,9 +15027,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 119.7,
+        "vph": 115.9,
         "days_since_published": 6,
-        "views_per_day": 2901.2,
+        "views_per_day": 2886.8,
         "performance_status": "good",
         "seo_score": {
           "total_score": 60,
@@ -15121,16 +15121,16 @@
         "duration_formatted": "1:21",
         "is_short": false,
         "statistics": {
-          "views": 21149,
-          "likes": 2227,
-          "comments": 132
+          "views": 21457,
+          "likes": 2245,
+          "comments": 133
         },
         "content_status": {
           "is_blocked": false,
           "block_reason": null,
           "flags": []
         },
-        "vph": 175.7,
+        "vph": 168.7,
         "days_since_published": 4,
         "views_per_day": 4219.2,
         "performance_status": "excellent",
@@ -15233,7 +15233,7 @@
         "duration_formatted": "8s",
         "is_short": true,
         "statistics": {
-          "views": 15887,
+          "views": 15889,
           "likes": 397,
           "comments": 10
         },
@@ -15242,7 +15242,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 32.2,
+        "vph": 31.9,
         "days_since_published": 20,
         "views_per_day": 791.5,
         "performance_status": "average",
@@ -15318,8 +15318,8 @@
       },
       {
         "video_id": "Oe02fdTrBKM",
-        "views": 15745,
-        "watch_time_minutes": 37410,
+        "views": 15734,
+        "watch_time_minutes": 37401,
         "avg_view_duration_seconds": 142,
         "avg_view_percentage": 68.58,
         "subscribers_gained": 13,
@@ -15336,8 +15336,8 @@
         "duration_formatted": "3:28",
         "is_short": false,
         "statistics": {
-          "views": 16361,
-          "likes": 432,
+          "views": 16366,
+          "likes": 433,
           "comments": 32
         },
         "content_status": {
@@ -15353,9 +15353,9 @@
             }
           ]
         },
-        "vph": 55.9,
+        "vph": 55.1,
         "days_since_published": 11,
-        "views_per_day": 1431.4,
+        "views_per_day": 1430.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 70,
@@ -15521,8 +15521,8 @@
       },
       {
         "video_id": "R5KMG-TQZGo",
-        "views": 15698,
-        "watch_time_minutes": 48492,
+        "views": 15694,
+        "watch_time_minutes": 48490,
         "avg_view_duration_seconds": 185,
         "avg_view_percentage": 63.27,
         "subscribers_gained": 15,
@@ -15539,8 +15539,8 @@
         "duration_formatted": "4:53",
         "is_short": false,
         "statistics": {
-          "views": 16067,
-          "likes": 438,
+          "views": 16084,
+          "likes": 439,
           "comments": 15
         },
         "content_status": {
@@ -15548,9 +15548,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 47.6,
+        "vph": 47.1,
         "days_since_published": 13,
-        "views_per_day": 1207.5,
+        "views_per_day": 1207.2,
         "performance_status": "average",
         "seo_score": {
           "total_score": 70,
@@ -15743,8 +15743,8 @@
       },
       {
         "video_id": "h_5d3jvdB-g",
-        "views": 14291,
-        "watch_time_minutes": 44686,
+        "views": 14285,
+        "watch_time_minutes": 44673,
         "avg_view_duration_seconds": 187,
         "avg_view_percentage": 26.21,
         "subscribers_gained": 11,
@@ -15761,7 +15761,7 @@
         "duration_formatted": "11:56",
         "is_short": false,
         "statistics": {
-          "views": 176142,
+          "views": 176147,
           "likes": 1205,
           "comments": 63
         },
@@ -15780,7 +15780,7 @@
         },
         "vph": 1.3,
         "days_since_published": 443,
-        "views_per_day": 32.3,
+        "views_per_day": 32.2,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -16019,8 +16019,8 @@
         "duration_formatted": "7s",
         "is_short": true,
         "statistics": {
-          "views": 25472,
-          "likes": 628,
+          "views": 25536,
+          "likes": 630,
           "comments": 25
         },
         "content_status": {
@@ -16028,7 +16028,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 217.6,
+        "vph": 205.1,
         "days_since_published": 2,
         "views_per_day": 7088.5,
         "performance_status": "good",
@@ -16123,8 +16123,8 @@
         "duration_formatted": "13s",
         "is_short": true,
         "statistics": {
-          "views": 29545,
-          "likes": 1137,
+          "views": 29548,
+          "likes": 1138,
           "comments": 49
         },
         "content_status": {
@@ -16228,7 +16228,7 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 13641,
+          "views": 13643,
           "likes": 677,
           "comments": 34
         },
@@ -16237,7 +16237,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 28.8,
+        "vph": 28.5,
         "days_since_published": 19,
         "views_per_day": 717.4,
         "performance_status": "average",
@@ -16315,7 +16315,7 @@
     "current_fy": [
       {
         "video_id": "gdfFiCgRmUI",
-        "views": 748236,
+        "views": 748235,
         "watch_time_minutes": 287831,
         "avg_view_duration_seconds": 39,
         "avg_view_percentage": 72.2,
@@ -16333,8 +16333,8 @@
         "duration_formatted": "55s",
         "is_short": true,
         "statistics": {
-          "views": 748693,
-          "likes": 17294,
+          "views": 748712,
+          "likes": 17295,
           "comments": 274
         },
         "content_status": {
@@ -16342,9 +16342,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 305.9,
-        "days_since_published": 101,
-        "views_per_day": 7408.3,
+        "vph": 305.4,
+        "days_since_published": 102,
+        "views_per_day": 7335.6,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 65,
@@ -16469,8 +16469,8 @@
       },
       {
         "video_id": "0xvXMEnwyYM",
-        "views": 638557,
-        "watch_time_minutes": 2342953,
+        "views": 638468,
+        "watch_time_minutes": 2342886,
         "avg_view_duration_seconds": 220,
         "avg_view_percentage": 33.72,
         "subscribers_gained": 824,
@@ -16487,8 +16487,8 @@
         "duration_formatted": "10:53",
         "is_short": false,
         "statistics": {
-          "views": 12489692,
-          "likes": 168122,
+          "views": 12490315,
+          "likes": 168125,
           "comments": 8816
         },
         "content_status": {
@@ -17173,8 +17173,8 @@
       },
       {
         "video_id": "As2t-TGLevY",
-        "views": 285365,
-        "watch_time_minutes": 104823,
+        "views": 285348,
+        "watch_time_minutes": 104822,
         "avg_view_duration_seconds": 35,
         "avg_view_percentage": 69.22,
         "subscribers_gained": 406,
@@ -17191,8 +17191,8 @@
         "duration_formatted": "52s",
         "is_short": true,
         "statistics": {
-          "views": 286163,
-          "likes": 5397,
+          "views": 286192,
+          "likes": 5399,
           "comments": 77
         },
         "content_status": {
@@ -17208,9 +17208,9 @@
             }
           ]
         },
-        "vph": 410.2,
-        "days_since_published": 28,
-        "views_per_day": 10191.6,
+        "vph": 407.9,
+        "days_since_published": 29,
+        "views_per_day": 9839.6,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -17298,8 +17298,8 @@
       },
       {
         "video_id": "H8mKyWxzxU0",
-        "views": 122274,
-        "watch_time_minutes": 301294,
+        "views": 122248,
+        "watch_time_minutes": 301286,
         "avg_view_duration_seconds": 147,
         "avg_view_percentage": 34.08,
         "subscribers_gained": 144,
@@ -17316,8 +17316,8 @@
         "duration_formatted": "7:14",
         "is_short": false,
         "statistics": {
-          "views": 269292,
-          "likes": 2493,
+          "views": 269657,
+          "likes": 2494,
           "comments": 199
         },
         "content_status": {
@@ -18009,7 +18009,7 @@
         "duration_formatted": "50s",
         "is_short": true,
         "statistics": {
-          "views": 98538,
+          "views": 98540,
           "likes": 3907,
           "comments": 159
         },
@@ -18132,8 +18132,8 @@
       },
       {
         "video_id": "h_5d3jvdB-g",
-        "views": 87193,
-        "watch_time_minutes": 236786,
+        "views": 87187,
+        "watch_time_minutes": 236774,
         "avg_view_duration_seconds": 162,
         "avg_view_percentage": 22.76,
         "subscribers_gained": 39,
@@ -18150,7 +18150,7 @@
         "duration_formatted": "11:56",
         "is_short": false,
         "statistics": {
-          "views": 176141,
+          "views": 176147,
           "likes": 1205,
           "comments": 63
         },
@@ -18390,7 +18390,7 @@
       },
       {
         "video_id": "o0El-6lde-4",
-        "views": 77029,
+        "views": 77027,
         "watch_time_minutes": 8934,
         "avg_view_duration_seconds": 17,
         "avg_view_percentage": 219.33,
@@ -18408,8 +18408,8 @@
         "duration_formatted": "8s",
         "is_short": true,
         "statistics": {
-          "views": 120120,
-          "likes": 2927,
+          "views": 120250,
+          "likes": 2929,
           "comments": 114
         },
         "content_status": {
@@ -18426,8 +18426,8 @@
           ]
         },
         "vph": 2.9,
-        "days_since_published": 1125,
-        "views_per_day": 68.5,
+        "days_since_published": 1126,
+        "views_per_day": 68.4,
         "performance_status": "good",
         "seo_score": {
           "total_score": 80,
@@ -18534,8 +18534,8 @@
       },
       {
         "video_id": "mrLddeyRRVM",
-        "views": 72985,
-        "watch_time_minutes": 733422,
+        "views": 72939,
+        "watch_time_minutes": 733368,
         "avg_view_duration_seconds": 603,
         "avg_view_percentage": 42.19,
         "subscribers_gained": 331,
@@ -18552,8 +18552,8 @@
         "duration_formatted": "23:51",
         "is_short": false,
         "statistics": {
-          "views": 79432,
-          "likes": 2086,
+          "views": 79640,
+          "likes": 2088,
           "comments": 136
         },
         "content_status": {
@@ -18561,9 +18561,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 181.8,
+        "vph": 179.9,
         "days_since_published": 16,
-        "views_per_day": 4561.6,
+        "views_per_day": 4558.7,
         "performance_status": "excellent",
         "seo_score": {
           "total_score": 70,
@@ -18730,8 +18730,8 @@
       },
       {
         "video_id": "UfycvP7u15o",
-        "views": 71020,
-        "watch_time_minutes": 335495,
+        "views": 71014,
+        "watch_time_minutes": 335496,
         "avg_view_duration_seconds": 283,
         "avg_view_percentage": 34.57,
         "subscribers_gained": 66,
@@ -18748,7 +18748,7 @@
         "duration_formatted": "13:40",
         "is_short": false,
         "statistics": {
-          "views": 563068,
+          "views": 563091,
           "likes": 2796,
           "comments": 191
         },
@@ -18767,7 +18767,7 @@
         },
         "vph": 7.5,
         "days_since_published": 394,
-        "views_per_day": 180.3,
+        "views_per_day": 180.2,
         "performance_status": "poor",
         "seo_score": {
           "total_score": 70,
@@ -19139,7 +19139,7 @@
       },
       {
         "video_id": "9mhVunAA2_0",
-        "views": 49289,
+        "views": 49288,
         "watch_time_minutes": 14014,
         "avg_view_duration_seconds": 26,
         "avg_view_percentage": 112.38999999999999,
@@ -19157,8 +19157,8 @@
         "duration_formatted": "24s",
         "is_short": true,
         "statistics": {
-          "views": 50047,
-          "likes": 1307,
+          "views": 50103,
+          "likes": 1309,
           "comments": 39
         },
         "content_status": {
@@ -19166,9 +19166,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 17.3,
-        "days_since_published": 118,
-        "views_per_day": 417.7,
+        "vph": 17.2,
+        "days_since_published": 119,
+        "views_per_day": 414.2,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -19247,7 +19247,7 @@
       },
       {
         "video_id": "fS4AOH7CwiM",
-        "views": 47961,
+        "views": 47958,
         "watch_time_minutes": 7994,
         "avg_view_duration_seconds": 22,
         "avg_view_percentage": 124.29,
@@ -19392,7 +19392,7 @@
         "is_short": true,
         "statistics": {
           "views": 47343,
-          "likes": 1415,
+          "likes": 1416,
           "comments": 98
         },
         "content_status": {
@@ -19528,8 +19528,8 @@
           "flags": []
         },
         "vph": 20.2,
-        "days_since_published": 87,
-        "views_per_day": 490.5,
+        "days_since_published": 88,
+        "views_per_day": 485.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 75,
@@ -19814,7 +19814,7 @@
       },
       {
         "video_id": "_TLkN8r0PR8",
-        "views": 40726,
+        "views": 40724,
         "watch_time_minutes": 8946,
         "avg_view_duration_seconds": 27,
         "avg_view_percentage": 121.67000000000002,
@@ -19833,7 +19833,7 @@
         "is_short": true,
         "statistics": {
           "views": 40797,
-          "likes": 1834,
+          "likes": 1836,
           "comments": 65
         },
         "content_status": {
@@ -19966,9 +19966,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 14.9,
-        "days_since_published": 113,
-        "views_per_day": 359.6,
+        "vph": 14.8,
+        "days_since_published": 114,
+        "views_per_day": 356.4,
         "performance_status": "good",
         "seo_score": {
           "total_score": 55,
@@ -20069,7 +20069,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 58.6,
+        "vph": 58.2,
         "days_since_published": 28,
         "views_per_day": 1444.9,
         "performance_status": "good",
@@ -20286,7 +20286,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 12.6,
+        "vph": 12.5,
         "days_since_published": 127,
         "views_per_day": 302.3,
         "performance_status": "poor",
@@ -20515,7 +20515,7 @@
         "duration_formatted": "24s",
         "is_short": true,
         "statistics": {
-          "views": 36808,
+          "views": 36809,
           "likes": 1226,
           "comments": 87
         },
@@ -20524,7 +20524,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 70.8,
+        "vph": 70.3,
         "days_since_published": 21,
         "views_per_day": 1750.0,
         "performance_status": "average",
@@ -20616,7 +20616,7 @@
         "duration_formatted": "19s",
         "is_short": true,
         "statistics": {
-          "views": 36548,
+          "views": 36551,
           "likes": 1647,
           "comments": 35
         },
@@ -20625,9 +20625,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 14.4,
-        "days_since_published": 105,
-        "views_per_day": 347.3,
+        "vph": 14.3,
+        "days_since_published": 106,
+        "views_per_day": 344.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 75,
@@ -20743,7 +20743,7 @@
         "duration_formatted": "27s",
         "is_short": true,
         "statistics": {
-          "views": 35894,
+          "views": 35895,
           "likes": 1409,
           "comments": 77
         },
@@ -20843,7 +20843,7 @@
       },
       {
         "video_id": "z002_tMAiJA",
-        "views": 35658,
+        "views": 35657,
         "watch_time_minutes": 154112,
         "avg_view_duration_seconds": 263,
         "avg_view_percentage": 52.51,
@@ -20861,7 +20861,7 @@
         "duration_formatted": "8:22",
         "is_short": false,
         "statistics": {
-          "views": 35883,
+          "views": 35884,
           "likes": 853,
           "comments": 53
         },
@@ -20878,7 +20878,7 @@
             }
           ]
         },
-        "vph": 62.5,
+        "vph": 62.1,
         "days_since_published": 23,
         "views_per_day": 1550.3,
         "performance_status": "good",
@@ -21034,8 +21034,8 @@
       },
       {
         "video_id": "mBQfXW2CauU",
-        "views": 34915,
-        "watch_time_minutes": 9475,
+        "views": 34875,
+        "watch_time_minutes": 9470,
         "avg_view_duration_seconds": 26,
         "avg_view_percentage": 76.61,
         "subscribers_gained": 14,
@@ -21052,8 +21052,8 @@
         "duration_formatted": "34s",
         "is_short": true,
         "statistics": {
-          "views": 36071,
-          "likes": 1737,
+          "views": 36095,
+          "likes": 1739,
           "comments": 72
         },
         "content_status": {
@@ -21061,9 +21061,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 169.9,
+        "vph": 166.5,
         "days_since_published": 8,
-        "views_per_day": 4364.4,
+        "views_per_day": 4359.4,
         "performance_status": "average",
         "seo_score": {
           "total_score": 50,
@@ -21165,16 +21165,16 @@
         "duration_formatted": "54s",
         "is_short": true,
         "statistics": {
-          "views": 37552,
-          "likes": 3250,
-          "comments": 261
+          "views": 37705,
+          "likes": 3260,
+          "comments": 262
         },
         "content_status": {
           "is_blocked": false,
           "block_reason": null,
           "flags": []
         },
-        "vph": 346.8,
+        "vph": 333.0,
         "days_since_published": 4,
         "views_per_day": 8331.2,
         "performance_status": "excellent",
@@ -21257,8 +21257,8 @@
       },
       {
         "video_id": "afeVkaCtOA8",
-        "views": 33231,
-        "watch_time_minutes": 77447,
+        "views": 33222,
+        "watch_time_minutes": 77444,
         "avg_view_duration_seconds": 139,
         "avg_view_percentage": 37.12,
         "subscribers_gained": 21,
@@ -21275,7 +21275,7 @@
         "duration_formatted": "6:17",
         "is_short": false,
         "statistics": {
-          "views": 525812,
+          "views": 525836,
           "likes": 9499,
           "comments": 912
         },
@@ -21989,7 +21989,7 @@
         "duration_formatted": "1:44",
         "is_short": false,
         "statistics": {
-          "views": 33139,
+          "views": 33141,
           "likes": 1252,
           "comments": 72
         },
@@ -21998,7 +21998,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 44.9,
+        "vph": 44.7,
         "days_since_published": 30,
         "views_per_day": 1101.6,
         "performance_status": "average",
@@ -22122,8 +22122,8 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 34029,
-          "likes": 787,
+          "views": 34100,
+          "likes": 789,
           "comments": 14
         },
         "content_status": {
@@ -22131,7 +22131,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 63.5,
+        "vph": 63.0,
         "days_since_published": 21,
         "views_per_day": 1567.4,
         "performance_status": "average",
@@ -22227,7 +22227,7 @@
         "duration_formatted": "11s",
         "is_short": true,
         "statistics": {
-          "views": 32503,
+          "views": 32506,
           "likes": 1238,
           "comments": 36
         },
@@ -22237,8 +22237,8 @@
           "flags": []
         },
         "vph": 16.7,
-        "days_since_published": 80,
-        "views_per_day": 406.0,
+        "days_since_published": 81,
+        "views_per_day": 401.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -22331,8 +22331,8 @@
         "duration_formatted": "25s",
         "is_short": true,
         "statistics": {
-          "views": 32351,
-          "likes": 825,
+          "views": 32371,
+          "likes": 826,
           "comments": 22
         },
         "content_status": {
@@ -22340,7 +22340,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 47.0,
+        "vph": 46.7,
         "days_since_published": 28,
         "views_per_day": 1148.7,
         "performance_status": "average",
@@ -22561,7 +22561,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 10.3,
+        "vph": 10.2,
         "days_since_published": 127,
         "views_per_day": 246.9,
         "performance_status": "average",
@@ -22655,8 +22655,8 @@
         "duration_formatted": "58s",
         "is_short": true,
         "statistics": {
-          "views": 34319,
-          "likes": 2345,
+          "views": 34441,
+          "likes": 2350,
           "comments": 82
         },
         "content_status": {
@@ -22664,9 +22664,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 322.0,
-        "days_since_published": 3,
-        "views_per_day": 10253.3,
+        "vph": 309.1,
+        "days_since_published": 4,
+        "views_per_day": 7690.0,
         "performance_status": "good",
         "seo_score": {
           "total_score": 50,
@@ -22745,7 +22745,7 @@
       },
       {
         "video_id": "RVMAf8bsfLM",
-        "views": 29994,
+        "views": 29992,
         "watch_time_minutes": 95850,
         "avg_view_duration_seconds": 191,
         "avg_view_percentage": 52.11,
@@ -22763,7 +22763,7 @@
         "duration_formatted": "6:08",
         "is_short": false,
         "statistics": {
-          "views": 251740,
+          "views": 251758,
           "likes": 2588,
           "comments": 200
         },
@@ -23099,8 +23099,8 @@
         "duration_formatted": "13s",
         "is_short": true,
         "statistics": {
-          "views": 29545,
-          "likes": 1137,
+          "views": 29548,
+          "likes": 1138,
           "comments": 49
         },
         "content_status": {
@@ -23108,7 +23108,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 25.2,
+        "vph": 25.1,
         "days_since_published": 48,
         "views_per_day": 613.9,
         "performance_status": "average",
@@ -23186,7 +23186,7 @@
       },
       {
         "video_id": "utDeHyMML-A",
-        "views": 29445,
+        "views": 29444,
         "watch_time_minutes": 19353,
         "avg_view_duration_seconds": 64,
         "avg_view_percentage": 67.71,
@@ -23204,7 +23204,7 @@
         "duration_formatted": "1:35",
         "is_short": false,
         "statistics": {
-          "views": 29509,
+          "views": 29511,
           "likes": 1657,
           "comments": 44
         },
@@ -23213,7 +23213,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 59.6,
+        "vph": 59.1,
         "days_since_published": 20,
         "views_per_day": 1472.2,
         "performance_status": "good",
@@ -23289,15 +23289,15 @@
       },
       {
         "video_id": "FXjZcbA2juc",
-        "views": 29164,
-        "watch_time_minutes": 300389,
+        "views": 29158,
+        "watch_time_minutes": 300394,
         "avg_view_duration_seconds": 618,
         "avg_view_percentage": 45.25,
         "subscribers_gained": 55,
         "likes": 820,
         "comments": 54,
         "shares": 119,
-        "engagement_rate": 3.4,
+        "engagement_rate": 3.41,
         "subscriber_conversion_rate": 0.189,
         "title": "Nine Straight Wins and a Playoff Run | Texans 2025 Recap",
         "description": "The Houston Texans\u2019 2025 season tested their resilience from the opening weeks. After starting 0-3, Houston responded with a shutout of Tennessee, its first road win in Baltimore and a dramatic comeback against Jacksonville that changed the direction of the season. Relive the defining plays from C.J. Stroud, Davis Mills, Nico Collins, Will Anderson Jr., Danielle Hunter, Derek Stingley Jr. and the rest of the Texans as they fought their way back to the postseason.\n\n00:00 A season defined by resilience\n01:06 Texans shut out the Titans for their first win\n02:59 Houston makes history in Baltimore\n04:04 C.J. Stroud and the defense beat San Francisco\n05:04 The comeback that changed the season\n06:26 Davis Mills gives Houston the lead\n06:52 Sheldon Rankins seals the win over Jacksonville\n07:17 Eight sacks against Josh Allen and the Bills\n08:31 Calen Bullock closes out the prime-time win\n08:56 C.J. Stroud returns against Indianapolis\n10:38 Texans enter Kansas City with the season on the line\n12:07 Jalen Pitre, Kamari Lassiter and Azeez Al-Shaair take over\n13:35 Houston clinches a playoff berth in Los Angeles\n15:09 From 0-3 to a third straight postseason\n16:13 Wild Card battle against Pittsburgh\n18:14 Sheldon Rankins scores on a defensive touchdown\n19:16 Woody Marks extends the lead\n19:57 Calen Bullock takes it back for six\n20:44 Texans defeat Pittsburgh 30-6\n20:59 A historic defensive playoff performance\n\nSubscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
@@ -23307,8 +23307,8 @@
         "duration_formatted": "22:46",
         "is_short": false,
         "statistics": {
-          "views": 30054,
-          "likes": 830,
+          "views": 30145,
+          "likes": 831,
           "comments": 66
         },
         "content_status": {
@@ -23324,9 +23324,9 @@
             }
           ]
         },
-        "vph": 38.0,
+        "vph": 37.7,
         "days_since_published": 32,
-        "views_per_day": 911.4,
+        "views_per_day": 911.2,
         "performance_status": "good",
         "seo_score": {
           "total_score": 70,
@@ -23660,8 +23660,8 @@
         "duration_formatted": "9s",
         "is_short": true,
         "statistics": {
-          "views": 28904,
-          "likes": 988,
+          "views": 28915,
+          "likes": 990,
           "comments": 42
         },
         "content_status": {
@@ -23669,9 +23669,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 42.4,
-        "days_since_published": 27,
-        "views_per_day": 1053.6,
+        "vph": 42.2,
+        "days_since_published": 28,
+        "views_per_day": 1016.0,
         "performance_status": "average",
         "seo_score": {
           "total_score": 55,
@@ -23769,7 +23769,7 @@
         "duration_formatted": "5s",
         "is_short": true,
         "statistics": {
-          "views": 28354,
+          "views": 28356,
           "likes": 583,
           "comments": 11
         },
@@ -23983,7 +23983,7 @@
         "duration_formatted": "2:01",
         "is_short": false,
         "statistics": {
-          "views": 27418,
+          "views": 27422,
           "likes": 2000,
           "comments": 97
         },
@@ -24151,7 +24151,7 @@
       },
       {
         "video_id": "8HGqejUl5Tc",
-        "views": 27146,
+        "views": 27145,
         "watch_time_minutes": 91477,
         "avg_view_duration_seconds": 202,
         "avg_view_percentage": 56.96,
@@ -24169,7 +24169,7 @@
         "duration_formatted": "5:55",
         "is_short": false,
         "statistics": {
-          "views": 27232,
+          "views": 27237,
           "likes": 881,
           "comments": 56
         },
@@ -24179,8 +24179,8 @@
           "flags": []
         },
         "vph": 10.1,
-        "days_since_published": 111,
-        "views_per_day": 244.6,
+        "days_since_published": 112,
+        "views_per_day": 242.4,
         "performance_status": "excellent",
         "seo_score": {
           "total_score": 70,
@@ -24358,7 +24358,7 @@
         "duration_formatted": "39s",
         "is_short": true,
         "statistics": {
-          "views": 26408,
+          "views": 26410,
           "likes": 781,
           "comments": 23
         },
@@ -24367,7 +24367,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 53.5,
+        "vph": 53.1,
         "days_since_published": 20,
         "views_per_day": 1319.5,
         "performance_status": "poor",
@@ -24441,118 +24441,6 @@
             "tex",
             "his",
             "get",
-            "https"
-          ]
-        }
-      },
-      {
-        "video_id": "DQuZFlZ46ns",
-        "views": 26304,
-        "watch_time_minutes": 2804,
-        "avg_view_duration_seconds": 15,
-        "avg_view_percentage": 189.72,
-        "subscribers_gained": 6,
-        "likes": 667,
-        "comments": 28,
-        "shares": 99,
-        "engagement_rate": 3.02,
-        "subscriber_conversion_rate": 0.023,
-        "title": "Take a look behind the scenes with Nico \ud83d\udc40",
-        "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
-        "published_at": "2026-08-23T20:31:54Z",
-        "thumbnail": "https://i.ytimg.com/vi/DQuZFlZ46ns/hqdefault.jpg",
-        "duration_seconds": 8,
-        "duration_formatted": "8s",
-        "is_short": true,
-        "statistics": {
-          "views": 26879,
-          "likes": 676,
-          "comments": 28
-        },
-        "content_status": {
-          "is_blocked": false,
-          "block_reason": null,
-          "flags": []
-        },
-        "vph": 190.7,
-        "days_since_published": 5,
-        "views_per_day": 5260.8,
-        "performance_status": "average",
-        "seo_score": {
-          "total_score": 60,
-          "grade": "C",
-          "breakdown": {
-            "boost_keywords": {
-              "score": 40,
-              "found": [
-                "texans",
-                "houston",
-                "nico",
-                "behind the scenes",
-                "bit",
-                "3uh7n0e",
-                "behind",
-                "behind the"
-              ],
-              "count": 13
-            },
-            "avoid_keywords": {
-              "score": 0,
-              "found": [
-                "houstontexans",
-                "com",
-                "www",
-                "tex",
-                "look",
-                "take",
-                "https"
-              ],
-              "penalty": 70
-            },
-            "title": {
-              "score": 20,
-              "length": 41,
-              "optimal_range": [
-                40,
-                70
-              ]
-            },
-            "description": {
-              "score": 0,
-              "length": 82
-            },
-            "hashtags": {
-              "score": 0,
-              "count": 0
-            }
-          },
-          "suggestions": [
-            "Consider removing: houstontexans, com, www, tex, look, take, https",
-            "Description is too short. Add context, links, and keywords.",
-            "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
-          ],
-          "boost_keywords_found": [
-            "texans",
-            "houston",
-            "nico",
-            "behind the scenes",
-            "bit",
-            "3uh7n0e",
-            "behind",
-            "behind the",
-            "tickets",
-            "subscribe",
-            "texan",
-            "take a",
-            "a look"
-          ],
-          "avoid_keywords_found": [
-            "houstontexans",
-            "com",
-            "www",
-            "tex",
-            "look",
-            "take",
             "https"
           ]
         }
@@ -24695,7 +24583,7 @@
       },
       {
         "video_id": "G0j3z-8z9_o",
-        "views": 26191,
+        "views": 26189,
         "watch_time_minutes": 5181,
         "avg_view_duration_seconds": 24,
         "avg_view_percentage": 188.02,
@@ -24713,8 +24601,8 @@
         "duration_formatted": "13s",
         "is_short": true,
         "statistics": {
-          "views": 27615,
-          "likes": 1083,
+          "views": 27671,
+          "likes": 1086,
           "comments": 71
         },
         "content_status": {
@@ -24722,7 +24610,7 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 53.1,
+        "vph": 52.7,
         "days_since_published": 20,
         "views_per_day": 1309.5,
         "performance_status": "good",
@@ -24795,6 +24683,118 @@
         }
       },
       {
+        "video_id": "DQuZFlZ46ns",
+        "views": 26165,
+        "watch_time_minutes": 2803,
+        "avg_view_duration_seconds": 15,
+        "avg_view_percentage": 189.72,
+        "subscribers_gained": 6,
+        "likes": 667,
+        "comments": 28,
+        "shares": 99,
+        "engagement_rate": 3.03,
+        "subscriber_conversion_rate": 0.023,
+        "title": "Take a look behind the scenes with Nico \ud83d\udc40",
+        "description": "Subscribe: https://bit.ly/3UH7n0E\n\nTickets: https://www.houstontexans.com/tickets/",
+        "published_at": "2026-08-23T20:31:54Z",
+        "thumbnail": "https://i.ytimg.com/vi/DQuZFlZ46ns/hqdefault.jpg",
+        "duration_seconds": 8,
+        "duration_formatted": "8s",
+        "is_short": true,
+        "statistics": {
+          "views": 26904,
+          "likes": 678,
+          "comments": 28
+        },
+        "content_status": {
+          "is_blocked": false,
+          "block_reason": null,
+          "flags": []
+        },
+        "vph": 184.4,
+        "days_since_published": 5,
+        "views_per_day": 5233.0,
+        "performance_status": "average",
+        "seo_score": {
+          "total_score": 60,
+          "grade": "C",
+          "breakdown": {
+            "boost_keywords": {
+              "score": 40,
+              "found": [
+                "texans",
+                "houston",
+                "nico",
+                "behind the scenes",
+                "bit",
+                "3uh7n0e",
+                "behind",
+                "behind the"
+              ],
+              "count": 13
+            },
+            "avoid_keywords": {
+              "score": 0,
+              "found": [
+                "houstontexans",
+                "com",
+                "www",
+                "tex",
+                "look",
+                "take",
+                "https"
+              ],
+              "penalty": 70
+            },
+            "title": {
+              "score": 20,
+              "length": 41,
+              "optimal_range": [
+                40,
+                70
+              ]
+            },
+            "description": {
+              "score": 0,
+              "length": 82
+            },
+            "hashtags": {
+              "score": 0,
+              "count": 0
+            }
+          },
+          "suggestions": [
+            "Consider removing: houstontexans, com, www, tex, look, take, https",
+            "Description is too short. Add context, links, and keywords.",
+            "Add 3-5 relevant hashtags (#Texans #NFL #Houston)"
+          ],
+          "boost_keywords_found": [
+            "texans",
+            "houston",
+            "nico",
+            "behind the scenes",
+            "bit",
+            "3uh7n0e",
+            "behind",
+            "behind the",
+            "tickets",
+            "subscribe",
+            "texan",
+            "take a",
+            "a look"
+          ],
+          "avoid_keywords_found": [
+            "houstontexans",
+            "com",
+            "www",
+            "tex",
+            "look",
+            "take",
+            "https"
+          ]
+        }
+      },
+      {
         "video_id": "xTGS-xCbpRU",
         "views": 26068,
         "watch_time_minutes": 4791,
@@ -24823,9 +24823,9 @@
           "block_reason": null,
           "flags": []
         },
-        "vph": 10.3,
-        "days_since_published": 105,
-        "views_per_day": 248.3,
+        "vph": 10.2,
+        "days_since_published": 106,
+        "views_per_day": 245.9,
         "performance_status": "average",
         "seo_score": {
           "total_score": 70,
@@ -24917,68 +24917,68 @@
     "past_7_days": [
       {
         "source": "SHORTS",
-        "views": 179090,
-        "watch_time_minutes": 36429
+        "views": 178031,
+        "watch_time_minutes": 35910
       },
       {
         "source": "SUBSCRIBER",
-        "views": 169728,
-        "watch_time_minutes": 264894
+        "views": 169271,
+        "watch_time_minutes": 265460
       },
       {
         "source": "YT_CHANNEL",
-        "views": 64925,
-        "watch_time_minutes": 33082
+        "views": 65180,
+        "watch_time_minutes": 33165
       },
       {
         "source": "YT_SEARCH",
-        "views": 57165,
-        "watch_time_minutes": 71156
+        "views": 57179,
+        "watch_time_minutes": 71344
       },
       {
         "source": "EXT_URL",
-        "views": 24324,
-        "watch_time_minutes": 27033
+        "views": 24298,
+        "watch_time_minutes": 27023
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 22311,
-        "watch_time_minutes": 157572
+        "views": 22413,
+        "watch_time_minutes": 159162
       },
       {
         "source": "NOTIFICATION",
-        "views": 18176,
-        "watch_time_minutes": 11241
+        "views": 18114,
+        "watch_time_minutes": 11206
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 10241,
-        "watch_time_minutes": 25331
+        "views": 9837,
+        "watch_time_minutes": 22709
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 5360,
-        "watch_time_minutes": 12712
+        "views": 5330,
+        "watch_time_minutes": 12707
       },
       {
         "source": "ADVERTISING",
-        "views": 1889,
+        "views": 1886,
         "watch_time_minutes": 2819
       },
       {
         "source": "PLAYLIST",
-        "views": 1490,
-        "watch_time_minutes": 6957
+        "views": 1492,
+        "watch_time_minutes": 6955
       },
       {
         "source": "END_SCREEN",
-        "views": 265,
-        "watch_time_minutes": 975
+        "views": 264,
+        "watch_time_minutes": 973
       },
       {
         "source": "SOUND_PAGE",
-        "views": 53,
-        "watch_time_minutes": 13
+        "views": 59,
+        "watch_time_minutes": 15
       },
       {
         "source": "SHORTS_CONTENT_LINKS",
@@ -25004,63 +25004,63 @@
     "past_month": [
       {
         "source": "SHORTS",
-        "views": 1128630,
-        "watch_time_minutes": 254788
+        "views": 1127571,
+        "watch_time_minutes": 254269
       },
       {
         "source": "SUBSCRIBER",
-        "views": 839188,
-        "watch_time_minutes": 2076125
+        "views": 838731,
+        "watch_time_minutes": 2076691
       },
       {
         "source": "YT_SEARCH",
-        "views": 260240,
-        "watch_time_minutes": 390793
+        "views": 260254,
+        "watch_time_minutes": 390981
       },
       {
         "source": "YT_CHANNEL",
-        "views": 241642,
-        "watch_time_minutes": 160586
+        "views": 241897,
+        "watch_time_minutes": 160670
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 166355,
-        "watch_time_minutes": 1285700
+        "views": 166457,
+        "watch_time_minutes": 1287290
       },
       {
         "source": "NOTIFICATION",
-        "views": 91833,
-        "watch_time_minutes": 56070
+        "views": 91771,
+        "watch_time_minutes": 56035
       },
       {
         "source": "EXT_URL",
-        "views": 69654,
-        "watch_time_minutes": 98618
+        "views": 69628,
+        "watch_time_minutes": 98609
       },
       {
         "source": "ADVERTISING",
-        "views": 37700,
+        "views": 37697,
         "watch_time_minutes": 25590
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 37417,
-        "watch_time_minutes": 133018
+        "views": 37013,
+        "watch_time_minutes": 130397
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 23100,
-        "watch_time_minutes": 76170
+        "views": 23070,
+        "watch_time_minutes": 76165
       },
       {
         "source": "PLAYLIST",
-        "views": 7641,
-        "watch_time_minutes": 39439
+        "views": 7643,
+        "watch_time_minutes": 39437
       },
       {
         "source": "END_SCREEN",
-        "views": 3429,
-        "watch_time_minutes": 14036
+        "views": 3428,
+        "watch_time_minutes": 14034
       },
       {
         "source": "SHORTS_CONTENT_LINKS",
@@ -25069,8 +25069,8 @@
       },
       {
         "source": "SOUND_PAGE",
-        "views": 210,
-        "watch_time_minutes": 90
+        "views": 216,
+        "watch_time_minutes": 91
       },
       {
         "source": "HASHTAGS",
@@ -25091,63 +25091,63 @@
     "current_fy": [
       {
         "source": "SHORTS",
-        "views": 3269935,
-        "watch_time_minutes": 785621
+        "views": 3268876,
+        "watch_time_minutes": 785102
       },
       {
         "source": "SUBSCRIBER",
-        "views": 2263980,
-        "watch_time_minutes": 5784266
+        "views": 2263523,
+        "watch_time_minutes": 5784832
       },
       {
         "source": "YT_SEARCH",
-        "views": 995359,
-        "watch_time_minutes": 1271524
+        "views": 995373,
+        "watch_time_minutes": 1271713
       },
       {
         "source": "YT_CHANNEL",
-        "views": 723237,
-        "watch_time_minutes": 415247
+        "views": 723492,
+        "watch_time_minutes": 415330
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 449678,
-        "watch_time_minutes": 3116735
+        "views": 449780,
+        "watch_time_minutes": 3118324
       },
       {
         "source": "NOTIFICATION",
-        "views": 271632,
-        "watch_time_minutes": 168922
+        "views": 271570,
+        "watch_time_minutes": 168887
       },
       {
         "source": "EXT_URL",
-        "views": 225817,
-        "watch_time_minutes": 302900
+        "views": 225791,
+        "watch_time_minutes": 302891
       },
       {
         "source": "ADVERTISING",
-        "views": 219133,
+        "views": 219130,
         "watch_time_minutes": 74910
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 82943,
-        "watch_time_minutes": 293575
+        "views": 82539,
+        "watch_time_minutes": 290954
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 75748,
-        "watch_time_minutes": 219711
+        "views": 75718,
+        "watch_time_minutes": 219706
       },
       {
         "source": "PLAYLIST",
-        "views": 29535,
-        "watch_time_minutes": 115305
+        "views": 29537,
+        "watch_time_minutes": 115303
       },
       {
         "source": "END_SCREEN",
-        "views": 10203,
-        "watch_time_minutes": 39227
+        "views": 10202,
+        "watch_time_minutes": 39225
       },
       {
         "source": "SHORTS_CONTENT_LINKS",
@@ -25156,8 +25156,8 @@
       },
       {
         "source": "SOUND_PAGE",
-        "views": 659,
-        "watch_time_minutes": 202
+        "views": 665,
+        "watch_time_minutes": 203
       },
       {
         "source": "HASHTAGS",
@@ -25201,7 +25201,7 @@
           "engagement_total": 20530
         },
         "changes": {
-          "views": -7.7,
+          "views": -7.9,
           "watch_time_hours": -37.6,
           "net_subscribers": -2.5,
           "engagement_total": 69.3,
@@ -25227,12 +25227,12 @@
           "engagement_total": 13900
         },
         "changes": {
-          "views": 10.2,
-          "watch_time_hours": -52.5,
+          "views": 9.9,
+          "watch_time_hours": -52.6,
           "net_subscribers": 16.0,
           "engagement_total": 150.1,
           "avg_view_duration_seconds": -45.3,
-          "likes": 106.6
+          "likes": 106.7
         }
       }
     },
