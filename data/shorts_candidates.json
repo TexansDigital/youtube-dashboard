@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T12:02:34.248072-05:00",
-  "total_candidates": 19,
+  "generated_at": "2026-09-16T15:15:29.280439-05:00",
+  "total_candidates": 18,
   "candidates": [
     {
       "video_id": "BfXh2WSteEQ",
@@ -42,8 +42,53 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 156227,
-      "identified_at": "2026-09-16T12:01:34.571404-05:00",
+      "source_video_views": 156352,
+      "identified_at": "2026-09-16T15:15:08.768024-05:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "vnpfQYwCQZs",
+      "video_title": "LIVE: The Houston Texans address the media after the game vs. the Bills",
+      "video_url": "https://youtube.com/watch?v=vnpfQYwCQZs",
+      "timestamped_url": "https://youtube.com/watch?v=vnpfQYwCQZs&t=401",
+      "start_seconds": 401,
+      "end_seconds": 461,
+      "start_formatted": "6:41",
+      "end_formatted": "7:41",
+      "clip_duration": 60,
+      "retention_score": 46.6,
+      "video_avg_retention": 24.7,
+      "retention_boost": 1.89,
+      "priority_score": 170.2,
+      "flags": [
+        {
+          "type": "content",
+          "name": "ad",
+          "emoji": "\ud83d\udcb0",
+          "note": "Sponsored content - use conservative titling",
+          "show_banner": false
+        }
+      ],
+      "suggested_title": {
+        "suggestion": "The Swarm came to PLAY \ud83d\udc1d",
+        "alternatives": [
+          "Houston is BUILT DIFFERENT \ud83d\udd25",
+          "H-Town Made \ud83d\udcaa"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#Shorts"
+      ],
+      "content_type": "historical",
+      "source_video_views": 12747,
+      "identified_at": "2026-09-16T15:13:47.263113-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -89,8 +134,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 260776,
-      "identified_at": "2026-09-16T12:00:29.768810-05:00",
+      "source_video_views": 260780,
+      "identified_at": "2026-09-16T15:14:26.295107-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -104,7 +149,7 @@
       "start_formatted": "0:18",
       "end_formatted": "0:34",
       "clip_duration": 16,
-      "retention_score": 58.0,
+      "retention_score": 57.9,
       "video_avg_retention": 40.4,
       "retention_boost": 1.43,
       "priority_score": 143.4,
@@ -129,8 +174,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 25839,
-      "identified_at": "2026-09-16T11:55:50.639754-05:00",
+      "source_video_views": 25879,
+      "identified_at": "2026-09-16T15:11:07.561767-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -144,7 +189,7 @@
       "start_formatted": "0:14",
       "end_formatted": "0:34",
       "clip_duration": 20,
-      "retention_score": 68.8,
+      "retention_score": 68.7,
       "video_avg_retention": 48.4,
       "retention_boost": 1.42,
       "priority_score": 142.1,
@@ -176,8 +221,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 28378,
-      "identified_at": "2026-09-16T11:55:34.371577-05:00",
+      "source_video_views": 28488,
+      "identified_at": "2026-09-16T15:10:55.062413-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -191,8 +236,8 @@
       "start_formatted": "0:17",
       "end_formatted": "0:35",
       "clip_duration": 18,
-      "retention_score": 66.6,
-      "video_avg_retention": 47.0,
+      "retention_score": 66.5,
+      "video_avg_retention": 46.9,
       "retention_boost": 1.42,
       "priority_score": 141.7,
       "flags": [
@@ -221,8 +266,8 @@
         "#Shorts"
       ],
       "content_type": "interview",
-      "source_video_views": 20067,
-      "identified_at": "2026-09-16T11:56:22.746171-05:00",
+      "source_video_views": 20129,
+      "identified_at": "2026-09-16T15:11:40.790148-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -236,8 +281,8 @@
       "start_formatted": "0:15",
       "end_formatted": "0:31",
       "clip_duration": 16,
-      "retention_score": 66.8,
-      "video_avg_retention": 47.6,
+      "retention_score": 66.7,
+      "video_avg_retention": 47.5,
       "retention_boost": 1.4,
       "priority_score": 140.4,
       "flags": [
@@ -266,8 +311,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 22747,
-      "identified_at": "2026-09-16T11:55:58.150502-05:00",
+      "source_video_views": 22764,
+      "identified_at": "2026-09-16T15:11:26.671477-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -312,8 +357,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 489032,
-      "identified_at": "2026-09-16T11:59:03.253770-05:00",
+      "source_video_views": 489211,
+      "identified_at": "2026-09-16T15:13:48.090039-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -357,8 +402,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 173194,
-      "identified_at": "2026-09-16T12:01:31.009265-05:00",
+      "source_video_views": 173203,
+      "identified_at": "2026-09-16T15:15:00.742578-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -404,8 +449,8 @@
         "#Shorts"
       ],
       "content_type": "behind_the_scenes",
-      "source_video_views": 115020,
-      "identified_at": "2026-09-16T12:02:34.247812-05:00",
+      "source_video_views": 115025,
+      "identified_at": "2026-09-16T15:15:29.280203-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -442,8 +487,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 253184,
-      "identified_at": "2026-09-16T12:00:40.393629-05:00",
+      "source_video_views": 253250,
+      "identified_at": "2026-09-16T15:14:30.316748-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -457,10 +502,10 @@
       "start_formatted": "0:46",
       "end_formatted": "1:41",
       "clip_duration": 55,
-      "retention_score": 58.4,
-      "video_avg_retention": 40.7,
-      "retention_boost": 1.44,
-      "priority_score": 129.3,
+      "retention_score": 59.3,
+      "video_avg_retention": 41.5,
+      "retention_boost": 1.43,
+      "priority_score": 128.8,
       "flags": [
         {
           "type": "content",
@@ -489,8 +534,8 @@
         "#Shorts"
       ],
       "content_type": "interview",
-      "source_video_views": 16936,
-      "identified_at": "2026-09-16T11:57:44.611916-05:00",
+      "source_video_views": 22343,
+      "identified_at": "2026-09-16T15:11:34.055872-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -534,53 +579,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 34317,
-      "identified_at": "2026-09-16T11:54:37.074741-05:00",
-      "clip_created": false,
-      "shorts_video_id": null
-    },
-    {
-      "video_id": "xzt8lk8HdMg",
-      "video_title": "DeMeco Ryans on Texans vs Bills, Missed Opportunities | Full Q&A",
-      "video_url": "https://youtube.com/watch?v=xzt8lk8HdMg",
-      "timestamped_url": "https://youtube.com/watch?v=xzt8lk8HdMg&t=37",
-      "start_seconds": 37,
-      "end_seconds": 89,
-      "start_formatted": "0:37",
-      "end_formatted": "1:29",
-      "clip_duration": 52,
-      "retention_score": 74.6,
-      "video_avg_retention": 53.9,
-      "retention_boost": 1.38,
-      "priority_score": 124.4,
-      "flags": [
-        {
-          "type": "content",
-          "name": "ad",
-          "emoji": "\ud83d\udcb0",
-          "note": "Sponsored content - use conservative titling",
-          "show_banner": false
-        }
-      ],
-      "suggested_title": {
-        "suggestion": "Leadership like no other \ud83d\udc10",
-        "alternatives": [
-          "Coach DeMeco Ryans is HIM \ud83d\udd25",
-          "This is why we love DeMeco \ud83d\udcaa"
-        ],
-        "confidence": "\ud83d\udcca Performance-based",
-        "note": "Based on title patterns from high-performing Texans content"
-      },
-      "suggested_hashtags": [
-        "#Texans",
-        "#NFL",
-        "#Houston",
-        "#HoustonTexans",
-        "#Shorts"
-      ],
-      "content_type": "highlight",
-      "source_video_views": 16949,
-      "identified_at": "2026-09-16T11:57:30.644895-05:00",
+      "source_video_views": 34493,
+      "identified_at": "2026-09-16T15:10:34.635070-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -624,8 +624,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 18783,
-      "identified_at": "2026-09-16T11:56:47.348497-05:00",
+      "source_video_views": 19027,
+      "identified_at": "2026-09-16T15:11:41.595530-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -669,25 +669,25 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 359346,
-      "identified_at": "2026-09-16T11:59:46.181450-05:00",
+      "source_video_views": 359549,
+      "identified_at": "2026-09-16T15:13:56.644484-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
     {
-      "video_id": "0xvXMEnwyYM",
-      "video_title": "Silent Drill Platoon Performs at Halftime on Thursday Night Football | Texans vs. Colts",
-      "video_url": "https://youtube.com/watch?v=0xvXMEnwyYM",
-      "timestamped_url": "https://youtube.com/watch?v=0xvXMEnwyYM&t=65",
-      "start_seconds": 65,
-      "end_seconds": 125,
-      "start_formatted": "1:05",
-      "end_formatted": "2:05",
-      "clip_duration": 60,
-      "retention_score": 53.2,
-      "video_avg_retention": 39.1,
-      "retention_boost": 1.36,
-      "priority_score": 122.5,
+      "video_id": "xzt8lk8HdMg",
+      "video_title": "DeMeco Ryans on Texans vs Bills, Missed Opportunities | Full Q&A",
+      "video_url": "https://youtube.com/watch?v=xzt8lk8HdMg",
+      "timestamped_url": "https://youtube.com/watch?v=xzt8lk8HdMg&t=37",
+      "start_seconds": 37,
+      "end_seconds": 89,
+      "start_formatted": "0:37",
+      "end_formatted": "1:29",
+      "clip_duration": 52,
+      "retention_score": 75.1,
+      "video_avg_retention": 55.4,
+      "retention_boost": 1.35,
+      "priority_score": 121.9,
       "flags": [
         {
           "type": "content",
@@ -698,10 +698,10 @@
         }
       ],
       "suggested_title": {
-        "suggestion": "Houston fans are DIFFERENT \ud83d\udd25",
+        "suggestion": "Leadership like no other \ud83d\udc10",
         "alternatives": [
-          "The Swarm showed UP \ud83d\udc1d",
-          "This atmosphere is ELECTRIC \u26a1"
+          "Coach DeMeco Ryans is HIM \ud83d\udd25",
+          "This is why we love DeMeco \ud83d\udcaa"
         ],
         "confidence": "\ud83d\udcca Performance-based",
         "note": "Based on title patterns from high-performing Texans content"
@@ -713,9 +713,9 @@
         "#HoustonTexans",
         "#Shorts"
       ],
-      "content_type": "atmosphere",
-      "source_video_views": 344850,
-      "identified_at": "2026-09-16T11:52:54.670341-05:00",
+      "content_type": "highlight",
+      "source_video_views": 24708,
+      "identified_at": "2026-09-16T15:11:12.812900-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -729,8 +729,8 @@
       "start_formatted": "2:09",
       "end_formatted": "3:09",
       "clip_duration": 60,
-      "retention_score": 61.2,
-      "video_avg_retention": 45.6,
+      "retention_score": 61.0,
+      "video_avg_retention": 45.5,
       "retention_boost": 1.34,
       "priority_score": 120.8,
       "flags": [
@@ -759,8 +759,8 @@
         "#Shorts"
       ],
       "content_type": "interview",
-      "source_video_views": 30155,
-      "identified_at": "2026-09-16T11:54:59.115023-05:00",
+      "source_video_views": 30372,
+      "identified_at": "2026-09-16T15:10:38.335224-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -775,7 +775,7 @@
       "end_formatted": "1:25",
       "clip_duration": 47,
       "retention_score": 58.4,
-      "video_avg_retention": 43.8,
+      "video_avg_retention": 43.7,
       "retention_boost": 1.34,
       "priority_score": 120.2,
       "flags": [
@@ -804,53 +804,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 44182,
-      "identified_at": "2026-09-16T11:54:02.495342-05:00",
-      "clip_created": false,
-      "shorts_video_id": null
-    },
-    {
-      "video_id": "H8mKyWxzxU0",
-      "video_title": "Navy's ELITE Silent Drill Team delivers INSANE precision \ud83d\udd25",
-      "video_url": "https://youtube.com/watch?v=H8mKyWxzxU0",
-      "timestamped_url": "https://youtube.com/watch?v=H8mKyWxzxU0&t=43",
-      "start_seconds": 43,
-      "end_seconds": 103,
-      "start_formatted": "0:43",
-      "end_formatted": "1:43",
-      "clip_duration": 60,
-      "retention_score": 50.0,
-      "video_avg_retention": 38.2,
-      "retention_boost": 1.31,
-      "priority_score": 117.9,
-      "flags": [
-        {
-          "type": "content",
-          "name": "ad",
-          "emoji": "\ud83d\udcb0",
-          "note": "Sponsored content - use conservative titling",
-          "show_banner": false
-        }
-      ],
-      "suggested_title": {
-        "suggestion": "H-Town Made \ud83d\udcaa",
-        "alternatives": [
-          "Houston is BUILT DIFFERENT \ud83d\udd25",
-          "The Swarm came to PLAY \ud83d\udc1d"
-        ],
-        "confidence": "\ud83d\udcca Performance-based",
-        "note": "Based on title patterns from high-performing Texans content"
-      },
-      "suggested_hashtags": [
-        "#Texans",
-        "#NFL",
-        "#Houston",
-        "#HoustonTexans",
-        "#Shorts"
-      ],
-      "content_type": "general",
-      "source_video_views": 147270,
-      "identified_at": "2026-09-16T11:52:59.468976-05:00",
+      "source_video_views": 45144,
+      "identified_at": "2026-09-16T15:09:39.460647-05:00",
       "clip_created": false,
       "shorts_video_id": null
     }
