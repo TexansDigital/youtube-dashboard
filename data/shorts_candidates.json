@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T13:05:03.774132-05:00",
-  "total_candidates": 19,
+  "generated_at": "2026-09-19T15:43:14.024859-05:00",
+  "total_candidates": 20,
   "candidates": [
     {
       "video_id": "BfXh2WSteEQ",
@@ -42,8 +42,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 156566,
-      "identified_at": "2026-09-19T13:04:29.473107-05:00",
+      "source_video_views": 156668,
+      "identified_at": "2026-09-19T15:42:38.076205-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -87,8 +87,8 @@
         "#Shorts"
       ],
       "content_type": "historical",
-      "source_video_views": 12821,
-      "identified_at": "2026-09-19T13:03:29.113789-05:00",
+      "source_video_views": 12862,
+      "identified_at": "2026-09-19T15:41:06.617949-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -134,8 +134,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 260785,
-      "identified_at": "2026-09-19T13:04:13.393623-05:00",
+      "source_video_views": 260790,
+      "identified_at": "2026-09-19T15:41:45.613954-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -174,8 +174,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 25819,
-      "identified_at": "2026-09-19T13:01:53.950851-05:00",
+      "source_video_views": 25822,
+      "identified_at": "2026-09-19T15:39:39.550602-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -221,8 +221,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 28606,
-      "identified_at": "2026-09-19T13:01:42.237183-05:00",
+      "source_video_views": 28654,
+      "identified_at": "2026-09-19T15:39:18.565747-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -239,7 +239,7 @@
       "retention_score": 66.5,
       "video_avg_retention": 46.9,
       "retention_boost": 1.42,
-      "priority_score": 141.8,
+      "priority_score": 141.7,
       "flags": [
         {
           "type": "content",
@@ -266,8 +266,8 @@
         "#Shorts"
       ],
       "content_type": "interview",
-      "source_video_views": 20171,
-      "identified_at": "2026-09-19T13:02:29.777897-05:00",
+      "source_video_views": 20167,
+      "identified_at": "2026-09-19T15:40:09.312852-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -281,7 +281,7 @@
       "start_formatted": "0:15",
       "end_formatted": "0:31",
       "clip_duration": 16,
-      "retention_score": 66.7,
+      "retention_score": 66.6,
       "video_avg_retention": 47.5,
       "retention_boost": 1.4,
       "priority_score": 140.4,
@@ -311,8 +311,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 22814,
-      "identified_at": "2026-09-19T13:02:12.389448-05:00",
+      "source_video_views": 22781,
+      "identified_at": "2026-09-19T15:40:04.280730-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -357,8 +357,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 489715,
-      "identified_at": "2026-09-19T13:03:36.685916-05:00",
+      "source_video_views": 489876,
+      "identified_at": "2026-09-19T15:41:22.681367-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -402,8 +402,55 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 173231,
-      "identified_at": "2026-09-19T13:04:28.251505-05:00",
+      "source_video_views": 173229,
+      "identified_at": "2026-09-19T15:42:32.910021-05:00",
+      "clip_created": false,
+      "shorts_video_id": null
+    },
+    {
+      "video_id": "Ln1eDCMPcGY",
+      "video_title": "How the Texans landed C.J. Stroud & Will Anderson Jr.",
+      "video_url": "https://youtube.com/watch?v=Ln1eDCMPcGY",
+      "timestamped_url": "https://youtube.com/watch?v=Ln1eDCMPcGY&t=132",
+      "start_seconds": 132,
+      "end_seconds": 192,
+      "start_formatted": "2:12",
+      "end_formatted": "3:12",
+      "clip_duration": 60,
+      "retention_score": 48.0,
+      "video_avg_retention": 32.2,
+      "retention_boost": 1.49,
+      "priority_score": 134.2,
+      "flags": [
+        {
+          "type": "content",
+          "name": "ad",
+          "emoji": "\ud83d\udcb0",
+          "note": "Sponsored content - use conservative titling",
+          "show_banner": false
+        }
+      ],
+      "suggested_title": {
+        "suggestion": "How did C.J. Stroud make this throw?!",
+        "alternatives": [
+          "C.J. Stroud is DIFFERENT \ud83d\udd25",
+          "This C.J. Stroud throw is INSANE \ud83d\ude31"
+        ],
+        "confidence": "\ud83d\udcca Performance-based",
+        "note": "Based on title patterns from high-performing Texans content"
+      },
+      "suggested_hashtags": [
+        "#Texans",
+        "#NFL",
+        "#Houston",
+        "#HoustonTexans",
+        "#CJStroud",
+        "#QB1",
+        "#Shorts"
+      ],
+      "content_type": "behind_the_scenes",
+      "source_video_views": 115028,
+      "identified_at": "2026-09-19T15:43:14.024628-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -440,8 +487,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 253366,
-      "identified_at": "2026-09-19T13:04:14.894140-05:00",
+      "source_video_views": 253406,
+      "identified_at": "2026-09-19T15:41:53.344710-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -455,7 +502,7 @@
       "start_formatted": "0:46",
       "end_formatted": "1:41",
       "clip_duration": 55,
-      "retention_score": 59.1,
+      "retention_score": 59.0,
       "video_avg_retention": 41.2,
       "retention_boost": 1.43,
       "priority_score": 128.9,
@@ -487,8 +534,8 @@
         "#Shorts"
       ],
       "content_type": "interview",
-      "source_video_views": 24983,
-      "identified_at": "2026-09-19T13:02:01.040418-05:00",
+      "source_video_views": 25357,
+      "identified_at": "2026-09-19T15:39:48.104934-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -532,8 +579,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 34766,
-      "identified_at": "2026-09-19T13:01:11.937382-05:00",
+      "source_video_views": 34969,
+      "identified_at": "2026-09-19T15:38:46.984492-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -547,10 +594,10 @@
       "start_formatted": "0:55",
       "end_formatted": "1:55",
       "clip_duration": 60,
-      "retention_score": 54.9,
+      "retention_score": 54.8,
       "video_avg_retention": 39.7,
       "retention_boost": 1.38,
-      "priority_score": 124.3,
+      "priority_score": 124.4,
       "flags": [
         {
           "type": "content",
@@ -577,8 +624,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 19315,
-      "identified_at": "2026-09-19T13:02:38.289455-05:00",
+      "source_video_views": 19446,
+      "identified_at": "2026-09-19T15:40:15.838312-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -622,8 +669,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 359944,
-      "identified_at": "2026-09-19T13:03:54.732392-05:00",
+      "source_video_views": 360125,
+      "identified_at": "2026-09-19T15:41:29.332261-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -667,8 +714,8 @@
         "#Shorts"
       ],
       "content_type": "atmosphere",
-      "source_video_views": 344439,
-      "identified_at": "2026-09-19T13:00:16.185645-05:00",
+      "source_video_views": 348549,
+      "identified_at": "2026-09-19T15:37:57.355033-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -682,7 +729,7 @@
       "start_formatted": "0:37",
       "end_formatted": "1:29",
       "clip_duration": 52,
-      "retention_score": 74.7,
+      "retention_score": 74.6,
       "video_avg_retention": 55.1,
       "retention_boost": 1.35,
       "priority_score": 121.9,
@@ -712,8 +759,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 26856,
-      "identified_at": "2026-09-19T13:01:47.032163-05:00",
+      "source_video_views": 27068,
+      "identified_at": "2026-09-19T15:39:29.248925-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -727,7 +774,7 @@
       "start_formatted": "2:09",
       "end_formatted": "3:09",
       "clip_duration": 60,
-      "retention_score": 61.0,
+      "retention_score": 61.1,
       "video_avg_retention": 45.5,
       "retention_boost": 1.34,
       "priority_score": 120.6,
@@ -757,8 +804,8 @@
         "#Shorts"
       ],
       "content_type": "interview",
-      "source_video_views": 30477,
-      "identified_at": "2026-09-19T13:01:22.981009-05:00",
+      "source_video_views": 30138,
+      "identified_at": "2026-09-19T15:39:01.375187-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -802,8 +849,8 @@
         "#Shorts"
       ],
       "content_type": "highlight",
-      "source_video_views": 47143,
-      "identified_at": "2026-09-19T13:00:45.683566-05:00",
+      "source_video_views": 47775,
+      "identified_at": "2026-09-19T15:38:38.208932-05:00",
       "clip_created": false,
       "shorts_video_id": null
     },
@@ -847,8 +894,8 @@
         "#Shorts"
       ],
       "content_type": "general",
-      "source_video_views": 149907,
-      "identified_at": "2026-09-19T13:00:17.113328-05:00",
+      "source_video_views": 150531,
+      "identified_at": "2026-09-19T15:38:04.132801-05:00",
       "clip_created": false,
       "shorts_video_id": null
     }
