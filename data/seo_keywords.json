@@ -2925,7 +2925,17 @@
     "1st at",
     "at 10",
     "10 am",
-    "am subscribe"
+    "am subscribe",
+    "vision",
+    "football in",
+    "forging",
+    "begins",
+    "bob",
+    "helped",
+    "explores",
+    "secure",
+    "construction",
+    "facilities"
   ],
   "avoid": [
     "watson",
@@ -5209,21 +5219,37 @@
     "tackling",
     "three-touchdown",
     "kayshon",
-    "boutte"
+    "boutte",
+    "turnover",
+    "preparing",
+    "texans week",
+    "full q",
+    "q a"
   ],
-  "last_updated": "2026-10-03T12:15:14.307184-05:00",
+  "last_updated": "2026-10-03T14:57:40.417706-05:00",
   "analysis_stats": {
     "videos_analyzed": 150,
     "winners_analyzed": 30,
     "losers_analyzed": 30,
-    "new_boost_keywords": [],
-    "new_avoid_keywords": [
-      "opener",
-      "tackling",
-      "three-touchdown",
-      "kayshon",
-      "boutte"
+    "new_boost_keywords": [
+      "vision",
+      "football in",
+      "forging",
+      "begins",
+      "bob",
+      "helped",
+      "explores",
+      "secure",
+      "construction",
+      "facilities"
     ],
-    "analysis_date": "2026-10-03T12:15:14.307135-05:00"
+    "new_avoid_keywords": [
+      "turnover",
+      "preparing",
+      "texans week",
+      "full q",
+      "q a"
+    ],
+    "analysis_date": "2026-10-03T14:57:40.417621-05:00"
   }
 }
